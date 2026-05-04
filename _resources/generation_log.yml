@@ -1,0 +1,112 @@
+# EFL BW — generation status log.
+# Read this file at the start of every turn; update it at the end.
+
+site: "efl_bw"
+current_phase: 6
+current_phase_label: "Handover — all 7 phases complete"
+last_completed_turn: 99
+last_completed_at: "2026-05-04T00:00:00Z"
+last_commit_sha: "06d6d59"
+
+# 0=Preflight, 1=Scaffold, 2=Outline, 3=Prototype (Kl. 7 G+M),
+# 4=Fan-out (remaining 14 courses), 5=Polish, 6=Handover
+phases_status:
+  preflight:        "complete"
+  scaffold:         "complete"
+  outline:          "complete"
+  prototype:        "complete"
+  fan_out:          "complete"
+  polish:           "complete"
+  handover:         "complete"
+
+courses:
+  - id: "track_gm_kl05"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+  - id: "track_gm_kl06"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+  - id: "track_gm_kl07"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+    last_unit_file: "units/unit12_year-review-and-podcast.qmd"
+    notes: "Prototype course. Style baseline."
+  - id: "track_gm_kl08"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+  - id: "track_gm_kl09"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+  - id: "track_gm_kl10"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+  - id: "track_e_kl05"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+  - id: "track_e_kl06"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+  - id: "track_e_kl07"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+  - id: "track_e_kl08"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+  - id: "track_e_kl09"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+  - id: "track_e_kl10"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+  - id: "track_e_kl11"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+  - id: "track_e_kl12"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+  - id: "track_e_kl13"
+    status: "complete"
+    units_written: 12
+    units_total: 12
+    units_verified: 12
+
+blocked_items:
+  - turn: 3
+    reason: "Live-Fetch von bildungsplaene-bw.de am 2026-04-30 — Chapter-Skeleton vollständig, Niveau-spezifische Kompetenzaussagen werden pro Unit zitiert."
+    resolution: "Erledigt. Pro Unit werden die zugehörigen Codes aus _resources/bildungsplan_bw_<track>_kl<NN>.yml in das Front-Matter aufgenommen."
+  - turn: 2
+    reason: "Phase-2 Outline liegt als Proposal vor (180 Units). Nutzer-Freigabe steht aus."
+    resolution: "Nutzer reviewt _resources/curriculum_outline.yml; nach Freigabe Phase 3 starten."
+
+next_turn:
+  action: "ready_for_review"
+  description: "All 7 phases complete. 180 Units across 15 courses. See HANDOVER.md for follow-up author tasks (worksheet PDFs, Impressum + Datenschutz fill-in, Bildungsplan deeper alignment)."
+  estimated_duration_minutes: 0

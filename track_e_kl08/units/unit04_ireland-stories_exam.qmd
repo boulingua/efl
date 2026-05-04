@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 4: Ireland: Stories from the Island"
+subtitle: "Track E · Klasse 8 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 4
+slug: "ireland-stories"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 4: Ireland: Stories from the Island
+
+**Track E · Klasse 8 · Niveau E · 45 Minuten**
+
+{{< include _unit04_ireland-stories_exam_body.qmd >}}

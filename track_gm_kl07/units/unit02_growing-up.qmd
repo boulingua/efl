@@ -1,0 +1,309 @@
+---
+title: "Unit 2 — Growing Up"
+subtitle: "Track G+M · Klasse 7 · Niveau G/M"
+niveau: "G+M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 2
+slug: "growing-up"
+bildungsplan:
+  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.2.3.2 Leseverstehen"
+  - "3.2.3.5 Schreiben"
+  - "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+  - "3.2.4 Text- und Medienkompetenz"
+skills_focus:
+  - reading
+  - writing
+  - language_awareness
+format:
+  html:
+    toc: true
+    toc-depth: 3
+  revealjs:
+    output-file: "unit02_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** G/M parallel. Practise has G and M variants. Same
+Klassenarbeit at Niveau M.
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+By the end of this Unit, students can:
+
+- *I can describe how something about me has changed since
+  primary school using "used to".*
+- *I can read a short narrative about a peer's growing pains and
+  identify three concrete changes the writer notices.*
+- *I can write a short text (60–120 words depending on Niveau)
+  comparing then and now using comparatives and "used to".*
+
+## Bildungsplan alignment
+
+- **3.2.1 Soziokulturelles Orientierungswissen / Themen** — peer
+  groups, identity, daily life of teenagers.
+- **3.2.3.2 Leseverstehen** — read a short narrative for gist and
+  detail.
+- **3.2.3.5 Schreiben** — write short personal texts that compare
+  past and present.
+- **3.2.3.8 Verfügen über sprachliche Mittel – Grammatik** — use
+  *used to* and comparative adjectives.
+- **3.2.4 Text- und Medienkompetenz** — recognise the narrator's
+  perspective in a short first-person text.
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Ben opens his old jacket on a hanger in the hallway. It looks
+shorter than he remembers. He puts it on, just to check, and the
+sleeves stop above his wrists like two embarrassed flags. Last
+winter, the same jacket was a kind of cave. He used to push his
+hands deep into the pockets and forget about the cold. Now the
+pockets sit somewhere near his ribs, like two extra pencil cases
+that have lost their place. Aisha is standing in the doorway with
+her bag on her shoulder. She looks at the jacket and says, "Did
+the jacket shrink?" Ben says, "No. I think *I* grew." Ms. Reyes
+walks past and nods. "Welcome to seventh year," she says. "Half
+of you will need new shoes by Christmas."
+
+## 1. Activate
+
+**Two-minute partner pair.** Tell your partner **one** thing about
+you that has changed since primary school. It can be small. Some
+ideas:
+
+- *I used to wear glasses but now I have contact lenses.*
+- *I used to like cartoons but now I prefer …*
+- *My hair used to be …*
+
+Listen carefully. Your partner will tell the class about **you**,
+not about themselves.
+
+::: {.callout-tip}
+This warms up the *used to* construction without naming it as
+grammar yet. The form will surface in Input.
+:::
+
+## 2. Input
+
+### Reading text — *Ben's Jacket*
+
+> When Ben turned twelve, he stopped fitting his old jacket. The
+> sleeves used to cover his hands; now they ended above his
+> wrists. His mother laughed and said, "I didn't see this coming."
+> The strange thing was that nothing else in the house had
+> changed: the kitchen table, the loud fridge, the cat asleep on
+> the radiator. Only Ben was different. He used to like the
+> jacket because the pockets were enormous. He still liked the
+> pockets. But now they sat too high on his ribs to be useful.
+>
+> Aisha said the same thing happened to her shoes. They used to
+> feel like boats. Now they felt like sleeping bags two sizes too
+> small. "Maybe we should swap," Ben said. "I'll take your old
+> shoes; you take my old jacket." Aisha frowned. "We are not the
+> same shape, Ben."
+>
+> She was right. They never were.
+
+Quick comprehension check (oral, no points):
+
+- What changed about Ben?
+- What did **not** change in the house?
+- Why does Aisha say "We are not the same shape"?
+
+### Language focus — *used to* and comparatives
+
+**Used to** + base verb describes a habit or state in the past
+that is no longer true.
+
+- *The sleeves used to cover his hands.* — they did, but not now.
+- *Aisha used to wear short hair.* — she doesn't anymore.
+- *Negative:* *He didn't use to like maths.* (Note: no *-d* on
+  *use* in negatives and questions.)
+- *Question:* *Did you use to play the recorder in primary school?*
+
+**Comparatives** describe how two things or two times differ.
+
+| Adjective type | Comparative | Example |
+|----------------|-------------|---------|
+| short (1 syll.) | + *-er* | tall → taller |
+| ending *-y* | *-ier* | happy → happier |
+| 2+ syll. | *more* + adj. | difficult → more difficult |
+| irregular | — | good → better; bad → worse; far → farther/further |
+
+Spelling traps: *big → bigger* (double consonant), *nice → nicer*
+(drop final *e*), *easy → easier* (*y → i*).
+
+::: {.callout-note}
+*Used to* is **not** the same as *to be used to + -ing*
+(*"I'm used to early mornings"* = I am accustomed to). Keep them
+apart. We use only the past-habit *used to* in this Unit.
+:::
+
+## 3. Practise
+
+### Niveau G — controlled
+
+**A. Match the past habit to the present truth.**
+
+| Past (*used to*) | Present |
+|------------------|---------|
+| 1. Ben used to fit his old jacket. | a. Now they end above his wrists. |
+| 2. The sleeves used to cover his hands. | b. Now Ben's bedroom is full of books. |
+| 3. Ben's bedroom used to be full of toys. | c. Now it is too short. |
+| 4. Aisha used to wear small shoes. | d. Now her shoes feel small. |
+
+**B. Comparative gap-fill.**
+
+5. This year, Aisha is __________ (tall) than her cousin.
+6. Ben's voice is __________ (deep) than last year.
+7. The walk to school feels __________ (short) on sunny days.
+
+### Niveau M — productive
+
+**C. Build a sentence with *used to*.**
+
+8. Ben / fit / his old jacket → ___
+9. Aisha / have / short hair → ___
+10. Ms. Reyes / live / in a different city → ___
+
+**D. Comparatives — finish the sentence with your own words.**
+
+11. My handwriting is __________ now than it was in Klasse 5.
+12. The school cafeteria is __________ at lunch than at breakfast.
+13. My favourite subject is __________ this year than it was last
+    year.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**Niveau G**
+
+| 1 | 2 | 3 | 4 |
+|---|---|---|---|
+| c | a | b | d |
+
+5. taller, 6. deeper, 7. shorter.
+
+**Niveau M**
+
+8. Ben used to fit his old jacket.\
+9. Aisha used to have short hair.\
+10. Ms. Reyes used to live in a different city.\
+11–13. Open answers; check that the comparative form is correct
+(e.g. *better*, *busier*, *more interesting*) and that the
+sentence makes sense.
+:::
+
+## 4. Produce
+
+**Writing task — *Then and Now*.** Write a short personal text
+comparing yourself in primary school with yourself now. Use *used
+to* at least twice and at least two comparatives.
+
+You may write about:
+
+- a habit (food, sport, hobby),
+- something you owned (a toy, a backpack, a piece of clothing),
+- a friendship,
+- a place you used to spend time in.
+
+**Niveau G** — 60–80 words, three sentences with *used to* and
+two comparatives.\
+**Niveau M** — 100–120 words, four sentences with *used to* and
+three comparatives.
+
+### Sample student response (Niveau M, 116 words)
+
+> When I was in primary school, I used to ride my bike to the
+> bakery every Saturday morning. I used to buy two pretzels: one
+> for me and one for my brother, who is now taller than me. The
+> bakery was closer to our old house, so the trip used to be
+> shorter. Now we live further away and the bakery feels like a
+> serious expedition. My bike is also smaller than it used to
+> feel — I think the bike has stayed the same and I have grown.
+> The pretzels are still warm and salty, though, and that part is
+> better than ever. Some things are worth a longer ride.
+
+::: {.callout-tip}
+Strong moves: a small concrete subject (bakery + pretzel),
+*used to* in three places, three comparatives (*taller*,
+*shorter*, *smaller*, *better*), and a closing line that holds
+the piece together. Improve by varying connectives ("though",
+"so", "but") rather than only "and".
+:::
+
+## 5. Reflect
+
+Tick what you can do now.
+
+- [ ] I can talk about a past habit using *used to*.
+- [ ] I can read a short narrative and pick out three changes the
+  writer notices.
+- [ ] I can write a short comparing-text with *used to* and at
+  least two comparatives.
+
+**One sentence in your notebook:** *What is one comparative I
+keep getting wrong, and what will I do about it this week?*
+
+## Exam example
+
+{{< include _unit02_growing-up_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 45 minutes total.
+
+- *Title + Lead-in (4 min).* Use a hanger image with a "shrunken"
+  jacket. Ask "Did the jacket shrink?" before reading.
+- *Activate (6 min).* Two-minute partner pair, then four pairs
+  share their partner's change with the class.
+- *Input — text + grammar (12 min).* Read *Ben's Jacket* twice
+  (once silently, once with you reading aloud at moderate pace).
+  Brief board map: *used to* + base verb; comparative formation.
+- *Practise (10 min).* Niveau G left, M right; pairs check each
+  other's answers from the collapsed key.
+- *Produce (10 min).* Silent writing time. Optional starter on
+  the slide for Niveau G.
+- *Reflect (3 min).* Self-tick + one-sentence response.
+
+**Differentiation.** For Niveau G: provide a printed list of
+common irregular comparatives (*good/better, bad/worse*). For
+learners above Niveau M: ask for one *because*-clause inside the
+written piece (*"because we moved further from the bakery"*).
+:::
+
+## Common pitfalls
+
+- **Used to vs. would.** *I used to play* (general past habit) is
+  not exactly *I would play* (vivid recollection). Stick with
+  *used to* this Unit.
+- **Used to + -d in negatives/questions.** *He didn't used to* →
+  ✗; *He didn't use to* → ✓.
+- **Double comparatives.** *more taller* / *more better* — never.
+- **L1 transfer:** German *Komparativ* takes *als* where English
+  takes *than*. *I am taller as my brother* → ✗ / *than my
+  brother* → ✓.
+
+## Further reading / listening
+
+- BBC Learning English — *6 Minute Grammar: Used to*.
+  <https://www.bbc.co.uk/learningenglish/english/features/6-minute-grammar>
+- Roald Dahl — *Boy: Tales of Childhood* (extract). A model of
+  remembering childhood with concrete detail and gentle humour.
+  <https://www.roalddahl.com>
+- BBC Bitesize — *Comparative and superlative adjectives*.
+  <https://www.bbc.co.uk/bitesize/topics/zhfygdm>

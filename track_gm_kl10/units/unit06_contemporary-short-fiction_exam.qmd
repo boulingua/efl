@@ -1,0 +1,24 @@
+---
+title: "class test (Klassenarbeit) — Unit 6: Contemporary Short Fiction"
+subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 6
+slug: "contemporary-short-fiction"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# class test (Klassenarbeit) — Unit 6: Contemporary Short Fiction
+
+**Track G+M · Klasse 10 · Niveau M · 45 Minuten**
+
+{{< include _unit06_contemporary-short-fiction_exam_body.qmd >}}

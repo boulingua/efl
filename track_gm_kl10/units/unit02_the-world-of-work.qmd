@@ -1,0 +1,145 @@
+---
+title: "Unit 2 — The World of Work"
+subtitle: "Track G+M · Klasse 10 · Niveau G/M"
+niveau: "G+M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 2
+slug: "the-world-of-work"
+bildungsplan:
+  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.3.2 Interkulturelle kommunikative Kompetenz"
+  - "3.3.3.2 Leseverstehen"
+  - "3.3.3.3 Sprechen – an Gesprächen teilnehmen"
+  - "3.3.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+skills_focus:
+  - reading
+  - speaking
+  - intercultural
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit02_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** G/M parallel. class test (Klassenarbeit) at Niveau M (45 BE).
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can read a short job-profile and pick out 6 facts.*
+- *I can use the present perfect continuous (*I have been working …*).*
+- *I can hold a 3-minute job-interview role-play.*
+
+## curriculum framework (Bildungsplan) alignment
+
+- **3.3.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.3.2 Interkulturelle kommunikative Kompetenz**
+- **3.3.3.2 Leseverstehen**
+- **3.3.3.3 Sprechen – an Gesprächen teilnehmen**
+- **3.3.3.7 Verfügen über sprachliche Mittel – Wortschatz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Sam is doing a one-day work-shadowing visit at a small bakery in the city. He arrives at 5 a.m. The owner, a woman called Mrs Dahl, is already kneading. "You're early," she says. "For me," Sam says, "this is early. For you, it's mid-morning." She smiles. *Welcome,* she says, *to the only profession where 'mid-morning' is at five.*
+
+## 1. Activate
+
+**Job-shadow scan.** With your partner, list four jobs you would actually want to spend a full day shadowing. Then, the harder one: name a job you would NOT shadow and one specific reason.
+
+## 2. Input
+
+### Vocabulary — workplace
+
+*shift, line manager, colleague, deadline, expectation, salary, wage, contract, probation, feedback, promotion, performance review, headquarters, branch, freelance, gig work, remote, hybrid.*
+
+### Reading — *A Day at the Bakery* (extract)
+
+*Mrs Dahl has been running the bakery for thirty-two years. She has been kneading dough by hand for most of that time. Her three apprentices have been showing up at five every morning, six days a week. "It is not romantic," she said when Sam asked, "but it is honest."*
+
+### Grammar — present perfect continuous
+
+Form: *have/has + been + -ing*.
+Use: an action that started in the past and is **still going on** (or recent enough to feel ongoing).
+
+- *Mrs Dahl **has been running** the bakery for 32 years.*
+- *I **have been waiting** for the apprenticeship letter.*
+- *They **have been working** since 5 a.m.*
+
+Compare with present perfect simple:
+- *I **have written** five applications.* (completed actions, focus on result)
+- *I **have been writing** all morning.* (focus on duration / activity)
+
+## 3. Practise
+
+### Niveau G
+
+1. Choose: present perfect simple or continuous: *Mrs Dahl __________ (run) the bakery for 32 years. I __________ (write) three applications this morning.*
+2. Match: shift → 8-hour block; deadline → due date; feedback → review.
+
+### Niveau M
+
+3. Build 4 sentences with present perfect continuous about your real recent activity.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**G.** 1. has been running / have written.
+2. all true.
+
+**M.** 3. Open.
+:::
+
+## 4. Produce
+
+**Job-interview role-play.** Pairs. 3 minutes each direction. Interviewer asks 5 questions; interviewee uses 2 present perfect continuous + 2 third conditional structures.
+
+### Sample
+
+*— What experience do you bring?*
+*— I have been doing weekend shifts at my aunt's café for two years. If I had started earlier, I would have more management experience, but I have learned the basics — shift handover, customer questions, food safety.*
+
+## 5. Reflect
+
+- [ ] I can pick out 6 facts in a job-profile.
+- [ ] I can use present perfect continuous correctly.
+- [ ] I can run a 3-minute job-interview role-play.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< include _unit02_the-world-of-work_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
+5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
+
+**Differentiation.** Niveau G: scaffold card with the key
+structure. Above Niveau M: extension prompt linking to Klasse 11
+(or post-Klasse-10 path).
+:::
+
+## Common pitfalls
+
+- *I am working since 2023* → ✗ / *I have been working since 2023* → ✓.
+- Some verbs (*know, believe, have* in *I have a car*) don't take continuous forms.
+- *Have* of possession can't be progressive: *I have been having a car* → ✗.
+
+## Further reading / listening
+
+- BBC Worklife — short articles.
+- The Guardian — *Working Lives*.

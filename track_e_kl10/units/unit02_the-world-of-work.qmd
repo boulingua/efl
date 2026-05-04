@@ -1,0 +1,132 @@
+---
+title: "Unit 2 — The World of Work"
+subtitle: "Track E · Klasse 10 · Niveau E"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 2
+slug: "the-world-of-work"
+bildungsplan:
+  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.3.2 Interkulturelle kommunikative Kompetenz"
+  - "3.3.3.2 Leseverstehen"
+  - "3.3.3.3 Sprechen – an Gesprächen teilnehmen"
+  - "3.3.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+skills_focus:
+  - reading
+  - speaking
+  - intercultural
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit02_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** E. class test (Klassenarbeit) at Niveau E (45 BE).
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can read a job-profile and pick out 8 facts.*
+- *I can hold a 5-minute structured job-interview role-play.*
+- *I can write a 200-word reflection on my future career interests.*
+
+## curriculum framework (Bildungsplan) alignment
+
+- **3.3.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.3.2 Interkulturelle kommunikative Kompetenz**
+- **3.3.3.2 Leseverstehen**
+- **3.3.3.3 Sprechen – an Gesprächen teilnehmen**
+- **3.3.3.7 Verfügen über sprachliche Mittel – Wortschatz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Maja is preparing for a one-week internship at a small architecture firm in Stuttgart. She has read the firm's portfolio twice. She has prepared four questions and one polite refusal in case the coffee they offer is, as her aunt warned, *the kind that looks like coffee but isn't*.
+
+## 1. Activate
+
+**Job-shadow scan.** With your partner, list four fields you would want a one-week internship in, plus one specific reason for each.
+
+## 2. Input
+
+### Reading — *Inside an Architecture Firm* (extract)
+
+*The firm has been working on small-scale public buildings — kindergartens, libraries, a community centre — for the past fifteen years. The senior architect, who founded the firm at 31, says the biggest professional change of her career has been the shift from drawing on paper to building on screen. The biggest skill, she adds, has not changed: listening to a brief twice before answering once.*
+
+### Vocabulary — workplace (extended)
+
+*portfolio, brief, milestone, deliverable, stakeholder, senior / junior, line manager, probation, performance review, mentor, mentee, feedback loop, pivot, lateral move, soft skills, hard skills.*
+
+## 3. Practise
+
+### Niveau E — controlled
+
+1. Match: brief → instructions; milestone → checkpoint; deliverable → finished output.
+2. T or F: the senior architect said the biggest skill is drawing.
+
+### Niveau E — productive
+
+3. Build 5 sentences using 5 workplace-vocabulary words about a real or imagined internship.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**Controlled.** 1. all true.
+2. F (the biggest skill is listening to a brief twice before answering once).
+
+**Productive.** 3. Open.
+:::
+
+## 4. Produce
+
+**Structured job-interview role-play.** 5 minutes each direction. 6 questions including: experience, motivation, mistake / lesson, future ambition. Use 2 present perfect continuous + 1 third conditional + 1 *despite* / *because of*.
+
+### Sample
+
+*— What experience do you bring?*
+*— I have been doing weekend shifts at a café for two years. Despite the limited scope, the work has taught me to read a busy room. If I had started earlier, I would already have line-manager experience.*
+
+## 5. Reflect
+
+- [ ] I can pick out 8 facts in a job-profile.
+- [ ] I can run a 5-minute structured job-interview.
+- [ ] I can write a 200-word career reflection.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< include _unit02_the-world-of-work_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
+5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
+
+**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
+into Oberstufe: extension prompt linking to Klasse 11
+(Basisfach / Leistungsfach choice).
+:::
+
+## Common pitfalls
+
+- Vague claims (*I am a hard worker*) — replace with one specific example.
+- *am working since* → ✗ / *have been working since* → ✓.
+- Don't romanticise a sector — name one specific downside you've considered.
+
+## Further reading / listening
+
+- BBC Worklife — short articles.
+- Harvard Business Review — accessible career articles.

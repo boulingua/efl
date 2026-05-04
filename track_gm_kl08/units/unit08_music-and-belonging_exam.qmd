@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 8: Music and Belonging"
+subtitle: "Track G+M · Klasse 8 · Niveau M · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 8
+slug: "music-and-belonging"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 8: Music and Belonging
+
+**Track G+M · Klasse 8 · Niveau M · 45 Minuten**
+
+{{< include _unit08_music-and-belonging_exam_body.qmd >}}

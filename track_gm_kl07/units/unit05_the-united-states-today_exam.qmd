@@ -1,0 +1,26 @@
+---
+title: "Klassenarbeit — Unit 5: The United States Today"
+subtitle: "Track G+M · Klasse 7 · Niveau M · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 5
+slug: "the-united-states-today"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=22mm
+    include-in-header:
+      - "../../_includes/_exam.tex"
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 5: The United States Today
+
+**Track G+M · Klasse 7 · Niveau M · 45 Minuten**
+
+{{< include _unit05_the-united-states-today_exam_body.qmd >}}

@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 10: A Novella in Class"
+subtitle: "Track E · Klasse 8 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 10
+slug: "a-novella-in-class"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 10: A Novella in Class
+
+**Track E · Klasse 8 · Niveau E · 45 Minuten**
+
+{{< include _unit10_a-novella-in-class_exam_body.qmd >}}

@@ -1,0 +1,133 @@
+---
+title: "Unit 4 — Australia Now"
+subtitle: "Track G+M · Klasse 10 · Niveau G/M"
+niveau: "G+M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 4
+slug: "australia-now"
+bildungsplan:
+  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.3.2 Interkulturelle kommunikative Kompetenz"
+  - "3.3.3.1 Hör-/Hörsehverstehen"
+  - "3.3.3.2 Leseverstehen"
+  - "3.3.4 Text- und Medienkompetenz"
+skills_focus:
+  - reading
+  - listening
+  - intercultural
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit04_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** G/M parallel. class test (Klassenarbeit) at Niveau M (45 BE).
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can read a short article on contemporary Australian society and identify two cultural anchors.*
+- *I can recognise Australian English vocabulary differences.*
+- *I can write a 150-word region portrait that goes past surface stereotypes.*
+
+## curriculum framework (Bildungsplan) alignment
+
+- **3.3.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.3.2 Interkulturelle kommunikative Kompetenz**
+- **3.3.3.1 Hör-/Hörsehverstehen**
+- **3.3.3.2 Leseverstehen**
+- **3.3.4 Text- und Medienkompetenz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Maja's older cousin moved to Brisbane two years ago. Her postcards have stopped pretending. They no longer say *the weather is brilliant*. They now say things like *I have learned to wear sunscreen as a religion* and *the heat is not a season here, it is a relative*. Maja keeps the postcards in her desk drawer.
+
+## 1. Activate
+
+**Three-fact scan.** With your partner, write three facts about contemporary Australia (not stereotypes). Pool with another pair.
+
+## 2. Input
+
+### Reading — *Brisbane Postcards*
+
+*Australia is more urban than its myth. About 86 % of Australians live in cities. Multiculturalism is real and complicated — Brisbane is home to large Vietnamese and Lebanese communities, and First Nations languages are taught in some primary schools. The bushfire season has lengthened over the past two decades. Sunscreen is not a luxury; it is a habit closer to brushing teeth.*
+
+### Vocabulary — Australian English
+
+*BrE / AmE → AusE often:* arvo (afternoon), brekkie (breakfast), barbie (BBQ), servo (petrol station), bushie (bush dweller), maccas (McDonald's), ute (pickup truck), arvo tea (afternoon snack).
+
+Common terms: *fair dinkum* (genuine), *no worries* (it's fine), *mate* (friend, but watch tone).
+
+## 3. Practise
+
+### Niveau G
+
+1. Match AusE → standard: arvo, brekkie, barbie, servo → ?
+2. T or F from the reading: 86 % live in cities, Vietnamese community in Brisbane, sunscreen optional.
+
+### Niveau M
+
+3. Write 4 sentences about contemporary Australia using 2 AusE words and 2 facts from the text.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**G.** 1. afternoon / breakfast / BBQ / petrol station.
+2. T, T, F (sunscreen is a habit, not optional).
+
+**M.** 3. Open.
+:::
+
+## 4. Produce
+
+**Region portrait, 150 words.** Write about contemporary Australia going past stereotypes. Use 1 AusE word + 2 specific facts.
+
+### Sample
+
+*Australia is much more urban than its myth. About 86 % of Australians live in cities, and Brisbane — where my cousin lives — is home to large Vietnamese and Lebanese communities, plus a growing First Nations language presence in some primary schools. The bushfire season has lengthened over the past two decades. Sunscreen is not a holiday luxury but a daily habit, closer to brushing teeth than to skincare. People still call afternoon *arvo* and breakfast *brekkie* — those words are real, not tourist-brochure inventions. What surprised me most, when I read my cousin's postcards, was that the heat is described as a relative — annoying, present, sometimes funny, never going away.*
+
+## 5. Reflect
+
+- [ ] I can identify two cultural anchors in a contemporary Australian article.
+- [ ] I can recognise 5 AusE words.
+- [ ] I can write a 150-word region portrait past stereotypes.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< include _unit04_australia-now_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
+5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
+
+**Differentiation.** Niveau G: scaffold card with the key
+structure. Above Niveau M: extension prompt linking to Klasse 11
+(or post-Klasse-10 path).
+:::
+
+## Common pitfalls
+
+- Stereotype check: *koalas + kangaroos + outback* is thin.
+- First Nations: capital N. Not *Aborigines* in writing (prefer *First Nations / Aboriginal and Torres Strait Islander peoples*).
+- *Australia is dry* — true on average, but Brisbane is humid.
+
+## Further reading / listening
+
+- ABC Australia — short news articles.
+- Australian Bureau of Statistics — accessible factsheets.

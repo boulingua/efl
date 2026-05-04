@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 2: On Holiday"
+subtitle: "Track G+M · Klasse 6 · Niveau M · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 2
+slug: "on-holiday"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 2: On Holiday
+
+**Track G+M · Klasse 6 · Niveau M · 45 Minuten**
+
+{{< include _unit02_on-holiday_exam_body.qmd >}}

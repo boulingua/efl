@@ -1,0 +1,25 @@
+---
+title: "Schedule — Klasse 10 · Track E"
+pagetitle: "Klasse 10 schedule · Track E — EFL"
+author: "S. Le Boulanger"
+---
+
+The twelve Units of Klasse 10 (E) across the school
+year. Each Unit covers roughly three teaching weeks.
+
+| Unit | Title | Skills focus | Exam type |
+|------|-------|--------------|-----------|
+| 1 | [Identity in a Global World](units/unit01_identity-in-a-global-world.qmd) | reading, writing, intercultural | class test (Klassenarbeit) |
+| 2 | [The World of Work](units/unit02_the-world-of-work.qmd) | reading, speaking, intercultural | class test (Klassenarbeit) |
+| 3 | [Digital Lives](units/unit03_digital-lives.qmd) | reading, writing, language_awareness | class test (Klassenarbeit) |
+| 4 | [Australia and New Zealand](units/unit04_australia-and-new-zealand.qmd) | reading, listening, intercultural | class test (Klassenarbeit) |
+| 5 | [Media and Democracy](units/unit05_media-and-democracy.qmd) | reading, writing, language_awareness | class test (Klassenarbeit) |
+| 6 | [Contemporary Short Fiction](units/unit06_contemporary-short-fiction.qmd) | reading, writing, language_awareness | class test (Klassenarbeit) |
+| 7 | [Mediation: A German Feature Article](units/unit07_mediation-feature-article.qmd) | mediation, writing, language_awareness | class test (Klassenarbeit) |
+| 8 | [Science and Society](units/unit08_science-and-society.qmd) | reading, writing, intercultural | class test (Klassenarbeit) |
+| 9 | [Youth Protest Movements](units/unit09_youth-protest-movements.qmd) | reading, speaking, intercultural | class test (Klassenarbeit) |
+| 10 | [A Short Novel](units/unit10_a-short-novel.qmd) | reading, writing, language_awareness | class test (Klassenarbeit) |
+| 11 | [Public Speaking and Debate](units/unit11_public-speaking-and-debate.qmd) | speaking, listening, language_awareness | class test (Klassenarbeit) |
+| 12 | [Year Review: Toward Oberstufe](units/unit12_year-review-toward-oberstufe.qmd) | writing, speaking, language_awareness | class test (Klassenarbeit) |
+
+[← Back to Klasse 10 overview](index.qmd)

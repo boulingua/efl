@@ -1,0 +1,25 @@
+---
+title: "Schedule — Klasse 12 · Track E"
+pagetitle: "Klasse 12 schedule · Track E — EFL"
+author: "S. Le Boulanger"
+---
+
+The twelve Units of Klasse 12 (E) across the school
+year. Each Unit covers roughly three teaching weeks.
+
+| Unit | Title | Skills focus | Exam type |
+|------|-------|--------------|-----------|
+| 1 | [Dystopias](units/unit01_dystopias.qmd) | reading, writing, intercultural | Klausur (assessment) |
+| 2 | [Globalisation Debates](units/unit02_globalisation-debates.qmd) | reading, writing, intercultural | Klausur (assessment) |
+| 3 | [Science and Ethics](units/unit03_science-and-ethics.qmd) | reading, writing, language_awareness | Klausur (assessment) |
+| 4 | [Shakespeare in Extract](units/unit04_shakespeare-extract.qmd) | reading, writing, language_awareness | Klausur (assessment) |
+| 5 | [Political Discourse](units/unit05_political-discourse.qmd) | reading, listening, language_awareness | Klausur (assessment) |
+| 6 | [The Non-Fiction Essay](units/unit06_the-non-fiction-essay.qmd) | reading, writing, language_awareness | Klausur (assessment) |
+| 7 | [Mediation: An Academic Text](units/unit07_mediation-academic-text.qmd) | mediation, writing, language_awareness | Klausur (assessment) |
+| 8 | [Post-Colonial Voices, Advanced](units/unit08_post-colonial-voices-advanced.qmd) | reading, writing, intercultural | Klausur (assessment) |
+| 9 | [A Novel in Full](units/unit09_a-novel-in-full.qmd) | reading, writing, language_awareness | Klausur (assessment) |
+| 10 | [Kommunikationsprüfung Mock](units/unit10_kommunikationspruefung-mock.qmd) | speaking, listening, language_awareness | Klausur (assessment) |
+| 11 | [Klausur: Comprehension and Analysis](units/unit11_klausur-comprehension-analysis.qmd) | reading, writing, language_awareness | Klausur (assessment) |
+| 12 | [Klausur: Composition and Comment](units/unit12_klausur-composition-and-comment.qmd) | writing, language_awareness | Klausur (assessment) |
+
+[← Back to Klasse 12 overview](index.qmd)

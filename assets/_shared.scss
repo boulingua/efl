@@ -1,0 +1,285 @@
+/*-- scss:rules --*/
+
+/* ----------------------------------------------------------------------------
+   EFL — palette-free shared rules.
+   All colour values are read from CSS custom properties defined in
+   light.scss / dark.scss (--bg, --fg, --fg-alt, --rule, --surface,
+   --accent, --accent-hover, --code-bg). No raw hex values in this file
+   except where required by light/dark-specific badge palettes (which
+   live in the per-theme files instead).
+---------------------------------------------------------------------------- */
+
+/* Bridge our custom properties into Bootstrap's CSS variable system so
+   navbar / dropdown / TOC components inherit the active palette. */
+:root {
+  --bs-body-bg: var(--bg);
+  --bs-body-color: var(--fg);
+  --bs-border-color: var(--rule);
+  --bs-secondary-bg: var(--surface);
+  --bs-tertiary-bg: var(--surface);
+  --bs-emphasis-color: var(--fg);
+  --bs-link-color: var(--accent);
+  --bs-link-hover-color: var(--accent-hover);
+  --bs-heading-color: var(--fg);
+  --bs-primary: var(--accent);
+}
+
+/* Force core surfaces to follow our palette. flatly/darkly otherwise
+   bleed their own backgrounds through. !important wins against the
+   per-component data-bs-theme attribute that Quarto/Bootstrap apply. */
+html,
+body,
+.navbar,
+.nav-footer,
+.page-footer,
+footer {
+  background: var(--bg) !important;
+  color: var(--fg);
+}
+
+html, body {
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+  border-bottom: 1px solid var(--rule);
+}
+.navbar-brand,
+.navbar .navbar-brand {
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 500;
+  color: var(--fg) !important;
+}
+.navbar .nav-link,
+.navbar .dropdown-item {
+  color: var(--fg) !important;
+}
+.navbar .nav-link:hover,
+.navbar .nav-link.active,
+.navbar .dropdown-item:hover {
+  color: var(--accent) !important;
+}
+.navbar .dropdown-menu {
+  background: var(--surface);
+  border: 1px solid var(--rule);
+}
+
+/* Color-scheme toggle and search trigger — Quarto hardcodes
+   data-bs-theme="dark" on the navbar, which would otherwise make the
+   icon-only links inherit a near-white colour and disappear on a
+   light-bg navbar. Force them to follow the active palette. */
+.navbar .quarto-color-scheme-toggle,
+.navbar .quarto-navigation-tool,
+.navbar #quarto-search,
+.navbar #quarto-search a,
+.navbar .aa-DetachedSearchButton,
+.navbar .aa-DetachedSearchButtonIcon,
+.navbar .aa-DetachedSearchButtonPlaceholder,
+.navbar-toggler {
+  color: var(--fg) !important;
+}
+.navbar .quarto-color-scheme-toggle:hover,
+.navbar .quarto-navigation-tool:hover,
+.navbar #quarto-search:hover,
+.navbar .aa-DetachedSearchButton:hover {
+  color: var(--accent) !important;
+}
+.navbar .quarto-color-scheme-toggle .bi,
+.navbar .quarto-navigation-tool .bi {
+  color: inherit;
+}
+.navbar-toggler {
+  border-color: var(--rule);
+}
+.navbar-toggler-icon {
+  /* Bootstrap renders the hamburger as an inline SVG via background-image
+     keyed on stroke colour. Replace it with a foreground-aware variant. */
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23808080' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.navbar .aa-DetachedSearchButton {
+  background: transparent;
+  border: 1px solid var(--rule);
+}
+
+/* Footer */
+.page-footer,
+.nav-footer,
+footer {
+  border-top: 1px solid var(--rule);
+  color: var(--fg-alt);
+}
+.page-footer a,
+.nav-footer a,
+footer a {
+  color: var(--accent);
+}
+.page-footer a:hover,
+.nav-footer a:hover,
+footer a:hover {
+  color: var(--accent-hover);
+}
+
+/* Body links */
+a { color: var(--accent); }
+a:hover { color: var(--accent-hover); }
+
+/* TOC */
+#TOC,
+.sidebar nav[role="doc-toc"] {
+  color: var(--fg-alt);
+}
+#TOC a,
+.sidebar nav[role="doc-toc"] a {
+  color: var(--fg-alt);
+  border-left: 1px solid transparent;
+}
+#TOC a:hover,
+.sidebar nav[role="doc-toc"] a:hover {
+  color: var(--accent);
+}
+#TOC a.active,
+.sidebar nav[role="doc-toc"] a.active {
+  color: var(--accent);
+  border-left-color: var(--accent);
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--fg);
+}
+
+/* Code blocks */
+code, pre {
+  background: var(--code-bg) !important;
+  border-radius: 6px;
+}
+pre {
+  border: 1px solid var(--rule);
+}
+:not(pre) > code {
+  padding: 0.1rem 0.35rem;
+  font-size: 0.92em;
+}
+
+/* Hero block */
+.hero {
+  padding: 3rem 0 2rem;
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 2rem;
+}
+.hero .kicker {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.75rem;
+}
+.hero h1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: var(--fg);
+}
+.hero .lead {
+  color: var(--fg-alt);
+  font-size: 1.1rem;
+  max-width: 60ch;
+}
+
+/* Card grid */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.card-grid .card {
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+  padding: 1.25rem;
+  transition: transform 0.15s ease, border-color 0.15s ease;
+  text-decoration: none;
+  color: var(--fg);
+  display: block;
+}
+.card-grid .card:hover {
+  transform: translateY(-3px);
+  border-color: var(--accent);
+}
+.card-grid .card .kicker {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.78rem;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.card-grid .card h3 {
+  margin: 0.4rem 0 0.5rem;
+  font-size: 1.15rem;
+  color: var(--fg);
+}
+.card-grid .card h3 a {
+  color: var(--fg);
+  text-decoration: none;
+}
+.card-grid .card h3 a:hover {
+  color: var(--accent);
+}
+.card-grid .card p {
+  color: var(--fg-alt);
+  font-size: 0.95rem;
+  margin: 0;
+}
+
+/* Icon helpers */
+.icon-circle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: var(--surface);
+  border: 1px solid var(--rule);
+  vertical-align: middle;
+  margin-right: 0.4rem;
+}
+.icon-circle svg {
+  width: 1.1rem;
+  height: 1.1rem;
+  stroke: var(--accent);
+}
+
+/* Meme placeholder frame (slides) */
+.meme-frame {
+  border: 2px solid var(--rule);
+  border-radius: 8px;
+  padding: 0.75rem;
+  background: var(--surface);
+  display: inline-block;
+  max-width: 100%;
+}
+.meme-frame figcaption {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.8rem;
+  color: var(--fg-alt);
+  margin-top: 0.4rem;
+  text-align: center;
+}
+
+/* Niveau badge — palette-neutral skeleton; per-theme colours
+   (.niveau-badge.g/.m/.e) live in light.scss and dark.scss because
+   they need theme-specific hex values. */
+.niveau-badge {
+  display: inline-block;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid var(--rule);
+  vertical-align: middle;
+}

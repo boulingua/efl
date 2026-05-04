@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 12: Review and Show"
+subtitle: "Track G+M · Klasse 5 · Niveau M · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "M"
+klassenstufe: 5
+track: "gm"
+unit_nr: 12
+slug: "review-and-show"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 12: Review and Show
+
+**Track G+M · Klasse 5 · Niveau M · 45 Minuten**
+
+{{< include _unit12_review-and-show_exam_body.qmd >}}

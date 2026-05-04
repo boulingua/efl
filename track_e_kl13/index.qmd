@@ -1,0 +1,129 @@
+---
+title: "Klasse 13 English — Exam-grade and issue-framed (Abitur year)"
+pagetitle: "Klasse 13 · Track E — EFL"
+author: "S. Le Boulanger"
+---
+
+::: {.hero}
+::: {.kicker}
+TRACK E · KLASSE 13
+:::
+# Klasse 13 English — Exam-grade and issue-framed (Abitur year)
+
+::: {.lead}
+Twelve Units across the school year. Each Unit ships an HTML
+article, a Reveal.js slide deck, a worksheet PDF (placeholder),
+and a worked exam example as Abitur-grade Klausur (school-leaving examination). Authored by S. Le Boulanger.
+:::
+:::
+
+## The recurring cast
+
+This year's stories follow **public voices and contemporary writers**. Characters (or, in the
+Oberstufe, *texts as characters*) reappear across Units so
+learners build a continuous sense of place and voice.
+
+## The twelve Units
+
+::: {.card-grid}
+::: {.card}
+[Unit 1 · Niveau E]{.kicker}
+
+### [Globalisation and the Self](units/unit01_globalisation-and-the-self.qmd)
+reading, writing, intercultural
+
+:::
+::: {.card}
+[Unit 2 · Niveau E]{.kicker}
+
+### [Political Discourse, Advanced](units/unit02_political-discourse-advanced.qmd)
+reading, listening, language_awareness
+
+:::
+::: {.card}
+[Unit 3 · Niveau E]{.kicker}
+
+### [Dystopias and Utopias](units/unit03_dystopias-and-utopias.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 4 · Niveau E]{.kicker}
+
+### [Contemporary Poetry](units/unit04_contemporary-poetry.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 5 · Niveau E]{.kicker}
+
+### [Media and Public Opinion](units/unit05_media-and-public-opinion.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 6 · Niveau E]{.kicker}
+
+### [Mediation: A German Policy Text](units/unit06_mediation-policy-text.qmd)
+mediation, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 7 · Niveau E]{.kicker}
+
+### [The Abitur Essay](units/unit07_the-abitur-essay.qmd)
+writing, language_awareness
+
+:::
+::: {.card}
+[Unit 8 · Niveau E]{.kicker}
+
+### [The Abitur Comprehension Task](units/unit08_the-abitur-comprehension.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 9 · Niveau E]{.kicker}
+
+### [The Abitur Analysis Task](units/unit09_the-abitur-analysis.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 10 · Niveau E]{.kicker}
+
+### [Kommunikationsprüfung: Full Mock](units/unit10_kommunikationspruefung-full-mock.qmd)
+speaking, listening, language_awareness
+
+:::
+::: {.card}
+[Unit 11 · Niveau E]{.kicker}
+
+### [Issue-Framed Debate](units/unit11_issue-framed-debate.qmd)
+speaking, listening, language_awareness
+
+:::
+::: {.card}
+[Unit 12 · Niveau E]{.kicker}
+
+### [Year Review and Handover](units/unit12_year-review-and-handover.qmd)
+writing, speaking, language_awareness
+
+:::
+:::
+
+## What you will be able to do by the end of this year
+
+::: {.callout-tip icon=false title="curriculum framework (Bildungsplan)-aligned Kompetenzerwartungen"}
+Filled in from `_resources/bildungsplan_bw_e_kl13.yml`.
+The chapter codes and German labels are pulled live from
+[bildungsplaene-bw.de](https://www.bildungsplaene-bw.de/).
+:::
+
+## Use this course in class
+
+- The [schedule](schedule.qmd) lists all twelve Units.
+- Each Unit page links four downloads: article (HTML), slide deck
+  (HTML), worksheet (PDF placeholder), exam example (PDF).
+- Speaker notes on every slide cover timing, transitions, and
+  Niveau-aware differentiation prompts for mixed groups.

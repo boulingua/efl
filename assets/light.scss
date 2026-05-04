@@ -1,0 +1,47 @@
+/*-- scss:defaults --*/
+
+/* Bootstrap variables — light palette. Drives flatly's compiled
+   --bs-* tokens so navbar / dropdowns / form controls pick up the
+   right colour without us re-skinning each component manually. */
+$body-bg:                 #ffffff;
+$body-color:              #23272b;
+$primary:                 #1a73e8;
+$link-color:              #1a73e8;
+$link-hover-color:        #0b57d0;
+$border-color:            #eaeaea;
+$secondary-bg:            #f7f8fa;
+$tertiary-bg:             #f7f8fa;
+$headings-color:          #23272b;
+$navbar-light-color:      #23272b;
+$navbar-light-hover-color: #1a73e8;
+$navbar-light-active-color: #1a73e8;
+$dropdown-link-color:     #23272b;
+$dropdown-bg:             #f7f8fa;
+$dropdown-border-color:   #eaeaea;
+$code-color:              #23272b;
+$code-bg:                 #f5f5f5;
+
+$font-family-sans-serif:  "Source Sans 3", -apple-system, BlinkMacSystemFont, sans-serif;
+$font-family-monospace:   "JetBrains Mono", "Fira Code", monospace;
+$headings-font-weight:    600;
+$border-radius:           6px;
+
+/*-- scss:rules --*/
+
+:root {
+  --bg:           #ffffff;
+  --fg:           #23272b;
+  --fg-alt:       #555555;
+  --rule:         #eaeaea;
+  --surface:      #f7f8fa;
+  --accent:       #1a73e8;
+  --accent-hover: #0b57d0;
+  --code-bg:      #f5f5f5;
+}
+
+/* Niveau badges — light palette. */
+.niveau-badge.g { background: #fff3e0; color: #b26500; border-color: #ffd699; }
+.niveau-badge.m { background: #e3f2fd; color: #0b57d0; border-color: #b8d4fd; }
+.niveau-badge.e { background: #ede7f6; color: #5e35b1; border-color: #d1c4e9; }
+
+@import "shared";

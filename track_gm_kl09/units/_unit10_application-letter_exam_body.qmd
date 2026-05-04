@@ -1,0 +1,42 @@
+::: {.callout-warning icon=false title="class test (Klassenarbeit) — Niveau M (45 minutes)"}
+**Time.** 45 minutes. **Total.** 45 points.
+:::
+
+### Task 1 — Listening (10 BE)
+
+Listen twice.
+
+> "The Old Cottage Hotel is looking for a summer helper for three weeks in July. Duties include helping at breakfast, cleaning rooms, and simple admin. The person should be 16 or older, enthusiastic, and an English speaker. Applications by 15 May."
+
+1. Length: ___ . 2. Three duties: ___ . 3. Age: ___ . 4. Deadline: ___ .
+
+### Task 2 — Reading (12 BE)
+
+Read the sample application letter above. Answer.
+
+1. Position: ___ . 2. Age: ___ . 3. One previous experience: ___ . 4. Sign-off: ___ .
+
+### Task 3 — Use of English (10 BE)
+
+**Make formal.**
+
+1. *Hi, I'd love the job.* → ___
+2. *I'm 16.* → ___
+3. *Cheers,* → ___
+4. *Get back to me when you can.* → ___
+
+### Task 4 — Writing (13 BE)
+
+Write a 150-word application letter for a summer job (any). Use formal register and the six structural elements.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**T1.** 3 weeks in July; breakfast / cleaning rooms / simple admin; 16+; 15 May.
+**T2.** Summer Helper, The Old Cottage Hotel; 16; helping at aunt's café (breakfast service + admin); Yours faithfully, Eli Becker.
+**T3.** *Dear Sir or Madam, I am writing to apply for the position. / I am 16. / Yours faithfully, / I look forward to hearing from you.*
+**T4.** Open.
+:::
+
+::: {.callout-tip collapse="true" title="Notenschlüssel (von 45)"}
+| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
+| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
+:::

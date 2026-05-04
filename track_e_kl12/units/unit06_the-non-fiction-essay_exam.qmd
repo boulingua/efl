@@ -1,0 +1,24 @@
+---
+title: "Klausur (assessment) — Unit 6: The Non-Fiction Essay"
+subtitle: "Track E · Klasse 12 · Niveau E · 4 Stunden"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 6
+slug: "the-non-fiction-essay"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klausur (assessment) — Unit 6: The Non-Fiction Essay
+
+**Track E · Klasse 12 · Niveau E · 4 Stunden (incl. breaks) · 90 BE**
+
+{{< include _unit06_the-non-fiction-essay_exam_body.qmd >}}

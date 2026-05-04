@@ -1,0 +1,133 @@
+---
+title: "Unit 1 — Future Careers"
+subtitle: "Track G+M · Klasse 9 · Niveau G/M"
+niveau: "G+M"
+klassenstufe: 9
+track: "gm"
+unit_nr: 1
+slug: "future-careers"
+bildungsplan:
+  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.2.3.2 Leseverstehen"
+  - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
+  - "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+  - "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+skills_focus:
+  - reading
+  - speaking
+  - language_awareness
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit01_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** G/M parallel. class test (Klassenarbeit) at Niveau M (45 BE).
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can name 12 jobs and describe what they involve.*
+- *I can use *want / hope / plan* + to-infinitive.*
+- *I can hold a 2-minute conversation about future career interests.*
+
+## Bildungsplan alignment
+
+- **3.2.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.2.3.2 Leseverstehen**
+- **3.2.3.3 Sprechen – an Gesprächen teilnehmen**
+- **3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz**
+- **3.2.3.8 Verfügen über sprachliche Mittel – Grammatik**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Eli pinned a job ad on the wall above his desk: *marine biologist, southern Spain, fluent English required, must enjoy boats*. He has neither a degree, nor a passport, nor — by his own admission — sea legs. Mr. Yilmaz says, "Eli, the ad isn't hiring you. The ad is keeping you company." Eli nods, leaves it on the wall.
+
+## 1. Activate
+
+**Three-job scan.** Write three jobs that exist, three that didn't exist twenty years ago, and three that might exist in twenty years. Compare with your partner.
+
+## 2. Input
+
+### Vocabulary — work and careers
+
+*career, profession, vocational training, apprenticeship, internship, employer, employee, CV, cover letter, salary, full-time, part-time, freelance, self-employed, qualification, skills, soft skills, hard skills.*
+
+### Grammar — verb + to-infinitive
+
+After *want, hope, plan, decide, aim, learn, intend, refuse, choose*, use **to-infinitive**:
+- *I want to study marine biology.*
+- *She hopes to find an apprenticeship next year.*
+- *He decided not to apply.*
+
+## 3. Practise
+
+### Niveau G
+
+1. Build: *I / want / become / a teacher* → ___ ; *she / plan / take / a gap year* → ___ .
+2. Match: doctor — hospital, baker — bakery, electrician — wiring, programmer — code.
+
+### Niveau M
+
+3. Build 4 sentences using *want, hope, plan, decide* + to-infinitive.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**G.** 1. *I want to become a teacher. She plans to take a gap year.*
+2. all true.
+
+**M.** 3. Open.
+:::
+
+## 4. Produce
+
+**Pair speaking — *Future Plans*.** 2 min each. Cover: one job that interests you, one skill you want to learn, one obstacle, one step you can take next month.
+
+### Sample
+
+*— I'm thinking of an apprenticeship as an electrician. I want to learn the practical side, but I also need to keep my English up. Next month I plan to ask my uncle, who is one, if I can shadow him for a day.*
+
+## 5. Reflect
+
+- [ ] I can name 12 jobs.
+- [ ] I can use *want/hope/plan/decide + to-infinitive*.
+- [ ] I can hold a 2-minute career conversation.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< include _unit01_future-careers_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
+5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
+
+**Differentiation.** Niveau G: scaffold card with the key
+structure. Above Niveau M: extension prompt linking to Klasse 10.
+:::
+
+## Common pitfalls
+
+- *I want become* → ✗ / *I want to become* → ✓.
+- *I'm planning learn* → ✗ / *I'm planning to learn* → ✓.
+- *Career* in English ≠ German *Karriere* — *career* is any working life, not necessarily upward.
+
+## Further reading / listening
+
+- BBC Bitesize Careers — accessible job profiles.
+- National Careers Service (UK) — job-skill matrices.

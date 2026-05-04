@@ -1,0 +1,129 @@
+---
+title: "Klasse 9 English — Choices and society"
+pagetitle: "Klasse 9 · Track G+M — EFL"
+author: "S. Le Boulanger"
+---
+
+::: {.hero}
+::: {.kicker}
+TRACK G+M · KLASSE 9
+:::
+# Klasse 9 English — Choices and society
+
+::: {.lead}
+Twelve Units across the school year. Each Unit ships an HTML
+article, a Reveal.js slide deck, a worksheet PDF (placeholder),
+and a worked exam example as class test (Klassenarbeit). Authored by S. Le Boulanger.
+:::
+:::
+
+## The recurring cast
+
+This year's stories follow **Eli, Naima, and Mr. Yilmaz**. Characters (or, in the
+Oberstufe, *texts as characters*) reappear across Units so
+learners build a continuous sense of place and voice.
+
+## The twelve Units
+
+::: {.card-grid}
+::: {.card}
+[Unit 1 · Niveau G+M]{.kicker}
+
+### [Future Careers](units/unit01_future-careers.qmd)
+reading, speaking, language_awareness
+
+:::
+::: {.card}
+[Unit 2 · Niveau G+M]{.kicker}
+
+### [Money and Choices](units/unit02_money-and-choices.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 3 · Niveau G+M]{.kicker}
+
+### [The Environment, Locally](units/unit03_the-environment-locally.qmd)
+reading, writing, intercultural
+
+:::
+::: {.card}
+[Unit 4 · Niveau G+M]{.kicker}
+
+### [Canada: Perspectives](units/unit04_canada-perspectives.qmd)
+reading, writing, intercultural
+
+:::
+::: {.card}
+[Unit 5 · Niveau G+M]{.kicker}
+
+### [Media Literacy](units/unit05_media-literacy.qmd)
+reading, listening, language_awareness
+
+:::
+::: {.card}
+[Unit 6 · Niveau G+M]{.kicker}
+
+### [Interview and Portrait](units/unit06_interview-and-portrait.qmd)
+speaking, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 7 · Niveau G+M]{.kicker}
+
+### [Mediation: A German News Article](units/unit07_mediation-news-article.qmd)
+mediation, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 8 · Niveau G+M]{.kicker}
+
+### [Inequality and Voice](units/unit08_inequality-and-voice.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 9 · Niveau G+M]{.kicker}
+
+### [Short Fiction in the Classroom](units/unit09_short-fiction.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 10 · Niveau G+M]{.kicker}
+
+### [Writing an Application Letter](units/unit10_application-letter.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 11 · Niveau G+M]{.kicker}
+
+### [Debate and Discussion](units/unit11_debate-and-discussion.qmd)
+speaking, listening, language_awareness
+
+:::
+::: {.card}
+[Unit 12 · Niveau G+M]{.kicker}
+
+### [Year Review: Portfolio](units/unit12_year-review-portfolio.qmd)
+writing, speaking, language_awareness
+
+:::
+:::
+
+## What you will be able to do by the end of this year
+
+::: {.callout-tip icon=false title="curriculum framework (Bildungsplan)-aligned Kompetenzerwartungen"}
+Filled in from `_resources/bildungsplan_bw_gm_kl09.yml`.
+The chapter codes and German labels are pulled live from
+[bildungsplaene-bw.de](https://www.bildungsplaene-bw.de/).
+:::
+
+## Use this course in class
+
+- The [schedule](schedule.qmd) lists all twelve Units.
+- Each Unit page links four downloads: article (HTML), slide deck
+  (HTML), worksheet (PDF placeholder), exam example (PDF).
+- Speaker notes on every slide cover timing, transitions, and
+  Niveau-aware differentiation prompts for mixed groups.

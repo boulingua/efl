@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 1: Hello World"
+subtitle: "Track E · Klasse 5 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 5
+track: "e"
+unit_nr: 1
+slug: "hello-world"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 1: Hello World
+
+**Track E · Klasse 5 · Niveau E · 45 Minuten**
+
+{{< include _unit01_hello-world_exam_body.qmd >}}

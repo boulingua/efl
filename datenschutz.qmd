@@ -1,0 +1,70 @@
+---
+title: "Datenschutzerklärung"
+author: "S. Le Boulanger"
+---
+
+::: {.callout-warning title="ACTION REQUIRED"}
+Diese Datenschutzerklärung enthält Platzhalter (`<TODO: ...>`) für
+Anschrift und Kontakt. Vor dem Live-Gang von einer/einem
+Datenschutz-beauftragten oder Anwältin/Anwalt prüfen lassen — diese
+Vorlage ist **kein Ersatz für rechtliche Beratung**.
+:::
+
+## Verantwortliche Stelle
+
+S. Le Boulanger\
+<TODO: Anschrift>\
+E-Mail: <TODO: kontakt@domain.tld>
+
+## Hosting bei GitHub Pages
+
+Diese Website wird auf GitHub Pages gehostet, einem Dienst der
+GitHub Inc., 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA.
+Beim Aufruf der Seiten überträgt Ihr Browser technisch notwendige
+Daten (IP-Adresse, Datum, Zeit, User-Agent, angefragte URL) an
+GitHub. Diese Verarbeitung ist erforderlich, um die Inhalte
+auszuliefern; eine Speicherung der IP-Adressen über die zur
+Auslieferung notwendige Zeit hinaus erfolgt durch mich nicht.
+
+Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes
+Interesse an einer zuverlässigen, sicheren Auslieferung der
+Inhalte).
+
+GitHubs Datenschutzerklärung:
+<https://docs.github.com/site-policy/privacy-policies/github-privacy-statement>.
+
+## Keine Cookies, kein Tracking
+
+Diese Website setzt keine Cookies, verwendet keine Analyse-Tools
+(z. B. Google Analytics, Matomo) und bindet keine Drittanbieter-
+Schriftarten, -Videos oder -Social-Media-Widgets ein. Schriftarten
+(Source Sans 3, JetBrains Mono) werden über Google Fonts vom
+Browser des Nutzers geladen. Sollte hierdurch eine
+Drittübermittlung erfolgen, die Sie vermeiden möchten, können die
+Schriften lokal in das Repository eingebunden werden — siehe
+GitHub-Repository für die Anpassung.
+
+## Ihre Rechte
+
+Sie haben nach DSGVO das Recht auf:
+
+- Auskunft (Art. 15 DSGVO)
+- Berichtigung (Art. 16 DSGVO)
+- Löschung (Art. 17 DSGVO)
+- Einschränkung der Verarbeitung (Art. 18 DSGVO)
+- Datenübertragbarkeit (Art. 20 DSGVO)
+- Widerspruch (Art. 21 DSGVO)
+
+Ansprechpartnerin: siehe Verantwortliche Stelle oben.
+
+## Beschwerderecht
+
+Sie haben das Recht, sich bei einer Aufsichtsbehörde zu beschweren.
+Zuständig ist die **Landesbeauftragte für den Datenschutz und die
+Informationsfreiheit Baden-Württemberg** (LfDI BW),
+<https://www.baden-wuerttemberg.datenschutz.de>.
+
+## Stand
+
+Diese Datenschutzerklärung gilt ab dem Datum der Veröffentlichung
+dieser Website und wird bei substanziellen Änderungen aktualisiert.

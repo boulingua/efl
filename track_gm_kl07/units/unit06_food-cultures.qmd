@@ -1,0 +1,280 @@
+---
+title: "Unit 6 — Food Cultures"
+subtitle: "Track G+M · Klasse 7 · Niveau G/M"
+niveau: "G+M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 6
+slug: "food-cultures"
+bildungsplan:
+  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.2.2 Interkulturelle kommunikative Kompetenz"
+  - "3.2.3.2 Leseverstehen"
+  - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
+  - "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+  - "3.2.4 Text- und Medienkompetenz"
+skills_focus:
+  - reading
+  - speaking
+  - intercultural
+format:
+  html:
+    toc: true
+    toc-depth: 3
+  revealjs:
+    output-file: "unit06_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+    preview-links: auto
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** G/M parallel. class test (Klassenarbeit) at Niveau M.
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can read a short narrative about a family dish and identify
+  what makes it meaningful beyond taste.*
+- *I can describe a recipe using imperatives and basic quantifiers.*
+- *I can hold a 2-minute conversation about a food tradition with
+  a partner.*
+
+## Bildungsplan alignment
+
+- **3.2.1 Soziokulturelles Orientierungswissen / Themen** — food
+  and identity across cultures.
+- **3.2.2 Interkulturelle kommunikative Kompetenz** — recognising
+  food as a carrier of memory and family history.
+- **3.2.3.2 Leseverstehen** — short narrative.
+- **3.2.3.3 Sprechen – an Gesprächen teilnehmen** — exchange about
+  a familiar topic.
+- **3.2.3.7 Wortschatz** — kitchen and recipe vocabulary.
+- **3.2.4 Text- und Medienkompetenz** — recognise emotional weight
+  in a description.
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Aisha's grandmother does not measure things. She measures by
+look, smell, and the angle of her wooden spoon. Aisha has tried
+to write down the recipe for the family rice three times. Each
+time, her grandmother has read the recipe and said, very gently,
+"This is wrong." When Aisha asked what was wrong, her grandmother
+said, "It says *one teaspoon of salt*. There is no teaspoon. There
+is only your hand."
+
+## 1. Activate
+
+**Picture pair.** With your partner, look at the slide. There are
+six dishes from six countries. For each one:
+
+- *guess the country,*
+- *say one ingredient you can see,*
+- *say one ingredient you cannot see but probably exists.*
+
+After two minutes, pairs swap their guesses with another pair.
+
+::: {.callout-tip}
+The "ingredient you cannot see" prompt opens the door to family
+secrets, stocks, and inherited spice mixes — exactly what this
+Unit is about.
+:::
+
+## 2. Input
+
+### Reading text — *The Sunday Chicken*
+
+> Anya's grandfather makes the same dish every Sunday: rice,
+> chicken, a sauce with herbs the family will not name in English
+> because the English name does not feel right. The dish has
+> migrated with the family for two generations. In the village,
+> it was made with a chicken from the yard. In the city, it is
+> made with a chicken from the supermarket. The taste is mostly
+> the same. Sundays are the day Anya's grandfather speaks the
+> most. The dish, he says, is what the family is. Every other
+> day they argue about everything. On Sundays they argue about
+> the chicken.
+
+### Vocabulary cluster — kitchen and recipe
+
+| Verb | Noun |
+|------|------|
+| to chop | a knife, a board |
+| to slice | a slice |
+| to peel | the peel |
+| to boil | a pot |
+| to fry | a pan |
+| to bake | an oven |
+| to season | salt, pepper, herbs, spices |
+| to taste | a taste |
+| to stir | a spoon |
+| to serve | a plate, a bowl |
+
+**Useful phrases.**
+
+- *to be born of* — *that recipe is born of two villages.*
+- *to pass down* — *the recipe was passed down from grandmother.*
+- *a family staple* — *rice and beans is our family staple.*
+
+### Language focus — quantifiers
+
+| Quantifier | Use | Example |
+|------------|-----|---------|
+| some | positive sentences (definite quantity) | *We need some salt.* |
+| any | negatives and questions | *Is there any rice left?* |
+| many | countable, often negatives/questions | *There aren't many eggs.* |
+| much | uncountable, often negatives/questions | *There isn't much milk.* |
+| a few | small countable amount, positive | *Add a few onions.* |
+| a little | small uncountable amount, positive | *Add a little salt.* |
+| a lot of / lots of | both, positive and informal | *We have a lot of rice.* |
+
+### Language focus — recipe imperatives
+
+A recipe in English usually uses the **imperative**: base verb,
+no subject.
+
+- *Chop the onion finely.*
+- *Add a little oil.*
+- *Don't boil the herbs for too long.*
+- *Let the rice rest for ten minutes.*
+
+For polite cooking talk: *Could you pass the salt? Would you mind
+stirring this?*
+
+## 3. Practise
+
+### Niveau G — controlled
+
+**A. Some, any, much, or many?**
+
+1. Is there __________ chicken in the fridge?
+2. We need __________ rice for tonight.
+3. There aren't __________ tomatoes left.
+4. There isn't __________ time before dinner.
+
+**B. Match the verb to the kitchen tool.**
+
+| Verb | Tool |
+|------|------|
+| 1. to chop | a. an oven |
+| 2. to bake | b. a knife |
+| 3. to fry | c. a pot |
+| 4. to boil | d. a pan |
+
+### Niveau M — productive
+
+**C. Re-write as a polite recipe instruction.**
+
+5. You should peel the potatoes first. → ___
+6. You must not add salt before boiling. → ___
+7. You should let the dough rest for thirty minutes. → ___
+
+**D. Quantifier transformation.** Rewrite using *a few* or *a
+little*.
+
+8. We have some eggs (three). → ___
+9. There is some salt (less than a teaspoon). → ___
+10. We have some butter (about half a stick). → ___
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**Niveau G**
+
+A. 1. any, 2. some, 3. many, 4. much.\
+B. 1–b, 2–a, 3–d, 4–c.
+
+**Niveau M**
+
+5. Peel the potatoes first.\
+6. Don't add salt before boiling.\
+7. Let the dough rest for thirty minutes.\
+8. We have a few eggs.\
+9. There is a little salt.\
+10. We have a little butter.
+:::
+
+## 4. Produce
+
+**Pair speaking task — *Family Plate*.** With your partner, take
+turns describing a dish that means something in your family. For
+each dish, the listener asks at least one *follow-up* question
+(*Who taught the cook? When was the first time you ate it?*).
+
+Three rules:
+
+- Use at least one quantifier per turn (*a little / a few / not
+  much*).
+- Use at least one imperative inside a quoted family instruction
+  (*"My grandmother always says, 'Don't open the oven."*").
+- Two minutes each direction.
+
+Volunteers share with the class at the end.
+
+## 5. Reflect
+
+- [ ] I can read a short narrative about a family dish and explain
+  what makes it meaningful beyond taste.
+- [ ] I can use *some / any / much / many / a few / a little*
+  correctly.
+- [ ] I can give simple recipe instructions in English.
+
+**One sentence in your notebook:** *What is one dish in my family
+that I want to ask the cook to explain?*
+
+## Exam example
+
+{{< include _unit06_food-cultures_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 45 minutes total.
+
+- *Title + Lead-in (4 min).* The grandmother's "There is only
+  your hand" line. Ask the class what *measure by hand* could
+  mean.
+- *Activate (6 min).* Six-dish picture pair.
+- *Input (15 min).* Read *The Sunday Chicken* once silently, once
+  aloud. Quick vocabulary chant for the kitchen verbs (chop,
+  slice, peel, boil, fry, bake, stir, serve).
+- *Practise (10 min).* Niveau split.
+- *Produce (8 min).* Pair speaking — circulate; prompt for one
+  imperative + one quantifier per turn.
+- *Reflect (2 min).*
+
+**Differentiation.** For Niveau G: provide a printed
+some/any/much/many flowchart. For learners above Niveau M: ask
+for at least one comparative (*saltier than*, *less spicy than*)
+in the speaking turn.
+
+**Cultural note.** Resist asking learners to "represent" a
+culture. Each learner speaks for themselves and their household,
+not for a country.
+:::
+
+## Common pitfalls
+
+- *much friends* → ✗ / *many friends* (countable) → ✓.
+- *some help me* → ✗ — imperatives have no *some* / *any*.
+- *Don't to add* → ✗ / *Don't add* → ✓.
+- L1 transfer: *Bestreuen* and similar German cooking verbs do
+  not always have a single English equivalent. Use *sprinkle*,
+  *dust*, or *coat*.
+
+## Further reading / listening
+
+- BBC Food — recipe pages with short instruction texts in
+  imperative. <https://www.bbc.co.uk/food>
+- Samin Nosrat, *Salt Fat Acid Heat* — accessible chapters; clear
+  English. <https://www.saltfatacidheat.com>
+- The Guardian — *Word of Mouth* food blog.
+  <https://www.theguardian.com/lifeandstyle/series/word-of-mouth>

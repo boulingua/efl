@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 4: A School Day"
+subtitle: "Track E · Klasse 5 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 5
+track: "e"
+unit_nr: 4
+slug: "school-day"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 4: A School Day
+
+**Track E · Klasse 5 · Niveau E · 45 Minuten**
+
+{{< include _unit04_school-day_exam_body.qmd >}}

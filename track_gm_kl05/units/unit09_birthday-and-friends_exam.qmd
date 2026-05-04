@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 9: Birthday and Friends"
+subtitle: "Track G+M · Klasse 5 · Niveau M · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "M"
+klassenstufe: 5
+track: "gm"
+unit_nr: 9
+slug: "birthday-and-friends"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 9: Birthday and Friends
+
+**Track G+M · Klasse 5 · Niveau M · 45 Minuten**
+
+{{< include _unit09_birthday-and-friends_exam_body.qmd >}}

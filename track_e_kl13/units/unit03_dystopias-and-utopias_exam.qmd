@@ -1,0 +1,24 @@
+---
+title: "Klausur (assessment) — Unit 3: Dystopias and Utopias"
+subtitle: "Track E · Klasse 13 · Niveau E · Abitur-prep"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 13
+track: "e"
+unit_nr: 3
+slug: "dystopias-and-utopias"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klausur (assessment) — Unit 3: Dystopias and Utopias
+
+**Track E · Klasse 13 · Niveau E · Abitur-prep**
+
+{{< include _unit03_dystopias-and-utopias_exam_body.qmd >}}
