@@ -1,0 +1,44 @@
+::: {.callout-warning icon=false title="class test (Klassenarbeit) — Niveau M (45 minutes)"}
+**Time.** 45 minutes. **Total.** 45 points.
+:::
+
+### Task 1 — Listening (10 BE)
+
+Listen twice.
+
+> "If you place two more bins along this 200-metre stretch, the litter count will halve. If the bins are emptied weekly, they won't overflow. We will measure twice a year so we know whether the change is real."
+
+1. Action 1: ___ . 2. Effect 1: ___ . 3. Action 2: ___ . 4. Measurement frequency: ___ .
+
+### Task 2 — Reading (12 BE)
+
+Read.
+
+> "The street outside Klasse 9's school had 412 plastic items in three days. After the council added two bins, the number fell to 198 in the next count. The class has decided to repeat the count every six months."
+
+1. Initial: ___ . 2. Action: ___ . 3. New count: ___ . 4. Frequency: ___ .
+
+### Task 3 — Use of English (10 BE)
+
+**First conditional.**
+
+1. If we __________ (count) the litter, we __________ (see) the trend.
+2. If the council __________ (add) bins, the litter __________ (decrease).
+3. If we __________ (do / not) anything, things __________ (not / change).
+4. If they __________ (empty) the bins weekly, they __________ (not / overflow).
+
+### Task 4 — Writing (13 BE)
+
+Write 120 words: a proposal to the council on a local environment issue. Use 3 first conditionals.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**T1.** add 2 bins; litter halves; empty weekly; twice a year.
+**T2.** 412 plastic items in 3 days; council added 2 bins; 198; every 6 months.
+**T3.** count / will see; add / will decrease; don't do / won't change; empty / won't overflow.
+**T4.** Open.
+:::
+
+::: {.callout-tip collapse="true" title="Notenschlüssel (von 45)"}
+| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
+| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
+:::

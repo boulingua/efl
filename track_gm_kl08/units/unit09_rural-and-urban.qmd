@@ -1,0 +1,138 @@
+---
+title: "Unit 9 — Rural and Urban Lives"
+subtitle: "Track G+M · Klasse 8 · Niveau G/M"
+niveau: "G+M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 9
+slug: "rural-and-urban"
+bildungsplan:
+  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.2.2 Interkulturelle kommunikative Kompetenz"
+  - "3.2.3.2 Leseverstehen"
+  - "3.2.3.5 Schreiben"
+  - "3.2.4 Text- und Medienkompetenz"
+skills_focus:
+  - reading
+  - writing
+  - intercultural
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit09_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** G/M parallel. class test (Klassenarbeit) at Niveau M (45 BE).
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can compare rural and urban life using 5 paired terms.*
+- *I can use *as … as / not as … as* and superlatives in comparisons.*
+- *I can write a 120-word balanced comparison of two places.*
+
+## Bildungsplan alignment
+
+- **3.2.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.2.2 Interkulturelle kommunikative Kompetenz**
+- **3.2.3.2 Leseverstehen**
+- **3.2.3.5 Schreiben**
+- **3.2.4 Text- und Medienkompetenz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Jonas spent a week with his uncle on a farm outside Stuttgart. The cows were less interested in him than he was in them. The internet was unreliable. The stars at night were noisier in their silence than the city ever managed in its noise. By Friday, Jonas was writing in a notebook, which surprised everyone.
+
+## 1. Activate
+
+**Two columns.** *Rural / Urban*. Class fills in 5 associations under each.
+
+## 2. Input
+
+### Reading — *A week on a farm*
+
+*The cows were less interested in me than I was in them. The internet was as unreliable as the weather forecast. The night was the loudest silence I had ever heard. By the second day I had stopped checking my phone, partly because it didn't work and partly because the stars were doing better.*
+
+### Grammar — *as … as / not as … as*
+
+- *The countryside is **as quiet as** I remembered.*
+- *The internet is **not as reliable as** in the city.*
+- *Cows are **not as friendly as** dogs.*
+
+### Vocabulary — rural vs. urban
+
+*Rural:* farm, field, barn, livestock, dirt road, local shop, neighbour, tractor.
+*Urban:* skyscraper, traffic, public transport, anonymity, takeaway, signal, neon, pace.
+
+## 3. Practise
+
+### Niveau G
+
+1. Build *as … as*: *(the village / quiet / the library)* → ___ ; *(this internet / fast / yours)* → ___ .
+2. Match rural ↔ urban: tractor ↔ ?, field ↔ ?, neighbour ↔ ?, livestock ↔ ?
+
+### Niveau M
+
+3. Build 4 *as … as / not as … as* sentences comparing your home town with another place.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**G.** 1. *The village is as quiet as the library. This internet is not as fast as yours.*
+2. tractor↔car/bus, field↔skyscraper, neighbour↔stranger, livestock↔people.
+
+**M.** 3. Open.
+:::
+
+## 4. Produce
+
+**Comparison, 120 words.** Write a balanced comparison of a rural and an urban place. Use 4 *as … as / not as … as* and 1 superlative.
+
+### Sample
+
+*The village where my uncle lives is not as fast as Stuttgart, but it is as alive — just on a different scale. The stars at night are the loudest silence I have ever experienced. The internet is not as reliable as in the city, which means people actually look at each other while they speak. The local shop is the smallest building I know, but it sells everything I need plus a few things I didn't know existed.*
+
+## 5. Reflect
+
+- [ ] I can compare rural and urban life with 5 paired terms.
+- [ ] I can use *as … as / not as … as*.
+- [ ] I can write a balanced 120-word comparison.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< include _unit09_rural-and-urban_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
+5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
+
+**Differentiation.** Niveau G: extra scaffolding card with the
+key structure. Above Niveau M: extension prompt linking to the
+next Unit.
+:::
+
+## Common pitfalls
+
+- *as quiet than* → ✗ / *as quiet as* → ✓.
+- *not so quiet as* (older form) → acceptable but less common; prefer *not as … as*.
+- Stereotype check: rural ≠ boring; urban ≠ exciting.
+
+## Further reading / listening
+
+- BBC Countryfile — accessible articles.
+- The Guardian — *Cities* section.

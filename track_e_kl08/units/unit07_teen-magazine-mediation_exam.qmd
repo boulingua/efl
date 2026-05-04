@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 7: Mediation: A Teen Magazine"
+subtitle: "Track E · Klasse 8 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 7
+slug: "teen-magazine-mediation"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 7: Mediation: A Teen Magazine
+
+**Track E · Klasse 8 · Niveau E · 45 Minuten**
+
+{{< include _unit07_teen-magazine-mediation_exam_body.qmd >}}

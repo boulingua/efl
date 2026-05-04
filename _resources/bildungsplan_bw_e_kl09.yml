@@ -1,0 +1,47 @@
+site: efl
+track: e
+klassenstufe: 9
+niveau:
+- E
+status: live_fetched_chapter_skeleton
+fetched_at: '2026-04-30'
+source_urls:
+- https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1
+notes: Verbatim Kapitelcodes und deutsche Labels von bildungsplaene-bw.de. Die feinkörnigen
+  Kompetenzaussagen pro Niveau (G/M/E bzw. BF/LF) stehen als Detailtext auf den jeweiligen
+  Unterseiten der Quelle und werden in den Unit-Front-Matter-Feldern bildungsplan:[]
+  punktgenau zitiert, sobald die einzelnen Units geschrieben werden.
+prozessbezogene_kompetenzen:
+- code: '2.1'
+  label: Sprachbewusstheit
+- code: '2.2'
+  label: Sprachlernkompetenz
+inhaltsbezogene_kompetenzen:
+- kompetenzbereich: Klassen 7/8/9
+  kompetenzen:
+  - code: 3.2.1
+    label: Soziokulturelles Orientierungswissen / Themen
+  - code: 3.2.2
+    label: Interkulturelle kommunikative Kompetenz
+  - code: 3.2.3
+    label: Funktionale kommunikative Kompetenz
+  - code: 3.2.3.1
+    label: Hör-/Hörsehverstehen
+  - code: 3.2.3.2
+    label: Leseverstehen
+  - code: 3.2.3.3
+    label: Sprechen – an Gesprächen teilnehmen
+  - code: 3.2.3.4
+    label: Sprechen – zusammenhängendes monologisches Sprechen
+  - code: 3.2.3.5
+    label: Schreiben
+  - code: 3.2.3.6
+    label: Sprachmittlung
+  - code: 3.2.3.7
+    label: Verfügen über sprachliche Mittel – Wortschatz
+  - code: 3.2.3.8
+    label: Verfügen über sprachliche Mittel – Grammatik
+  - code: 3.2.3.9
+    label: Verfügen über sprachliche Mittel – Aussprache und Intonation
+  - code: 3.2.4
+    label: Text- und Medienkompetenz

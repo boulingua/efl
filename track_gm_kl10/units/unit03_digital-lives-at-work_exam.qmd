@@ -1,0 +1,24 @@
+---
+title: "class test (Klassenarbeit) — Unit 3: Digital Lives at Work"
+subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 3
+slug: "digital-lives-at-work"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# class test (Klassenarbeit) — Unit 3: Digital Lives at Work
+
+**Track G+M · Klasse 10 · Niveau M · 45 Minuten**
+
+{{< include _unit03_digital-lives-at-work_exam_body.qmd >}}

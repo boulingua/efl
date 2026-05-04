@@ -1,0 +1,42 @@
+::: {.callout-warning icon=false title="class test (Klassenarbeit) — Niveau E (45 minutes)"}
+**Time.** 45 minutes. **Total.** 45 points.
+:::
+
+### Task 1 — Listening (10 BE)
+
+Listen twice.
+
+> "A two-year trial of a four-day school week in a small Belgian district found test scores unchanged, well-being higher, and modest cost savings. The trial included 14 schools with a matched control group. The study notes one limitation: families struggled with Friday childcare."
+
+1. Length: ___ . 2. Three findings: ___ . 3. Sample: ___ . 4. Limitation: ___ .
+
+### Task 2 — Reading (12 BE)
+
+Read the *Four Days, Five Lessons* extract above.
+
+1. Three findings: ___ . 2. Sample size: ___ . 3. Year of publication: ___ . 4. Authors' warning: ___ .
+
+### Task 3 — Use of English (10 BE)
+
+**Insert scientific-reasoning vocabulary.**
+
+1. The ___ for this study was 14 schools.
+2. The ___ included 14 nearby schools as comparison.
+3. The results were ___ in 2027.
+4. The authors caution against ___ before the limitation is solved.
+
+### Task 4 — Writing (13 BE)
+
+Write 220 words: a science-and-society reflection on the trial. Use 4 scientific-reasoning terms.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**T1.** 2 years; test scores unchanged / well-being higher / modest cost savings; 14 schools + 14-school control; Friday childcare burden on lower-income parents.
+**T2.** test scores unchanged / well-being higher / modest cost savings; 14 schools (with 14-school control); 2027; do not scale up before childcare burden is solved.
+**T3.** sample size / control group / peer-reviewed / scaling up.
+**T4.** Open.
+:::
+
+::: {.callout-tip collapse="true" title="grading scale (Notenschlüssel) (von 45)"}
+| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
+| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
+:::

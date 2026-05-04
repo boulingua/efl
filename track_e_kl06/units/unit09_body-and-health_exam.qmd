@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 9: Body and Health"
+subtitle: "Track E · Klasse 6 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 6
+track: "e"
+unit_nr: 9
+slug: "body-and-health"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 9: Body and Health
+
+**Track E · Klasse 6 · Niveau E · 45 Minuten**
+
+{{< include _unit09_body-and-health_exam_body.qmd >}}

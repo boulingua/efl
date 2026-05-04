@@ -1,0 +1,24 @@
+---
+title: "Klausur (assessment) — Unit 12: Klausur Prep: Exam Rehearsal"
+subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 11
+track: "e"
+unit_nr: 12
+slug: "klausur-prep-exam-rehearsal"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klausur (assessment) — Unit 12: Klausur Prep: Exam Rehearsal
+
+**Track E · Klasse 11 · Niveau E · 4 Stunden (incl. breaks) · 90 BE**
+
+{{< include _unit12_klausur-prep-exam-rehearsal_exam_body.qmd >}}

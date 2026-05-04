@@ -1,0 +1,24 @@
+---
+title: "class test (Klassenarbeit) — Unit 5: Media and Democracy"
+subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 5
+slug: "media-and-democracy"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# class test (Klassenarbeit) — Unit 5: Media and Democracy
+
+**Track E · Klasse 10 · Niveau E · 45 Minuten**
+
+{{< include _unit05_media-and-democracy_exam_body.qmd >}}

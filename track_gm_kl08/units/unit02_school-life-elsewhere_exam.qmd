@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 2: School Life Elsewhere"
+subtitle: "Track G+M · Klasse 8 · Niveau M · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "M"
+klassenstufe: 8
+track: "gm"
+unit_nr: 2
+slug: "school-life-elsewhere"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 2: School Life Elsewhere
+
+**Track G+M · Klasse 8 · Niveau M · 45 Minuten**
+
+{{< include _unit02_school-life-elsewhere_exam_body.qmd >}}

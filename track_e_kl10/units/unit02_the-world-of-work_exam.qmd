@@ -1,0 +1,24 @@
+---
+title: "class test (Klassenarbeit) — Unit 2: The World of Work"
+subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 2
+slug: "the-world-of-work"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# class test (Klassenarbeit) — Unit 2: The World of Work
+
+**Track E · Klasse 10 · Niveau E · 45 Minuten**
+
+{{< include _unit02_the-world-of-work_exam_body.qmd >}}

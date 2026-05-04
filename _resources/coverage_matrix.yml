@@ -1,0 +1,4131 @@
+site: efl
+generated_from: Unit front-matter scan
+code_count: 47
+codes:
+  3.1.1:
+  - track: gm
+    klasse: 5
+    unit_nr: 1
+    slug: hello-world
+    title: Unit 1 — Hello World
+  - track: gm
+    klasse: 5
+    unit_nr: 2
+    slug: my-family
+    title: Unit 2 — My Family
+  - track: gm
+    klasse: 5
+    unit_nr: 3
+    slug: home-and-room
+    title: Unit 3 — Home and My Room
+  - track: gm
+    klasse: 5
+    unit_nr: 4
+    slug: school-day
+    title: Unit 4 — A School Day
+  - track: gm
+    klasse: 5
+    unit_nr: 5
+    slug: food-and-drinks
+    title: Unit 5 — Food and Drinks
+  - track: gm
+    klasse: 5
+    unit_nr: 6
+    slug: animals-and-pets
+    title: Unit 6 — Animals and Pets
+  - track: gm
+    klasse: 5
+    unit_nr: 7
+    slug: weather-and-seasons
+    title: Unit 7 — Weather and Seasons
+  - track: gm
+    klasse: 5
+    unit_nr: 8
+    slug: hobbies-and-sports
+    title: Unit 8 — Hobbies and Sports
+  - track: gm
+    klasse: 5
+    unit_nr: 9
+    slug: birthday-and-friends
+    title: Unit 9 — Birthday and Friends
+  - track: gm
+    klasse: 5
+    unit_nr: 10
+    slug: a-day-in-london
+    title: Unit 10 — A Day in London
+  - track: gm
+    klasse: 5
+    unit_nr: 11
+    slug: clothes-and-colours
+    title: Unit 11 — Clothes and Colours
+  - track: gm
+    klasse: 5
+    unit_nr: 12
+    slug: review-and-show
+    title: Unit 12 — Review and Show
+  - track: gm
+    klasse: 6
+    unit_nr: 1
+    slug: a-new-year-at-school
+    title: Unit 1 — A New Year at School
+  - track: gm
+    klasse: 6
+    unit_nr: 2
+    slug: on-holiday
+    title: Unit 2 — On Holiday
+  - track: gm
+    klasse: 6
+    unit_nr: 3
+    slug: in-the-city
+    title: Unit 3 — In the City
+  - track: gm
+    klasse: 6
+    unit_nr: 4
+    slug: food-around-the-world
+    title: Unit 4 — Food Around the World
+  - track: gm
+    klasse: 6
+    unit_nr: 5
+    slug: daily-routines
+    title: Unit 5 — Daily Routines
+  - track: gm
+    klasse: 6
+    unit_nr: 6
+    slug: friends-and-feelings
+    title: Unit 6 — Friends and Feelings
+  - track: gm
+    klasse: 6
+    unit_nr: 7
+    slug: an-adventure-story
+    title: Unit 7 — An Adventure Story
+  - track: gm
+    klasse: 6
+    unit_nr: 8
+    slug: school-around-the-world
+    title: Unit 8 — School Around the World
+  - track: gm
+    klasse: 6
+    unit_nr: 9
+    slug: body-and-health
+    title: Unit 9 — Body and Health
+  - track: gm
+    klasse: 6
+    unit_nr: 10
+    slug: travelling-by-train
+    title: Unit 10 — Travelling by Train
+  - track: gm
+    klasse: 6
+    unit_nr: 11
+    slug: captain-codys-map
+    title: Unit 11 — Captain Cody's Map
+  - track: gm
+    klasse: 6
+    unit_nr: 12
+    slug: year-end-festival
+    title: Unit 12 — Year-End Festival
+  - track: e
+    klasse: 5
+    unit_nr: 1
+    slug: hello-world
+    title: Unit 1 — Hello World
+  - track: e
+    klasse: 5
+    unit_nr: 2
+    slug: my-family
+    title: Unit 2 — My Family
+  - track: e
+    klasse: 5
+    unit_nr: 3
+    slug: home-and-room
+    title: Unit 3 — Home and My Room
+  - track: e
+    klasse: 5
+    unit_nr: 4
+    slug: school-day
+    title: Unit 4 — A School Day
+  - track: e
+    klasse: 5
+    unit_nr: 5
+    slug: food-and-drinks
+    title: Unit 5 — Food and Drinks
+  - track: e
+    klasse: 5
+    unit_nr: 6
+    slug: animals-and-pets
+    title: Unit 6 — Animals and Pets
+  - track: e
+    klasse: 5
+    unit_nr: 7
+    slug: weather-and-seasons
+    title: Unit 7 — Weather and Seasons
+  - track: e
+    klasse: 5
+    unit_nr: 8
+    slug: hobbies-and-sports
+    title: Unit 8 — Hobbies and Sports
+  - track: e
+    klasse: 5
+    unit_nr: 9
+    slug: birthday-and-friends
+    title: Unit 9 — Birthday and Friends
+  - track: e
+    klasse: 5
+    unit_nr: 10
+    slug: a-day-in-london
+    title: Unit 10 — A Day in London
+  - track: e
+    klasse: 5
+    unit_nr: 11
+    slug: clothes-and-colours
+    title: Unit 11 — Clothes and Colours
+  - track: e
+    klasse: 5
+    unit_nr: 12
+    slug: review-and-show
+    title: Unit 12 — Review and Show
+  - track: e
+    klasse: 6
+    unit_nr: 1
+    slug: a-new-year-at-school
+    title: Unit 1 — A New Year at School
+  - track: e
+    klasse: 6
+    unit_nr: 2
+    slug: on-holiday
+    title: Unit 2 — On Holiday
+  - track: e
+    klasse: 6
+    unit_nr: 3
+    slug: in-the-city
+    title: Unit 3 — In the City
+  - track: e
+    klasse: 6
+    unit_nr: 4
+    slug: food-around-the-world
+    title: Unit 4 — Food Around the World
+  - track: e
+    klasse: 6
+    unit_nr: 5
+    slug: daily-routines
+    title: Unit 5 — Daily Routines
+  - track: e
+    klasse: 6
+    unit_nr: 6
+    slug: friends-and-feelings
+    title: Unit 6 — Friends and Feelings
+  - track: e
+    klasse: 6
+    unit_nr: 7
+    slug: an-adventure-story
+    title: Unit 7 — An Adventure Story
+  - track: e
+    klasse: 6
+    unit_nr: 8
+    slug: school-around-the-world
+    title: Unit 8 — School Around the World
+  - track: e
+    klasse: 6
+    unit_nr: 9
+    slug: body-and-health
+    title: Unit 9 — Body and Health
+  - track: e
+    klasse: 6
+    unit_nr: 10
+    slug: travelling-by-train
+    title: Unit 10 — Travelling by Train
+  - track: e
+    klasse: 6
+    unit_nr: 11
+    slug: captain-codys-map
+    title: Unit 11 — Captain Cody's Map
+  - track: e
+    klasse: 6
+    unit_nr: 12
+    slug: year-end-festival
+    title: Unit 12 — Year-End Festival
+  3.1.2:
+  - track: gm
+    klasse: 5
+    unit_nr: 10
+    slug: a-day-in-london
+    title: Unit 10 — A Day in London
+  - track: gm
+    klasse: 6
+    unit_nr: 2
+    slug: on-holiday
+    title: Unit 2 — On Holiday
+  - track: gm
+    klasse: 6
+    unit_nr: 4
+    slug: food-around-the-world
+    title: Unit 4 — Food Around the World
+  - track: gm
+    klasse: 6
+    unit_nr: 8
+    slug: school-around-the-world
+    title: Unit 8 — School Around the World
+  - track: e
+    klasse: 5
+    unit_nr: 10
+    slug: a-day-in-london
+    title: Unit 10 — A Day in London
+  - track: e
+    klasse: 6
+    unit_nr: 2
+    slug: on-holiday
+    title: Unit 2 — On Holiday
+  - track: e
+    klasse: 6
+    unit_nr: 4
+    slug: food-around-the-world
+    title: Unit 4 — Food Around the World
+  - track: e
+    klasse: 6
+    unit_nr: 8
+    slug: school-around-the-world
+    title: Unit 8 — School Around the World
+  3.1.3.1:
+  - track: gm
+    klasse: 5
+    unit_nr: 4
+    slug: school-day
+    title: Unit 4 — A School Day
+  - track: gm
+    klasse: 5
+    unit_nr: 7
+    slug: weather-and-seasons
+    title: Unit 7 — Weather and Seasons
+  - track: gm
+    klasse: 5
+    unit_nr: 8
+    slug: hobbies-and-sports
+    title: Unit 8 — Hobbies and Sports
+  - track: gm
+    klasse: 5
+    unit_nr: 10
+    slug: a-day-in-london
+    title: Unit 10 — A Day in London
+  - track: gm
+    klasse: 6
+    unit_nr: 2
+    slug: on-holiday
+    title: Unit 2 — On Holiday
+  - track: gm
+    klasse: 6
+    unit_nr: 9
+    slug: body-and-health
+    title: Unit 9 — Body and Health
+  - track: gm
+    klasse: 6
+    unit_nr: 10
+    slug: travelling-by-train
+    title: Unit 10 — Travelling by Train
+  - track: e
+    klasse: 5
+    unit_nr: 4
+    slug: school-day
+    title: Unit 4 — A School Day
+  - track: e
+    klasse: 5
+    unit_nr: 7
+    slug: weather-and-seasons
+    title: Unit 7 — Weather and Seasons
+  - track: e
+    klasse: 5
+    unit_nr: 8
+    slug: hobbies-and-sports
+    title: Unit 8 — Hobbies and Sports
+  - track: e
+    klasse: 5
+    unit_nr: 10
+    slug: a-day-in-london
+    title: Unit 10 — A Day in London
+  - track: e
+    klasse: 6
+    unit_nr: 2
+    slug: on-holiday
+    title: Unit 2 — On Holiday
+  - track: e
+    klasse: 6
+    unit_nr: 9
+    slug: body-and-health
+    title: Unit 9 — Body and Health
+  - track: e
+    klasse: 6
+    unit_nr: 10
+    slug: travelling-by-train
+    title: Unit 10 — Travelling by Train
+  3.1.3.2:
+  - track: gm
+    klasse: 5
+    unit_nr: 3
+    slug: home-and-room
+    title: Unit 3 — Home and My Room
+  - track: gm
+    klasse: 5
+    unit_nr: 5
+    slug: food-and-drinks
+    title: Unit 5 — Food and Drinks
+  - track: gm
+    klasse: 5
+    unit_nr: 6
+    slug: animals-and-pets
+    title: Unit 6 — Animals and Pets
+  - track: gm
+    klasse: 5
+    unit_nr: 10
+    slug: a-day-in-london
+    title: Unit 10 — A Day in London
+  - track: gm
+    klasse: 6
+    unit_nr: 3
+    slug: in-the-city
+    title: Unit 3 — In the City
+  - track: gm
+    klasse: 6
+    unit_nr: 4
+    slug: food-around-the-world
+    title: Unit 4 — Food Around the World
+  - track: gm
+    klasse: 6
+    unit_nr: 7
+    slug: an-adventure-story
+    title: Unit 7 — An Adventure Story
+  - track: gm
+    klasse: 6
+    unit_nr: 8
+    slug: school-around-the-world
+    title: Unit 8 — School Around the World
+  - track: gm
+    klasse: 6
+    unit_nr: 10
+    slug: travelling-by-train
+    title: Unit 10 — Travelling by Train
+  - track: gm
+    klasse: 6
+    unit_nr: 11
+    slug: captain-codys-map
+    title: Unit 11 — Captain Cody's Map
+  - track: e
+    klasse: 5
+    unit_nr: 3
+    slug: home-and-room
+    title: Unit 3 — Home and My Room
+  - track: e
+    klasse: 5
+    unit_nr: 5
+    slug: food-and-drinks
+    title: Unit 5 — Food and Drinks
+  - track: e
+    klasse: 5
+    unit_nr: 6
+    slug: animals-and-pets
+    title: Unit 6 — Animals and Pets
+  - track: e
+    klasse: 5
+    unit_nr: 10
+    slug: a-day-in-london
+    title: Unit 10 — A Day in London
+  - track: e
+    klasse: 6
+    unit_nr: 3
+    slug: in-the-city
+    title: Unit 3 — In the City
+  - track: e
+    klasse: 6
+    unit_nr: 4
+    slug: food-around-the-world
+    title: Unit 4 — Food Around the World
+  - track: e
+    klasse: 6
+    unit_nr: 7
+    slug: an-adventure-story
+    title: Unit 7 — An Adventure Story
+  - track: e
+    klasse: 6
+    unit_nr: 8
+    slug: school-around-the-world
+    title: Unit 8 — School Around the World
+  - track: e
+    klasse: 6
+    unit_nr: 10
+    slug: travelling-by-train
+    title: Unit 10 — Travelling by Train
+  - track: e
+    klasse: 6
+    unit_nr: 11
+    slug: captain-codys-map
+    title: Unit 11 — Captain Cody's Map
+  3.1.3.3:
+  - track: gm
+    klasse: 5
+    unit_nr: 1
+    slug: hello-world
+    title: Unit 1 — Hello World
+  - track: gm
+    klasse: 5
+    unit_nr: 4
+    slug: school-day
+    title: Unit 4 — A School Day
+  - track: gm
+    klasse: 5
+    unit_nr: 5
+    slug: food-and-drinks
+    title: Unit 5 — Food and Drinks
+  - track: gm
+    klasse: 5
+    unit_nr: 8
+    slug: hobbies-and-sports
+    title: Unit 8 — Hobbies and Sports
+  - track: gm
+    klasse: 5
+    unit_nr: 9
+    slug: birthday-and-friends
+    title: Unit 9 — Birthday and Friends
+  - track: gm
+    klasse: 5
+    unit_nr: 11
+    slug: clothes-and-colours
+    title: Unit 11 — Clothes and Colours
+  - track: gm
+    klasse: 6
+    unit_nr: 1
+    slug: a-new-year-at-school
+    title: Unit 1 — A New Year at School
+  - track: gm
+    klasse: 6
+    unit_nr: 2
+    slug: on-holiday
+    title: Unit 2 — On Holiday
+  - track: gm
+    klasse: 6
+    unit_nr: 3
+    slug: in-the-city
+    title: Unit 3 — In the City
+  - track: gm
+    klasse: 6
+    unit_nr: 5
+    slug: daily-routines
+    title: Unit 5 — Daily Routines
+  - track: gm
+    klasse: 6
+    unit_nr: 6
+    slug: friends-and-feelings
+    title: Unit 6 — Friends and Feelings
+  - track: gm
+    klasse: 6
+    unit_nr: 9
+    slug: body-and-health
+    title: Unit 9 — Body and Health
+  - track: e
+    klasse: 5
+    unit_nr: 1
+    slug: hello-world
+    title: Unit 1 — Hello World
+  - track: e
+    klasse: 5
+    unit_nr: 4
+    slug: school-day
+    title: Unit 4 — A School Day
+  - track: e
+    klasse: 5
+    unit_nr: 5
+    slug: food-and-drinks
+    title: Unit 5 — Food and Drinks
+  - track: e
+    klasse: 5
+    unit_nr: 8
+    slug: hobbies-and-sports
+    title: Unit 8 — Hobbies and Sports
+  - track: e
+    klasse: 5
+    unit_nr: 9
+    slug: birthday-and-friends
+    title: Unit 9 — Birthday and Friends
+  - track: e
+    klasse: 5
+    unit_nr: 11
+    slug: clothes-and-colours
+    title: Unit 11 — Clothes and Colours
+  - track: e
+    klasse: 6
+    unit_nr: 1
+    slug: a-new-year-at-school
+    title: Unit 1 — A New Year at School
+  - track: e
+    klasse: 6
+    unit_nr: 2
+    slug: on-holiday
+    title: Unit 2 — On Holiday
+  - track: e
+    klasse: 6
+    unit_nr: 3
+    slug: in-the-city
+    title: Unit 3 — In the City
+  - track: e
+    klasse: 6
+    unit_nr: 5
+    slug: daily-routines
+    title: Unit 5 — Daily Routines
+  - track: e
+    klasse: 6
+    unit_nr: 6
+    slug: friends-and-feelings
+    title: Unit 6 — Friends and Feelings
+  - track: e
+    klasse: 6
+    unit_nr: 9
+    slug: body-and-health
+    title: Unit 9 — Body and Health
+  3.1.3.4:
+  - track: gm
+    klasse: 5
+    unit_nr: 12
+    slug: review-and-show
+    title: Unit 12 — Review and Show
+  - track: gm
+    klasse: 6
+    unit_nr: 12
+    slug: year-end-festival
+    title: Unit 12 — Year-End Festival
+  - track: e
+    klasse: 5
+    unit_nr: 12
+    slug: review-and-show
+    title: Unit 12 — Review and Show
+  - track: e
+    klasse: 6
+    unit_nr: 12
+    slug: year-end-festival
+    title: Unit 12 — Year-End Festival
+  3.1.3.5:
+  - track: gm
+    klasse: 5
+    unit_nr: 1
+    slug: hello-world
+    title: Unit 1 — Hello World
+  - track: gm
+    klasse: 5
+    unit_nr: 2
+    slug: my-family
+    title: Unit 2 — My Family
+  - track: gm
+    klasse: 5
+    unit_nr: 3
+    slug: home-and-room
+    title: Unit 3 — Home and My Room
+  - track: gm
+    klasse: 5
+    unit_nr: 6
+    slug: animals-and-pets
+    title: Unit 6 — Animals and Pets
+  - track: gm
+    klasse: 5
+    unit_nr: 7
+    slug: weather-and-seasons
+    title: Unit 7 — Weather and Seasons
+  - track: gm
+    klasse: 5
+    unit_nr: 9
+    slug: birthday-and-friends
+    title: Unit 9 — Birthday and Friends
+  - track: gm
+    klasse: 5
+    unit_nr: 11
+    slug: clothes-and-colours
+    title: Unit 11 — Clothes and Colours
+  - track: gm
+    klasse: 5
+    unit_nr: 12
+    slug: review-and-show
+    title: Unit 12 — Review and Show
+  - track: gm
+    klasse: 6
+    unit_nr: 1
+    slug: a-new-year-at-school
+    title: Unit 1 — A New Year at School
+  - track: gm
+    klasse: 6
+    unit_nr: 4
+    slug: food-around-the-world
+    title: Unit 4 — Food Around the World
+  - track: gm
+    klasse: 6
+    unit_nr: 5
+    slug: daily-routines
+    title: Unit 5 — Daily Routines
+  - track: gm
+    klasse: 6
+    unit_nr: 6
+    slug: friends-and-feelings
+    title: Unit 6 — Friends and Feelings
+  - track: gm
+    klasse: 6
+    unit_nr: 7
+    slug: an-adventure-story
+    title: Unit 7 — An Adventure Story
+  - track: gm
+    klasse: 6
+    unit_nr: 8
+    slug: school-around-the-world
+    title: Unit 8 — School Around the World
+  - track: gm
+    klasse: 6
+    unit_nr: 11
+    slug: captain-codys-map
+    title: Unit 11 — Captain Cody's Map
+  - track: gm
+    klasse: 6
+    unit_nr: 12
+    slug: year-end-festival
+    title: Unit 12 — Year-End Festival
+  - track: e
+    klasse: 5
+    unit_nr: 1
+    slug: hello-world
+    title: Unit 1 — Hello World
+  - track: e
+    klasse: 5
+    unit_nr: 2
+    slug: my-family
+    title: Unit 2 — My Family
+  - track: e
+    klasse: 5
+    unit_nr: 3
+    slug: home-and-room
+    title: Unit 3 — Home and My Room
+  - track: e
+    klasse: 5
+    unit_nr: 6
+    slug: animals-and-pets
+    title: Unit 6 — Animals and Pets
+  - track: e
+    klasse: 5
+    unit_nr: 7
+    slug: weather-and-seasons
+    title: Unit 7 — Weather and Seasons
+  - track: e
+    klasse: 5
+    unit_nr: 9
+    slug: birthday-and-friends
+    title: Unit 9 — Birthday and Friends
+  - track: e
+    klasse: 5
+    unit_nr: 11
+    slug: clothes-and-colours
+    title: Unit 11 — Clothes and Colours
+  - track: e
+    klasse: 5
+    unit_nr: 12
+    slug: review-and-show
+    title: Unit 12 — Review and Show
+  - track: e
+    klasse: 6
+    unit_nr: 1
+    slug: a-new-year-at-school
+    title: Unit 1 — A New Year at School
+  - track: e
+    klasse: 6
+    unit_nr: 4
+    slug: food-around-the-world
+    title: Unit 4 — Food Around the World
+  - track: e
+    klasse: 6
+    unit_nr: 5
+    slug: daily-routines
+    title: Unit 5 — Daily Routines
+  - track: e
+    klasse: 6
+    unit_nr: 6
+    slug: friends-and-feelings
+    title: Unit 6 — Friends and Feelings
+  - track: e
+    klasse: 6
+    unit_nr: 7
+    slug: an-adventure-story
+    title: Unit 7 — An Adventure Story
+  - track: e
+    klasse: 6
+    unit_nr: 8
+    slug: school-around-the-world
+    title: Unit 8 — School Around the World
+  - track: e
+    klasse: 6
+    unit_nr: 11
+    slug: captain-codys-map
+    title: Unit 11 — Captain Cody's Map
+  - track: e
+    klasse: 6
+    unit_nr: 12
+    slug: year-end-festival
+    title: Unit 12 — Year-End Festival
+  3.1.3.7:
+  - track: gm
+    klasse: 5
+    unit_nr: 2
+    slug: my-family
+    title: Unit 2 — My Family
+  - track: gm
+    klasse: 5
+    unit_nr: 3
+    slug: home-and-room
+    title: Unit 3 — Home and My Room
+  - track: gm
+    klasse: 5
+    unit_nr: 5
+    slug: food-and-drinks
+    title: Unit 5 — Food and Drinks
+  - track: gm
+    klasse: 5
+    unit_nr: 6
+    slug: animals-and-pets
+    title: Unit 6 — Animals and Pets
+  - track: gm
+    klasse: 5
+    unit_nr: 7
+    slug: weather-and-seasons
+    title: Unit 7 — Weather and Seasons
+  - track: gm
+    klasse: 5
+    unit_nr: 8
+    slug: hobbies-and-sports
+    title: Unit 8 — Hobbies and Sports
+  - track: gm
+    klasse: 5
+    unit_nr: 11
+    slug: clothes-and-colours
+    title: Unit 11 — Clothes and Colours
+  - track: gm
+    klasse: 6
+    unit_nr: 3
+    slug: in-the-city
+    title: Unit 3 — In the City
+  - track: gm
+    klasse: 6
+    unit_nr: 6
+    slug: friends-and-feelings
+    title: Unit 6 — Friends and Feelings
+  - track: gm
+    klasse: 6
+    unit_nr: 9
+    slug: body-and-health
+    title: Unit 9 — Body and Health
+  - track: gm
+    klasse: 6
+    unit_nr: 10
+    slug: travelling-by-train
+    title: Unit 10 — Travelling by Train
+  - track: e
+    klasse: 5
+    unit_nr: 2
+    slug: my-family
+    title: Unit 2 — My Family
+  - track: e
+    klasse: 5
+    unit_nr: 3
+    slug: home-and-room
+    title: Unit 3 — Home and My Room
+  - track: e
+    klasse: 5
+    unit_nr: 5
+    slug: food-and-drinks
+    title: Unit 5 — Food and Drinks
+  - track: e
+    klasse: 5
+    unit_nr: 6
+    slug: animals-and-pets
+    title: Unit 6 — Animals and Pets
+  - track: e
+    klasse: 5
+    unit_nr: 7
+    slug: weather-and-seasons
+    title: Unit 7 — Weather and Seasons
+  - track: e
+    klasse: 5
+    unit_nr: 8
+    slug: hobbies-and-sports
+    title: Unit 8 — Hobbies and Sports
+  - track: e
+    klasse: 5
+    unit_nr: 11
+    slug: clothes-and-colours
+    title: Unit 11 — Clothes and Colours
+  - track: e
+    klasse: 6
+    unit_nr: 3
+    slug: in-the-city
+    title: Unit 3 — In the City
+  - track: e
+    klasse: 6
+    unit_nr: 6
+    slug: friends-and-feelings
+    title: Unit 6 — Friends and Feelings
+  - track: e
+    klasse: 6
+    unit_nr: 9
+    slug: body-and-health
+    title: Unit 9 — Body and Health
+  - track: e
+    klasse: 6
+    unit_nr: 10
+    slug: travelling-by-train
+    title: Unit 10 — Travelling by Train
+  3.1.3.8:
+  - track: gm
+    klasse: 5
+    unit_nr: 1
+    slug: hello-world
+    title: Unit 1 — Hello World
+  - track: gm
+    klasse: 5
+    unit_nr: 2
+    slug: my-family
+    title: Unit 2 — My Family
+  - track: gm
+    klasse: 5
+    unit_nr: 3
+    slug: home-and-room
+    title: Unit 3 — Home and My Room
+  - track: gm
+    klasse: 5
+    unit_nr: 4
+    slug: school-day
+    title: Unit 4 — A School Day
+  - track: gm
+    klasse: 5
+    unit_nr: 6
+    slug: animals-and-pets
+    title: Unit 6 — Animals and Pets
+  - track: gm
+    klasse: 5
+    unit_nr: 9
+    slug: birthday-and-friends
+    title: Unit 9 — Birthday and Friends
+  - track: gm
+    klasse: 6
+    unit_nr: 1
+    slug: a-new-year-at-school
+    title: Unit 1 — A New Year at School
+  - track: gm
+    klasse: 6
+    unit_nr: 5
+    slug: daily-routines
+    title: Unit 5 — Daily Routines
+  - track: gm
+    klasse: 6
+    unit_nr: 7
+    slug: an-adventure-story
+    title: Unit 7 — An Adventure Story
+  - track: gm
+    klasse: 6
+    unit_nr: 11
+    slug: captain-codys-map
+    title: Unit 11 — Captain Cody's Map
+  - track: e
+    klasse: 5
+    unit_nr: 1
+    slug: hello-world
+    title: Unit 1 — Hello World
+  - track: e
+    klasse: 5
+    unit_nr: 2
+    slug: my-family
+    title: Unit 2 — My Family
+  - track: e
+    klasse: 5
+    unit_nr: 4
+    slug: school-day
+    title: Unit 4 — A School Day
+  - track: e
+    klasse: 5
+    unit_nr: 6
+    slug: animals-and-pets
+    title: Unit 6 — Animals and Pets
+  - track: e
+    klasse: 5
+    unit_nr: 9
+    slug: birthday-and-friends
+    title: Unit 9 — Birthday and Friends
+  - track: e
+    klasse: 5
+    unit_nr: 11
+    slug: clothes-and-colours
+    title: Unit 11 — Clothes and Colours
+  - track: e
+    klasse: 6
+    unit_nr: 1
+    slug: a-new-year-at-school
+    title: Unit 1 — A New Year at School
+  - track: e
+    klasse: 6
+    unit_nr: 2
+    slug: on-holiday
+    title: Unit 2 — On Holiday
+  - track: e
+    klasse: 6
+    unit_nr: 5
+    slug: daily-routines
+    title: Unit 5 — Daily Routines
+  - track: e
+    klasse: 6
+    unit_nr: 7
+    slug: an-adventure-story
+    title: Unit 7 — An Adventure Story
+  - track: e
+    klasse: 6
+    unit_nr: 11
+    slug: captain-codys-map
+    title: Unit 11 — Captain Cody's Map
+  3.1.4:
+  - track: gm
+    klasse: 5
+    unit_nr: 10
+    slug: a-day-in-london
+    title: Unit 10 — A Day in London
+  - track: gm
+    klasse: 5
+    unit_nr: 12
+    slug: review-and-show
+    title: Unit 12 — Review and Show
+  - track: gm
+    klasse: 6
+    unit_nr: 4
+    slug: food-around-the-world
+    title: Unit 4 — Food Around the World
+  - track: gm
+    klasse: 6
+    unit_nr: 7
+    slug: an-adventure-story
+    title: Unit 7 — An Adventure Story
+  - track: gm
+    klasse: 6
+    unit_nr: 8
+    slug: school-around-the-world
+    title: Unit 8 — School Around the World
+  - track: gm
+    klasse: 6
+    unit_nr: 11
+    slug: captain-codys-map
+    title: Unit 11 — Captain Cody's Map
+  - track: gm
+    klasse: 6
+    unit_nr: 12
+    slug: year-end-festival
+    title: Unit 12 — Year-End Festival
+  - track: e
+    klasse: 5
+    unit_nr: 10
+    slug: a-day-in-london
+    title: Unit 10 — A Day in London
+  - track: e
+    klasse: 5
+    unit_nr: 12
+    slug: review-and-show
+    title: Unit 12 — Review and Show
+  - track: e
+    klasse: 6
+    unit_nr: 4
+    slug: food-around-the-world
+    title: Unit 4 — Food Around the World
+  - track: e
+    klasse: 6
+    unit_nr: 7
+    slug: an-adventure-story
+    title: Unit 7 — An Adventure Story
+  - track: e
+    klasse: 6
+    unit_nr: 8
+    slug: school-around-the-world
+    title: Unit 8 — School Around the World
+  - track: e
+    klasse: 6
+    unit_nr: 11
+    slug: captain-codys-map
+    title: Unit 11 — Captain Cody's Map
+  - track: e
+    klasse: 6
+    unit_nr: 12
+    slug: year-end-festival
+    title: Unit 12 — Year-End Festival
+  3.2.1:
+  - track: gm
+    klasse: 7
+    unit_nr: 1
+    slug: first-day-back
+    title: Unit 1 — First Day Back
+  - track: gm
+    klasse: 7
+    unit_nr: 2
+    slug: growing-up
+    title: Unit 2 — Growing Up
+  - track: gm
+    klasse: 7
+    unit_nr: 3
+    slug: media-in-our-lives
+    title: Unit 3 — Media in Our Lives
+  - track: gm
+    klasse: 7
+    unit_nr: 4
+    slug: a-trip-to-scotland
+    title: Unit 4 — A Trip to Scotland
+  - track: gm
+    klasse: 7
+    unit_nr: 5
+    slug: the-united-states-today
+    title: Unit 5 — The United States Today
+  - track: gm
+    klasse: 7
+    unit_nr: 6
+    slug: food-cultures
+    title: Unit 6 — Food Cultures
+  - track: gm
+    klasse: 7
+    unit_nr: 7
+    slug: being-a-friend
+    title: Unit 7 — Being a Friend
+  - track: gm
+    klasse: 7
+    unit_nr: 8
+    slug: first-mediation
+    title: 'Unit 8 — Erste Mediation: A German E-mail'
+  - track: gm
+    klasse: 7
+    unit_nr: 9
+    slug: school-rules-and-rights
+    title: Unit 9 — School Rules and Rights
+  - track: gm
+    klasse: 7
+    unit_nr: 10
+    slug: a-short-story
+    title: Unit 10 — Reading a Short Story
+  - track: gm
+    klasse: 7
+    unit_nr: 11
+    slug: plans-for-the-summer
+    title: Unit 11 — Plans for the Summer
+  - track: gm
+    klasse: 7
+    unit_nr: 12
+    slug: year-review-and-podcast
+    title: 'Unit 12 — Year Review: A Class Podcast'
+  - track: gm
+    klasse: 8
+    unit_nr: 1
+    slug: identities
+    title: Unit 1 — Identities
+  - track: gm
+    klasse: 8
+    unit_nr: 2
+    slug: school-life-elsewhere
+    title: Unit 2 — School Life Elsewhere
+  - track: gm
+    klasse: 8
+    unit_nr: 3
+    slug: fairness-at-school
+    title: Unit 3 — Fairness at School
+  - track: gm
+    klasse: 8
+    unit_nr: 4
+    slug: ireland-stories
+    title: 'Unit 4 — Ireland: Stories from the Island'
+  - track: gm
+    klasse: 8
+    unit_nr: 5
+    slug: digital-friendships
+    title: Unit 5 — Digital Friendships
+  - track: gm
+    klasse: 8
+    unit_nr: 6
+    slug: opinion-writing
+    title: Unit 6 — Writing an Opinion
+  - track: gm
+    klasse: 8
+    unit_nr: 7
+    slug: teen-magazine-mediation
+    title: 'Unit 7 — Mediation: A Teen Magazine'
+  - track: gm
+    klasse: 8
+    unit_nr: 8
+    slug: music-and-belonging
+    title: Unit 8 — Music and Belonging
+  - track: gm
+    klasse: 8
+    unit_nr: 9
+    slug: rural-and-urban
+    title: Unit 9 — Rural and Urban Lives
+  - track: gm
+    klasse: 8
+    unit_nr: 10
+    slug: a-novella-in-class
+    title: Unit 10 — A Novella in Class
+  - track: gm
+    klasse: 8
+    unit_nr: 11
+    slug: public-speaking
+    title: 'Unit 11 — Public Speaking: A Short Talk'
+  - track: gm
+    klasse: 8
+    unit_nr: 12
+    slug: school-magazine-issue
+    title: Unit 12 — Class Magazine Issue
+  - track: gm
+    klasse: 9
+    unit_nr: 1
+    slug: future-careers
+    title: Unit 1 — Future Careers
+  - track: gm
+    klasse: 9
+    unit_nr: 2
+    slug: money-and-choices
+    title: Unit 2 — Money and Choices
+  - track: gm
+    klasse: 9
+    unit_nr: 3
+    slug: the-environment-locally
+    title: Unit 3 — The Environment, Locally
+  - track: gm
+    klasse: 9
+    unit_nr: 4
+    slug: canada-perspectives
+    title: 'Unit 4 — Canada: Perspectives'
+  - track: gm
+    klasse: 9
+    unit_nr: 5
+    slug: media-literacy
+    title: Unit 5 — Media Literacy
+  - track: gm
+    klasse: 9
+    unit_nr: 6
+    slug: interview-and-portrait
+    title: Unit 6 — Interview and Portrait
+  - track: gm
+    klasse: 9
+    unit_nr: 7
+    slug: mediation-news-article
+    title: 'Unit 7 — Mediation: A German News Article'
+  - track: gm
+    klasse: 9
+    unit_nr: 8
+    slug: inequality-and-voice
+    title: Unit 8 — Inequality and Voice
+  - track: gm
+    klasse: 9
+    unit_nr: 9
+    slug: short-fiction
+    title: Unit 9 — Short Fiction in the Classroom
+  - track: gm
+    klasse: 9
+    unit_nr: 10
+    slug: application-letter
+    title: Unit 10 — Writing an Application Letter
+  - track: gm
+    klasse: 9
+    unit_nr: 11
+    slug: debate-and-discussion
+    title: Unit 11 — Debate and Discussion
+  - track: gm
+    klasse: 9
+    unit_nr: 12
+    slug: year-review-portfolio
+    title: 'Unit 12 — Year Review: Portfolio'
+  - track: e
+    klasse: 7
+    unit_nr: 1
+    slug: first-day-back
+    title: Unit 1 — First Day Back
+  - track: e
+    klasse: 7
+    unit_nr: 2
+    slug: growing-up
+    title: Unit 2 — Growing Up
+  - track: e
+    klasse: 7
+    unit_nr: 3
+    slug: media-in-our-lives
+    title: Unit 3 — Media in Our Lives
+  - track: e
+    klasse: 7
+    unit_nr: 4
+    slug: a-trip-to-scotland
+    title: Unit 4 — A Trip to Scotland
+  - track: e
+    klasse: 7
+    unit_nr: 5
+    slug: the-united-states-today
+    title: Unit 5 — The United States Today
+  - track: e
+    klasse: 7
+    unit_nr: 6
+    slug: food-cultures
+    title: Unit 6 — Food Cultures
+  - track: e
+    klasse: 7
+    unit_nr: 7
+    slug: being-a-friend
+    title: Unit 7 — Being a Friend
+  - track: e
+    klasse: 7
+    unit_nr: 8
+    slug: first-mediation
+    title: 'Unit 8 — Erste Mediation: A German E-mail'
+  - track: e
+    klasse: 7
+    unit_nr: 9
+    slug: school-rules-and-rights
+    title: Unit 9 — School Rules and Rights
+  - track: e
+    klasse: 7
+    unit_nr: 10
+    slug: a-short-story
+    title: Unit 10 — Reading a Short Story
+  - track: e
+    klasse: 7
+    unit_nr: 11
+    slug: plans-for-the-summer
+    title: Unit 11 — Plans for the Summer
+  - track: e
+    klasse: 7
+    unit_nr: 12
+    slug: year-review-and-podcast
+    title: 'Unit 12 — Year Review: A Class Podcast'
+  - track: e
+    klasse: 8
+    unit_nr: 1
+    slug: identities
+    title: Unit 1 — Identities
+  - track: e
+    klasse: 8
+    unit_nr: 2
+    slug: school-life-elsewhere
+    title: Unit 2 — School Life Elsewhere
+  - track: e
+    klasse: 8
+    unit_nr: 3
+    slug: fairness-at-school
+    title: Unit 3 — Fairness at School
+  - track: e
+    klasse: 8
+    unit_nr: 4
+    slug: ireland-stories
+    title: 'Unit 4 — Ireland: Stories from the Island'
+  - track: e
+    klasse: 8
+    unit_nr: 5
+    slug: digital-friendships
+    title: Unit 5 — Digital Friendships
+  - track: e
+    klasse: 8
+    unit_nr: 6
+    slug: opinion-writing
+    title: Unit 6 — Writing an Opinion
+  - track: e
+    klasse: 8
+    unit_nr: 7
+    slug: teen-magazine-mediation
+    title: 'Unit 7 — Mediation: A Teen Magazine'
+  - track: e
+    klasse: 8
+    unit_nr: 8
+    slug: music-and-belonging
+    title: Unit 8 — Music and Belonging
+  - track: e
+    klasse: 8
+    unit_nr: 9
+    slug: rural-and-urban
+    title: Unit 9 — Rural and Urban Lives
+  - track: e
+    klasse: 8
+    unit_nr: 10
+    slug: a-novella-in-class
+    title: Unit 10 — A Novella in Class
+  - track: e
+    klasse: 8
+    unit_nr: 11
+    slug: public-speaking
+    title: 'Unit 11 — Public Speaking: A Short Talk'
+  - track: e
+    klasse: 8
+    unit_nr: 12
+    slug: school-magazine-issue
+    title: Unit 12 — Class Magazine Issue
+  - track: e
+    klasse: 9
+    unit_nr: 1
+    slug: future-careers
+    title: Unit 1 — Future Careers
+  - track: e
+    klasse: 9
+    unit_nr: 2
+    slug: money-and-choices
+    title: Unit 2 — Money and Choices
+  - track: e
+    klasse: 9
+    unit_nr: 3
+    slug: the-environment-locally
+    title: Unit 3 — The Environment, Locally
+  - track: e
+    klasse: 9
+    unit_nr: 4
+    slug: canada-perspectives
+    title: 'Unit 4 — Canada: Perspectives'
+  - track: e
+    klasse: 9
+    unit_nr: 5
+    slug: media-literacy
+    title: Unit 5 — Media Literacy
+  - track: e
+    klasse: 9
+    unit_nr: 6
+    slug: interview-and-portrait
+    title: Unit 6 — Interview and Portrait
+  - track: e
+    klasse: 9
+    unit_nr: 7
+    slug: mediation-news-article
+    title: 'Unit 7 — Mediation: A German News Article'
+  - track: e
+    klasse: 9
+    unit_nr: 8
+    slug: inequality-and-voice
+    title: Unit 8 — Inequality and Voice
+  - track: e
+    klasse: 9
+    unit_nr: 9
+    slug: short-fiction
+    title: Unit 9 — Short Fiction in the Classroom
+  - track: e
+    klasse: 9
+    unit_nr: 10
+    slug: application-letter
+    title: Unit 10 — Writing an Application Letter
+  - track: e
+    klasse: 9
+    unit_nr: 11
+    slug: debate-and-discussion
+    title: Unit 11 — Debate and Discussion
+  - track: e
+    klasse: 9
+    unit_nr: 12
+    slug: year-review-portfolio
+    title: 'Unit 12 — Year Review: Portfolio'
+  3.2.2:
+  - track: gm
+    klasse: 7
+    unit_nr: 4
+    slug: a-trip-to-scotland
+    title: Unit 4 — A Trip to Scotland
+  - track: gm
+    klasse: 7
+    unit_nr: 5
+    slug: the-united-states-today
+    title: Unit 5 — The United States Today
+  - track: gm
+    klasse: 7
+    unit_nr: 6
+    slug: food-cultures
+    title: Unit 6 — Food Cultures
+  - track: gm
+    klasse: 7
+    unit_nr: 9
+    slug: school-rules-and-rights
+    title: Unit 9 — School Rules and Rights
+  - track: gm
+    klasse: 8
+    unit_nr: 1
+    slug: identities
+    title: Unit 1 — Identities
+  - track: gm
+    klasse: 8
+    unit_nr: 2
+    slug: school-life-elsewhere
+    title: Unit 2 — School Life Elsewhere
+  - track: gm
+    klasse: 8
+    unit_nr: 4
+    slug: ireland-stories
+    title: 'Unit 4 — Ireland: Stories from the Island'
+  - track: gm
+    klasse: 8
+    unit_nr: 8
+    slug: music-and-belonging
+    title: Unit 8 — Music and Belonging
+  - track: gm
+    klasse: 8
+    unit_nr: 9
+    slug: rural-and-urban
+    title: Unit 9 — Rural and Urban Lives
+  - track: gm
+    klasse: 9
+    unit_nr: 3
+    slug: the-environment-locally
+    title: Unit 3 — The Environment, Locally
+  - track: gm
+    klasse: 9
+    unit_nr: 4
+    slug: canada-perspectives
+    title: 'Unit 4 — Canada: Perspectives'
+  - track: gm
+    klasse: 9
+    unit_nr: 8
+    slug: inequality-and-voice
+    title: Unit 8 — Inequality and Voice
+  - track: e
+    klasse: 7
+    unit_nr: 4
+    slug: a-trip-to-scotland
+    title: Unit 4 — A Trip to Scotland
+  - track: e
+    klasse: 7
+    unit_nr: 5
+    slug: the-united-states-today
+    title: Unit 5 — The United States Today
+  - track: e
+    klasse: 7
+    unit_nr: 6
+    slug: food-cultures
+    title: Unit 6 — Food Cultures
+  - track: e
+    klasse: 7
+    unit_nr: 9
+    slug: school-rules-and-rights
+    title: Unit 9 — School Rules and Rights
+  - track: e
+    klasse: 8
+    unit_nr: 1
+    slug: identities
+    title: Unit 1 — Identities
+  - track: e
+    klasse: 8
+    unit_nr: 2
+    slug: school-life-elsewhere
+    title: Unit 2 — School Life Elsewhere
+  - track: e
+    klasse: 8
+    unit_nr: 4
+    slug: ireland-stories
+    title: 'Unit 4 — Ireland: Stories from the Island'
+  - track: e
+    klasse: 8
+    unit_nr: 8
+    slug: music-and-belonging
+    title: Unit 8 — Music and Belonging
+  - track: e
+    klasse: 8
+    unit_nr: 9
+    slug: rural-and-urban
+    title: Unit 9 — Rural and Urban Lives
+  - track: e
+    klasse: 9
+    unit_nr: 3
+    slug: the-environment-locally
+    title: Unit 3 — The Environment, Locally
+  - track: e
+    klasse: 9
+    unit_nr: 4
+    slug: canada-perspectives
+    title: 'Unit 4 — Canada: Perspectives'
+  - track: e
+    klasse: 9
+    unit_nr: 8
+    slug: inequality-and-voice
+    title: Unit 8 — Inequality and Voice
+  3.2.3.1:
+  - track: gm
+    klasse: 7
+    unit_nr: 1
+    slug: first-day-back
+    title: Unit 1 — First Day Back
+  - track: gm
+    klasse: 7
+    unit_nr: 3
+    slug: media-in-our-lives
+    title: Unit 3 — Media in Our Lives
+  - track: gm
+    klasse: 7
+    unit_nr: 4
+    slug: a-trip-to-scotland
+    title: Unit 4 — A Trip to Scotland
+  - track: gm
+    klasse: 7
+    unit_nr: 7
+    slug: being-a-friend
+    title: Unit 7 — Being a Friend
+  - track: gm
+    klasse: 7
+    unit_nr: 11
+    slug: plans-for-the-summer
+    title: Unit 11 — Plans for the Summer
+  - track: gm
+    klasse: 8
+    unit_nr: 5
+    slug: digital-friendships
+    title: Unit 5 — Digital Friendships
+  - track: gm
+    klasse: 8
+    unit_nr: 8
+    slug: music-and-belonging
+    title: Unit 8 — Music and Belonging
+  - track: gm
+    klasse: 8
+    unit_nr: 11
+    slug: public-speaking
+    title: 'Unit 11 — Public Speaking: A Short Talk'
+  - track: gm
+    klasse: 9
+    unit_nr: 5
+    slug: media-literacy
+    title: Unit 5 — Media Literacy
+  - track: gm
+    klasse: 9
+    unit_nr: 11
+    slug: debate-and-discussion
+    title: Unit 11 — Debate and Discussion
+  - track: e
+    klasse: 7
+    unit_nr: 1
+    slug: first-day-back
+    title: Unit 1 — First Day Back
+  - track: e
+    klasse: 7
+    unit_nr: 3
+    slug: media-in-our-lives
+    title: Unit 3 — Media in Our Lives
+  - track: e
+    klasse: 7
+    unit_nr: 4
+    slug: a-trip-to-scotland
+    title: Unit 4 — A Trip to Scotland
+  - track: e
+    klasse: 7
+    unit_nr: 7
+    slug: being-a-friend
+    title: Unit 7 — Being a Friend
+  - track: e
+    klasse: 7
+    unit_nr: 11
+    slug: plans-for-the-summer
+    title: Unit 11 — Plans for the Summer
+  - track: e
+    klasse: 8
+    unit_nr: 5
+    slug: digital-friendships
+    title: Unit 5 — Digital Friendships
+  - track: e
+    klasse: 8
+    unit_nr: 8
+    slug: music-and-belonging
+    title: Unit 8 — Music and Belonging
+  - track: e
+    klasse: 8
+    unit_nr: 11
+    slug: public-speaking
+    title: 'Unit 11 — Public Speaking: A Short Talk'
+  - track: e
+    klasse: 9
+    unit_nr: 5
+    slug: media-literacy
+    title: Unit 5 — Media Literacy
+  - track: e
+    klasse: 9
+    unit_nr: 11
+    slug: debate-and-discussion
+    title: Unit 11 — Debate and Discussion
+  3.2.3.2:
+  - track: gm
+    klasse: 7
+    unit_nr: 2
+    slug: growing-up
+    title: Unit 2 — Growing Up
+  - track: gm
+    klasse: 7
+    unit_nr: 4
+    slug: a-trip-to-scotland
+    title: Unit 4 — A Trip to Scotland
+  - track: gm
+    klasse: 7
+    unit_nr: 5
+    slug: the-united-states-today
+    title: Unit 5 — The United States Today
+  - track: gm
+    klasse: 7
+    unit_nr: 6
+    slug: food-cultures
+    title: Unit 6 — Food Cultures
+  - track: gm
+    klasse: 7
+    unit_nr: 9
+    slug: school-rules-and-rights
+    title: Unit 9 — School Rules and Rights
+  - track: gm
+    klasse: 7
+    unit_nr: 10
+    slug: a-short-story
+    title: Unit 10 — Reading a Short Story
+  - track: gm
+    klasse: 8
+    unit_nr: 1
+    slug: identities
+    title: Unit 1 — Identities
+  - track: gm
+    klasse: 8
+    unit_nr: 2
+    slug: school-life-elsewhere
+    title: Unit 2 — School Life Elsewhere
+  - track: gm
+    klasse: 8
+    unit_nr: 4
+    slug: ireland-stories
+    title: 'Unit 4 — Ireland: Stories from the Island'
+  - track: gm
+    klasse: 8
+    unit_nr: 6
+    slug: opinion-writing
+    title: Unit 6 — Writing an Opinion
+  - track: gm
+    klasse: 8
+    unit_nr: 9
+    slug: rural-and-urban
+    title: Unit 9 — Rural and Urban Lives
+  - track: gm
+    klasse: 8
+    unit_nr: 10
+    slug: a-novella-in-class
+    title: Unit 10 — A Novella in Class
+  - track: gm
+    klasse: 9
+    unit_nr: 1
+    slug: future-careers
+    title: Unit 1 — Future Careers
+  - track: gm
+    klasse: 9
+    unit_nr: 2
+    slug: money-and-choices
+    title: Unit 2 — Money and Choices
+  - track: gm
+    klasse: 9
+    unit_nr: 3
+    slug: the-environment-locally
+    title: Unit 3 — The Environment, Locally
+  - track: gm
+    klasse: 9
+    unit_nr: 4
+    slug: canada-perspectives
+    title: 'Unit 4 — Canada: Perspectives'
+  - track: gm
+    klasse: 9
+    unit_nr: 5
+    slug: media-literacy
+    title: Unit 5 — Media Literacy
+  - track: gm
+    klasse: 9
+    unit_nr: 8
+    slug: inequality-and-voice
+    title: Unit 8 — Inequality and Voice
+  - track: gm
+    klasse: 9
+    unit_nr: 9
+    slug: short-fiction
+    title: Unit 9 — Short Fiction in the Classroom
+  - track: gm
+    klasse: 9
+    unit_nr: 10
+    slug: application-letter
+    title: Unit 10 — Writing an Application Letter
+  - track: e
+    klasse: 7
+    unit_nr: 2
+    slug: growing-up
+    title: Unit 2 — Growing Up
+  - track: e
+    klasse: 7
+    unit_nr: 4
+    slug: a-trip-to-scotland
+    title: Unit 4 — A Trip to Scotland
+  - track: e
+    klasse: 7
+    unit_nr: 5
+    slug: the-united-states-today
+    title: Unit 5 — The United States Today
+  - track: e
+    klasse: 7
+    unit_nr: 6
+    slug: food-cultures
+    title: Unit 6 — Food Cultures
+  - track: e
+    klasse: 7
+    unit_nr: 9
+    slug: school-rules-and-rights
+    title: Unit 9 — School Rules and Rights
+  - track: e
+    klasse: 7
+    unit_nr: 10
+    slug: a-short-story
+    title: Unit 10 — Reading a Short Story
+  - track: e
+    klasse: 8
+    unit_nr: 1
+    slug: identities
+    title: Unit 1 — Identities
+  - track: e
+    klasse: 8
+    unit_nr: 2
+    slug: school-life-elsewhere
+    title: Unit 2 — School Life Elsewhere
+  - track: e
+    klasse: 8
+    unit_nr: 4
+    slug: ireland-stories
+    title: 'Unit 4 — Ireland: Stories from the Island'
+  - track: e
+    klasse: 8
+    unit_nr: 6
+    slug: opinion-writing
+    title: Unit 6 — Writing an Opinion
+  - track: e
+    klasse: 8
+    unit_nr: 9
+    slug: rural-and-urban
+    title: Unit 9 — Rural and Urban Lives
+  - track: e
+    klasse: 8
+    unit_nr: 10
+    slug: a-novella-in-class
+    title: Unit 10 — A Novella in Class
+  - track: e
+    klasse: 9
+    unit_nr: 1
+    slug: future-careers
+    title: Unit 1 — Future Careers
+  - track: e
+    klasse: 9
+    unit_nr: 2
+    slug: money-and-choices
+    title: Unit 2 — Money and Choices
+  - track: e
+    klasse: 9
+    unit_nr: 3
+    slug: the-environment-locally
+    title: Unit 3 — The Environment, Locally
+  - track: e
+    klasse: 9
+    unit_nr: 4
+    slug: canada-perspectives
+    title: 'Unit 4 — Canada: Perspectives'
+  - track: e
+    klasse: 9
+    unit_nr: 5
+    slug: media-literacy
+    title: Unit 5 — Media Literacy
+  - track: e
+    klasse: 9
+    unit_nr: 8
+    slug: inequality-and-voice
+    title: Unit 8 — Inequality and Voice
+  - track: e
+    klasse: 9
+    unit_nr: 9
+    slug: short-fiction
+    title: Unit 9 — Short Fiction in the Classroom
+  - track: e
+    klasse: 9
+    unit_nr: 10
+    slug: application-letter
+    title: Unit 10 — Writing an Application Letter
+  3.2.3.3:
+  - track: gm
+    klasse: 7
+    unit_nr: 1
+    slug: first-day-back
+    title: Unit 1 — First Day Back
+  - track: gm
+    klasse: 7
+    unit_nr: 6
+    slug: food-cultures
+    title: Unit 6 — Food Cultures
+  - track: gm
+    klasse: 7
+    unit_nr: 7
+    slug: being-a-friend
+    title: Unit 7 — Being a Friend
+  - track: gm
+    klasse: 7
+    unit_nr: 11
+    slug: plans-for-the-summer
+    title: Unit 11 — Plans for the Summer
+  - track: gm
+    klasse: 7
+    unit_nr: 12
+    slug: year-review-and-podcast
+    title: 'Unit 12 — Year Review: A Class Podcast'
+  - track: gm
+    klasse: 8
+    unit_nr: 2
+    slug: school-life-elsewhere
+    title: Unit 2 — School Life Elsewhere
+  - track: gm
+    klasse: 8
+    unit_nr: 3
+    slug: fairness-at-school
+    title: Unit 3 — Fairness at School
+  - track: gm
+    klasse: 8
+    unit_nr: 8
+    slug: music-and-belonging
+    title: Unit 8 — Music and Belonging
+  - track: gm
+    klasse: 9
+    unit_nr: 1
+    slug: future-careers
+    title: Unit 1 — Future Careers
+  - track: gm
+    klasse: 9
+    unit_nr: 6
+    slug: interview-and-portrait
+    title: Unit 6 — Interview and Portrait
+  - track: gm
+    klasse: 9
+    unit_nr: 11
+    slug: debate-and-discussion
+    title: Unit 11 — Debate and Discussion
+  - track: e
+    klasse: 7
+    unit_nr: 1
+    slug: first-day-back
+    title: Unit 1 — First Day Back
+  - track: e
+    klasse: 7
+    unit_nr: 6
+    slug: food-cultures
+    title: Unit 6 — Food Cultures
+  - track: e
+    klasse: 7
+    unit_nr: 7
+    slug: being-a-friend
+    title: Unit 7 — Being a Friend
+  - track: e
+    klasse: 7
+    unit_nr: 11
+    slug: plans-for-the-summer
+    title: Unit 11 — Plans for the Summer
+  - track: e
+    klasse: 7
+    unit_nr: 12
+    slug: year-review-and-podcast
+    title: 'Unit 12 — Year Review: A Class Podcast'
+  - track: e
+    klasse: 8
+    unit_nr: 2
+    slug: school-life-elsewhere
+    title: Unit 2 — School Life Elsewhere
+  - track: e
+    klasse: 8
+    unit_nr: 3
+    slug: fairness-at-school
+    title: Unit 3 — Fairness at School
+  - track: e
+    klasse: 8
+    unit_nr: 8
+    slug: music-and-belonging
+    title: Unit 8 — Music and Belonging
+  - track: e
+    klasse: 9
+    unit_nr: 1
+    slug: future-careers
+    title: Unit 1 — Future Careers
+  - track: e
+    klasse: 9
+    unit_nr: 6
+    slug: interview-and-portrait
+    title: Unit 6 — Interview and Portrait
+  - track: e
+    klasse: 9
+    unit_nr: 11
+    slug: debate-and-discussion
+    title: Unit 11 — Debate and Discussion
+  3.2.3.4:
+  - track: gm
+    klasse: 7
+    unit_nr: 12
+    slug: year-review-and-podcast
+    title: 'Unit 12 — Year Review: A Class Podcast'
+  - track: gm
+    klasse: 8
+    unit_nr: 11
+    slug: public-speaking
+    title: 'Unit 11 — Public Speaking: A Short Talk'
+  - track: gm
+    klasse: 8
+    unit_nr: 12
+    slug: school-magazine-issue
+    title: Unit 12 — Class Magazine Issue
+  - track: gm
+    klasse: 9
+    unit_nr: 11
+    slug: debate-and-discussion
+    title: Unit 11 — Debate and Discussion
+  - track: gm
+    klasse: 9
+    unit_nr: 12
+    slug: year-review-portfolio
+    title: 'Unit 12 — Year Review: Portfolio'
+  - track: e
+    klasse: 7
+    unit_nr: 12
+    slug: year-review-and-podcast
+    title: 'Unit 12 — Year Review: A Class Podcast'
+  - track: e
+    klasse: 8
+    unit_nr: 11
+    slug: public-speaking
+    title: 'Unit 11 — Public Speaking: A Short Talk'
+  - track: e
+    klasse: 8
+    unit_nr: 12
+    slug: school-magazine-issue
+    title: Unit 12 — Class Magazine Issue
+  - track: e
+    klasse: 9
+    unit_nr: 11
+    slug: debate-and-discussion
+    title: Unit 11 — Debate and Discussion
+  - track: e
+    klasse: 9
+    unit_nr: 12
+    slug: year-review-portfolio
+    title: 'Unit 12 — Year Review: Portfolio'
+  3.2.3.5:
+  - track: gm
+    klasse: 7
+    unit_nr: 1
+    slug: first-day-back
+    title: Unit 1 — First Day Back
+  - track: gm
+    klasse: 7
+    unit_nr: 2
+    slug: growing-up
+    title: Unit 2 — Growing Up
+  - track: gm
+    klasse: 7
+    unit_nr: 3
+    slug: media-in-our-lives
+    title: Unit 3 — Media in Our Lives
+  - track: gm
+    klasse: 7
+    unit_nr: 5
+    slug: the-united-states-today
+    title: Unit 5 — The United States Today
+  - track: gm
+    klasse: 7
+    unit_nr: 7
+    slug: being-a-friend
+    title: Unit 7 — Being a Friend
+  - track: gm
+    klasse: 7
+    unit_nr: 8
+    slug: first-mediation
+    title: 'Unit 8 — Erste Mediation: A German E-mail'
+  - track: gm
+    klasse: 7
+    unit_nr: 9
+    slug: school-rules-and-rights
+    title: Unit 9 — School Rules and Rights
+  - track: gm
+    klasse: 7
+    unit_nr: 10
+    slug: a-short-story
+    title: Unit 10 — Reading a Short Story
+  - track: gm
+    klasse: 7
+    unit_nr: 11
+    slug: plans-for-the-summer
+    title: Unit 11 — Plans for the Summer
+  - track: gm
+    klasse: 7
+    unit_nr: 12
+    slug: year-review-and-podcast
+    title: 'Unit 12 — Year Review: A Class Podcast'
+  - track: gm
+    klasse: 8
+    unit_nr: 1
+    slug: identities
+    title: Unit 1 — Identities
+  - track: gm
+    klasse: 8
+    unit_nr: 3
+    slug: fairness-at-school
+    title: Unit 3 — Fairness at School
+  - track: gm
+    klasse: 8
+    unit_nr: 4
+    slug: ireland-stories
+    title: 'Unit 4 — Ireland: Stories from the Island'
+  - track: gm
+    klasse: 8
+    unit_nr: 5
+    slug: digital-friendships
+    title: Unit 5 — Digital Friendships
+  - track: gm
+    klasse: 8
+    unit_nr: 6
+    slug: opinion-writing
+    title: Unit 6 — Writing an Opinion
+  - track: gm
+    klasse: 8
+    unit_nr: 7
+    slug: teen-magazine-mediation
+    title: 'Unit 7 — Mediation: A Teen Magazine'
+  - track: gm
+    klasse: 8
+    unit_nr: 9
+    slug: rural-and-urban
+    title: Unit 9 — Rural and Urban Lives
+  - track: gm
+    klasse: 8
+    unit_nr: 10
+    slug: a-novella-in-class
+    title: Unit 10 — A Novella in Class
+  - track: gm
+    klasse: 8
+    unit_nr: 12
+    slug: school-magazine-issue
+    title: Unit 12 — Class Magazine Issue
+  - track: gm
+    klasse: 9
+    unit_nr: 2
+    slug: money-and-choices
+    title: Unit 2 — Money and Choices
+  - track: gm
+    klasse: 9
+    unit_nr: 3
+    slug: the-environment-locally
+    title: Unit 3 — The Environment, Locally
+  - track: gm
+    klasse: 9
+    unit_nr: 4
+    slug: canada-perspectives
+    title: 'Unit 4 — Canada: Perspectives'
+  - track: gm
+    klasse: 9
+    unit_nr: 6
+    slug: interview-and-portrait
+    title: Unit 6 — Interview and Portrait
+  - track: gm
+    klasse: 9
+    unit_nr: 7
+    slug: mediation-news-article
+    title: 'Unit 7 — Mediation: A German News Article'
+  - track: gm
+    klasse: 9
+    unit_nr: 8
+    slug: inequality-and-voice
+    title: Unit 8 — Inequality and Voice
+  - track: gm
+    klasse: 9
+    unit_nr: 9
+    slug: short-fiction
+    title: Unit 9 — Short Fiction in the Classroom
+  - track: gm
+    klasse: 9
+    unit_nr: 10
+    slug: application-letter
+    title: Unit 10 — Writing an Application Letter
+  - track: gm
+    klasse: 9
+    unit_nr: 12
+    slug: year-review-portfolio
+    title: 'Unit 12 — Year Review: Portfolio'
+  - track: e
+    klasse: 7
+    unit_nr: 1
+    slug: first-day-back
+    title: Unit 1 — First Day Back
+  - track: e
+    klasse: 7
+    unit_nr: 2
+    slug: growing-up
+    title: Unit 2 — Growing Up
+  - track: e
+    klasse: 7
+    unit_nr: 3
+    slug: media-in-our-lives
+    title: Unit 3 — Media in Our Lives
+  - track: e
+    klasse: 7
+    unit_nr: 5
+    slug: the-united-states-today
+    title: Unit 5 — The United States Today
+  - track: e
+    klasse: 7
+    unit_nr: 7
+    slug: being-a-friend
+    title: Unit 7 — Being a Friend
+  - track: e
+    klasse: 7
+    unit_nr: 8
+    slug: first-mediation
+    title: 'Unit 8 — Erste Mediation: A German E-mail'
+  - track: e
+    klasse: 7
+    unit_nr: 9
+    slug: school-rules-and-rights
+    title: Unit 9 — School Rules and Rights
+  - track: e
+    klasse: 7
+    unit_nr: 10
+    slug: a-short-story
+    title: Unit 10 — Reading a Short Story
+  - track: e
+    klasse: 7
+    unit_nr: 11
+    slug: plans-for-the-summer
+    title: Unit 11 — Plans for the Summer
+  - track: e
+    klasse: 7
+    unit_nr: 12
+    slug: year-review-and-podcast
+    title: 'Unit 12 — Year Review: A Class Podcast'
+  - track: e
+    klasse: 8
+    unit_nr: 1
+    slug: identities
+    title: Unit 1 — Identities
+  - track: e
+    klasse: 8
+    unit_nr: 3
+    slug: fairness-at-school
+    title: Unit 3 — Fairness at School
+  - track: e
+    klasse: 8
+    unit_nr: 4
+    slug: ireland-stories
+    title: 'Unit 4 — Ireland: Stories from the Island'
+  - track: e
+    klasse: 8
+    unit_nr: 5
+    slug: digital-friendships
+    title: Unit 5 — Digital Friendships
+  - track: e
+    klasse: 8
+    unit_nr: 6
+    slug: opinion-writing
+    title: Unit 6 — Writing an Opinion
+  - track: e
+    klasse: 8
+    unit_nr: 7
+    slug: teen-magazine-mediation
+    title: 'Unit 7 — Mediation: A Teen Magazine'
+  - track: e
+    klasse: 8
+    unit_nr: 9
+    slug: rural-and-urban
+    title: Unit 9 — Rural and Urban Lives
+  - track: e
+    klasse: 8
+    unit_nr: 10
+    slug: a-novella-in-class
+    title: Unit 10 — A Novella in Class
+  - track: e
+    klasse: 8
+    unit_nr: 12
+    slug: school-magazine-issue
+    title: Unit 12 — Class Magazine Issue
+  - track: e
+    klasse: 9
+    unit_nr: 2
+    slug: money-and-choices
+    title: Unit 2 — Money and Choices
+  - track: e
+    klasse: 9
+    unit_nr: 3
+    slug: the-environment-locally
+    title: Unit 3 — The Environment, Locally
+  - track: e
+    klasse: 9
+    unit_nr: 4
+    slug: canada-perspectives
+    title: 'Unit 4 — Canada: Perspectives'
+  - track: e
+    klasse: 9
+    unit_nr: 6
+    slug: interview-and-portrait
+    title: Unit 6 — Interview and Portrait
+  - track: e
+    klasse: 9
+    unit_nr: 7
+    slug: mediation-news-article
+    title: 'Unit 7 — Mediation: A German News Article'
+  - track: e
+    klasse: 9
+    unit_nr: 8
+    slug: inequality-and-voice
+    title: Unit 8 — Inequality and Voice
+  - track: e
+    klasse: 9
+    unit_nr: 9
+    slug: short-fiction
+    title: Unit 9 — Short Fiction in the Classroom
+  - track: e
+    klasse: 9
+    unit_nr: 10
+    slug: application-letter
+    title: Unit 10 — Writing an Application Letter
+  - track: e
+    klasse: 9
+    unit_nr: 12
+    slug: year-review-portfolio
+    title: 'Unit 12 — Year Review: Portfolio'
+  3.2.3.6:
+  - track: gm
+    klasse: 7
+    unit_nr: 8
+    slug: first-mediation
+    title: 'Unit 8 — Erste Mediation: A German E-mail'
+  - track: gm
+    klasse: 8
+    unit_nr: 7
+    slug: teen-magazine-mediation
+    title: 'Unit 7 — Mediation: A Teen Magazine'
+  - track: gm
+    klasse: 9
+    unit_nr: 7
+    slug: mediation-news-article
+    title: 'Unit 7 — Mediation: A German News Article'
+  - track: e
+    klasse: 7
+    unit_nr: 8
+    slug: first-mediation
+    title: 'Unit 8 — Erste Mediation: A German E-mail'
+  - track: e
+    klasse: 8
+    unit_nr: 7
+    slug: teen-magazine-mediation
+    title: 'Unit 7 — Mediation: A Teen Magazine'
+  - track: e
+    klasse: 9
+    unit_nr: 7
+    slug: mediation-news-article
+    title: 'Unit 7 — Mediation: A German News Article'
+  3.2.3.7:
+  - track: gm
+    klasse: 7
+    unit_nr: 3
+    slug: media-in-our-lives
+    title: Unit 3 — Media in Our Lives
+  - track: gm
+    klasse: 7
+    unit_nr: 6
+    slug: food-cultures
+    title: Unit 6 — Food Cultures
+  - track: gm
+    klasse: 7
+    unit_nr: 8
+    slug: first-mediation
+    title: 'Unit 8 — Erste Mediation: A German E-mail'
+  - track: gm
+    klasse: 7
+    unit_nr: 10
+    slug: a-short-story
+    title: Unit 10 — Reading a Short Story
+  - track: gm
+    klasse: 8
+    unit_nr: 5
+    slug: digital-friendships
+    title: Unit 5 — Digital Friendships
+  - track: gm
+    klasse: 8
+    unit_nr: 7
+    slug: teen-magazine-mediation
+    title: 'Unit 7 — Mediation: A Teen Magazine'
+  - track: gm
+    klasse: 8
+    unit_nr: 11
+    slug: public-speaking
+    title: 'Unit 11 — Public Speaking: A Short Talk'
+  - track: gm
+    klasse: 9
+    unit_nr: 1
+    slug: future-careers
+    title: Unit 1 — Future Careers
+  - track: gm
+    klasse: 9
+    unit_nr: 5
+    slug: media-literacy
+    title: Unit 5 — Media Literacy
+  - track: gm
+    klasse: 9
+    unit_nr: 7
+    slug: mediation-news-article
+    title: 'Unit 7 — Mediation: A German News Article'
+  - track: gm
+    klasse: 9
+    unit_nr: 10
+    slug: application-letter
+    title: Unit 10 — Writing an Application Letter
+  - track: e
+    klasse: 7
+    unit_nr: 3
+    slug: media-in-our-lives
+    title: Unit 3 — Media in Our Lives
+  - track: e
+    klasse: 7
+    unit_nr: 6
+    slug: food-cultures
+    title: Unit 6 — Food Cultures
+  - track: e
+    klasse: 7
+    unit_nr: 8
+    slug: first-mediation
+    title: 'Unit 8 — Erste Mediation: A German E-mail'
+  - track: e
+    klasse: 7
+    unit_nr: 10
+    slug: a-short-story
+    title: Unit 10 — Reading a Short Story
+  - track: e
+    klasse: 8
+    unit_nr: 5
+    slug: digital-friendships
+    title: Unit 5 — Digital Friendships
+  - track: e
+    klasse: 8
+    unit_nr: 7
+    slug: teen-magazine-mediation
+    title: 'Unit 7 — Mediation: A Teen Magazine'
+  - track: e
+    klasse: 8
+    unit_nr: 11
+    slug: public-speaking
+    title: 'Unit 11 — Public Speaking: A Short Talk'
+  - track: e
+    klasse: 9
+    unit_nr: 1
+    slug: future-careers
+    title: Unit 1 — Future Careers
+  - track: e
+    klasse: 9
+    unit_nr: 5
+    slug: media-literacy
+    title: Unit 5 — Media Literacy
+  - track: e
+    klasse: 9
+    unit_nr: 7
+    slug: mediation-news-article
+    title: 'Unit 7 — Mediation: A German News Article'
+  - track: e
+    klasse: 9
+    unit_nr: 10
+    slug: application-letter
+    title: Unit 10 — Writing an Application Letter
+  3.2.3.8:
+  - track: gm
+    klasse: 7
+    unit_nr: 2
+    slug: growing-up
+    title: Unit 2 — Growing Up
+  - track: gm
+    klasse: 7
+    unit_nr: 3
+    slug: media-in-our-lives
+    title: Unit 3 — Media in Our Lives
+  - track: gm
+    klasse: 7
+    unit_nr: 4
+    slug: a-trip-to-scotland
+    title: Unit 4 — A Trip to Scotland
+  - track: gm
+    klasse: 7
+    unit_nr: 5
+    slug: the-united-states-today
+    title: Unit 5 — The United States Today
+  - track: gm
+    klasse: 7
+    unit_nr: 7
+    slug: being-a-friend
+    title: Unit 7 — Being a Friend
+  - track: gm
+    klasse: 7
+    unit_nr: 9
+    slug: school-rules-and-rights
+    title: Unit 9 — School Rules and Rights
+  - track: gm
+    klasse: 7
+    unit_nr: 11
+    slug: plans-for-the-summer
+    title: Unit 11 — Plans for the Summer
+  - track: gm
+    klasse: 8
+    unit_nr: 3
+    slug: fairness-at-school
+    title: Unit 3 — Fairness at School
+  - track: gm
+    klasse: 8
+    unit_nr: 5
+    slug: digital-friendships
+    title: Unit 5 — Digital Friendships
+  - track: gm
+    klasse: 8
+    unit_nr: 6
+    slug: opinion-writing
+    title: Unit 6 — Writing an Opinion
+  - track: gm
+    klasse: 8
+    unit_nr: 10
+    slug: a-novella-in-class
+    title: Unit 10 — A Novella in Class
+  - track: gm
+    klasse: 9
+    unit_nr: 1
+    slug: future-careers
+    title: Unit 1 — Future Careers
+  - track: gm
+    klasse: 9
+    unit_nr: 2
+    slug: money-and-choices
+    title: Unit 2 — Money and Choices
+  - track: gm
+    klasse: 9
+    unit_nr: 9
+    slug: short-fiction
+    title: Unit 9 — Short Fiction in the Classroom
+  - track: e
+    klasse: 7
+    unit_nr: 2
+    slug: growing-up
+    title: Unit 2 — Growing Up
+  - track: e
+    klasse: 7
+    unit_nr: 3
+    slug: media-in-our-lives
+    title: Unit 3 — Media in Our Lives
+  - track: e
+    klasse: 7
+    unit_nr: 4
+    slug: a-trip-to-scotland
+    title: Unit 4 — A Trip to Scotland
+  - track: e
+    klasse: 7
+    unit_nr: 5
+    slug: the-united-states-today
+    title: Unit 5 — The United States Today
+  - track: e
+    klasse: 7
+    unit_nr: 7
+    slug: being-a-friend
+    title: Unit 7 — Being a Friend
+  - track: e
+    klasse: 7
+    unit_nr: 9
+    slug: school-rules-and-rights
+    title: Unit 9 — School Rules and Rights
+  - track: e
+    klasse: 7
+    unit_nr: 11
+    slug: plans-for-the-summer
+    title: Unit 11 — Plans for the Summer
+  - track: e
+    klasse: 8
+    unit_nr: 3
+    slug: fairness-at-school
+    title: Unit 3 — Fairness at School
+  - track: e
+    klasse: 8
+    unit_nr: 5
+    slug: digital-friendships
+    title: Unit 5 — Digital Friendships
+  - track: e
+    klasse: 8
+    unit_nr: 6
+    slug: opinion-writing
+    title: Unit 6 — Writing an Opinion
+  - track: e
+    klasse: 8
+    unit_nr: 10
+    slug: a-novella-in-class
+    title: Unit 10 — A Novella in Class
+  - track: e
+    klasse: 9
+    unit_nr: 1
+    slug: future-careers
+    title: Unit 1 — Future Careers
+  - track: e
+    klasse: 9
+    unit_nr: 2
+    slug: money-and-choices
+    title: Unit 2 — Money and Choices
+  - track: e
+    klasse: 9
+    unit_nr: 9
+    slug: short-fiction
+    title: Unit 9 — Short Fiction in the Classroom
+  3.2.4:
+  - track: gm
+    klasse: 7
+    unit_nr: 1
+    slug: first-day-back
+    title: Unit 1 — First Day Back
+  - track: gm
+    klasse: 7
+    unit_nr: 2
+    slug: growing-up
+    title: Unit 2 — Growing Up
+  - track: gm
+    klasse: 7
+    unit_nr: 3
+    slug: media-in-our-lives
+    title: Unit 3 — Media in Our Lives
+  - track: gm
+    klasse: 7
+    unit_nr: 4
+    slug: a-trip-to-scotland
+    title: Unit 4 — A Trip to Scotland
+  - track: gm
+    klasse: 7
+    unit_nr: 5
+    slug: the-united-states-today
+    title: Unit 5 — The United States Today
+  - track: gm
+    klasse: 7
+    unit_nr: 6
+    slug: food-cultures
+    title: Unit 6 — Food Cultures
+  - track: gm
+    klasse: 7
+    unit_nr: 8
+    slug: first-mediation
+    title: 'Unit 8 — Erste Mediation: A German E-mail'
+  - track: gm
+    klasse: 7
+    unit_nr: 9
+    slug: school-rules-and-rights
+    title: Unit 9 — School Rules and Rights
+  - track: gm
+    klasse: 7
+    unit_nr: 10
+    slug: a-short-story
+    title: Unit 10 — Reading a Short Story
+  - track: gm
+    klasse: 7
+    unit_nr: 12
+    slug: year-review-and-podcast
+    title: 'Unit 12 — Year Review: A Class Podcast'
+  - track: gm
+    klasse: 8
+    unit_nr: 1
+    slug: identities
+    title: Unit 1 — Identities
+  - track: gm
+    klasse: 8
+    unit_nr: 4
+    slug: ireland-stories
+    title: 'Unit 4 — Ireland: Stories from the Island'
+  - track: gm
+    klasse: 8
+    unit_nr: 6
+    slug: opinion-writing
+    title: Unit 6 — Writing an Opinion
+  - track: gm
+    klasse: 8
+    unit_nr: 9
+    slug: rural-and-urban
+    title: Unit 9 — Rural and Urban Lives
+  - track: gm
+    klasse: 8
+    unit_nr: 10
+    slug: a-novella-in-class
+    title: Unit 10 — A Novella in Class
+  - track: gm
+    klasse: 8
+    unit_nr: 12
+    slug: school-magazine-issue
+    title: Unit 12 — Class Magazine Issue
+  - track: gm
+    klasse: 9
+    unit_nr: 3
+    slug: the-environment-locally
+    title: Unit 3 — The Environment, Locally
+  - track: gm
+    klasse: 9
+    unit_nr: 4
+    slug: canada-perspectives
+    title: 'Unit 4 — Canada: Perspectives'
+  - track: gm
+    klasse: 9
+    unit_nr: 5
+    slug: media-literacy
+    title: Unit 5 — Media Literacy
+  - track: gm
+    klasse: 9
+    unit_nr: 6
+    slug: interview-and-portrait
+    title: Unit 6 — Interview and Portrait
+  - track: gm
+    klasse: 9
+    unit_nr: 8
+    slug: inequality-and-voice
+    title: Unit 8 — Inequality and Voice
+  - track: gm
+    klasse: 9
+    unit_nr: 9
+    slug: short-fiction
+    title: Unit 9 — Short Fiction in the Classroom
+  - track: gm
+    klasse: 9
+    unit_nr: 12
+    slug: year-review-portfolio
+    title: 'Unit 12 — Year Review: Portfolio'
+  - track: e
+    klasse: 7
+    unit_nr: 1
+    slug: first-day-back
+    title: Unit 1 — First Day Back
+  - track: e
+    klasse: 7
+    unit_nr: 2
+    slug: growing-up
+    title: Unit 2 — Growing Up
+  - track: e
+    klasse: 7
+    unit_nr: 3
+    slug: media-in-our-lives
+    title: Unit 3 — Media in Our Lives
+  - track: e
+    klasse: 7
+    unit_nr: 4
+    slug: a-trip-to-scotland
+    title: Unit 4 — A Trip to Scotland
+  - track: e
+    klasse: 7
+    unit_nr: 5
+    slug: the-united-states-today
+    title: Unit 5 — The United States Today
+  - track: e
+    klasse: 7
+    unit_nr: 6
+    slug: food-cultures
+    title: Unit 6 — Food Cultures
+  - track: e
+    klasse: 7
+    unit_nr: 8
+    slug: first-mediation
+    title: 'Unit 8 — Erste Mediation: A German E-mail'
+  - track: e
+    klasse: 7
+    unit_nr: 9
+    slug: school-rules-and-rights
+    title: Unit 9 — School Rules and Rights
+  - track: e
+    klasse: 7
+    unit_nr: 10
+    slug: a-short-story
+    title: Unit 10 — Reading a Short Story
+  - track: e
+    klasse: 7
+    unit_nr: 12
+    slug: year-review-and-podcast
+    title: 'Unit 12 — Year Review: A Class Podcast'
+  - track: e
+    klasse: 8
+    unit_nr: 1
+    slug: identities
+    title: Unit 1 — Identities
+  - track: e
+    klasse: 8
+    unit_nr: 4
+    slug: ireland-stories
+    title: 'Unit 4 — Ireland: Stories from the Island'
+  - track: e
+    klasse: 8
+    unit_nr: 6
+    slug: opinion-writing
+    title: Unit 6 — Writing an Opinion
+  - track: e
+    klasse: 8
+    unit_nr: 9
+    slug: rural-and-urban
+    title: Unit 9 — Rural and Urban Lives
+  - track: e
+    klasse: 8
+    unit_nr: 10
+    slug: a-novella-in-class
+    title: Unit 10 — A Novella in Class
+  - track: e
+    klasse: 8
+    unit_nr: 12
+    slug: school-magazine-issue
+    title: Unit 12 — Class Magazine Issue
+  - track: e
+    klasse: 9
+    unit_nr: 3
+    slug: the-environment-locally
+    title: Unit 3 — The Environment, Locally
+  - track: e
+    klasse: 9
+    unit_nr: 4
+    slug: canada-perspectives
+    title: 'Unit 4 — Canada: Perspectives'
+  - track: e
+    klasse: 9
+    unit_nr: 5
+    slug: media-literacy
+    title: Unit 5 — Media Literacy
+  - track: e
+    klasse: 9
+    unit_nr: 6
+    slug: interview-and-portrait
+    title: Unit 6 — Interview and Portrait
+  - track: e
+    klasse: 9
+    unit_nr: 8
+    slug: inequality-and-voice
+    title: Unit 8 — Inequality and Voice
+  - track: e
+    klasse: 9
+    unit_nr: 9
+    slug: short-fiction
+    title: Unit 9 — Short Fiction in the Classroom
+  - track: e
+    klasse: 9
+    unit_nr: 12
+    slug: year-review-portfolio
+    title: 'Unit 12 — Year Review: Portfolio'
+  3.3.1:
+  - track: gm
+    klasse: 10
+    unit_nr: 1
+    slug: transition-after-grade-10
+    title: Unit 1 — Transition After Grade 10
+  - track: gm
+    klasse: 10
+    unit_nr: 2
+    slug: the-world-of-work
+    title: Unit 2 — The World of Work
+  - track: gm
+    klasse: 10
+    unit_nr: 3
+    slug: digital-lives-at-work
+    title: Unit 3 — Digital Lives at Work
+  - track: gm
+    klasse: 10
+    unit_nr: 4
+    slug: australia-now
+    title: Unit 4 — Australia Now
+  - track: gm
+    klasse: 10
+    unit_nr: 5
+    slug: media-and-truth
+    title: Unit 5 — Media and Truth
+  - track: gm
+    klasse: 10
+    unit_nr: 6
+    slug: contemporary-short-fiction
+    title: Unit 6 — Contemporary Short Fiction
+  - track: gm
+    klasse: 10
+    unit_nr: 7
+    slug: mediation-workplace-text
+    title: 'Unit 7 — Mediation: A Workplace Text'
+  - track: gm
+    klasse: 10
+    unit_nr: 8
+    slug: civic-english
+    title: 'Unit 8 — Civic English: Rights and Voices'
+  - track: gm
+    klasse: 10
+    unit_nr: 9
+    slug: youth-and-the-future
+    title: Unit 9 — Youth and the Future
+  - track: gm
+    klasse: 10
+    unit_nr: 10
+    slug: project-and-presentation
+    title: Unit 10 — Project and Presentation
+  - track: gm
+    klasse: 10
+    unit_nr: 11
+    slug: a-short-novel
+    title: Unit 11 — A Short Novel
+  - track: gm
+    klasse: 10
+    unit_nr: 12
+    slug: year-review-graduation
+    title: 'Unit 12 — Year Review: Graduation Exam Prep'
+  - track: e
+    klasse: 10
+    unit_nr: 1
+    slug: identity-in-a-global-world
+    title: Unit 1 — Identity in a Global World
+  - track: e
+    klasse: 10
+    unit_nr: 2
+    slug: the-world-of-work
+    title: Unit 2 — The World of Work
+  - track: e
+    klasse: 10
+    unit_nr: 3
+    slug: digital-lives
+    title: Unit 3 — Digital Lives
+  - track: e
+    klasse: 10
+    unit_nr: 4
+    slug: australia-and-new-zealand
+    title: Unit 4 — Australia and New Zealand
+  - track: e
+    klasse: 10
+    unit_nr: 5
+    slug: media-and-democracy
+    title: Unit 5 — Media and Democracy
+  - track: e
+    klasse: 10
+    unit_nr: 6
+    slug: contemporary-short-fiction
+    title: Unit 6 — Contemporary Short Fiction
+  - track: e
+    klasse: 10
+    unit_nr: 7
+    slug: mediation-feature-article
+    title: 'Unit 7 — Mediation: A German Feature Article'
+  - track: e
+    klasse: 10
+    unit_nr: 8
+    slug: science-and-society
+    title: Unit 8 — Science and Society
+  - track: e
+    klasse: 10
+    unit_nr: 9
+    slug: youth-protest-movements
+    title: Unit 9 — Youth Protest Movements
+  - track: e
+    klasse: 10
+    unit_nr: 10
+    slug: a-short-novel
+    title: Unit 10 — A Short Novel
+  - track: e
+    klasse: 10
+    unit_nr: 11
+    slug: public-speaking-and-debate
+    title: Unit 11 — Public Speaking and Debate
+  - track: e
+    klasse: 10
+    unit_nr: 12
+    slug: year-review-toward-oberstufe
+    title: 'Unit 12 — Year Review: Toward Oberstufe'
+  3.3.2:
+  - track: gm
+    klasse: 10
+    unit_nr: 2
+    slug: the-world-of-work
+    title: Unit 2 — The World of Work
+  - track: gm
+    klasse: 10
+    unit_nr: 4
+    slug: australia-now
+    title: Unit 4 — Australia Now
+  - track: gm
+    klasse: 10
+    unit_nr: 8
+    slug: civic-english
+    title: 'Unit 8 — Civic English: Rights and Voices'
+  - track: gm
+    klasse: 10
+    unit_nr: 9
+    slug: youth-and-the-future
+    title: Unit 9 — Youth and the Future
+  - track: e
+    klasse: 10
+    unit_nr: 1
+    slug: identity-in-a-global-world
+    title: Unit 1 — Identity in a Global World
+  - track: e
+    klasse: 10
+    unit_nr: 2
+    slug: the-world-of-work
+    title: Unit 2 — The World of Work
+  - track: e
+    klasse: 10
+    unit_nr: 4
+    slug: australia-and-new-zealand
+    title: Unit 4 — Australia and New Zealand
+  - track: e
+    klasse: 10
+    unit_nr: 9
+    slug: youth-protest-movements
+    title: Unit 9 — Youth Protest Movements
+  3.3.3.1:
+  - track: gm
+    klasse: 10
+    unit_nr: 4
+    slug: australia-now
+    title: Unit 4 — Australia Now
+  - track: e
+    klasse: 10
+    unit_nr: 4
+    slug: australia-and-new-zealand
+    title: Unit 4 — Australia and New Zealand
+  - track: e
+    klasse: 10
+    unit_nr: 11
+    slug: public-speaking-and-debate
+    title: Unit 11 — Public Speaking and Debate
+  3.3.3.2:
+  - track: gm
+    klasse: 10
+    unit_nr: 1
+    slug: transition-after-grade-10
+    title: Unit 1 — Transition After Grade 10
+  - track: gm
+    klasse: 10
+    unit_nr: 2
+    slug: the-world-of-work
+    title: Unit 2 — The World of Work
+  - track: gm
+    klasse: 10
+    unit_nr: 3
+    slug: digital-lives-at-work
+    title: Unit 3 — Digital Lives at Work
+  - track: gm
+    klasse: 10
+    unit_nr: 4
+    slug: australia-now
+    title: Unit 4 — Australia Now
+  - track: gm
+    klasse: 10
+    unit_nr: 5
+    slug: media-and-truth
+    title: Unit 5 — Media and Truth
+  - track: gm
+    klasse: 10
+    unit_nr: 6
+    slug: contemporary-short-fiction
+    title: Unit 6 — Contemporary Short Fiction
+  - track: gm
+    klasse: 10
+    unit_nr: 8
+    slug: civic-english
+    title: 'Unit 8 — Civic English: Rights and Voices'
+  - track: gm
+    klasse: 10
+    unit_nr: 9
+    slug: youth-and-the-future
+    title: Unit 9 — Youth and the Future
+  - track: gm
+    klasse: 10
+    unit_nr: 11
+    slug: a-short-novel
+    title: Unit 11 — A Short Novel
+  - track: e
+    klasse: 10
+    unit_nr: 1
+    slug: identity-in-a-global-world
+    title: Unit 1 — Identity in a Global World
+  - track: e
+    klasse: 10
+    unit_nr: 2
+    slug: the-world-of-work
+    title: Unit 2 — The World of Work
+  - track: e
+    klasse: 10
+    unit_nr: 3
+    slug: digital-lives
+    title: Unit 3 — Digital Lives
+  - track: e
+    klasse: 10
+    unit_nr: 4
+    slug: australia-and-new-zealand
+    title: Unit 4 — Australia and New Zealand
+  - track: e
+    klasse: 10
+    unit_nr: 5
+    slug: media-and-democracy
+    title: Unit 5 — Media and Democracy
+  - track: e
+    klasse: 10
+    unit_nr: 6
+    slug: contemporary-short-fiction
+    title: Unit 6 — Contemporary Short Fiction
+  - track: e
+    klasse: 10
+    unit_nr: 8
+    slug: science-and-society
+    title: Unit 8 — Science and Society
+  - track: e
+    klasse: 10
+    unit_nr: 9
+    slug: youth-protest-movements
+    title: Unit 9 — Youth Protest Movements
+  - track: e
+    klasse: 10
+    unit_nr: 10
+    slug: a-short-novel
+    title: Unit 10 — A Short Novel
+  3.3.3.3:
+  - track: gm
+    klasse: 10
+    unit_nr: 2
+    slug: the-world-of-work
+    title: Unit 2 — The World of Work
+  - track: gm
+    klasse: 10
+    unit_nr: 8
+    slug: civic-english
+    title: 'Unit 8 — Civic English: Rights and Voices'
+  - track: e
+    klasse: 10
+    unit_nr: 2
+    slug: the-world-of-work
+    title: Unit 2 — The World of Work
+  - track: e
+    klasse: 10
+    unit_nr: 9
+    slug: youth-protest-movements
+    title: Unit 9 — Youth Protest Movements
+  - track: e
+    klasse: 10
+    unit_nr: 11
+    slug: public-speaking-and-debate
+    title: Unit 11 — Public Speaking and Debate
+  3.3.3.4:
+  - track: gm
+    klasse: 10
+    unit_nr: 10
+    slug: project-and-presentation
+    title: Unit 10 — Project and Presentation
+  - track: gm
+    klasse: 10
+    unit_nr: 12
+    slug: year-review-graduation
+    title: 'Unit 12 — Year Review: Graduation Exam Prep'
+  - track: e
+    klasse: 10
+    unit_nr: 11
+    slug: public-speaking-and-debate
+    title: Unit 11 — Public Speaking and Debate
+  - track: e
+    klasse: 10
+    unit_nr: 12
+    slug: year-review-toward-oberstufe
+    title: 'Unit 12 — Year Review: Toward Oberstufe'
+  3.3.3.5:
+  - track: gm
+    klasse: 10
+    unit_nr: 1
+    slug: transition-after-grade-10
+    title: Unit 1 — Transition After Grade 10
+  - track: gm
+    klasse: 10
+    unit_nr: 3
+    slug: digital-lives-at-work
+    title: Unit 3 — Digital Lives at Work
+  - track: gm
+    klasse: 10
+    unit_nr: 5
+    slug: media-and-truth
+    title: Unit 5 — Media and Truth
+  - track: gm
+    klasse: 10
+    unit_nr: 6
+    slug: contemporary-short-fiction
+    title: Unit 6 — Contemporary Short Fiction
+  - track: gm
+    klasse: 10
+    unit_nr: 7
+    slug: mediation-workplace-text
+    title: 'Unit 7 — Mediation: A Workplace Text'
+  - track: gm
+    klasse: 10
+    unit_nr: 9
+    slug: youth-and-the-future
+    title: Unit 9 — Youth and the Future
+  - track: gm
+    klasse: 10
+    unit_nr: 10
+    slug: project-and-presentation
+    title: Unit 10 — Project and Presentation
+  - track: gm
+    klasse: 10
+    unit_nr: 11
+    slug: a-short-novel
+    title: Unit 11 — A Short Novel
+  - track: gm
+    klasse: 10
+    unit_nr: 12
+    slug: year-review-graduation
+    title: 'Unit 12 — Year Review: Graduation Exam Prep'
+  - track: e
+    klasse: 10
+    unit_nr: 1
+    slug: identity-in-a-global-world
+    title: Unit 1 — Identity in a Global World
+  - track: e
+    klasse: 10
+    unit_nr: 3
+    slug: digital-lives
+    title: Unit 3 — Digital Lives
+  - track: e
+    klasse: 10
+    unit_nr: 5
+    slug: media-and-democracy
+    title: Unit 5 — Media and Democracy
+  - track: e
+    klasse: 10
+    unit_nr: 6
+    slug: contemporary-short-fiction
+    title: Unit 6 — Contemporary Short Fiction
+  - track: e
+    klasse: 10
+    unit_nr: 7
+    slug: mediation-feature-article
+    title: 'Unit 7 — Mediation: A German Feature Article'
+  - track: e
+    klasse: 10
+    unit_nr: 8
+    slug: science-and-society
+    title: Unit 8 — Science and Society
+  - track: e
+    klasse: 10
+    unit_nr: 10
+    slug: a-short-novel
+    title: Unit 10 — A Short Novel
+  - track: e
+    klasse: 10
+    unit_nr: 12
+    slug: year-review-toward-oberstufe
+    title: 'Unit 12 — Year Review: Toward Oberstufe'
+  3.3.3.6:
+  - track: gm
+    klasse: 10
+    unit_nr: 7
+    slug: mediation-workplace-text
+    title: 'Unit 7 — Mediation: A Workplace Text'
+  - track: e
+    klasse: 10
+    unit_nr: 7
+    slug: mediation-feature-article
+    title: 'Unit 7 — Mediation: A German Feature Article'
+  3.3.3.7:
+  - track: gm
+    klasse: 10
+    unit_nr: 2
+    slug: the-world-of-work
+    title: Unit 2 — The World of Work
+  - track: gm
+    klasse: 10
+    unit_nr: 5
+    slug: media-and-truth
+    title: Unit 5 — Media and Truth
+  - track: gm
+    klasse: 10
+    unit_nr: 7
+    slug: mediation-workplace-text
+    title: 'Unit 7 — Mediation: A Workplace Text'
+  - track: e
+    klasse: 10
+    unit_nr: 2
+    slug: the-world-of-work
+    title: Unit 2 — The World of Work
+  - track: e
+    klasse: 10
+    unit_nr: 5
+    slug: media-and-democracy
+    title: Unit 5 — Media and Democracy
+  - track: e
+    klasse: 10
+    unit_nr: 7
+    slug: mediation-feature-article
+    title: 'Unit 7 — Mediation: A German Feature Article'
+  - track: e
+    klasse: 10
+    unit_nr: 8
+    slug: science-and-society
+    title: Unit 8 — Science and Society
+  3.3.3.8:
+  - track: gm
+    klasse: 10
+    unit_nr: 1
+    slug: transition-after-grade-10
+    title: Unit 1 — Transition After Grade 10
+  - track: gm
+    klasse: 10
+    unit_nr: 3
+    slug: digital-lives-at-work
+    title: Unit 3 — Digital Lives at Work
+  - track: gm
+    klasse: 10
+    unit_nr: 6
+    slug: contemporary-short-fiction
+    title: Unit 6 — Contemporary Short Fiction
+  - track: e
+    klasse: 10
+    unit_nr: 3
+    slug: digital-lives
+    title: Unit 3 — Digital Lives
+  - track: e
+    klasse: 10
+    unit_nr: 6
+    slug: contemporary-short-fiction
+    title: Unit 6 — Contemporary Short Fiction
+  3.3.4:
+  - track: gm
+    klasse: 10
+    unit_nr: 3
+    slug: digital-lives-at-work
+    title: Unit 3 — Digital Lives at Work
+  - track: gm
+    klasse: 10
+    unit_nr: 4
+    slug: australia-now
+    title: Unit 4 — Australia Now
+  - track: gm
+    klasse: 10
+    unit_nr: 5
+    slug: media-and-truth
+    title: Unit 5 — Media and Truth
+  - track: gm
+    klasse: 10
+    unit_nr: 6
+    slug: contemporary-short-fiction
+    title: Unit 6 — Contemporary Short Fiction
+  - track: gm
+    klasse: 10
+    unit_nr: 8
+    slug: civic-english
+    title: 'Unit 8 — Civic English: Rights and Voices'
+  - track: gm
+    klasse: 10
+    unit_nr: 9
+    slug: youth-and-the-future
+    title: Unit 9 — Youth and the Future
+  - track: gm
+    klasse: 10
+    unit_nr: 10
+    slug: project-and-presentation
+    title: Unit 10 — Project and Presentation
+  - track: gm
+    klasse: 10
+    unit_nr: 11
+    slug: a-short-novel
+    title: Unit 11 — A Short Novel
+  - track: gm
+    klasse: 10
+    unit_nr: 12
+    slug: year-review-graduation
+    title: 'Unit 12 — Year Review: Graduation Exam Prep'
+  - track: e
+    klasse: 10
+    unit_nr: 1
+    slug: identity-in-a-global-world
+    title: Unit 1 — Identity in a Global World
+  - track: e
+    klasse: 10
+    unit_nr: 3
+    slug: digital-lives
+    title: Unit 3 — Digital Lives
+  - track: e
+    klasse: 10
+    unit_nr: 4
+    slug: australia-and-new-zealand
+    title: Unit 4 — Australia and New Zealand
+  - track: e
+    klasse: 10
+    unit_nr: 5
+    slug: media-and-democracy
+    title: Unit 5 — Media and Democracy
+  - track: e
+    klasse: 10
+    unit_nr: 6
+    slug: contemporary-short-fiction
+    title: Unit 6 — Contemporary Short Fiction
+  - track: e
+    klasse: 10
+    unit_nr: 8
+    slug: science-and-society
+    title: Unit 8 — Science and Society
+  - track: e
+    klasse: 10
+    unit_nr: 9
+    slug: youth-protest-movements
+    title: Unit 9 — Youth Protest Movements
+  - track: e
+    klasse: 10
+    unit_nr: 10
+    slug: a-short-novel
+    title: Unit 10 — A Short Novel
+  - track: e
+    klasse: 10
+    unit_nr: 12
+    slug: year-review-toward-oberstufe
+    title: 'Unit 12 — Year Review: Toward Oberstufe'
+  3.4.1:
+  - track: e
+    klasse: 11
+    unit_nr: 1
+    slug: british-cultural-anchors
+    title: Unit 1 — British Cultural Anchors
+  - track: e
+    klasse: 11
+    unit_nr: 2
+    slug: the-american-dream
+    title: Unit 2 — The American Dream
+  - track: e
+    klasse: 11
+    unit_nr: 3
+    slug: post-colonial-voices-intro
+    title: 'Unit 3 — Post-Colonial Voices: An Introduction'
+  - track: e
+    klasse: 11
+    unit_nr: 4
+    slug: short-stories-and-style
+    title: Unit 4 — Short Stories and Style
+  - track: e
+    klasse: 11
+    unit_nr: 5
+    slug: poetry-from-the-anthology
+    title: Unit 5 — Poetry from the Anthology
+  - track: e
+    klasse: 11
+    unit_nr: 6
+    slug: media-literacy-advanced
+    title: Unit 6 — Media Literacy, Advanced
+  - track: e
+    klasse: 11
+    unit_nr: 7
+    slug: mediation-as-a-skill
+    title: Unit 7 — Mediation as a Skill
+  - track: e
+    klasse: 11
+    unit_nr: 8
+    slug: opinion-essay-writing
+    title: Unit 8 — Opinion Essay Writing
+  - track: e
+    klasse: 11
+    unit_nr: 10
+    slug: a-classic-text-lf
+    title: Unit 10 — A Classic Text (Leistungsfach focus)
+  - track: e
+    klasse: 11
+    unit_nr: 11
+    slug: public-speaking-prep
+    title: 'Unit 11 — Public Speaking: Toward the Komm-Prüfung'
+  - track: e
+    klasse: 11
+    unit_nr: 12
+    slug: klausur-prep-exam-rehearsal
+    title: 'Unit 12 — Klausur Prep: Exam Rehearsal'
+  - track: e
+    klasse: 12
+    unit_nr: 1
+    slug: dystopias
+    title: Unit 1 — Dystopias
+  - track: e
+    klasse: 12
+    unit_nr: 2
+    slug: globalisation-debates
+    title: Unit 2 — Globalisation Debates
+  - track: e
+    klasse: 12
+    unit_nr: 3
+    slug: science-and-ethics
+    title: Unit 3 — Science and Ethics
+  - track: e
+    klasse: 12
+    unit_nr: 4
+    slug: shakespeare-extract
+    title: Unit 4 — Shakespeare in Extract
+  - track: e
+    klasse: 12
+    unit_nr: 5
+    slug: political-discourse
+    title: Unit 5 — Political Discourse
+  - track: e
+    klasse: 12
+    unit_nr: 6
+    slug: the-non-fiction-essay
+    title: Unit 6 — The Non-Fiction Essay
+  - track: e
+    klasse: 12
+    unit_nr: 7
+    slug: mediation-academic-text
+    title: 'Unit 7 — Mediation: An Academic Text'
+  - track: e
+    klasse: 12
+    unit_nr: 8
+    slug: post-colonial-voices-advanced
+    title: Unit 8 — Post-Colonial Voices, Advanced
+  - track: e
+    klasse: 12
+    unit_nr: 9
+    slug: a-novel-in-full
+    title: Unit 9 — A Novel in Full
+  - track: e
+    klasse: 12
+    unit_nr: 10
+    slug: kommunikationspruefung-mock
+    title: Unit 10 — Kommunikationsprüfung Mock
+  - track: e
+    klasse: 12
+    unit_nr: 11
+    slug: klausur-comprehension-analysis
+    title: 'Unit 11 — Klausur: Comprehension and Analysis'
+  - track: e
+    klasse: 12
+    unit_nr: 12
+    slug: klausur-composition-and-comment
+    title: 'Unit 12 — Klausur: Composition and Comment'
+  - track: e
+    klasse: 13
+    unit_nr: 1
+    slug: globalisation-and-the-self
+    title: Unit 1 — Globalisation and the Self
+  - track: e
+    klasse: 13
+    unit_nr: 2
+    slug: political-discourse-advanced
+    title: Unit 2 — Political Discourse, Advanced
+  - track: e
+    klasse: 13
+    unit_nr: 3
+    slug: dystopias-and-utopias
+    title: Unit 3 — Dystopias and Utopias
+  - track: e
+    klasse: 13
+    unit_nr: 4
+    slug: contemporary-poetry
+    title: Unit 4 — Contemporary Poetry
+  - track: e
+    klasse: 13
+    unit_nr: 5
+    slug: media-and-public-opinion
+    title: Unit 5 — Media and Public Opinion
+  - track: e
+    klasse: 13
+    unit_nr: 6
+    slug: mediation-policy-text
+    title: 'Unit 6 — Mediation: A German Policy Text'
+  - track: e
+    klasse: 13
+    unit_nr: 7
+    slug: the-abitur-essay
+    title: Unit 7 — The Abitur Essay
+  - track: e
+    klasse: 13
+    unit_nr: 8
+    slug: the-abitur-comprehension
+    title: Unit 8 — The Abitur Comprehension Task
+  - track: e
+    klasse: 13
+    unit_nr: 9
+    slug: the-abitur-analysis
+    title: Unit 9 — The Abitur Analysis Task
+  - track: e
+    klasse: 13
+    unit_nr: 10
+    slug: kommunikationspruefung-full-mock
+    title: 'Unit 10 — Kommunikationsprüfung: Full Mock'
+  - track: e
+    klasse: 13
+    unit_nr: 11
+    slug: issue-framed-debate
+    title: Unit 11 — Issue-Framed Debate
+  - track: e
+    klasse: 13
+    unit_nr: 12
+    slug: year-review-and-handover
+    title: Unit 12 — Year Review and Handover
+  3.4.2:
+  - track: e
+    klasse: 11
+    unit_nr: 1
+    slug: british-cultural-anchors
+    title: Unit 1 — British Cultural Anchors
+  - track: e
+    klasse: 11
+    unit_nr: 2
+    slug: the-american-dream
+    title: Unit 2 — The American Dream
+  - track: e
+    klasse: 11
+    unit_nr: 3
+    slug: post-colonial-voices-intro
+    title: 'Unit 3 — Post-Colonial Voices: An Introduction'
+  - track: e
+    klasse: 12
+    unit_nr: 2
+    slug: globalisation-debates
+    title: Unit 2 — Globalisation Debates
+  - track: e
+    klasse: 12
+    unit_nr: 8
+    slug: post-colonial-voices-advanced
+    title: Unit 8 — Post-Colonial Voices, Advanced
+  - track: e
+    klasse: 13
+    unit_nr: 1
+    slug: globalisation-and-the-self
+    title: Unit 1 — Globalisation and the Self
+  3.4.3.1:
+  - track: e
+    klasse: 11
+    unit_nr: 11
+    slug: public-speaking-prep
+    title: 'Unit 11 — Public Speaking: Toward the Komm-Prüfung'
+  - track: e
+    klasse: 12
+    unit_nr: 5
+    slug: political-discourse
+    title: Unit 5 — Political Discourse
+  - track: e
+    klasse: 12
+    unit_nr: 10
+    slug: kommunikationspruefung-mock
+    title: Unit 10 — Kommunikationsprüfung Mock
+  - track: e
+    klasse: 13
+    unit_nr: 2
+    slug: political-discourse-advanced
+    title: Unit 2 — Political Discourse, Advanced
+  - track: e
+    klasse: 13
+    unit_nr: 10
+    slug: kommunikationspruefung-full-mock
+    title: 'Unit 10 — Kommunikationsprüfung: Full Mock'
+  - track: e
+    klasse: 13
+    unit_nr: 11
+    slug: issue-framed-debate
+    title: Unit 11 — Issue-Framed Debate
+  3.4.3.2:
+  - track: e
+    klasse: 11
+    unit_nr: 1
+    slug: british-cultural-anchors
+    title: Unit 1 — British Cultural Anchors
+  - track: e
+    klasse: 11
+    unit_nr: 2
+    slug: the-american-dream
+    title: Unit 2 — The American Dream
+  - track: e
+    klasse: 11
+    unit_nr: 3
+    slug: post-colonial-voices-intro
+    title: 'Unit 3 — Post-Colonial Voices: An Introduction'
+  - track: e
+    klasse: 11
+    unit_nr: 4
+    slug: short-stories-and-style
+    title: Unit 4 — Short Stories and Style
+  - track: e
+    klasse: 11
+    unit_nr: 5
+    slug: poetry-from-the-anthology
+    title: Unit 5 — Poetry from the Anthology
+  - track: e
+    klasse: 11
+    unit_nr: 6
+    slug: media-literacy-advanced
+    title: Unit 6 — Media Literacy, Advanced
+  - track: e
+    klasse: 11
+    unit_nr: 8
+    slug: opinion-essay-writing
+    title: Unit 8 — Opinion Essay Writing
+  - track: e
+    klasse: 11
+    unit_nr: 10
+    slug: a-classic-text-lf
+    title: Unit 10 — A Classic Text (Leistungsfach focus)
+  - track: e
+    klasse: 11
+    unit_nr: 12
+    slug: klausur-prep-exam-rehearsal
+    title: 'Unit 12 — Klausur Prep: Exam Rehearsal'
+  - track: e
+    klasse: 12
+    unit_nr: 1
+    slug: dystopias
+    title: Unit 1 — Dystopias
+  - track: e
+    klasse: 12
+    unit_nr: 2
+    slug: globalisation-debates
+    title: Unit 2 — Globalisation Debates
+  - track: e
+    klasse: 12
+    unit_nr: 3
+    slug: science-and-ethics
+    title: Unit 3 — Science and Ethics
+  - track: e
+    klasse: 12
+    unit_nr: 4
+    slug: shakespeare-extract
+    title: Unit 4 — Shakespeare in Extract
+  - track: e
+    klasse: 12
+    unit_nr: 5
+    slug: political-discourse
+    title: Unit 5 — Political Discourse
+  - track: e
+    klasse: 12
+    unit_nr: 6
+    slug: the-non-fiction-essay
+    title: Unit 6 — The Non-Fiction Essay
+  - track: e
+    klasse: 12
+    unit_nr: 8
+    slug: post-colonial-voices-advanced
+    title: Unit 8 — Post-Colonial Voices, Advanced
+  - track: e
+    klasse: 12
+    unit_nr: 9
+    slug: a-novel-in-full
+    title: Unit 9 — A Novel in Full
+  - track: e
+    klasse: 12
+    unit_nr: 11
+    slug: klausur-comprehension-analysis
+    title: 'Unit 11 — Klausur: Comprehension and Analysis'
+  - track: e
+    klasse: 13
+    unit_nr: 1
+    slug: globalisation-and-the-self
+    title: Unit 1 — Globalisation and the Self
+  - track: e
+    klasse: 13
+    unit_nr: 2
+    slug: political-discourse-advanced
+    title: Unit 2 — Political Discourse, Advanced
+  - track: e
+    klasse: 13
+    unit_nr: 3
+    slug: dystopias-and-utopias
+    title: Unit 3 — Dystopias and Utopias
+  - track: e
+    klasse: 13
+    unit_nr: 4
+    slug: contemporary-poetry
+    title: Unit 4 — Contemporary Poetry
+  - track: e
+    klasse: 13
+    unit_nr: 5
+    slug: media-and-public-opinion
+    title: Unit 5 — Media and Public Opinion
+  - track: e
+    klasse: 13
+    unit_nr: 8
+    slug: the-abitur-comprehension
+    title: Unit 8 — The Abitur Comprehension Task
+  - track: e
+    klasse: 13
+    unit_nr: 9
+    slug: the-abitur-analysis
+    title: Unit 9 — The Abitur Analysis Task
+  3.4.3.3:
+  - track: e
+    klasse: 11
+    unit_nr: 11
+    slug: public-speaking-prep
+    title: 'Unit 11 — Public Speaking: Toward the Komm-Prüfung'
+  - track: e
+    klasse: 12
+    unit_nr: 10
+    slug: kommunikationspruefung-mock
+    title: Unit 10 — Kommunikationsprüfung Mock
+  - track: e
+    klasse: 13
+    unit_nr: 10
+    slug: kommunikationspruefung-full-mock
+    title: 'Unit 10 — Kommunikationsprüfung: Full Mock'
+  - track: e
+    klasse: 13
+    unit_nr: 11
+    slug: issue-framed-debate
+    title: Unit 11 — Issue-Framed Debate
+  3.4.3.4:
+  - track: e
+    klasse: 11
+    unit_nr: 11
+    slug: public-speaking-prep
+    title: 'Unit 11 — Public Speaking: Toward the Komm-Prüfung'
+  - track: e
+    klasse: 12
+    unit_nr: 10
+    slug: kommunikationspruefung-mock
+    title: Unit 10 — Kommunikationsprüfung Mock
+  - track: e
+    klasse: 13
+    unit_nr: 10
+    slug: kommunikationspruefung-full-mock
+    title: 'Unit 10 — Kommunikationsprüfung: Full Mock'
+  - track: e
+    klasse: 13
+    unit_nr: 11
+    slug: issue-framed-debate
+    title: Unit 11 — Issue-Framed Debate
+  - track: e
+    klasse: 13
+    unit_nr: 12
+    slug: year-review-and-handover
+    title: Unit 12 — Year Review and Handover
+  3.4.3.5:
+  - track: e
+    klasse: 11
+    unit_nr: 1
+    slug: british-cultural-anchors
+    title: Unit 1 — British Cultural Anchors
+  - track: e
+    klasse: 11
+    unit_nr: 2
+    slug: the-american-dream
+    title: Unit 2 — The American Dream
+  - track: e
+    klasse: 11
+    unit_nr: 3
+    slug: post-colonial-voices-intro
+    title: 'Unit 3 — Post-Colonial Voices: An Introduction'
+  - track: e
+    klasse: 11
+    unit_nr: 4
+    slug: short-stories-and-style
+    title: Unit 4 — Short Stories and Style
+  - track: e
+    klasse: 11
+    unit_nr: 5
+    slug: poetry-from-the-anthology
+    title: Unit 5 — Poetry from the Anthology
+  - track: e
+    klasse: 11
+    unit_nr: 6
+    slug: media-literacy-advanced
+    title: Unit 6 — Media Literacy, Advanced
+  - track: e
+    klasse: 11
+    unit_nr: 7
+    slug: mediation-as-a-skill
+    title: Unit 7 — Mediation as a Skill
+  - track: e
+    klasse: 11
+    unit_nr: 8
+    slug: opinion-essay-writing
+    title: Unit 8 — Opinion Essay Writing
+  - track: e
+    klasse: 11
+    unit_nr: 10
+    slug: a-classic-text-lf
+    title: Unit 10 — A Classic Text (Leistungsfach focus)
+  - track: e
+    klasse: 11
+    unit_nr: 12
+    slug: klausur-prep-exam-rehearsal
+    title: 'Unit 12 — Klausur Prep: Exam Rehearsal'
+  - track: e
+    klasse: 12
+    unit_nr: 1
+    slug: dystopias
+    title: Unit 1 — Dystopias
+  - track: e
+    klasse: 12
+    unit_nr: 2
+    slug: globalisation-debates
+    title: Unit 2 — Globalisation Debates
+  - track: e
+    klasse: 12
+    unit_nr: 3
+    slug: science-and-ethics
+    title: Unit 3 — Science and Ethics
+  - track: e
+    klasse: 12
+    unit_nr: 4
+    slug: shakespeare-extract
+    title: Unit 4 — Shakespeare in Extract
+  - track: e
+    klasse: 12
+    unit_nr: 6
+    slug: the-non-fiction-essay
+    title: Unit 6 — The Non-Fiction Essay
+  - track: e
+    klasse: 12
+    unit_nr: 7
+    slug: mediation-academic-text
+    title: 'Unit 7 — Mediation: An Academic Text'
+  - track: e
+    klasse: 12
+    unit_nr: 8
+    slug: post-colonial-voices-advanced
+    title: Unit 8 — Post-Colonial Voices, Advanced
+  - track: e
+    klasse: 12
+    unit_nr: 9
+    slug: a-novel-in-full
+    title: Unit 9 — A Novel in Full
+  - track: e
+    klasse: 12
+    unit_nr: 11
+    slug: klausur-comprehension-analysis
+    title: 'Unit 11 — Klausur: Comprehension and Analysis'
+  - track: e
+    klasse: 12
+    unit_nr: 12
+    slug: klausur-composition-and-comment
+    title: 'Unit 12 — Klausur: Composition and Comment'
+  - track: e
+    klasse: 13
+    unit_nr: 1
+    slug: globalisation-and-the-self
+    title: Unit 1 — Globalisation and the Self
+  - track: e
+    klasse: 13
+    unit_nr: 3
+    slug: dystopias-and-utopias
+    title: Unit 3 — Dystopias and Utopias
+  - track: e
+    klasse: 13
+    unit_nr: 4
+    slug: contemporary-poetry
+    title: Unit 4 — Contemporary Poetry
+  - track: e
+    klasse: 13
+    unit_nr: 5
+    slug: media-and-public-opinion
+    title: Unit 5 — Media and Public Opinion
+  - track: e
+    klasse: 13
+    unit_nr: 6
+    slug: mediation-policy-text
+    title: 'Unit 6 — Mediation: A German Policy Text'
+  - track: e
+    klasse: 13
+    unit_nr: 7
+    slug: the-abitur-essay
+    title: Unit 7 — The Abitur Essay
+  - track: e
+    klasse: 13
+    unit_nr: 8
+    slug: the-abitur-comprehension
+    title: Unit 8 — The Abitur Comprehension Task
+  - track: e
+    klasse: 13
+    unit_nr: 9
+    slug: the-abitur-analysis
+    title: Unit 9 — The Abitur Analysis Task
+  - track: e
+    klasse: 13
+    unit_nr: 12
+    slug: year-review-and-handover
+    title: Unit 12 — Year Review and Handover
+  3.4.3.6:
+  - track: e
+    klasse: 11
+    unit_nr: 7
+    slug: mediation-as-a-skill
+    title: Unit 7 — Mediation as a Skill
+  - track: e
+    klasse: 11
+    unit_nr: 12
+    slug: klausur-prep-exam-rehearsal
+    title: 'Unit 12 — Klausur Prep: Exam Rehearsal'
+  - track: e
+    klasse: 12
+    unit_nr: 7
+    slug: mediation-academic-text
+    title: 'Unit 7 — Mediation: An Academic Text'
+  - track: e
+    klasse: 12
+    unit_nr: 12
+    slug: klausur-composition-and-comment
+    title: 'Unit 12 — Klausur: Composition and Comment'
+  - track: e
+    klasse: 13
+    unit_nr: 6
+    slug: mediation-policy-text
+    title: 'Unit 6 — Mediation: A German Policy Text'
+  3.4.3.7:
+  - track: e
+    klasse: 11
+    unit_nr: 7
+    slug: mediation-as-a-skill
+    title: Unit 7 — Mediation as a Skill
+  - track: e
+    klasse: 12
+    unit_nr: 7
+    slug: mediation-academic-text
+    title: 'Unit 7 — Mediation: An Academic Text'
+  - track: e
+    klasse: 13
+    unit_nr: 6
+    slug: mediation-policy-text
+    title: 'Unit 6 — Mediation: A German Policy Text'
+  3.4.3.8:
+  - track: e
+    klasse: 11
+    unit_nr: 4
+    slug: short-stories-and-style
+    title: Unit 4 — Short Stories and Style
+  - track: e
+    klasse: 11
+    unit_nr: 8
+    slug: opinion-essay-writing
+    title: Unit 8 — Opinion Essay Writing
+  3.4.4:
+  - track: e
+    klasse: 11
+    unit_nr: 1
+    slug: british-cultural-anchors
+    title: Unit 1 — British Cultural Anchors
+  - track: e
+    klasse: 11
+    unit_nr: 2
+    slug: the-american-dream
+    title: Unit 2 — The American Dream
+  - track: e
+    klasse: 11
+    unit_nr: 3
+    slug: post-colonial-voices-intro
+    title: 'Unit 3 — Post-Colonial Voices: An Introduction'
+  - track: e
+    klasse: 11
+    unit_nr: 4
+    slug: short-stories-and-style
+    title: Unit 4 — Short Stories and Style
+  - track: e
+    klasse: 11
+    unit_nr: 5
+    slug: poetry-from-the-anthology
+    title: Unit 5 — Poetry from the Anthology
+  - track: e
+    klasse: 11
+    unit_nr: 6
+    slug: media-literacy-advanced
+    title: Unit 6 — Media Literacy, Advanced
+  - track: e
+    klasse: 11
+    unit_nr: 8
+    slug: opinion-essay-writing
+    title: Unit 8 — Opinion Essay Writing
+  - track: e
+    klasse: 11
+    unit_nr: 10
+    slug: a-classic-text-lf
+    title: Unit 10 — A Classic Text (Leistungsfach focus)
+  - track: e
+    klasse: 11
+    unit_nr: 12
+    slug: klausur-prep-exam-rehearsal
+    title: 'Unit 12 — Klausur Prep: Exam Rehearsal'
+  - track: e
+    klasse: 12
+    unit_nr: 1
+    slug: dystopias
+    title: Unit 1 — Dystopias
+  - track: e
+    klasse: 12
+    unit_nr: 2
+    slug: globalisation-debates
+    title: Unit 2 — Globalisation Debates
+  - track: e
+    klasse: 12
+    unit_nr: 3
+    slug: science-and-ethics
+    title: Unit 3 — Science and Ethics
+  - track: e
+    klasse: 12
+    unit_nr: 4
+    slug: shakespeare-extract
+    title: Unit 4 — Shakespeare in Extract
+  - track: e
+    klasse: 12
+    unit_nr: 5
+    slug: political-discourse
+    title: Unit 5 — Political Discourse
+  - track: e
+    klasse: 12
+    unit_nr: 6
+    slug: the-non-fiction-essay
+    title: Unit 6 — The Non-Fiction Essay
+  - track: e
+    klasse: 12
+    unit_nr: 8
+    slug: post-colonial-voices-advanced
+    title: Unit 8 — Post-Colonial Voices, Advanced
+  - track: e
+    klasse: 12
+    unit_nr: 9
+    slug: a-novel-in-full
+    title: Unit 9 — A Novel in Full
+  - track: e
+    klasse: 12
+    unit_nr: 11
+    slug: klausur-comprehension-analysis
+    title: 'Unit 11 — Klausur: Comprehension and Analysis'
+  - track: e
+    klasse: 12
+    unit_nr: 12
+    slug: klausur-composition-and-comment
+    title: 'Unit 12 — Klausur: Composition and Comment'
+  - track: e
+    klasse: 13
+    unit_nr: 1
+    slug: globalisation-and-the-self
+    title: Unit 1 — Globalisation and the Self
+  - track: e
+    klasse: 13
+    unit_nr: 2
+    slug: political-discourse-advanced
+    title: Unit 2 — Political Discourse, Advanced
+  - track: e
+    klasse: 13
+    unit_nr: 3
+    slug: dystopias-and-utopias
+    title: Unit 3 — Dystopias and Utopias
+  - track: e
+    klasse: 13
+    unit_nr: 4
+    slug: contemporary-poetry
+    title: Unit 4 — Contemporary Poetry
+  - track: e
+    klasse: 13
+    unit_nr: 5
+    slug: media-and-public-opinion
+    title: Unit 5 — Media and Public Opinion
+  - track: e
+    klasse: 13
+    unit_nr: 7
+    slug: the-abitur-essay
+    title: Unit 7 — The Abitur Essay
+  - track: e
+    klasse: 13
+    unit_nr: 8
+    slug: the-abitur-comprehension
+    title: Unit 8 — The Abitur Comprehension Task
+  - track: e
+    klasse: 13
+    unit_nr: 9
+    slug: the-abitur-analysis
+    title: Unit 9 — The Abitur Analysis Task
+  - track: e
+    klasse: 13
+    unit_nr: 12
+    slug: year-review-and-handover
+    title: Unit 12 — Year Review and Handover
+  3.5.1:
+  - track: e
+    klasse: 11
+    unit_nr: 9
+    slug: a-modern-novel-bf
+    title: Unit 9 — A Modern Novel (Basisfach focus)
+  3.5.3.2:
+  - track: e
+    klasse: 11
+    unit_nr: 9
+    slug: a-modern-novel-bf
+    title: Unit 9 — A Modern Novel (Basisfach focus)
+  3.5.3.5:
+  - track: e
+    klasse: 11
+    unit_nr: 9
+    slug: a-modern-novel-bf
+    title: Unit 9 — A Modern Novel (Basisfach focus)
+  3.5.4:
+  - track: e
+    klasse: 11
+    unit_nr: 9
+    slug: a-modern-novel-bf
+    title: Unit 9 — A Modern Novel (Basisfach focus)

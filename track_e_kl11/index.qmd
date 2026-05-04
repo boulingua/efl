@@ -1,0 +1,129 @@
+---
+title: "Klasse 11 English — Cultural entry, literary voice (Oberstufe)"
+pagetitle: "Klasse 11 · Track E — EFL"
+author: "S. Le Boulanger"
+---
+
+::: {.hero}
+::: {.kicker}
+TRACK E · KLASSE 11
+:::
+# Klasse 11 English — Cultural entry, literary voice (Oberstufe)
+
+::: {.lead}
+Twelve Units across the school year. Each Unit ships an HTML
+article, a Reveal.js slide deck, a worksheet PDF (placeholder),
+and a worked exam example as Klausur (assessment). Authored by S. Le Boulanger.
+:::
+:::
+
+## The recurring cast
+
+This year's stories follow **narrators and author voices**. Characters (or, in the
+Oberstufe, *texts as characters*) reappear across Units so
+learners build a continuous sense of place and voice.
+
+## The twelve Units
+
+::: {.card-grid}
+::: {.card}
+[Unit 1 · Niveau E]{.kicker}
+
+### [British Cultural Anchors](units/unit01_british-cultural-anchors.qmd)
+reading, writing, intercultural
+
+:::
+::: {.card}
+[Unit 2 · Niveau E]{.kicker}
+
+### [The American Dream](units/unit02_the-american-dream.qmd)
+reading, writing, intercultural
+
+:::
+::: {.card}
+[Unit 3 · Niveau E]{.kicker}
+
+### [Post-Colonial Voices: An Introduction](units/unit03_post-colonial-voices-intro.qmd)
+reading, writing, intercultural
+
+:::
+::: {.card}
+[Unit 4 · Niveau E]{.kicker}
+
+### [Short Stories and Style](units/unit04_short-stories-and-style.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 5 · Niveau E]{.kicker}
+
+### [Poetry from the Anthology](units/unit05_poetry-from-the-anthology.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 6 · Niveau E]{.kicker}
+
+### [Media Literacy, Advanced](units/unit06_media-literacy-advanced.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 7 · Niveau E]{.kicker}
+
+### [Mediation as a Skill](units/unit07_mediation-as-a-skill.qmd)
+mediation, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 8 · Niveau E]{.kicker}
+
+### [Opinion Essay Writing](units/unit08_opinion-essay-writing.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 9 · Niveau E]{.kicker}
+
+### [A Modern Novel (Basisfach focus)](units/unit09_a-modern-novel-bf.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 10 · Niveau E]{.kicker}
+
+### [A Classic Text (Leistungsfach focus)](units/unit10_a-classic-text-lf.qmd)
+reading, writing, language_awareness
+
+:::
+::: {.card}
+[Unit 11 · Niveau E]{.kicker}
+
+### [Public Speaking: Toward the Komm-Prüfung](units/unit11_public-speaking-prep.qmd)
+speaking, listening, language_awareness
+
+:::
+::: {.card}
+[Unit 12 · Niveau E]{.kicker}
+
+### [Klausur Prep: Exam Rehearsal](units/unit12_klausur-prep-exam-rehearsal.qmd)
+reading, writing, language_awareness
+
+:::
+:::
+
+## What you will be able to do by the end of this year
+
+::: {.callout-tip icon=false title="curriculum framework (Bildungsplan)-aligned Kompetenzerwartungen"}
+Filled in from `_resources/bildungsplan_bw_e_kl11.yml`.
+The chapter codes and German labels are pulled live from
+[bildungsplaene-bw.de](https://www.bildungsplaene-bw.de/).
+:::
+
+## Use this course in class
+
+- The [schedule](schedule.qmd) lists all twelve Units.
+- Each Unit page links four downloads: article (HTML), slide deck
+  (HTML), worksheet (PDF placeholder), exam example (PDF).
+- Speaker notes on every slide cover timing, transitions, and
+  Niveau-aware differentiation prompts for mixed groups.

@@ -1,0 +1,26 @@
+---
+title: "Klassenarbeit — Unit 1: First Day Back"
+subtitle: "Track G+M · Klasse 7 · Niveau M · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 1
+slug: "first-day-back"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - margin=22mm
+    include-in-header:
+      - "../../_includes/_exam.tex"
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 1: First Day Back
+
+**Track G+M · Klasse 7 · Niveau M · 45 Minuten**
+
+{{< include _unit01_first-day-back_exam_body.qmd >}}

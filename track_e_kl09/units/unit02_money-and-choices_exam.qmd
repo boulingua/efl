@@ -1,0 +1,24 @@
+---
+title: "class test (Klassenarbeit) — Unit 2: Money and Choices"
+subtitle: "Track E · Klasse 9 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 2
+slug: "money-and-choices"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# class test (Klassenarbeit) — Unit 2: Money and Choices
+
+**Track E · Klasse 9 · Niveau E · 45 Minuten**
+
+{{< include _unit02_money-and-choices_exam_body.qmd >}}

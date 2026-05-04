@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 6: Friends and Feelings"
+subtitle: "Track E · Klasse 6 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 6
+track: "e"
+unit_nr: 6
+slug: "friends-and-feelings"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 6: Friends and Feelings
+
+**Track E · Klasse 6 · Niveau E · 45 Minuten**
+
+{{< include _unit06_friends-and-feelings_exam_body.qmd >}}

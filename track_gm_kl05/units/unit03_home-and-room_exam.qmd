@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 3: Home and My Room"
+subtitle: "Track G+M · Klasse 5 · Niveau M · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "M"
+klassenstufe: 5
+track: "gm"
+unit_nr: 3
+slug: "home-and-room"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 3: Home and My Room
+
+**Track G+M · Klasse 5 · Niveau M · 45 Minuten**
+
+{{< include _unit03_home-and-room_exam_body.qmd >}}

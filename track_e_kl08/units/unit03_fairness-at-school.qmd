@@ -1,0 +1,142 @@
+---
+title: "Unit 3 — Fairness at School"
+subtitle: "Track E · Klasse 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 3
+slug: "fairness-at-school"
+bildungsplan:
+  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
+  - "3.2.3.5 Schreiben"
+  - "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+skills_focus:
+  - speaking
+  - writing
+  - language_awareness
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit03_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** E. class test (Klassenarbeit) at Niveau E (45 BE).
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can argue a school-fairness point in 5 sentences.*
+- *I can use the second conditional (*if I were … I would …*).*
+- *I can use connectives of contrast (*although, however, on the other hand*).*
+
+## Bildungsplan alignment
+
+- **3.2.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.2.3.3 Sprechen – an Gesprächen teilnehmen**
+- **3.2.3.5 Schreiben**
+- **3.2.3.8 Verfügen über sprachliche Mittel – Grammatik**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Jonas's class is voting on a new rule: *no phones at lunch*. Half the class is for it. The other half thinks it is mostly aimed at one group of students who happen to be loud anyway. Hawa says, "If I were the headteacher, I would ask why we are voting on phones and not on actual fairness."
+
+## 1. Activate
+
+**Two-minute scan.** On the slide are five school rules. With your partner, mark each one as *fair / unfair / depends*.
+
+## 2. Input
+
+### Vocabulary — fairness
+
+*rule, rights, equal, equality, privilege, discrimination, exception, vote, debate, agree, disagree, valid, biased, neutral, inclusive.*
+
+### Grammar — second conditional
+
+Structure: *If* + past simple, *would* + base verb.
+- *If I were the headteacher, I would change the rule.*
+- *If we voted, it would be close.*
+- *I wouldn't ban phones if I had to enforce the rule myself.*
+
+*Were* (not *was*) is preferred for *I/he/she/it* in formal writing: *If I **were** you …*
+
+### Connectives of contrast
+
+*although, however, on the other hand, even though, still, but, yet.*
+- *Although the rule is meant to help, it doesn't.*
+- *However, I see the point of the original idea.*
+- *On the other hand, fairness has limits.*
+
+## 3. Practise
+
+### Niveau E — controlled
+
+1. Fill in second conditional: If I __________ (be) the headteacher, I __________ (change) the rule.
+2. Connective fill-in: ___ I agree with the rule, I think it is unfair to one group. (although)
+
+### Niveau E — productive
+
+3. Build 3 second-conditional sentences and 2 contrast sentences about a school rule you would change.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**Controlled.** 1. were / would change.
+2. Although.
+
+**Productive.** 3. Open.
+:::
+
+## 4. Produce
+
+**Mini-debate.** Two teams of 4. The motion: *This class would replace the no-phones rule with a no-loud-phones rule.* Each speaker uses one second conditional + one contrast connective. Two minutes per side.
+
+### Sample
+
+*— If we replaced the rule, we would still have quiet lunch tables. However, some people just wouldn't follow it.*
+*— On the other hand, the current rule punishes everyone for the loudness of a few.*
+
+## 5. Reflect
+
+- [ ] I can argue a school-fairness point in 5 sentences.
+- [ ] I can use the second conditional in writing.
+- [ ] I can use 3 connectives of contrast.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< include _unit03_fairness-at-school_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
+5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
+
+**Differentiation.** Below Niveau E (mixed group): provide a
+support card with the key structure. Above Niveau E: extension
+question linking to the next Unit.
+:::
+
+## Common pitfalls
+
+- *If I would be …* → ✗ / *If I were …* → ✓.
+- *Although + but* in one sentence → ✗ — pick one.
+- *on the another hand* → ✗ / *on the other hand* → ✓.
+
+## Further reading / listening
+
+- BBC Newsround — short fairness debates for teens.
+- Childline UK — *Your rights at school* page.

@@ -1,0 +1,25 @@
+---
+title: "Schedule — Klasse 13 · Track E"
+pagetitle: "Klasse 13 schedule · Track E — EFL"
+author: "S. Le Boulanger"
+---
+
+The twelve Units of Klasse 13 (E) across the school
+year. Each Unit covers roughly three teaching weeks.
+
+| Unit | Title | Skills focus | Exam type |
+|------|-------|--------------|-----------|
+| 1 | [Globalisation and the Self](units/unit01_globalisation-and-the-self.qmd) | reading, writing, intercultural | Abitur-grade Klausur (school-leaving examination) |
+| 2 | [Political Discourse, Advanced](units/unit02_political-discourse-advanced.qmd) | reading, listening, language_awareness | Abitur-grade Klausur (school-leaving examination) |
+| 3 | [Dystopias and Utopias](units/unit03_dystopias-and-utopias.qmd) | reading, writing, language_awareness | Abitur-grade Klausur (school-leaving examination) |
+| 4 | [Contemporary Poetry](units/unit04_contemporary-poetry.qmd) | reading, writing, language_awareness | Abitur-grade Klausur (school-leaving examination) |
+| 5 | [Media and Public Opinion](units/unit05_media-and-public-opinion.qmd) | reading, writing, language_awareness | Abitur-grade Klausur (school-leaving examination) |
+| 6 | [Mediation: A German Policy Text](units/unit06_mediation-policy-text.qmd) | mediation, writing, language_awareness | Abitur-grade Klausur (school-leaving examination) |
+| 7 | [The Abitur Essay](units/unit07_the-abitur-essay.qmd) | writing, language_awareness | Abitur-grade Klausur (school-leaving examination) |
+| 8 | [The Abitur Comprehension Task](units/unit08_the-abitur-comprehension.qmd) | reading, writing, language_awareness | Abitur-grade Klausur (school-leaving examination) |
+| 9 | [The Abitur Analysis Task](units/unit09_the-abitur-analysis.qmd) | reading, writing, language_awareness | Abitur-grade Klausur (school-leaving examination) |
+| 10 | [Kommunikationsprüfung: Full Mock](units/unit10_kommunikationspruefung-full-mock.qmd) | speaking, listening, language_awareness | Abitur-grade Klausur (school-leaving examination) |
+| 11 | [Issue-Framed Debate](units/unit11_issue-framed-debate.qmd) | speaking, listening, language_awareness | Abitur-grade Klausur (school-leaving examination) |
+| 12 | [Year Review and Handover](units/unit12_year-review-and-handover.qmd) | writing, speaking, language_awareness | Abitur-grade Klausur (school-leaving examination) |
+
+[← Back to Klasse 13 overview](index.qmd)

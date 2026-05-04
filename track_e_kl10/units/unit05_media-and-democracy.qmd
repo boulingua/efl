@@ -1,0 +1,135 @@
+---
+title: "Unit 5 — Media and Democracy"
+subtitle: "Track E · Klasse 10 · Niveau E"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 5
+slug: "media-and-democracy"
+bildungsplan:
+  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.3.3.2 Leseverstehen"
+  - "3.3.3.5 Schreiben"
+  - "3.3.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+  - "3.3.4 Text- und Medienkompetenz"
+skills_focus:
+  - reading
+  - writing
+  - language_awareness
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit05_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** E. class test (Klassenarbeit) at Niveau E (45 BE).
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can read a short text linking media and democratic life and identify three causal claims.*
+- *I can use academic register hedges (*it has been argued that, the available evidence suggests, in some contexts*).*
+- *I can write a 220-word op-ed on a media-democracy topic.*
+
+## curriculum framework (Bildungsplan) alignment
+
+- **3.3.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.3.3.2 Leseverstehen**
+- **3.3.3.5 Schreiben**
+- **3.3.3.7 Verfügen über sprachliche Mittel – Wortschatz**
+- **3.3.4 Text- und Medienkompetenz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Maja's class read a one-page essay about local newspapers. The essay opened with a fact that surprised most of the class: more than 200 local UK papers have closed in the past two decades, and research has linked their absence to lower voter turnout in the affected districts. Maja underlined the verb *has linked*. "Linked is not caused," she said. "Useful word."
+
+## 1. Activate
+
+**Source-trust scan.** With your partner, rank five media types from *most* to *least* trustworthy and explain why for each.
+
+## 2. Input
+
+### Reading — *Local Papers, Local Voters*
+
+*More than 200 local newspapers in the UK have closed in the past two decades. Research has linked their disappearance to lower voter turnout, less scrutiny of local councils and slower response to local environmental issues. The link is not necessarily causal — districts that lose papers are also often districts under broader economic stress — but it is consistent across studies. In some contexts, hyper-local newsletters and citizen journalism have replaced the papers; in others, they have not.*
+
+### Vocabulary — media and democracy
+
+*free press, press freedom, accountability, scrutiny, oversight, opinion vs. reporting, editorial independence, conflict of interest, sponsored content, public-interest journalism, civic information, local press desert.*
+
+### Academic-register hedges
+
+*It has been argued that … / The available evidence suggests that … / In some contexts … / This is not necessarily causal … / The link is consistent across studies … / Critics maintain that … / Caution is warranted.*
+
+## 3. Practise
+
+### Niveau E — controlled
+
+1. Choose hedge: *It has been argued / The evidence suggests / Critics maintain* — ___ that local papers support voter turnout. ___ that the link is causal.
+2. Match: free press → press freedom; oversight → scrutiny; sponsored content → paid promotion.
+
+### Niveau E — productive
+
+3. Build 4 academic-register sentences on the local-press topic.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**Controlled.** 1. The evidence suggests / Critics maintain.
+2. all true.
+
+**Productive.** 3. Open.
+:::
+
+## 4. Produce
+
+**Op-ed, 220 words.** Take a position on a media-democracy topic of your choice. Use 4 academic-register hedges + 1 cautious-claim phrase + 1 complex-sentence subordinator.
+
+### Sample
+
+*The available evidence suggests that the closure of more than 200 local newspapers in the UK over the past two decades has had measurable democratic consequences. Research has linked their disappearance to lower voter turnout, less scrutiny of councils, and slower response to local environmental issues. It has been argued, with reason, that the link is not necessarily causal — districts that lose papers are often districts under broader economic stress. However, the consistency of the link across studies warrants attention. In some contexts, hyper-local newsletters and citizen journalism have replaced the papers; in others, they have not. Critics maintain that volunteer-run replacements lack the staff time for sustained scrutiny, which is the part of journalism most at risk in a press desert. Although the picture is uneven, the policy implication is fairly clear: support for local public-interest journalism — through grant schemes, regulatory tweaks, or simply paid subscriptions — is one of the cheaper democratic investments available. Caution is warranted; complacency is not.*
+
+## 5. Reflect
+
+- [ ] I can identify 3 causal claims in a media-democracy text.
+- [ ] I can use 4 academic-register hedges.
+- [ ] I can write a 220-word op-ed.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< include _unit05_media-and-democracy_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
+5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
+
+**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
+into Oberstufe: extension prompt linking to Klasse 11
+(Basisfach / Leistungsfach choice).
+:::
+
+## Common pitfalls
+
+- *The evidence proves* — overstatement; *suggests*, *indicates*, *is consistent with* are safer.
+- *correlation* mistaken for *causation*.
+- Avoid the lecture voice — keep paragraphs short and argumentative.
+
+## Further reading / listening
+
+- The Guardian — *Comment is free*.
+- Reuters Institute — accessible digital news report.

@@ -1,0 +1,66 @@
+---
+title: "Impressum"
+author: "S. Le Boulanger"
+---
+
+::: {.callout-warning title="ACTION REQUIRED"}
+This Impressum ships with placeholder fields wrapped as
+`<TODO: ...>`. Fill in your full postal address and contact email
+**before going public**. Hosting a non-private website without a
+legally compliant Impressum (TMG § 5 / DDG § 5) is an
+*Abmahnrisiko* under German law.
+:::
+
+## Angaben gemäß § 5 DDG
+
+**S. Le Boulanger**\
+<TODO: Anschrift — Straße, Hausnummer>\
+<TODO: PLZ, Ort>\
+Deutschland
+
+## Kontakt
+
+E-Mail: <TODO: kontakt@domain.tld>
+
+## Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV
+
+S. Le Boulanger\
+<TODO: gleiche Anschrift wie oben>
+
+## Haftungsausschluss
+
+**Haftung für Inhalte.** Als Diensteanbieterin bin ich gemäß § 7
+Abs. 1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen
+Gesetzen verantwortlich. Nach §§ 8 bis 10 DDG bin ich als
+Diensteanbieterin jedoch nicht verpflichtet, übermittelte oder
+gespeicherte fremde Informationen zu überwachen oder nach Umständen
+zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+
+**Haftung für Links.** Diese Website enthält Links zu externen
+Websites Dritter, auf deren Inhalte ich keinen Einfluss habe. Für
+die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter
+oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten
+wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße
+überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung
+nicht erkennbar. Eine permanente inhaltliche Kontrolle der
+verlinkten Seiten ist ohne konkrete Anhaltspunkte einer
+Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von
+Rechtsverletzungen werde ich derartige Links umgehend entfernen.
+
+## Urheberrecht
+
+Die durch S. Le Boulanger erstellten Inhalte und Werke auf diesen
+Seiten unterliegen dem deutschen Urheberrecht. Der Lehrinhalt
+(Texte, Aufgaben, Prüfungsbeispiele) steht unter der Lizenz
+**CC-BY-SA 4.0**. Der zugrundeliegende Website-Code steht unter der
+**MIT-Lizenz**. Zitate Dritter bleiben Eigentum der jeweiligen
+Rechteinhaber und sind an Ort und Stelle gekennzeichnet.
+
+## Schulrechtlicher Hinweis
+
+Diese Materialien sind eine persönliche didaktische Sammlung der
+Autorin und stehen in keinem offiziellen Zusammenhang mit einer
+Schule, dem Land Baden-Württemberg oder dem Kultusministerium für
+Kultus, Jugend und Sport. Der Bezug zum curriculum framework (Bildungsplan) 2016 (Sek I)
+bzw. curriculum framework (Bildungsplan) gymnasiale Oberstufe 2021 ist inhaltlich-fachlich,
+keine offizielle Freigabe.

@@ -1,0 +1,134 @@
+---
+title: "Unit 9 — Youth Protest Movements"
+subtitle: "Track E · Klasse 10 · Niveau E"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 9
+slug: "youth-protest-movements"
+bildungsplan:
+  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.3.2 Interkulturelle kommunikative Kompetenz"
+  - "3.3.3.2 Leseverstehen"
+  - "3.3.3.3 Sprechen – an Gesprächen teilnehmen"
+  - "3.3.4 Text- und Medienkompetenz"
+skills_focus:
+  - reading
+  - speaking
+  - intercultural
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit09_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** E. class test (Klassenarbeit) at Niveau E (45 BE).
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can read a comparative text on two youth movements and identify their tactics, demands, and outcomes.*
+- *I can use cleft-sentence emphasis (*it is precisely the demand that …*).*
+- *I can hold a 5-minute panel-style discussion in formal English.*
+
+## curriculum framework (Bildungsplan) alignment
+
+- **3.3.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.3.2 Interkulturelle kommunikative Kompetenz**
+- **3.3.3.2 Leseverstehen**
+- **3.3.3.3 Sprechen – an Gesprächen teilnehmen**
+- **3.3.4 Text- und Medienkompetenz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Maja's class compared two youth movements: a climate school-strike movement of the late 2010s and a housing-rights movement that began in Lisbon in 2024. Same age range, similar visibility online, very different policy outcomes. Mr. Yilmaz framed the question: *what made one of them legible to the system, and the other not?*
+
+## 1. Activate
+
+**Movement-mapping scan.** With your partner, list two youth movements you have heard of in the past five years and one tactic each used.
+
+## 2. Input
+
+### Reading — *Two Youth Movements, Compared*
+
+*The school-strike climate movement of 2018-2020 drew millions of young people into weekly walk-outs across more than 130 countries. Its central demand — that governments listen to climate scientists — was clear, and its tactic — visible absence — was easily understood by the public. The Lisbon housing movement of 2024-2026, by contrast, used occupations of empty buildings and detailed policy papers. Its demands were narrower and harder to summarise. It is precisely the legibility of the first movement, some commentators argue, that made it useful to politicians; and precisely the specificity of the second that has produced sharper policy results.*
+
+### Grammar — cleft-sentence emphasis
+
+**It is/was X that/who …** structure highlights one element.
+- *It is precisely the legibility of the first movement that made it useful.*
+- *It was the specificity that produced sharper results.*
+- *What made the difference was the specificity.*
+
+## 3. Practise
+
+### Niveau E — controlled
+
+1. Build a cleft sentence: emphasise *the legibility* in *the legibility of the first movement made it useful*.
+2. T or F from text: school-strike was in 130+ countries; Lisbon housing demands were broad; specificity produced sharper results.
+
+### Niveau E — productive
+
+3. Build 4 cleft sentences emphasising different elements of the same fact.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**Controlled.** 1. *It was precisely the legibility of the first movement that made it useful.*
+2. T, F (narrower), T.
+
+**Productive.** 3. Open.
+:::
+
+## 4. Produce
+
+**Panel-style discussion (5 min).** Groups of 4. Each speaker delivers a 60-second opening on: *what makes a youth movement effective?* Use 1 cleft + 1 hedge + 1 specific example. Other speakers ask 1 follow-up.
+
+### Sample
+
+*What makes a youth movement effective is, I would argue, the legibility of its central demand. It is precisely when a movement can summarise itself in one sentence — *listen to climate scientists* — that the public can stand behind it without having to do homework. However, this comes at a cost. The Lisbon housing movement of 2024 was less legible; its demands were narrower and required several pages of explanation. And yet, the available evidence suggests, it was the specificity of those demands that produced sharper policy results within two years. Both kinds of movement matter. The lesson, perhaps, is that legibility wins attention, while specificity wins the policy.*
+
+## 5. Reflect
+
+- [ ] I can identify tactics, demands, and outcomes of two youth movements.
+- [ ] I can use cleft-sentence emphasis.
+- [ ] I can hold a 5-minute panel-style discussion.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< include _unit09_youth-protest-movements_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
+5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
+
+**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
+into Oberstufe: extension prompt linking to Klasse 11
+(Basisfach / Leistungsfach choice).
+:::
+
+## Common pitfalls
+
+- Romanticising movements without naming a specific tactic.
+- Cleft overload — one per paragraph is enough.
+- Don't confuse public visibility with policy outcome.
+
+## Further reading / listening
+
+- BBC News — youth-movement profiles.
+- The Conversation — academic-leaning analysis.

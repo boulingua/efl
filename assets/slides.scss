@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+$body-bg: #1d1f21;
+$body-color: #e8e8e8;
+$link-color: #79b8ff;
+$presentation-font-family: "Source Sans 3", sans-serif;
+$presentation-heading-color: #e8e8e8;
+$code-block-bg: #2a2d31;
+
+/*-- scss:rules --*/
+.reveal .meme-frame {
+  border: 2px solid #2d3035;
+  border-radius: 8px;
+  padding: 0.5rem;
+  background: #26292c;
+  display: inline-block;
+}
+.reveal .meme-frame figcaption {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.7em;
+  color: #a8a8a8;
+  margin-top: 0.4rem;
+  text-align: center;
+}
+.reveal .niveau-badge {
+  display: inline-block;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.6em;
+  padding: 0.1em 0.5em;
+  border-radius: 999px;
+  border: 1px solid #2d3035;
+}
+.reveal .niveau-badge.g { background: #3a2a10; color: #ffb86b; }
+.reveal .niveau-badge.m { background: #14283f; color: #79b8ff; }
+.reveal .niveau-badge.e { background: #281f3a; color: #c4b5fd; }
+.reveal .icon-circle svg { width: 1em; height: 1em; stroke: #79b8ff; }

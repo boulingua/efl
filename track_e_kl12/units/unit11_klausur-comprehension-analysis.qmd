@@ -1,0 +1,142 @@
+---
+title: "Unit 11 — Klausur: Comprehension and Analysis"
+subtitle: "Track E · Klasse 12 · Niveau E (Basisfach / Leistungsfach)"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 11
+slug: "klausur-comprehension-analysis"
+bildungsplan:
+  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.4.3.2 / 3.5.3.2 Leseverstehen"
+  - "3.4.3.5 / 3.5.3.5 Schreiben"
+  - "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+skills_focus:
+  - reading
+  - writing
+  - language_awareness
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit11_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** E. Klausur (assessment) at Niveau E (90 BE).\
+**Course tagging:** basic course (Basisfach, E-BF) and advanced
+course (Leistungsfach, E-LF).
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can answer a Klausur Comprehension section (~24 BE) on a literary or journalistic source under timed conditions.*
+- *I can write a Klausur Analysis section (~18 BE) with sustained close reading and integrated quotation.*
+- *I can deploy time-management discipline across the two sections.*
+
+## curriculum framework (Bildungsplan) alignment
+
+- **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.4.3.2 / 3.5.3.2 Leseverstehen**
+- **3.4.3.5 / 3.5.3.5 Schreiben**
+- **3.4.4 / 3.5.4 Text- und Medienkompetenz**
+
+(Sources: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/GYM/E1/IK/11-12-LF> /
+<https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/GYM/E1/IK/11-12-BF>)
+
+## Lead-in story
+
+This Unit is the first of two dedicated Klausur-prep Units in Klasse 12. Today's focus: Comprehension + Analysis, the two sections most reliant on close reading. Mr. Yilmaz set the source — a 1,000-word extract from a 2026 *New Yorker* essay on attention economies — and gave the class 90 minutes.
+
+## 1. Activate
+
+**Reading-budget scan.** Before opening the source, decide: *first read* (orienting, 10 min) + *second read* (close, 15 min). What do you do differently in the second read?
+
+## 2. Input
+
+### Comprehension section — pattern
+
+Typical Comprehension question types:
+1. *State / outline* — gives you the question; you answer in your own words with one or two specifics.
+2. *Explain* — needs *because* / *the reason is that* + a specific from the text.
+3. *Compare / contrast* — needs both elements named + the relation.
+
+**Sprache check:** answer in your own words, preserving named specifics from the text. Don't quote whole sentences; embed fragments.
+
+### Analysis section — pattern
+
+Typical Analysis question types:
+1. *Analyse the writer's stance / argumentative strategy.* — needs 3+ specific moves + an integrated quote per move.
+2. *Analyse the language / register / structural features.* — needs technical vocabulary + close reading.
+
+**Sprache check:** integrated quotation, academic register, no plot summary.
+
+## 3. Practise
+
+### Niveau E — controlled
+
+1. Match: *outline* → state in own words; *explain* → give reason; *analyse* → identify and discuss moves.
+2. T or F: *outline* allows quoting full sentences; *analyse* requires integrated quotation; *compare* needs both elements named.
+
+### Niveau E — productive
+
+3. Build a 4-sentence Analysis answer on the writer's stance using 2 integrated quotes + 2 academic discourse markers.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**Controlled.** 1. all true.
+2. F (outline = own words, no full quotes), T, T.
+
+**Productive.** 3. Open.
+:::
+
+## 4. Produce
+
+**Klausur sections, timed.** 90 minutes total. 30 min Comprehension (24 BE) + 50 min Analysis (18 BE) + 10 min review. Submit. Class debriefs collectively with focus on time and integrated quotation.
+
+### Sample
+
+(See *Reflection on the rehearsal* — the production task is the timed sections themselves.)
+
+## 5. Reflect
+
+- [ ] I can answer a Comprehension section under timed conditions.
+- [ ] I can write an Analysis section with sustained close reading.
+- [ ] I can deploy time-management discipline across the two sections.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< include _unit11_klausur-comprehension-analysis_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 90 minutes total (Doppelstunde). Lead-in
+6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
+30 min · Reflect 6 min.
+
+**Differentiation.** Basisfach (basic course): tighter argument,
+clearer moves. Leistungsfach (advanced course): sustained
+analysis, integrated quotation, complex thesis.
+:::
+
+## Common pitfalls
+
+- Spending too long on Comprehension because it feels safe.
+- Using full block-quotes in Analysis — integrate.
+- Plot-summary instead of analysis.
+
+## Further reading / listening
+
+- Bildungsplan-aligned Klausur collections.
+- Past Abitur papers (BW), with caution: format familiarity only.

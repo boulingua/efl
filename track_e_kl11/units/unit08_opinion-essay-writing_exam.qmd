@@ -1,0 +1,24 @@
+---
+title: "Klausur (assessment) — Unit 8: Opinion Essay Writing"
+subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 11
+track: "e"
+unit_nr: 8
+slug: "opinion-essay-writing"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klausur (assessment) — Unit 8: Opinion Essay Writing
+
+**Track E · Klasse 11 · Niveau E · 4 Stunden (incl. breaks) · 90 BE**
+
+{{< include _unit08_opinion-essay-writing_exam_body.qmd >}}

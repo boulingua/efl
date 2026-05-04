@@ -1,0 +1,130 @@
+---
+title: "Unit 11 — Public Speaking: A Short Talk"
+subtitle: "Track E · Klasse 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 11
+slug: "public-speaking"
+bildungsplan:
+  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.2.3.1 Hör-/Hörsehverstehen"
+  - "3.2.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
+  - "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+skills_focus:
+  - speaking
+  - listening
+  - language_awareness
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit11_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** E. class test (Klassenarbeit) at Niveau E (45 BE).
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can deliver a 2-minute monologue with three movements (hook, body, close).*
+- *I can use signposting phrases for spoken English.*
+- *I can listen to a peer's talk and give one specific piece of feedback.*
+
+## Bildungsplan alignment
+
+- **3.2.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.2.3.1 Hör-/Hörsehverstehen**
+- **3.2.3.4 Sprechen – zusammenhängendes monologisches Sprechen**
+- **3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Hawa is preparing a talk. The rule: two minutes, no slides, one object you bring with you. Hawa is bringing a small green spoon. Jonas is bringing a single cloud photo printed on paper. Mr. Ade is bringing a calmly worried face, which he has done before.
+
+## 1. Activate
+
+**Hook scan.** Listen to three first lines from different talks. Which one would you keep listening to? Why?
+
+## 2. Input
+
+### Structure — three movements
+
+1. **Hook** (15 sec): a question, a small object, a strong sentence.
+2. **Body** (90 sec): three short points, each with one specific example.
+3. **Close** (15 sec): a sentence the audience can carry out of the room.
+
+### Signposts for spoken English
+
+*Today I'd like to talk about … / Let me start with … / Firstly … Secondly … Lastly … / What this means is … / In short … / So, that's why I … / Thank you for listening.*
+
+## 3. Practise
+
+### Niveau E — controlled
+
+1. Match: hook → grab attention; body → make 3 points; close → leave one idea.
+2. Choose a hook for *the importance of break time*: a question / a single object / a strong sentence.
+
+### Niveau E — productive
+
+3. Draft the bullets for your own 2-minute talk on a topic of your choice.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**Controlled.** 1. correct. 2. open.
+
+**Productive.** 3. Open.
+:::
+
+## 4. Produce
+
+**Class talks.** Each student delivers a 2-minute monologue with the three movements + one object. After every talk, one classmate gives feedback in one English sentence using *I noticed that … / What worked was … / One thing you could try is …*
+
+### Sample
+
+*This small green spoon belongs to my grandmother. She has stirred more meals with it than I have eaten in my life. Today I want to talk about three things small objects can do that big speeches cannot. Firstly, they remember things we forget. Secondly, they fit in pockets — they travel with us. Lastly, they are honest — a worn handle is a kind of biography. Thank you for listening.*
+
+## 5. Reflect
+
+- [ ] I can deliver a 2-minute monologue with three movements.
+- [ ] I can use 5 spoken-English signposts.
+- [ ] I can give one specific piece of feedback in English.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< include _unit11_public-speaking_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
+5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
+
+**Differentiation.** Below Niveau E (mixed group): provide a
+support card with the key structure. Above Niveau E: extension
+question linking to the next Unit.
+:::
+
+## Common pitfalls
+
+- Reading word-for-word from a page → flat. Bullets only.
+- Vague hooks (*Today I want to talk about an interesting topic*) → boring.
+- Skipping the close → audience does not know it ended.
+
+## Further reading / listening
+
+- TED-Ed — short student talks.
+- BBC Sounds — *Short Cuts*.

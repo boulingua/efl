@@ -1,0 +1,24 @@
+---
+title: "class test (Klassenarbeit) — Unit 7: Mediation: A German News Article"
+subtitle: "Track E · Klasse 9 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 9
+track: "e"
+unit_nr: 7
+slug: "mediation-news-article"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# class test (Klassenarbeit) — Unit 7: Mediation: A German News Article
+
+**Track E · Klasse 9 · Niveau E · 45 Minuten**
+
+{{< include _unit07_mediation-news-article_exam_body.qmd >}}

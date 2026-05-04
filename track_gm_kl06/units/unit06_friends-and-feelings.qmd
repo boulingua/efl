@@ -1,0 +1,139 @@
+---
+title: "Unit 6 — Friends and Feelings"
+subtitle: "Track G+M · Klasse 6 · Niveau G/M"
+niveau: "G+M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 6
+slug: "friends-and-feelings"
+bildungsplan:
+  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+  - "3.1.3.5 Schreiben"
+  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+skills_focus:
+  - speaking
+  - writing
+  - language_awareness
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit06_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** G/M parallel. class test (Klassenarbeit) at Niveau M (30 BE).
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can name 12 feelings.*
+- *I can ask *How are you?* in five different ways.*
+- *I can use *because* and *so* to give simple reasons.*
+
+## Bildungsplan alignment
+
+- **3.1.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.1.3.3 Sprechen – an Gesprächen teilnehmen**
+- **3.1.3.5 Schreiben**
+- **3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Lina is in a strange mood. Sam asks why. She says, "I don't know — I'm tired and slightly proud and a tiny bit jealous all at once." Sam nods. "That is called Tuesday afternoon," he says.
+
+## 1. Activate
+
+**Mood scan.** Stand on a line: *very happy* (left wall) → *very sad* (right wall). Find your spot. No talking. The teacher reads three short statements; students adjust their position.
+
+## 2. Input
+
+### Vocabulary — feelings
+
+*happy, sad, tired, excited, proud, nervous, scared, angry, jealous, calm, surprised, disappointed, embarrassed, grateful.*
+
+### Grammar — *because / so*
+
+*because* + reason: *I'm tired **because** I went to bed late.*
+*so* + result: *I went to bed late, **so** I'm tired.*
+
+### Asking *How are you?*
+
+- *How are you?*
+- *How are you doing?*
+- *How's it going?*
+- *How was your day?*
+- *Are you OK?*
+
+## 3. Practise
+
+### Niveau G
+
+1. Match: happy — :), sad — :(, surprised — :O, tired — zzz. (T / F)
+2. Fill in *because* or *so*: I'm hungry __________ I didn't eat breakfast. He's tired, __________ he is going to bed early.
+
+### Niveau M
+
+3. Build 4 sentences with *because* + 4 with *so* about your real day.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**G.** 1. all true. 2. because / so.
+
+**M.** 3. Open.
+:::
+
+## 4. Produce
+
+**Pair speaking — *Today's Mood*.** Two minutes each. Use at least three feelings + one *because* + one *so* sentence.
+
+### Sample
+
+*— I'm a bit nervous because we have a maths test.*
+*— I get it. I am proud, though, so it balances out.*
+
+## 5. Reflect
+
+- [ ] I can name 12 feelings.
+- [ ] I can ask *How are you?* in 5 ways.
+- [ ] I can use *because* and *so* in short reasons.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< include _unit06_friends-and-feelings_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
+4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
+5 min.
+
+**Differentiation.** Niveau G: extra picture support and a
+printed reference card. Above Niveau M: extension question
+linking to the next Unit.
+:::
+
+## Common pitfalls
+
+- *Because* + clause; *because of* + noun: *because the rain* → ✗ / *because of the rain* OR *because it was raining* → ✓.
+- *so + because* in one sentence sounds redundant.
+- Pastoral note: keep the mood-line low-stakes. Some feelings are private.
+
+## Further reading / listening
+
+- BBC Learning English — *Feelings and emotions*.
+- ChildLine UK — accessible articles for young learners.

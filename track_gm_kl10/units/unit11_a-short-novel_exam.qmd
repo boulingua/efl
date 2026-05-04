@@ -1,0 +1,24 @@
+---
+title: "class test (Klassenarbeit) — Unit 11: A Short Novel"
+subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "M"
+klassenstufe: 10
+track: "gm"
+unit_nr: 11
+slug: "a-short-novel"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# class test (Klassenarbeit) — Unit 11: A Short Novel
+
+**Track G+M · Klasse 10 · Niveau M · 45 Minuten**
+
+{{< include _unit11_a-short-novel_exam_body.qmd >}}

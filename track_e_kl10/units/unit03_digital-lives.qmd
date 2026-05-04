@@ -1,0 +1,140 @@
+---
+title: "Unit 3 — Digital Lives"
+subtitle: "Track E · Klasse 10 · Niveau E"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 3
+slug: "digital-lives"
+bildungsplan:
+  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.3.3.2 Leseverstehen"
+  - "3.3.3.5 Schreiben"
+  - "3.3.3.8 Verfügen über sprachliche Mittel – Grammatik"
+  - "3.3.4 Text- und Medienkompetenz"
+skills_focus:
+  - reading
+  - writing
+  - language_awareness
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit03_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** E. class test (Klassenarbeit) at Niveau E (45 BE).
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can read a short essay on digital life and identify the writer's stance and one nuance.*
+- *I can use complex sentences with subordinate clauses (*although, even though, while, whereas, given that*).*
+- *I can write a 200-word digital-life reflection.*
+
+## curriculum framework (Bildungsplan) alignment
+
+- **3.3.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.3.3.2 Leseverstehen**
+- **3.3.3.5 Schreiben**
+- **3.3.3.8 Verfügen über sprachliche Mittel – Grammatik**
+- **3.3.4 Text- und Medienkompetenz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Maja read an article in which the author claimed that *digital life* is now a redundant phrase, because life has, for nearly all the people she knows, become digital and offline at the same time, woven together rather than alternating. Maja agreed with most of this, disagreed with the *for nearly all*, and was annoyed by the certainty of the phrase *redundant*.
+
+## 1. Activate
+
+**Two-column scan.** Board: *digital life is …* / *digital life is not …* — class fills four honest items under each.
+
+## 2. Input
+
+### Reading — *Digital, Honestly*
+
+*The phrase 'digital life' is increasingly redundant. For most readers under 30, the digital and the offline are no longer alternating modes; they are woven together. While this can be a problem for attention, it is rarely the catastrophe older commentators describe. Even though there are real harms — the steep, well-documented effects on sleep, for instance — the picture is more local and more specific than 'a generation ruined by phones'.*
+
+### Grammar — complex sentences with subordinate clauses
+
+**Concession** (admitting a partial counter-point):
+- *Although the harms are real, the picture is more specific than the headlines suggest.*
+- *Even though I agree with most of this, I object to the certainty.*
+
+**Contrast:**
+- *While this can be a problem for attention, it is rarely a catastrophe.*
+- *Whereas older commentators see ruin, younger ones see overlap.*
+
+**Causal-given:**
+- *Given that we cannot un-build the internet, the honest question is what to do with it.*
+
+## 3. Practise
+
+### Niveau E — controlled
+
+1. Choose: *although / while / given that / even though*: ___ digital life feels normal, the harms are real. ___ we cannot un-build the internet, the question is what to do.
+2. Match: concession → although; contrast → whereas; given that → reasoning premise.
+
+### Niveau E — productive
+
+3. Build 4 complex sentences using 4 different subordinators about a digital-life topic.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**Controlled.** 1. Although (or While) / Given that.
+2. all true.
+
+**Productive.** 3. Open.
+:::
+
+## 4. Produce
+
+**Reflection, 200 words.** Take a position on whether *'digital life'* is a redundant phrase. Use 4 subordinators (one of each: concession, contrast, addition, causal).
+
+### Sample
+
+*Although I agree with most of the article's argument, I object to the certainty of the word 'redundant'. While the digital and the offline are clearly woven together for most readers under 30, calling the distinction redundant assumes that the weave is even across people, which it isn't. Even though my schoolmates seem to live the integrated version, I know younger neighbours who still do most of their social life face-to-face. Given that the picture is uneven, the more useful question is not 'is it redundant?' but 'for whom and when?' Whereas older commentators tend to see ruin, the article tends to see seamlessness — both pictures are partial. The honest answer probably involves naming specific harms (sleep, attention) without inflating them, and naming specific benefits (reach, friendship across cities) without romanticising them.*
+
+## 5. Reflect
+
+- [ ] I can identify the writer's stance and one nuance in a digital-life essay.
+- [ ] I can use 4 subordinators correctly.
+- [ ] I can write a 200-word position paragraph.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< include _unit03_digital-lives_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
+5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
+
+**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
+into Oberstufe: extension prompt linking to Klasse 11
+(Basisfach / Leistungsfach choice).
+:::
+
+## Common pitfalls
+
+- *Although + but* → ✗ — pick one.
+- *Given that* in casual writing can read pompous; use it deliberately.
+- Concession without engagement (*although X, still Y*) without engaging X — weak.
+
+## Further reading / listening
+
+- The Atlantic — *Technology* essays.
+- Cal Newport, *Digital Minimalism* — accessible chapters.

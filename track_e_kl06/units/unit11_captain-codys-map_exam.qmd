@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 11: Captain Cody's Map"
+subtitle: "Track E · Klasse 6 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 6
+track: "e"
+unit_nr: 11
+slug: "captain-codys-map"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 11: Captain Cody's Map
+
+**Track E · Klasse 6 · Niveau E · 45 Minuten**
+
+{{< include _unit11_captain-codys-map_exam_body.qmd >}}

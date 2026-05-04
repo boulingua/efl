@@ -1,0 +1,24 @@
+---
+title: "Klassenarbeit — Unit 6: Animals and Pets"
+subtitle: "Track G+M · Klasse 5 · Niveau M · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "M"
+klassenstufe: 5
+track: "gm"
+unit_nr: 6
+slug: "animals-and-pets"
+format:
+  pdf:
+    documentclass: scrartcl
+    papersize: a4
+    fontsize: 11pt
+    geometry: [margin=22mm]
+    include-in-header: ["../../_includes/_exam.tex"]
+    keep-tex: false
+---
+
+# Klassenarbeit — Unit 6: Animals and Pets
+
+**Track G+M · Klasse 5 · Niveau M · 45 Minuten**
+
+{{< include _unit06_animals-and-pets_exam_body.qmd >}}

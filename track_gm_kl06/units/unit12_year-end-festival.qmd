@@ -1,0 +1,130 @@
+---
+title: "Unit 12 — Year-End Festival"
+subtitle: "Track G+M · Klasse 6 · Niveau G/M"
+niveau: "G+M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 12
+slug: "year-end-festival"
+bildungsplan:
+  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.1.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
+  - "3.1.3.5 Schreiben"
+  - "3.1.4 Text- und Medienkompetenz"
+skills_focus:
+  - speaking
+  - writing
+  - intercultural
+format:
+  html: { toc: true, toc-depth: 3 }
+  revealjs:
+    output-file: "unit12_slides.html"
+    theme: [default, ../../assets/slides.scss]
+    slide-number: c/t
+    progress: true
+    scrollable: true
+    transition: none
+---
+
+::: {.callout-note}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** G/M parallel. class test (Klassenarbeit) at Niveau M (30 BE).
+:::
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can speak for 60–90 seconds about my Klasse-6 year.*
+- *I can use grammar from the year (past simple, comparatives, will/going to, modals, frequency adverbs).*
+- *I can host a small year-end festival event in English.*
+
+## Bildungsplan alignment
+
+- **3.1.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.1.3.4 Sprechen – zusammenhängendes monologisches Sprechen**
+- **3.1.3.5 Schreiben**
+- **3.1.4 Text- und Medienkompetenz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+The class is planning a year-end festival in the school courtyard. Lina is in charge of the snack table. Sam is in charge of the music. Mr. Flint is in charge of looking calmly worried, which he does professionally. Captain Cody is in charge of nothing, because he is fictional, but everyone agrees his treasure-map-themed games stand will be the most popular.
+
+## 1. Activate
+
+**Year-end scan.** In your notebook write three lines: *In September I …, Now I …, At the festival I will …*
+
+## 2. Input
+
+### The 60-90 second talk — Klasse 6 version
+
+1. **Then.** Where I started in Klasse 6.
+2. **Now.** Three things I can do (with one concrete example).
+3. **Forward.** What I will do at the festival or next year.
+
+### Festival vocabulary
+
+*stall, stand, performance, snack table, raffle, decoration, banner, hosting, MC (master of ceremonies), volunteers, headphones, microphone, applause.*
+
+## 3. Practise
+
+### Niveau G
+
+1. Build a 5-line festival talk using *Then / Now / Forward*.
+
+### Niveau M
+
+2. Build a 90-second talk using past simple, one comparative, *going to*, and one frequency adverb.
+
+::: {.callout-tip collapse="true" title="Answer key"}
+**G.** Open.
+
+**M.** Open.
+:::
+
+## 4. Produce
+
+**Festival rehearsal.** In groups of 4, rehearse your stall. Each person prepares one short statement (15 seconds) explaining what their stall is, plus one polite invitation to a visitor.
+
+### Sample
+
+*Welcome to the snack table! We are going to have homemade pretzels and English scones today. Would you like to try one? They are warmer than they look.*
+
+## 5. Reflect
+
+- [ ] I can speak for 60–90 seconds about my Klasse-6 year.
+- [ ] I can use 5 grammar points from the year in one talk.
+- [ ] I can host a stall at a year-end festival.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< include _unit12_year-end-festival_exam_body.qmd >}}
+
+## Downloads
+
+{{< downloads >}}
+
+::: {.notes}
+**Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
+4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
+5 min.
+
+**Differentiation.** Niveau G: extra picture support and a
+printed reference card. Above Niveau M: extension question
+linking to the next Unit.
+:::
+
+## Common pitfalls
+
+- Reading aloud word-for-word; bullets only.
+- *I have learned a lot* — too vague; give a concrete example.
+- *Welcome at* → ✗ / *Welcome to* → ✓.
+
+## Further reading / listening
+
+- BBC Sounds — *Short Cuts*. Models for short personal talks.
+- British Council Schools Online — festival ideas.
