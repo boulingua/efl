@@ -29,7 +29,7 @@ format:
 
 ::: {.callout-note}
 **Template:** Activate → Input → Practise → Produce → Reflect.\
-**Niveau:** G/M parallel. class test (Klassenarbeit) at Niveau M (45 BE).
+**Niveau:** G/M parallel. class test ("Klassenarbeit") at Niveau M (45 BE).
 :::
 
 {{< downloads >}}
@@ -40,7 +40,7 @@ format:
 - *I can use *be entitled to*, *be required to*, *be expected to* in formal contexts.*
 - *I can hold a 3-minute civic-question conversation in formal English.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.3.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.3.2 Interkulturelle kommunikative Kompetenz**

@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 11: Captain Cody's Map
 
 **Track E · Klasse 6 · Niveau E · 45 Minuten**
 

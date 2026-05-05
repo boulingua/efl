@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 6: Animals and Pets
 
 **Track E · Klasse 5 · Niveau E · 45 Minuten**
 

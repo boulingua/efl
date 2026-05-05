@@ -1,5 +1,5 @@
 ---
-title: "class test (Klassenarbeit) — Unit 7: Mediation: A Workplace Text"
+title: 'class test ("Klassenarbeit") — Unit 7: Mediation: A Workplace Text'
 subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
 niveau: "M"
@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# class test (Klassenarbeit) — Unit 7: Mediation: A Workplace Text
 
 **Track G+M · Klasse 10 · Niveau M · 45 Minuten**
 

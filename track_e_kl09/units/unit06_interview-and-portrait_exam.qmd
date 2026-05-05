@@ -1,5 +1,5 @@
 ---
-title: "class test (Klassenarbeit) — Unit 6: Interview and Portrait"
+title: 'class test ("Klassenarbeit") — Unit 6: Interview and Portrait'
 subtitle: "Track E · Klasse 9 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
 niveau: "E"
@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# class test (Klassenarbeit) — Unit 6: Interview and Portrait
 
 **Track E · Klasse 9 · Niveau E · 45 Minuten**
 

@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 10: Writing an Application Letter
 
 **Track G+M · Klasse 9 · Niveau M · 45 Minuten**
 

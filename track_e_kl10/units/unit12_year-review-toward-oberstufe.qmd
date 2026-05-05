@@ -28,7 +28,7 @@ format:
 
 ::: {.callout-note}
 **Template:** Activate → Input → Practise → Produce → Reflect.\
-**Niveau:** E. class test (Klassenarbeit) at Niveau E (45 BE).
+**Niveau:** E. class test ("Klassenarbeit") at Niveau E (45 BE).
 :::
 
 {{< downloads >}}
@@ -39,7 +39,7 @@ format:
 - *I can write a 300-word year reflection demonstrating wide grammar range.*
 - *I can deliver a 4-minute portfolio talk with two quotes from my own writing.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.3.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.3.3.4 Sprechen – zusammenhängendes monologisches Sprechen**

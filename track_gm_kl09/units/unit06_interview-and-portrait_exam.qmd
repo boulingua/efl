@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 6: Interview and Portrait
 
 **Track G+M · Klasse 9 · Niveau M · 45 Minuten**
 

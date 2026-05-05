@@ -42,7 +42,7 @@ course (Leistungsfach, E-LF).
 - *I can use the vocabulary of contested-policy debate (*supply chain, inequality, externality, comparative advantage, regulatory race*).*
 - *I can write a 350-word op-ed that holds two readings of globalisation in productive tension.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.4.2 / 3.5.2 Interkulturelle kommunikative Kompetenz**

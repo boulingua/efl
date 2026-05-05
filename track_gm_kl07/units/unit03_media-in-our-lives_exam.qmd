@@ -19,7 +19,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 3: Media in Our Lives
 
 **Track G+M · Klasse 7 · Niveau M · 45 Minuten**
 

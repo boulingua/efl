@@ -42,7 +42,7 @@ course (Leistungsfach, E-LF).
 - *I can write a 400-word year-review reflection demonstrating Abitur-grade Sprache range.*
 - *I can deliver a 5-minute graduation talk + write a 300-word forward letter to my post-Abitur self.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.4.3.4 / 3.5.3.4 Sprechen – zusammenhängendes monologisches Sprechen**

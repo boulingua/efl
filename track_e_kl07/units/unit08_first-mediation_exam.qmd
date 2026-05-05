@@ -19,7 +19,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 8: Erste Mediation: A German E-mail
 
 **Track E · Klasse 7 · Niveau E · 45 Minuten**
 

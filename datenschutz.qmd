@@ -6,8 +6,6 @@ aliases:
   - /privacy/
 ---
 
-# Datenschutzerklärung
-
 ## 1. Verantwortlicher
 
 Verantwortliche Stelle im Sinne der Datenschutz-Grundverordnung

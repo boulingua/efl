@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 9: Rural and Urban Lives
 
 **Track E · Klasse 8 · Niveau E · 45 Minuten**
 

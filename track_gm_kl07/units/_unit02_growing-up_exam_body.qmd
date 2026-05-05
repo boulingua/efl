@@ -1,4 +1,4 @@
-::: {.callout-warning icon=false title="class test (Klassenarbeit) — Niveau M (45 minutes)"}
+::: {.callout-warning icon=false title="class test ("Klassenarbeit") — Niveau M (45 minutes)"}
 **Materials allowed.** A monolingual dictionary (Niveau M only).\
 **Time.** 45 minutes.\
 **Total.** 60 points.
@@ -61,7 +61,7 @@ in the last two years**. It can be a habit, an interest, a
 friendship, the way you look, or your favourite place. Use *used
 to* at least twice and at least two comparative forms.
 
-::: {.callout-tip collapse="true" title="Expected answer key — class test (Klassenarbeit)"}
+::: {.callout-tip collapse="true" title="Expected answer key — class test ("Klassenarbeit")"}
 **Task 1 (15 BE).**\
 1. His old jacket. (2)
 2. They used to cover his hands; now they end above his wrists. (3)

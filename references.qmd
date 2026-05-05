@@ -10,11 +10,11 @@ are the framework, not the topic-by-topic reading.
 
 ## Curriculum
 
-- **curriculum framework (Bildungsplan) 2016 — Sekundarstufe I — Englisch (Erste
+- **curriculum framework ("Bildungsplan") 2016 — Sekundarstufe I — Englisch (Erste
   Fremdsprache).** Ministerium für Kultus, Jugend und Sport Baden-
   Württemberg. <https://www.bildungsplaene-bw.de/>
-- **curriculum framework (Bildungsplan) 2021 — Gymnasiale Oberstufe — Englisch (Basisfach
-  und advanced course (Leistungsfach)).** Ministerium für Kultus, Jugend und Sport
+- **curriculum framework ("Bildungsplan") 2021 — Gymnasiale Oberstufe — Englisch (Basisfach
+  und advanced course ("Leistungsfach")).** Ministerium für Kultus, Jugend und Sport
   Baden-Württemberg. <https://www.bildungsplaene-bw.de/>
 - **Gemeinsamer Europäischer Referenzrahmen für Sprachen (GER) /
   CEFR Companion Volume.** Council of Europe.

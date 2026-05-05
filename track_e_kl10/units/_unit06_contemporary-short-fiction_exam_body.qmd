@@ -1,4 +1,4 @@
-::: {.callout-warning icon=false title="class test (Klassenarbeit) — Niveau E (45 minutes)"}
+::: {.callout-warning icon=false title="class test ("Klassenarbeit") — Niveau E (45 minutes)"}
 **Time.** 45 minutes. **Total.** 45 points.
 :::
 

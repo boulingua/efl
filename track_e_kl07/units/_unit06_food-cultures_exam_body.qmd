@@ -1,4 +1,4 @@
-::: {.callout-warning icon=false title="class test (Klassenarbeit) — Niveau E (45 minutes)"}
+::: {.callout-warning icon=false title="class test ("Klassenarbeit") — Niveau E (45 minutes)"}
 **Materials allowed.** A monolingual dictionary (Niveau M only).\
 **Time.** 45 minutes.\
 **Total.** 60 points.
@@ -67,7 +67,7 @@ makes. Use:
   embedded in a quoted family instruction,
 - one sensory detail.
 
-::: {.callout-tip collapse="true" title="Expected answer key — class test (Klassenarbeit)"}
+::: {.callout-tip collapse="true" title="Expected answer key — class test ("Klassenarbeit")"}
 **Task 1 (15 BE).**\
 1. Rice, chicken, and a sauce with named-but-unnamed herbs. (3)
 2. The English name does not feel right; the herbs carry meaning

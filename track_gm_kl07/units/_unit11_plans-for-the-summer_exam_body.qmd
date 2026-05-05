@@ -1,4 +1,4 @@
-::: {.callout-warning icon=false title="class test (Klassenarbeit) — Niveau M (45 minutes)"}
+::: {.callout-warning icon=false title="class test ("Klassenarbeit") — Niveau M (45 minutes)"}
 **Materials allowed.** A monolingual dictionary (Niveau M only).\
 **Time.** 45 minutes.\
 **Total.** 60 points.
@@ -70,7 +70,7 @@ Cover:
 - *one thing you might decide on the spot* (use *will*),
 - *one skill you would like to practise* (use *would like to*).
 
-::: {.callout-tip collapse="true" title="Expected answer key — class test (Klassenarbeit)"}
+::: {.callout-tip collapse="true" title="Expected answer key — class test ("Klassenarbeit")"}
 **Task 1 (12 BE).**\
 1. He is spending two weeks at his grandmother's farm and helping
    to fix her old greenhouse. (3)

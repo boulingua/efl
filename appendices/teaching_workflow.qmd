@@ -8,13 +8,13 @@ Bildungsplan to feedback.
 
 ```{mermaid}
 flowchart TD
-  A[Lehrplan-Abgleich<br/>curriculum framework (Bildungsplan) + Schuljahr] --> B[Unit-Plan<br/>Lernziele, Skills, Exam-Typ]
+  A[Lehrplan-Abgleich<br/>curriculum framework ("Bildungsplan") + Schuljahr] --> B[Unit-Plan<br/>Lernziele, Skills, Exam-Typ]
   B --> C[Activate<br/>Vorwissen, Hook]
   C --> D[Input<br/>Text, Hörverstehen, Grammatik]
   D --> E[Practise<br/>Geleitete Übungen + Antwortkey]
-  E --> F[Produce<br/>Schreiben, Sprechen, mediation (Mediation)]
+  E --> F[Produce<br/>Schreiben, Sprechen, mediation ("Mediation")]
   F --> G[Reflect<br/>Selbsteinschätzung, Can-do]
-  G --> H[Leistungserhebung<br/>class test (Klassenarbeit) oder school-leaving examination (Abitur)-Aufgabe]
+  G --> H[Leistungserhebung<br/>class test ("Klassenarbeit") oder school-leaving examination ("Abitur")-Aufgabe]
   H --> I[Feedback<br/>kompetenzbezogen, individuell]
   I --> J[Folgeunit<br/>nächstes Kompetenzfeld]
   J --> A
@@ -22,15 +22,15 @@ flowchart TD
 
 ## Notes for teachers
 
-- **Lehrplan-Abgleich** happens once per Schuljahr per year group (Klassenstufe)
-  — open this site's [curriculum framework (Bildungsplan) page](/bildungsplan.qmd) and
+- **Lehrplan-Abgleich** happens once per Schuljahr per year group ("Klassenstufe")
+  — open this site's [curriculum framework ("Bildungsplan") page](/bildungsplan.qmd) and
   pick which Kompetenzen each Unit will cover. Every Unit's front
   matter declares its alignment, so the mapping is auditable.
 - **Activate → Reflect** is the within-Unit five-step. Each step
   has its own slide(s) in the Reveal.js deck and its own subsection
   in the Unit article.
 - **Leistungserhebung** is the worked exam example at the end of
-  the Unit, scaled to the Niveau (Klassenarbeit Kl. 5–10 / school-leaving examination (Abitur)-
+  the Unit, scaled to the Niveau (Klassenarbeit Kl. 5–10 / school-leaving examination ("Abitur")-
   Aufgabe Kl. 11–13).
 - **Feedback** is intentionally separate from grading — every Unit
   ships a competence-aligned rubric so feedback can be returned in

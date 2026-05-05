@@ -1,4 +1,4 @@
-::: {.callout-warning icon=false title="class test (Klassenarbeit) — Niveau M (45 minutes)"}
+::: {.callout-warning icon=false title="class test ("Klassenarbeit") — Niveau M (45 minutes)"}
 **Materials allowed.** A monolingual dictionary (Niveau M only).\
 **Time.** 45 minutes.\
 **Total.** 60 points.
@@ -67,7 +67,7 @@ change** for one week. What would you stop or limit, what would
 you do instead, and what do you think will happen? Use *would* and
 *will* at least once each, and the present perfect at least once.
 
-::: {.callout-tip collapse="true" title="Expected answer key — class test (Klassenarbeit)"}
+::: {.callout-tip collapse="true" title="Expected answer key — class test ("Klassenarbeit")"}
 **Task 1 (15 BE).**\
 1. She decided not to use her phone after dinner. (2)
 2. It was hard for two days. (2)

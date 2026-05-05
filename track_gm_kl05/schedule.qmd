@@ -1,25 +1,25 @@
 ---
-title: "Schedule — Klasse 5 · Track G+M"
-pagetitle: "Klasse 5 schedule · Track G+M — EFL"
+title: "Schedule — Grade 5 · Track G+M"
+pagetitle: "Grade 5 schedule · Track G+M — EFL"
 author: "S. Le Boulanger"
 ---
 
-The twelve Units of Klasse 5 (G+M) across the school
+The twelve Units of Grade 5 (G+M) across the school
 year. Each Unit covers roughly three teaching weeks.
 
 | Unit | Title | Skills focus | Exam type |
 |------|-------|--------------|-----------|
-| 1 | [Hello World](units/unit01_hello-world.qmd) | speaking, listening, language_awareness | class test (Klassenarbeit) |
-| 2 | [My Family](units/unit02_my-family.qmd) | speaking, writing, language_awareness | class test (Klassenarbeit) |
-| 3 | [Home and My Room](units/unit03_home-and-room.qmd) | reading, writing, language_awareness | class test (Klassenarbeit) |
-| 4 | [A School Day](units/unit04_school-day.qmd) | listening, speaking, language_awareness | class test (Klassenarbeit) |
-| 5 | [Food and Drinks](units/unit05_food-and-drinks.qmd) | reading, speaking, language_awareness | class test (Klassenarbeit) |
-| 6 | [Animals and Pets](units/unit06_animals-and-pets.qmd) | reading, writing, language_awareness | class test (Klassenarbeit) |
-| 7 | [Weather and Seasons](units/unit07_weather-and-seasons.qmd) | listening, writing, language_awareness | class test (Klassenarbeit) |
-| 8 | [Hobbies and Sports](units/unit08_hobbies-and-sports.qmd) | speaking, listening, language_awareness | class test (Klassenarbeit) |
-| 9 | [Birthday and Friends](units/unit09_birthday-and-friends.qmd) | speaking, writing, language_awareness | class test (Klassenarbeit) |
-| 10 | [A Day in London](units/unit10_a-day-in-london.qmd) | reading, listening, intercultural | class test (Klassenarbeit) |
-| 11 | [Clothes and Colours](units/unit11_clothes-and-colours.qmd) | speaking, writing, language_awareness | class test (Klassenarbeit) |
-| 12 | [Review and Show](units/unit12_review-and-show.qmd) | speaking, writing, language_awareness | class test (Klassenarbeit) |
+| 1 | [Hello World](units/unit01_hello-world.qmd) | speaking, listening, language_awareness | class test ("Klassenarbeit") |
+| 2 | [My Family](units/unit02_my-family.qmd) | speaking, writing, language_awareness | class test ("Klassenarbeit") |
+| 3 | [Home and My Room](units/unit03_home-and-room.qmd) | reading, writing, language_awareness | class test ("Klassenarbeit") |
+| 4 | [A School Day](units/unit04_school-day.qmd) | listening, speaking, language_awareness | class test ("Klassenarbeit") |
+| 5 | [Food and Drinks](units/unit05_food-and-drinks.qmd) | reading, speaking, language_awareness | class test ("Klassenarbeit") |
+| 6 | [Animals and Pets](units/unit06_animals-and-pets.qmd) | reading, writing, language_awareness | class test ("Klassenarbeit") |
+| 7 | [Weather and Seasons](units/unit07_weather-and-seasons.qmd) | listening, writing, language_awareness | class test ("Klassenarbeit") |
+| 8 | [Hobbies and Sports](units/unit08_hobbies-and-sports.qmd) | speaking, listening, language_awareness | class test ("Klassenarbeit") |
+| 9 | [Birthday and Friends](units/unit09_birthday-and-friends.qmd) | speaking, writing, language_awareness | class test ("Klassenarbeit") |
+| 10 | [A Day in London](units/unit10_a-day-in-london.qmd) | reading, listening, intercultural | class test ("Klassenarbeit") |
+| 11 | [Clothes and Colours](units/unit11_clothes-and-colours.qmd) | speaking, writing, language_awareness | class test ("Klassenarbeit") |
+| 12 | [Review and Show](units/unit12_review-and-show.qmd) | speaking, writing, language_awareness | class test ("Klassenarbeit") |
 
-[← Back to Klasse 5 overview](index.qmd)
+[← Back to Grade 5 overview](index.qmd)

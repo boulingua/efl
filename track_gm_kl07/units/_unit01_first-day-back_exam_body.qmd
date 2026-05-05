@@ -1,4 +1,4 @@
-::: {.callout-warning icon=false title="class test (Klassenarbeit) — Niveau M (45 minutes)"}
+::: {.callout-warning icon=false title="class test ("Klassenarbeit") — Niveau M (45 minutes)"}
 **Materials allowed.** A monolingual dictionary (Niveau M only).\
 **Time.** 45 minutes.\
 **Total.** 60 points.
@@ -8,7 +8,7 @@
 
 The teacher reads the dialogue *Welcome back, Year 7* (printed in
 the Unit article for revision; learners will hear a version with
-two extra exchanges in the actual class test (Klassenarbeit)). Answer in full
+two extra exchanges in the actual class test ("Klassenarbeit")). Answer in full
 sentences.
 
 1. Where did Aisha spend two weeks of her summer? (2)
@@ -61,7 +61,7 @@ Write 100–120 words about **one day** in your last summer holiday.
 Use past simple. Include a place, a person, an action, and a
 feeling.
 
-::: {.callout-tip collapse="true" title="Expected answer key — class test (Klassenarbeit)"}
+::: {.callout-tip collapse="true" title="Expected answer key — class test ("Klassenarbeit")"}
 **Task 1 (12 BE).**\
 1. She spent two weeks at her grandmother's village. (2)
 2. They made bread together every morning. (2)

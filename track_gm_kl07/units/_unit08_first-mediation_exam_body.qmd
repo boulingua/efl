@@ -1,4 +1,4 @@
-::: {.callout-warning icon=false title="class test (Klassenarbeit) — Niveau M (45 minutes)"}
+::: {.callout-warning icon=false title="class test ("Klassenarbeit") — Niveau M (45 minutes)"}
 **Materials allowed.** A monolingual dictionary (Niveau M only).\
 **Time.** 45 minutes.\
 **Total.** 60 points.
@@ -55,7 +55,7 @@ there, telling them about **one place you visited together**. Use
 at least three reporting structures (*"My cousin said …", "She
 explained that …", "She asked whether …"*).
 
-::: {.callout-tip collapse="true" title="Expected answer key — class test (Klassenarbeit)"}
+::: {.callout-tip collapse="true" title="Expected answer key — class test ("Klassenarbeit")"}
 **Task 1 (15 BE).** Sample: *"The hiking day has been moved from
 June 14 to June 21. We still meet at the train station, but
 fifteen minutes earlier. If you miss the train, you can't come.

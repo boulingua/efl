@@ -41,7 +41,7 @@ course (Leistungsfach, E-LF).
 - *I can engage Early Modern syntactic inversion and lexical density.*
 - *I can write a 400-word literary essay with sustained close reading.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.4.3.2 / 3.5.3.2 Leseverstehen**

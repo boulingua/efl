@@ -19,14 +19,14 @@ Württemberg: **Track G+M** (Klassen 5–10) and **Track E** (Klassen
 | **Authored `.qmd` files** | **540** |
 | Top-level pages (index, about, get_started, schedule, references, acknowledgements, bildungsplan, impressum, datenschutz) | 9 |
 | Appendices (teaching_workflow, skills_decision_tree, glossary, common_errors, writing_rubrics) | 5 |
-| curriculum framework (Bildungsplan) resource YAMLs | 15 |
+| curriculum framework ("Bildungsplan") resource YAMLs | 15 |
 | Build scripts | 16 |
 
 ## Phase log
 
 | Phase | Goal | State |
 |-------|------|-------|
-| 0 — Preflight | curriculum framework (Bildungsplan) chapter codes from <https://www.bildungsplaene-bw.de/> | **complete** (live fetch 2026-04-30; chapter skeleton in 15 YAMLs) |
+| 0 — Preflight | curriculum framework ("Bildungsplan") chapter codes from <https://www.bildungsplaene-bw.de/> | **complete** (live fetch 2026-04-30; chapter skeleton in 15 YAMLs) |
 | 1 — Scaffold | deployable empty shell | **complete** |
 | 2 — Outline | 15×12 Unit map approved | **complete** (`_resources/curriculum_outline.yml`) |
 | 3 — Prototype | Track G+M Klasse 7 end-to-end (style reference) | **complete** |
@@ -70,7 +70,7 @@ Württemberg: **Track G+M** (Klassen 5–10) and **Track E** (Klassen
   every Unit.
 - **English (German) form.** When a German technical term appears
   in English prose, write *English term (German term)* on first /
-  prominent occurrence (e.g. *class test (Klassenarbeit)*,
+  prominent occurrence (e.g. *class test ("Klassenarbeit")*,
   *grading scale (Notenschlüssel)*). Applied via
   `_scripts/_normalize_german_terms.py`.
 - **Exam content = single source.** Each Unit's exam material
@@ -91,7 +91,7 @@ Württemberg: **Track G+M** (Klassen 5–10) and **Track E** (Klassen
   Fill in **before going public**. Consider a Datenschutz-
   beauftragte / lawyer review.
 - **Niveau-specific Kompetenzaussagen.** The 15 curriculum
-  framework (Bildungsplan) YAMLs hold the verbatim chapter
+  framework ("Bildungsplan") YAMLs hold the verbatim chapter
   skeleton (codes + German labels) fetched live from
   bildungsplaene-bw.de. The fine-grained Kompetenzaussagen per
   Niveau (G / M / E or BF / LF) are cited inside individual

@@ -1,5 +1,5 @@
 ---
-title: "class test (Klassenarbeit) — Unit 1: Identity in a Global World"
+title: 'class test ("Klassenarbeit") — Unit 1: Identity in a Global World'
 subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
 niveau: "E"
@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# class test (Klassenarbeit) — Unit 1: Identity in a Global World
 
 **Track E · Klasse 10 · Niveau E · 45 Minuten**
 

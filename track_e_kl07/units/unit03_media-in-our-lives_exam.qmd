@@ -19,7 +19,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 3: Media in Our Lives
 
 **Track E · Klasse 7 · Niveau E · 45 Minuten**
 

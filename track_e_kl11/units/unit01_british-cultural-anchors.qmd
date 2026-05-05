@@ -44,7 +44,7 @@ where applicable; some Units are tagged BF or LF specifically.
 - *I can use formal academic discourse markers (*by contrast, accordingly, in this regard, more specifically*).*
 - *I can write a 250-word cultural-essay paragraph that goes past tourist-image cliché.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.4.2 / 3.5.2 Interkulturelle kommunikative Kompetenz**

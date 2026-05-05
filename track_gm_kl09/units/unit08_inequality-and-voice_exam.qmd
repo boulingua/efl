@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 8: Inequality and Voice
 
 **Track G+M · Klasse 9 · Niveau M · 45 Minuten**
 

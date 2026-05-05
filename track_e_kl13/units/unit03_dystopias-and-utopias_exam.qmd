@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klausur (assessment) — Unit 3: Dystopias and Utopias
 
 **Track E · Klasse 13 · Niveau E · Abitur-prep**
 

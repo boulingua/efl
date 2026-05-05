@@ -28,7 +28,7 @@ format:
 
 ::: {.callout-note}
 **Template:** Activate → Input → Practise → Produce → Reflect.\
-**Niveau:** E. class test (Klassenarbeit) at Niveau E (45 BE).
+**Niveau:** E. class test ("Klassenarbeit") at Niveau E (45 BE).
 :::
 
 {{< downloads >}}
@@ -39,7 +39,7 @@ format:
 - *I can keep facts, drop ceremony, and adjust register.*
 - *I can use 6 reporting verbs (says, explains, claims, points out, warns, recommends).*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.2.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.2.3.5 Schreiben**

@@ -1,10 +1,10 @@
 ---
-title: "Schedule — Klasse 11 · Track E"
-pagetitle: "Klasse 11 schedule · Track E — EFL"
+title: "Schedule — Grade 11 · Track E"
+pagetitle: "Grade 11 schedule · Track E — EFL"
 author: "S. Le Boulanger"
 ---
 
-The twelve Units of Klasse 11 (E) across the school
+The twelve Units of Grade 11 (E) across the school
 year. Each Unit covers roughly three teaching weeks.
 
 | Unit | Title | Skills focus | Exam type |
@@ -22,4 +22,4 @@ year. Each Unit covers roughly three teaching weeks.
 | 11 | [Public Speaking: Toward the Komm-Prüfung](units/unit11_public-speaking-prep.qmd) | speaking, listening, language_awareness | Klausur (assessment) |
 | 12 | [Klausur Prep: Exam Rehearsal](units/unit12_klausur-prep-exam-rehearsal.qmd) | reading, writing, language_awareness | Klausur (assessment) |
 
-[← Back to Klasse 11 overview](index.qmd)
+[← Back to Grade 11 overview](index.qmd)

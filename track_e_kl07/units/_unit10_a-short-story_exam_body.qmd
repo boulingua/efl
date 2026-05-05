@@ -1,4 +1,4 @@
-::: {.callout-warning icon=false title="class test (Klassenarbeit) — Niveau E (45 minutes)"}
+::: {.callout-warning icon=false title="class test ("Klassenarbeit") — Niveau E (45 minutes)"}
 **Materials allowed.** A monolingual dictionary (Niveau M only).\
 **Time.** 45 minutes.\
 **Total.** 60 points.
@@ -64,7 +64,7 @@ Salim do next? Stay in past simple. Use:
 - at least one short line of direct speech,
 - one sensory detail (something Salim hears, smells, or feels).
 
-::: {.callout-tip collapse="true" title="Expected answer key — class test (Klassenarbeit)"}
+::: {.callout-tip collapse="true" title="Expected answer key — class test ("Klassenarbeit")"}
 **Task 1 (20 BE).**\
 1. He missed the last bus by two minutes. (3)
 2. It is raining; the shelter smells of rain. (2)

@@ -42,7 +42,7 @@ course (Leistungsfach, E-LF).
 - *I can use advanced rhetorical-analysis vocabulary (*dog whistle, framing battle, scripted spontaneity, agenda-control, loaded antithesis*).*
 - *I can write a 450-word rhetorical-analysis essay sustaining argument.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen**

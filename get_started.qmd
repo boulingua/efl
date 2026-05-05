@@ -5,19 +5,19 @@ author: "S. Le Boulanger"
 
 ## Find your course
 
-Open the navbar's Niveau menus and pick a year group (Klassenstufe). Each course
+Open the navbar's Niveau menus and pick a year group ("Klassenstufe"). Each course
 landing page introduces the year's recurring cast (the named
 characters who reappear across Units), shows the twelve Units as a
 card grid, and links to the schedule.
 
 - **Track G+M (Kl. 5–10):** grundlegend + mittleres Niveau, two
   Niveaustufen taught alongside each other. Use the *G* variant for
-  Hauptschul-bound students, *M* for intermediate secondary certificate (Realschulabschluss)-bound
+  Hauptschul-bound students, *M* for intermediate secondary certificate ("Realschulabschluss")-bound
   students. Many Units include both stimulus levels in one slide
   deck so a mixed classroom uses one source.
-- **Track E (Kl. 5–13):** erweitertes Niveau through school-leaving examination (Abitur). From
-  Klasse 11 onwards, Units are tagged either *E-BF* (Basisfach) or
-  *E-LF* (Leistungsfach).
+- **Track E (Kl. 5–13):** erweitertes Niveau through school-leaving examination ("Abitur"). From
+  Klasse 11 onwards, Units are tagged either *E-BF* ("Basisfach") or
+  *E-LF* ("Leistungsfach").
 
 ## Use a Unit in class
 
@@ -45,7 +45,7 @@ Every Unit's "Downloads" callout links to four artefacts:
 - **Worksheet (PDF)** — student handout. Placeholder for now;
   the canonical filename is fixed so real worksheets drop in
   without site-code changes.
-- **Exam example (PDF)** — Klassenarbeit (Kl. 5–10) or school-leaving examination (Abitur) task
+- **Exam example (PDF)** — Klassenarbeit (Kl. 5–10) or school-leaving examination ("Abitur") task
   (Kl. 11–13) with answer key and rubric, attributed and
   watermarked.
 
@@ -55,10 +55,10 @@ for offline use and copying.
 ## Plan a unit cycle
 
 Each Unit is sized for ~3 weeks (so 12 Units fill ~36 teaching weeks
-of a BW school year). The class test (Klassenarbeit) at the end is the assessment
-event. For Track E Kl. 11–13, the school-leaving examination (Abitur)-format task at the end of
+of a BW school year). The class test ("Klassenarbeit") at the end is the assessment
+event. For Track E Kl. 11–13, the school-leaving examination ("Abitur")-format task at the end of
 each Unit can be used either as a Klausur or as a low-stakes
-practice run before the actual school-leaving examination (Abitur).
+practice run before the actual school-leaving examination ("Abitur").
 
 ## Adapt for your school
 

@@ -29,7 +29,7 @@ format:
 
 ::: {.callout-note}
 **Template:** Activate → Input → Practise → Produce → Reflect.\
-**Niveau:** E. class test (Klassenarbeit) at Niveau E (45 BE).
+**Niveau:** E. class test ("Klassenarbeit") at Niveau E (45 BE).
 :::
 
 {{< downloads >}}
@@ -40,7 +40,7 @@ format:
 - *I can use vocabulary of scientific reasoning (*hypothesis, control group, sample size, peer review*).*
 - *I can write a 220-word science-and-society reflection.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.3.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.3.3.2 Leseverstehen**

@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 3: Home and My Room
 
 **Track E · Klasse 5 · Niveau E · 45 Minuten**
 

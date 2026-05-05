@@ -1,8 +1,8 @@
 # EFL
 
-A two-track English curriculum for Gesamtschule Baden-Württemberg —
-**Track G+M (Klasse 5–10)** for Hauptschul-/Realschulabschluss and
-**Track E (Klasse 5–13)** through Abitur. Fifteen courses, twelve
+A two-track English curriculum for comprehensive school —
+**Track G+M (Grades 5–10)** for Hauptschul-/Realschulabschluss and
+**Track E (Grades 5–13)** through Abitur. Fifteen courses, twelve
 Units each, one source per Unit rendering both an HTML article and
 a Reveal.js slide deck, plus a worked Klassenarbeit (Kl. 5–10) or
 Abitur-Aufgabe (Kl. 11–13). Authored by **S. Le Boulanger**.
@@ -17,7 +17,7 @@ Impressum + Datenschutz fill-in, deeper Bildungsplan alignment).
 
 | Phase | Goal | State |
 |-------|------|-------|
-| 0 — Preflight | curriculum framework (Bildungsplan) chapter codes from bildungsplaene-bw.de | **complete** |
+| 0 — Preflight | curriculum framework ("Bildungsplan") chapter codes from bildungsplaene-bw.de | **complete** |
 | 1 — Scaffold | deployable empty shell | **complete** |
 | 2 — Outline | 15×12 Unit map | **complete** |
 | 3 — Prototype | Track G+M Klasse 7 end-to-end | **complete** |

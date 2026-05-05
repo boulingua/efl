@@ -4,7 +4,7 @@ author: "S. Le Boulanger"
 ---
 
 L1-German learners of English produce a recognisable family of
-errors. This page is a quick-reference. Per-year group (Klassenstufe) entries
+errors. This page is a quick-reference. Per-year group ("Klassenstufe") entries
 will be expanded as Units land in Phases 3–4.
 
 ## Word order
@@ -72,7 +72,7 @@ target text.
 (*"the Teacher"*), comma before *that* in subordinate clauses, and
 German-style quotation marks („…").
 
-**Strategy.** Build a one-page house style for every year group (Klassenstufe)
+**Strategy.** Build a one-page house style for every year group ("Klassenstufe")
 and refer to it in writing tasks. The style appears in
 [Writing rubrics](/appendices/writing_rubrics.qmd).
 

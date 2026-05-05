@@ -44,7 +44,7 @@ where applicable; some Units are tagged BF or LF specifically.
 - *I can use voice-marking phrases (*the speaker recalls, the narrator distances herself from, the text positions the reader*).*
 - *I can write a 280-word literary essay that engages a post-colonial source on its own terms.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.4.2 / 3.5.2 Interkulturelle kommunikative Kompetenz**

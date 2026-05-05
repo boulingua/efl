@@ -41,7 +41,7 @@ course (Leistungsfach, E-LF).
 - *I can use the vocabulary of literary dystopia (*surveillance, complicity, conditioning, dehumanisation, language control*).*
 - *I can write a 350-word comparative literary essay tracing one motif across three texts.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.4.3.2 / 3.5.3.2 Leseverstehen**

@@ -43,7 +43,7 @@ where applicable; some Units are tagged BF or LF specifically.
 - *I can integrate two short quotations into my own sentences without breaking syntax.*
 - *I can use a Basisfach (basic course) writing register: clear, well-organised, less ornate than Leistungsfach (advanced course).*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.5.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.5.3.2 Leseverstehen**

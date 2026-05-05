@@ -28,7 +28,7 @@ format:
 
 ::: {.callout-note}
 **Template:** Activate → Input → Practise → Produce → Reflect.\
-**Niveau:** E. class test (Klassenarbeit) at Niveau E (45 BE).
+**Niveau:** E. class test ("Klassenarbeit") at Niveau E (45 BE).
 :::
 
 {{< downloads >}}
@@ -39,7 +39,7 @@ format:
 - *I can hold a 5-minute interview and report it back in writing.*
 - *I can write a 150-word portrait of a real person.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.2.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.2.3.3 Sprechen – an Gesprächen teilnehmen**

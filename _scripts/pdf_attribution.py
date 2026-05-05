@@ -36,7 +36,7 @@ def set_metadata(canvas: Canvas, ctx: AttributionContext) -> None:
     canvas.setSubject(ctx.subject)
     canvas.setCreator(f"{AUTHOR} · {SITE}")
     canvas.setKeywords(
-        f"EFL, Baden-Württemberg, Bildungsplan, Klasse {ctx.klasse}, "
+        f"EFL, Bildungsplan, Klasse {ctx.klasse}, "
         f"Niveau {ctx.niveau}, Track {ctx.track}, Unit {ctx.unit_nr}"
     )
 

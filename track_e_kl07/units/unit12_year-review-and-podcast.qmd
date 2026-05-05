@@ -32,7 +32,7 @@ format:
 
 ::: {.callout-note}
 **Template:** Activate → Input → Practise → Produce → Reflect.\
-**Niveau:** E. class test (Klassenarbeit) at Niveau E.\
+**Niveau:** E. class test ("Klassenarbeit") at Niveau E.\
 This Unit is the **year-review** Unit. The Produce step is a
 class podcast: each student records a 90-second monologue.
 :::

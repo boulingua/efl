@@ -28,7 +28,7 @@ format:
 
 ::: {.callout-note}
 **Template:** Activate → Input → Practise → Produce → Reflect.\
-**Niveau:** E. class test (Klassenarbeit) at Niveau E (45 BE).
+**Niveau:** E. class test ("Klassenarbeit") at Niveau E (45 BE).
 :::
 
 {{< downloads >}}
@@ -95,7 +95,7 @@ Jonas's German cousin sent him a teen-magazine article about phone use at night.
 
 ## 4. Produce
 
-**mediation (Mediation), 6 sentences.** Read the German source above. Write 6 English sentences for an English-speaking friend who has asked what the article says. Use 3 reporting verbs.
+**mediation ("Mediation"), 6 sentences.** Read the German source above. Write 6 English sentences for an English-speaking friend who has asked what the article says. Use 3 reporting verbs.
 
 ### Sample
 
@@ -135,4 +135,4 @@ question linking to the next Unit.
 ## Further reading / listening
 
 - Goethe-Institut — Beispiel-Aufgaben language mediation (Sprachmittlung) Englisch (Sek I).
-- Landesbildungsserver BW — mediation (Mediation)-Beispielaufgaben.
+- Landesbildungsserver BW — mediation ("Mediation")-Beispielaufgaben.

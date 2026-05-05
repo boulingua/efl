@@ -43,7 +43,7 @@ where applicable; some Units are tagged BF or LF specifically.
 - *I can engage Early Modern English vocabulary and rhythm with confidence.*
 - *I can hold the Leistungsfach (advanced course) register: complex argument, integrated close reading, sustained voice.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.4.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.4.3.2 Leseverstehen**

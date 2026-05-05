@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 1: A New Year at School
 
 **Track G+M · Klasse 6 · Niveau M · 45 Minuten**
 

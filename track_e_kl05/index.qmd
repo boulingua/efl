@@ -1,19 +1,18 @@
 ---
-title: "Klasse 5 English — Family, school, friends — concrete and playful"
-pagetitle: "Klasse 5 · Track E — EFL"
+title: "Grade 5 English — Family, school, friends — concrete and playful"
+pagetitle: "Grade 5 · Track E — EFL"
 author: "S. Le Boulanger"
 ---
 
 ::: {.hero}
 ::: {.kicker}
-TRACK E · KLASSE 5
+TRACK E · GRADE 5
 :::
-# Klasse 5 English — Family, school, friends — concrete and playful
 
 ::: {.lead}
 Twelve Units across the school year. Each Unit ships an HTML
 article, a Reveal.js slide deck, a worksheet PDF (placeholder),
-and a worked exam example as class test (Klassenarbeit). Authored by S. Le Boulanger.
+and a worked exam example as class test ("Klassenarbeit"). Authored by S. Le Boulanger.
 :::
 :::
 
@@ -114,7 +113,7 @@ speaking, writing, language_awareness
 
 ## What you will be able to do by the end of this year
 
-::: {.callout-tip icon=false title="curriculum framework (Bildungsplan)-aligned Kompetenzerwartungen"}
+::: {.callout-tip icon=false title="curriculum framework ("Bildungsplan")-aligned Kompetenzerwartungen"}
 Filled in from `_resources/bildungsplan_bw_e_kl05.yml`.
 The chapter codes and German labels are pulled live from
 [bildungsplaene-bw.de](https://www.bildungsplaene-bw.de/).

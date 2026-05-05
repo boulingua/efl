@@ -32,7 +32,7 @@ format:
 
 ::: {.callout-note}
 **Template:** Activate → Input → Practise → Produce → Reflect.\
-**Niveau:** E. class test (Klassenarbeit) at Niveau E.
+**Niveau:** E. class test ("Klassenarbeit") at Niveau E.
 :::
 
 {{< downloads >}}

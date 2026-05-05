@@ -1,25 +1,25 @@
 ---
-title: "Schedule — Klasse 8 · Track E"
-pagetitle: "Klasse 8 schedule · Track E — EFL"
+title: "Schedule — Grade 8 · Track E"
+pagetitle: "Grade 8 schedule · Track E — EFL"
 author: "S. Le Boulanger"
 ---
 
-The twelve Units of Klasse 8 (E) across the school
+The twelve Units of Grade 8 (E) across the school
 year. Each Unit covers roughly three teaching weeks.
 
 | Unit | Title | Skills focus | Exam type |
 |------|-------|--------------|-----------|
-| 1 | [Identities](units/unit01_identities.qmd) | reading, writing, intercultural | class test (Klassenarbeit) |
-| 2 | [School Life Elsewhere](units/unit02_school-life-elsewhere.qmd) | reading, speaking, intercultural | class test (Klassenarbeit) |
-| 3 | [Fairness at School](units/unit03_fairness-at-school.qmd) | speaking, writing, language_awareness | class test (Klassenarbeit) |
-| 4 | [Ireland: Stories from the Island](units/unit04_ireland-stories.qmd) | reading, writing, intercultural | class test (Klassenarbeit) |
-| 5 | [Digital Friendships](units/unit05_digital-friendships.qmd) | listening, writing, language_awareness | class test (Klassenarbeit) |
-| 6 | [Writing an Opinion](units/unit06_opinion-writing.qmd) | reading, writing, language_awareness | class test (Klassenarbeit) |
-| 7 | [Mediation: A Teen Magazine](units/unit07_teen-magazine-mediation.qmd) | mediation, writing, language_awareness | class test (Klassenarbeit) |
-| 8 | [Music and Belonging](units/unit08_music-and-belonging.qmd) | listening, speaking, intercultural | class test (Klassenarbeit) |
-| 9 | [Rural and Urban Lives](units/unit09_rural-and-urban.qmd) | reading, writing, intercultural | class test (Klassenarbeit) |
-| 10 | [A Novella in Class](units/unit10_a-novella-in-class.qmd) | reading, writing, language_awareness | class test (Klassenarbeit) |
-| 11 | [Public Speaking: A Short Talk](units/unit11_public-speaking.qmd) | speaking, listening, language_awareness | class test (Klassenarbeit) |
-| 12 | [Class Magazine Issue](units/unit12_school-magazine-issue.qmd) | writing, speaking, language_awareness | class test (Klassenarbeit) |
+| 1 | [Identities](units/unit01_identities.qmd) | reading, writing, intercultural | class test ("Klassenarbeit") |
+| 2 | [School Life Elsewhere](units/unit02_school-life-elsewhere.qmd) | reading, speaking, intercultural | class test ("Klassenarbeit") |
+| 3 | [Fairness at School](units/unit03_fairness-at-school.qmd) | speaking, writing, language_awareness | class test ("Klassenarbeit") |
+| 4 | [Ireland: Stories from the Island](units/unit04_ireland-stories.qmd) | reading, writing, intercultural | class test ("Klassenarbeit") |
+| 5 | [Digital Friendships](units/unit05_digital-friendships.qmd) | listening, writing, language_awareness | class test ("Klassenarbeit") |
+| 6 | [Writing an Opinion](units/unit06_opinion-writing.qmd) | reading, writing, language_awareness | class test ("Klassenarbeit") |
+| 7 | [Mediation: A Teen Magazine](units/unit07_teen-magazine-mediation.qmd) | mediation, writing, language_awareness | class test ("Klassenarbeit") |
+| 8 | [Music and Belonging](units/unit08_music-and-belonging.qmd) | listening, speaking, intercultural | class test ("Klassenarbeit") |
+| 9 | [Rural and Urban Lives](units/unit09_rural-and-urban.qmd) | reading, writing, intercultural | class test ("Klassenarbeit") |
+| 10 | [A Novella in Class](units/unit10_a-novella-in-class.qmd) | reading, writing, language_awareness | class test ("Klassenarbeit") |
+| 11 | [Public Speaking: A Short Talk](units/unit11_public-speaking.qmd) | speaking, listening, language_awareness | class test ("Klassenarbeit") |
+| 12 | [Class Magazine Issue](units/unit12_school-magazine-issue.qmd) | writing, speaking, language_awareness | class test ("Klassenarbeit") |
 
-[← Back to Klasse 8 overview](index.qmd)
+[← Back to Grade 8 overview](index.qmd)

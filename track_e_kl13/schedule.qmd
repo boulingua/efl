@@ -1,10 +1,10 @@
 ---
-title: "Schedule — Klasse 13 · Track E"
-pagetitle: "Klasse 13 schedule · Track E — EFL"
+title: "Schedule — Grade 13 · Track E"
+pagetitle: "Grade 13 schedule · Track E — EFL"
 author: "S. Le Boulanger"
 ---
 
-The twelve Units of Klasse 13 (E) across the school
+The twelve Units of Grade 13 (E) across the school
 year. Each Unit covers roughly three teaching weeks.
 
 | Unit | Title | Skills focus | Exam type |
@@ -22,4 +22,4 @@ year. Each Unit covers roughly three teaching weeks.
 | 11 | [Issue-Framed Debate](units/unit11_issue-framed-debate.qmd) | speaking, listening, language_awareness | Abitur-grade Klausur (school-leaving examination) |
 | 12 | [Year Review and Handover](units/unit12_year-review-and-handover.qmd) | writing, speaking, language_awareness | Abitur-grade Klausur (school-leaving examination) |
 
-[← Back to Klasse 13 overview](index.qmd)
+[← Back to Grade 13 overview](index.qmd)

@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 7: An Adventure Story
 
 **Track E · Klasse 6 · Niveau E · 45 Minuten**
 

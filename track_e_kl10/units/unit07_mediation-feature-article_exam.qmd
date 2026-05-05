@@ -1,5 +1,5 @@
 ---
-title: "class test (Klassenarbeit) — Unit 7: Mediation: A German Feature Article"
+title: 'class test ("Klassenarbeit") — Unit 7: Mediation: A German Feature Article'
 subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
 niveau: "E"
@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# class test (Klassenarbeit) — Unit 7: Mediation: A German Feature Article
 
 **Track E · Klasse 10 · Niveau E · 45 Minuten**
 

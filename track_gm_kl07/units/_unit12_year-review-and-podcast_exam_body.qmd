@@ -1,9 +1,9 @@
-::: {.callout-warning icon=false title="class test (Klassenarbeit) — Niveau M (45 minutes)"}
+::: {.callout-warning icon=false title="class test ("Klassenarbeit") — Niveau M (45 minutes)"}
 **Materials allowed.** A monolingual dictionary (Niveau M only).\
 **Time.** 45 minutes.\
 **Total.** 60 points.
 
-This year-end class test (Klassenarbeit) revisits the year's main grammar
+This year-end class test ("Klassenarbeit") revisits the year's main grammar
 (simple past, used to, present perfect, past perfect, futures,
 modals, passives) in mixed exercises and one integrated speaking
 task that the teacher records as part of the year-review podcast.
@@ -64,7 +64,7 @@ Use:
 - *one* future plan (going to / will),
 - *one* concrete detail or example.
 
-::: {.callout-tip collapse="true" title="Expected answer key — class test (Klassenarbeit)"}
+::: {.callout-tip collapse="true" title="Expected answer key — class test ("Klassenarbeit")"}
 **Task 1 (10 BE).**\
 1. He learned to read a short story without giving up; last year
    he would have stopped by page two. (3)

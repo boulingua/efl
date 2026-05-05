@@ -1,14 +1,13 @@
 ---
-title: "Klasse 12 English — Discourse and analysis (Oberstufe)"
-pagetitle: "Klasse 12 · Track E — EFL"
+title: "Grade 12 English — Discourse and analysis (Oberstufe)"
+pagetitle: "Grade 12 · Track E — EFL"
 author: "S. Le Boulanger"
 ---
 
 ::: {.hero}
 ::: {.kicker}
-TRACK E · KLASSE 12
+TRACK E · GRADE 12
 :::
-# Klasse 12 English — Discourse and analysis (Oberstufe)
 
 ::: {.lead}
 Twelve Units across the school year. Each Unit ships an HTML
@@ -114,7 +113,7 @@ writing, language_awareness
 
 ## What you will be able to do by the end of this year
 
-::: {.callout-tip icon=false title="curriculum framework (Bildungsplan)-aligned Kompetenzerwartungen"}
+::: {.callout-tip icon=false title="curriculum framework ("Bildungsplan")-aligned Kompetenzerwartungen"}
 Filled in from `_resources/bildungsplan_bw_e_kl12.yml`.
 The chapter codes and German labels are pulled live from
 [bildungsplaene-bw.de](https://www.bildungsplaene-bw.de/).

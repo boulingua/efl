@@ -40,7 +40,7 @@ course (Leistungsfach, E-LF).
 - *I can complete a Klausur Mediation section (~30 BE) for a named English-speaking addressee.*
 - *I can manage time across the second half of the Klausur.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.4.3.5 / 3.5.3.5 Schreiben**
@@ -56,7 +56,7 @@ Second of two Klausur-prep Units. Today's focus: Composition + Mediation — the
 
 ## 1. Activate
 
-**Composition-vs.-Mediation budget scan.** Of the remaining ~110 min, how do you split 18 BE (Composition) vs. 30 BE (Mediation)?
+**Composition-vs.-Mediation budget scan.** Of the remaining ~110 min, how do you split 18 BE (Composition) vs. 30 BE ("Mediation")?
 
 ## 2. Input
 

@@ -34,7 +34,7 @@ format:
 ::: {.callout-note}
 **Template:** Activate → Input → Practise → Produce → Reflect.\
 **Niveau:** E. The Activate and Input steps are shared;
-Practise and the class test (Klassenarbeit) have G and M variants.
+Practise and the class test ("Klassenarbeit") have G and M variants.
 :::
 
 {{< downloads >}}

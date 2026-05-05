@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 4: Ireland: Stories from the Island
 
 **Track G+M · Klasse 8 · Niveau M · 45 Minuten**
 

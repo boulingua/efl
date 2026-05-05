@@ -19,7 +19,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 7: Being a Friend
 
 **Track E · Klasse 7 · Niveau E · 45 Minuten**
 

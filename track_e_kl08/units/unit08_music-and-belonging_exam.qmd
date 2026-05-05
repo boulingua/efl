@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 8: Music and Belonging
 
 **Track E · Klasse 8 · Niveau E · 45 Minuten**
 

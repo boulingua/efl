@@ -19,7 +19,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 10: Reading a Short Story
 
 **Track E · Klasse 7 · Niveau E · 45 Minuten**
 

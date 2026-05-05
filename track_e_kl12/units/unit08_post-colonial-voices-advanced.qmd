@@ -42,7 +42,7 @@ course (Leistungsfach, E-LF).
 - *I can use academic-postcolonial vocabulary (*hybridity, mimicry, the subaltern, double consciousness, world-Anglophone*).*
 - *I can write a 400-word essay sustaining a complex post-colonial argument.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.4.2 / 3.5.2 Interkulturelle kommunikative Kompetenz**

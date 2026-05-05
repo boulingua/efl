@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 11: Public Speaking: A Short Talk
 
 **Track E · Klasse 8 · Niveau E · 45 Minuten**
 

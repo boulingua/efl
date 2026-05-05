@@ -41,7 +41,7 @@ course (Leistungsfach, E-LF).
 - *I can use the vocabulary of rhetorical analysis (*ethos / pathos / logos, kairos, frame, register shift*).*
 - *I can write a 400-word rhetorical-analysis essay.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen**

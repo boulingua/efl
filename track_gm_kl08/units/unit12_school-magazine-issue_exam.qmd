@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 12: Class Magazine Issue
 
 **Track G+M · Klasse 8 · Niveau M · 45 Minuten**
 

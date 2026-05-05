@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 1: Hello World
 
 **Track G+M · Klasse 5 · Niveau M · 45 Minuten**
 

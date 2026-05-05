@@ -29,7 +29,7 @@ format:
 
 ::: {.callout-note}
 **Template:** Activate → Input → Practise → Produce → Reflect.\
-**Niveau:** G/M parallel. class test (Klassenarbeit) at Niveau M (30 BE).
+**Niveau:** G/M parallel. class test ("Klassenarbeit") at Niveau M (30 BE).
 :::
 
 {{< downloads >}}

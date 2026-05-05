@@ -1,19 +1,18 @@
 ---
-title: "Klasse 8 English — Belonging and fairness"
-pagetitle: "Klasse 8 · Track G+M — EFL"
+title: "Grade 8 English — Belonging and fairness"
+pagetitle: "Grade 8 · Track G+M — EFL"
 author: "S. Le Boulanger"
 ---
 
 ::: {.hero}
 ::: {.kicker}
-TRACK G+M · KLASSE 8
+TRACK G+M · GRADE 8
 :::
-# Klasse 8 English — Belonging and fairness
 
 ::: {.lead}
 Twelve Units across the school year. Each Unit ships an HTML
 article, a Reveal.js slide deck, a worksheet PDF (placeholder),
-and a worked exam example as class test (Klassenarbeit). Authored by S. Le Boulanger.
+and a worked exam example as class test ("Klassenarbeit"). Authored by S. Le Boulanger.
 :::
 :::
 
@@ -114,7 +113,7 @@ writing, speaking, language_awareness
 
 ## What you will be able to do by the end of this year
 
-::: {.callout-tip icon=false title="curriculum framework (Bildungsplan)-aligned Kompetenzerwartungen"}
+::: {.callout-tip icon=false title="curriculum framework ("Bildungsplan")-aligned Kompetenzerwartungen"}
 Filled in from `_resources/bildungsplan_bw_gm_kl08.yml`.
 The chapter codes and German labels are pulled live from
 [bildungsplaene-bw.de](https://www.bildungsplaene-bw.de/).

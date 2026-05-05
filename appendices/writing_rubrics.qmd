@@ -44,9 +44,9 @@ task.
 
 ## Abitur (Kl. 11–13) — schriftliche Prüfung
 
-Default grading grid (Bewertungsraster) for Track E Kl. 11–13 schriftliche school-leaving examination (Abitur)-
-Aufgaben. Inhalt and Sprache are weighted differently in basic course (Basisfach)
-and advanced course (Leistungsfach).
+Default grading grid (Bewertungsraster) for Track E Kl. 11–13 schriftliche school-leaving examination ("Abitur")-
+Aufgaben. Inhalt and Sprache are weighted differently in basic course ("Basisfach")
+and advanced course ("Leistungsfach").
 
 | Teil | BE (Default) | Schwerpunkt |
 |------|--------------|-------------|
@@ -69,7 +69,7 @@ Variabilität* (Wortschatz, Grammatik, Idiomatik, Register).
 
 ## Abitur — Kommunikationsprüfung
 
-Default split for the oral school-leaving examination (Abitur) Komponente.
+Default split for the oral school-leaving examination ("Abitur") Komponente.
 
 | Teil | Dauer | BE |
 |------|-------|----|
@@ -80,8 +80,8 @@ Default split for the oral school-leaving examination (Abitur) Komponente.
 ## House style for productive writing
 
 These conventions appear across every Unit's writing tasks so that
-learners are not surprised when they see them in a class test (Klassenarbeit) or
-school-leaving examination (Abitur):
+learners are not surprised when they see them in a class test ("Klassenarbeit") or
+school-leaving examination ("Abitur"):
 
 - **Capitalisation.** Only proper nouns and the start of sentences.
   Common nouns are not capitalised in English.
@@ -91,6 +91,6 @@ school-leaving examination (Abitur):
   Default to past simple for narrative, present simple for
   description, present perfect for relevance-now.
 - **Connectives.** Vary across simple (*and*, *but*, *so*) and
-  complex (*although*, *therefore*, *however*) by year group (Klassenstufe).
+  complex (*although*, *therefore*, *however*) by year group ("Klassenstufe").
 - **Word count.** Within ±10 % of the stated range. Going below is
   penalised; going far above is penalised.

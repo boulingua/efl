@@ -19,7 +19,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 12: Year Review: A Class Podcast
 
 **Track G+M · Klasse 7 · Niveau M · 45 Minuten**
 

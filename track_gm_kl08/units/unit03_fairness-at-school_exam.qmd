@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 3: Fairness at School
 
 **Track G+M · Klasse 8 · Niveau M · 45 Minuten**
 

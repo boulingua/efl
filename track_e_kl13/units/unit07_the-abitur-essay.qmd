@@ -40,7 +40,7 @@ course (Leistungsfach, E-LF).
 - *I can produce a 350-450 word Abitur-grade argumentative or creative response.*
 - *I can self-assess against the Abitur Bewertungsraster (grading grid).*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.4.3.5 / 3.5.3.5 Schreiben**

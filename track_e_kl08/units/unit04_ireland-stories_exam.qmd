@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 4: Ireland: Stories from the Island
 
 **Track E · Klasse 8 · Niveau E · 45 Minuten**
 

@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 2: Money and Choices
 
 **Track G+M · Klasse 9 · Niveau M · 45 Minuten**
 

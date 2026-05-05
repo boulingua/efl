@@ -44,7 +44,7 @@ where applicable; some Units are tagged BF or LF specifically.
 - *I can use sentence-level emphasis (cleft + inversion) for argumentative writing.*
 - *I can write a 280-word essay paragraph that holds two readings of the Dream in tension.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.4.2 / 3.5.2 Interkulturelle kommunikative Kompetenz**

@@ -19,7 +19,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 9: School Rules and Rights
 
 **Track E · Klasse 7 · Niveau E · 45 Minuten**
 

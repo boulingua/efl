@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klausur (assessment) — Unit 10: Kommunikationsprüfung Mock
 
 **Track E · Klasse 12 · Niveau E · 4 Stunden (incl. breaks) · 90 BE**
 

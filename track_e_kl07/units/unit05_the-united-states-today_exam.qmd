@@ -19,7 +19,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 5: The United States Today
 
 **Track E · Klasse 7 · Niveau E · 45 Minuten**
 

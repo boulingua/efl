@@ -33,7 +33,7 @@ format:
 
 ::: {.callout-note}
 **Template:** Activate → Input → Practise → Produce → Reflect.\
-**Niveau:** E. class test (Klassenarbeit) at Niveau E.
+**Niveau:** E. class test ("Klassenarbeit") at Niveau E.
 :::
 
 {{< downloads >}}
@@ -193,7 +193,7 @@ B. 4. the, 5. — , 6. — , 7. the.
 
 **Writing task — *A Place I Would Visit*.** Write 100–120 words
 about an English-speaking country or region you would like to
-visit. Cover the three points from the class test (Klassenarbeit):
+visit. Cover the three points from the class test ("Klassenarbeit"):
 
 - *one fact* you already know,
 - *one thing* you imagine the daily life is like,

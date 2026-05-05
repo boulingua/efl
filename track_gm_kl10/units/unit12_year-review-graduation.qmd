@@ -28,7 +28,7 @@ format:
 
 ::: {.callout-note}
 **Template:** Activate → Input → Practise → Produce → Reflect.\
-**Niveau:** G/M parallel. class test (Klassenarbeit) at Niveau M (45 BE).
+**Niveau:** G/M parallel. class test ("Klassenarbeit") at Niveau M (45 BE).
 :::
 
 {{< downloads >}}
@@ -39,7 +39,7 @@ format:
 - *I can write a 250-word year reflection demonstrating a wide grammar range.*
 - *I can deliver a 3-minute graduation talk with one quote from my own writing.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.3.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.3.3.4 Sprechen – zusammenhängendes monologisches Sprechen**

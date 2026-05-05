@@ -17,7 +17,6 @@ format:
     keep-tex: false
 ---
 
-# Klassenarbeit — Unit 8: School Around the World
 
 **Track E · Klasse 6 · Niveau E · 45 Minuten**
 

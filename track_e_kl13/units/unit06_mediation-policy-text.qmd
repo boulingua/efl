@@ -42,7 +42,7 @@ course (Leistungsfach, E-LF).
 - *I can preserve modal nuance, hedge structure, citation style, and disciplinary register simultaneously.*
 - *I can use the full reporting-verb toolkit and add layered cultural / disciplinary notes where needed.*
 
-## curriculum framework (Bildungsplan) alignment
+## curriculum framework ("Bildungsplan") alignment
 
 - **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
 - **3.4.3.5 / 3.5.3.5 Schreiben**

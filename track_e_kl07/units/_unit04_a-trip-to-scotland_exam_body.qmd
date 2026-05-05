@@ -1,4 +1,4 @@
-::: {.callout-warning icon=false title="class test (Klassenarbeit) — Niveau E (45 minutes)"}
+::: {.callout-warning icon=false title="class test ("Klassenarbeit") — Niveau E (45 minutes)"}
 **Materials allowed.** A monolingual dictionary (Niveau M only).\
 **Time.** 45 minutes.\
 **Total.** 60 points.
@@ -65,7 +65,7 @@ another town in Germany). Use:
 - at least two simple past verbs,
 - one sensory detail (sight, sound, smell, taste, or touch).
 
-::: {.callout-tip collapse="true" title="Expected answer key — class test (Klassenarbeit)"}
+::: {.callout-tip collapse="true" title="Expected answer key — class test ("Klassenarbeit")"}
 **Task 1 (12 BE).**\
 1. At Edinburgh Waverley. (2)
 2. On the right. (2)

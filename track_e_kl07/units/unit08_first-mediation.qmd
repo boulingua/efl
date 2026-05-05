@@ -32,9 +32,9 @@ format:
 
 ::: {.callout-note}
 **Template:** Activate → Input → Practise → Produce → Reflect.\
-**Niveau:** E. class test (Klassenarbeit) at Niveau E.\
-This is the first explicit mediation (Mediation) Unit of Klasse 7. Mediation
-will return in every year group (Klassenstufe) from now on.
+**Niveau:** E. class test ("Klassenarbeit") at Niveau E.\
+This is the first explicit mediation ("Mediation") Unit of Klasse 7. Mediation
+will return in every year group ("Klassenstufe") from now on.
 :::
 
 {{< downloads >}}
@@ -188,7 +188,7 @@ B. 1–c, 2–a, 3–b.
 
 ## 4. Produce
 
-**mediation (Mediation) task — *The Forwarded Message*.** Your German cousin
+**mediation ("Mediation") task — *The Forwarded Message*.** Your German cousin
 forwards you a real-looking e-mail (provided on the slide). Your
 job: write a short English message (60–120 words depending on
 Niveau) to your English-speaking friend explaining what to do.
@@ -275,5 +275,5 @@ information selection, not word-for-word coverage.
   (Sek I). <https://www.goethe.de>
 - BBC Bitesize — *Reported speech*.
   <https://www.bbc.co.uk/bitesize/topics/zhfygdm>
-- Landesbildungsserver BW — mediation (Mediation)-Beispielaufgaben.
+- Landesbildungsserver BW — mediation ("Mediation")-Beispielaufgaben.
   <https://www.schule-bw.de>
