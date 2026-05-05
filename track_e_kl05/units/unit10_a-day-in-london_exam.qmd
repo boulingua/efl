@@ -21,3 +21,15 @@ format:
 **Track E · Klasse 5 · Niveau E · 45 Minuten**
 
 {{< include _unit10_a-day-in-london_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 020c3fd7bfd84d0eb8831664be3cc67f -->
+<img src="https://vg09.met.vgwort.de/na/020c3fd7bfd84d0eb8831664be3cc67f"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

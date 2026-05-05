@@ -23,3 +23,15 @@ format:
 **Track E · Klasse 7 · Niveau E · 45 Minuten**
 
 {{< include _unit10_a-short-story_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 054b2b91140b4b408674b886827166f7 -->
+<img src="https://vg09.met.vgwort.de/na/054b2b91140b4b408674b886827166f7"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

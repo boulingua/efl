@@ -139,3 +139,15 @@ analysis, integrated quotation, complex thesis.
 
 - BBC History — accessible long-form articles.
 - The Guardian — *Long reads* on British institutions.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0aeb1d0ade91455db86e5aa184516cec -->
+<img src="https://vg09.met.vgwort.de/na/0aeb1d0ade91455db86e5aa184516cec"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

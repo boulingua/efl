@@ -21,3 +21,15 @@ format:
 **Track G+M · Klasse 8 · Niveau M · 45 Minuten**
 
 {{< include _unit03_fairness-at-school_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 161daa798ba04d8e96eadc22a41f4521 -->
+<img src="https://vg09.met.vgwort.de/na/161daa798ba04d8e96eadc22a41f4521"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

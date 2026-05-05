@@ -21,3 +21,15 @@ format:
 **Track E · Klasse 6 · Niveau E · 45 Minuten**
 
 {{< include _unit04_food-around-the-world_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 02cdf9e8203f4c958334da84be0a371f -->
+<img src="https://vg09.met.vgwort.de/na/02cdf9e8203f4c958334da84be0a371f"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

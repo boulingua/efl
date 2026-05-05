@@ -151,3 +151,15 @@ analysis, integrated quotation, complex thesis.
 
 - Bildungsplan-aligned commercial Klausur-collections (e.g. Stark, Klett) for additional rehearsal papers.
 - Past Abitur papers (BW), with caution: not for scaling, only for format familiarity.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0c72af6f536c455ea9c91f18e820063f -->
+<img src="https://vg09.met.vgwort.de/na/0c72af6f536c455ea9c91f18e820063f"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

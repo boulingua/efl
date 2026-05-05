@@ -21,3 +21,15 @@ format:
 **Track E · Klasse 11 · Niveau E · 4 Stunden (incl. breaks) · 90 BE**
 
 {{< include _unit04_short-stories-and-style_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0b563a4ecd864a319b0b19402a672999 -->
+<img src="https://vg09.met.vgwort.de/na/0b563a4ecd864a319b0b19402a672999"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

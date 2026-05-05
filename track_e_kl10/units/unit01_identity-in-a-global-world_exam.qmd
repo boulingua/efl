@@ -21,3 +21,15 @@ format:
 **Track E · Klasse 10 · Niveau E · 45 Minuten**
 
 {{< include _unit01_identity-in-a-global-world_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 090e57294a1e4bb7a56eb727f6eabddf -->
+<img src="https://vg09.met.vgwort.de/na/090e57294a1e4bb7a56eb727f6eabddf"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

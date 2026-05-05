@@ -23,3 +23,15 @@ format:
 **Track G+M · Klasse 7 · Niveau M · 45 Minuten**
 
 {{< include _unit11_plans-for-the-summer_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 15b695a8eea8436d9e3159563535b82d -->
+<img src="https://vg09.met.vgwort.de/na/15b695a8eea8436d9e3159563535b82d"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

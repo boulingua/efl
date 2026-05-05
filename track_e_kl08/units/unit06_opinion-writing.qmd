@@ -134,3 +134,15 @@ question linking to the next Unit.
 
 - The Guardian — short opinion pieces by teachers.
 - BBC News — *Have your say* columns.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 06733045d1c74c77b3c7de5ebccd4257 -->
+<img src="https://vg09.met.vgwort.de/na/06733045d1c74c77b3c7de5ebccd4257"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

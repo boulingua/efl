@@ -129,3 +129,15 @@ into Oberstufe: extension prompt linking to Klasse 11
 
 - BBC Science Focus — accessible articles.
 - Nature — *News & Views* short-form.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0a1e44bc272f4d538a21f0f8a4ef5c9e -->
+<img src="https://vg09.met.vgwort.de/na/0a1e44bc272f4d538a21f0f8a4ef5c9e"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

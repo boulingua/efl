@@ -132,3 +132,15 @@ linking to the next Unit.
 
 - BBC Good Food — international recipes.
 - British Council Kids — *Food from around the world*.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 12a93c3db5614f2d959e68096b2a1657 -->
+<img src="https://vg09.met.vgwort.de/na/12a93c3db5614f2d959e68096b2a1657"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

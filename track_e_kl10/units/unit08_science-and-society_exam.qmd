@@ -21,3 +21,15 @@ format:
 **Track E · Klasse 10 · Niveau E · 45 Minuten**
 
 {{< include _unit08_science-and-society_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0a2bfdc8fa624f4085693826a59062ab -->
+<img src="https://vg09.met.vgwort.de/na/0a2bfdc8fa624f4085693826a59062ab"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

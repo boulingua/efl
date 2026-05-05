@@ -138,3 +138,15 @@ structure. Above Niveau M: extension prompt linking to Klasse 11
 
 - TED-Ed — short student presentations.
 - BBC Sounds — *Short Cuts*.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1acfb594f2a64162a3f5b2527f6e3796 -->
+<img src="https://vg09.met.vgwort.de/na/1acfb594f2a64162a3f5b2527f6e3796"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

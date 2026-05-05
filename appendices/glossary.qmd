@@ -127,3 +127,15 @@ grammatical accuracy, register, idiomaticity, cohesion). Weighting:
 [**BE (Bewertungseinheiten).**]{#be} Marking points in the BW
 exam system. A typical Klausur is 90 BE; a Klassenarbeit is 30
 (Sek I lower) to 60 (Sek I upper).
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 001111be94ea4fdfb25f7218d00c7fa4 -->
+<img src="https://vg09.met.vgwort.de/na/001111be94ea4fdfb25f7218d00c7fa4"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

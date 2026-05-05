@@ -140,3 +140,15 @@ analysis, integrated quotation, complex thesis.
 - Chinua Achebe, *Things Fall Apart* (1958).
 - Chimamanda Ngozi Adichie, *Purple Hibiscus* (2003).
 - V. S. Naipaul, *A Bend in the River* (1979).
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0b12961bfe9f4659acbdbcea16892153 -->
+<img src="https://vg09.met.vgwort.de/na/0b12961bfe9f4659acbdbcea16892153"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

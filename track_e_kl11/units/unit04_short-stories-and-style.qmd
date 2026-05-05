@@ -139,3 +139,15 @@ analysis, integrated quotation, complex thesis.
 
 - Granta, The New Yorker, The Paris Review — short fiction archives.
 - James Wood, *How Fiction Works* — accessible chapter samples.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0b3919bd58e64d24be89a6fd5c266ae2 -->
+<img src="https://vg09.met.vgwort.de/na/0b3919bd58e64d24be89a6fd5c266ae2"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

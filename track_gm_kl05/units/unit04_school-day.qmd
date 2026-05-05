@@ -148,3 +148,15 @@ links to the next Unit.
 
 - BBC Learning English — *Telling the time*. <https://www.bbc.co.uk/learningenglish>
 - LearnEnglish Kids — *School subjects vocabulary*. <https://learnenglishkids.britishcouncil.org>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 10e72b49163842b59b655601911c787e -->
+<img src="https://vg09.met.vgwort.de/na/10e72b49163842b59b655601911c787e"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

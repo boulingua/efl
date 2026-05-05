@@ -142,3 +142,15 @@ links to the next Unit.
 
 - BBC Learning English — *Clothes vocabulary*.
 - British Council Kids — *Clothes* games and songs.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 11aaddc8332e47dcac4f7b5c3db6f410 -->
+<img src="https://vg09.met.vgwort.de/na/11aaddc8332e47dcac4f7b5c3db6f410"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

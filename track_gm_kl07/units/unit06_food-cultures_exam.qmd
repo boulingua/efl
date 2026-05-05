@@ -23,3 +23,15 @@ format:
 **Track G+M · Klasse 7 · Niveau M · 45 Minuten**
 
 {{< include _unit06_food-cultures_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 14e1d8f6cd924785bbb0e07fae582815 -->
+<img src="https://vg09.met.vgwort.de/na/14e1d8f6cd924785bbb0e07fae582815"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -21,3 +21,15 @@ format:
 **Track G+M · Klasse 6 · Niveau M · 45 Minuten**
 
 {{< include _unit04_food-around-the-world_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 12bfe29db7574131b61739214286963c -->
+<img src="https://vg09.met.vgwort.de/na/12bfe29db7574131b61739214286963c"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

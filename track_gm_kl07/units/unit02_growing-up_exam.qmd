@@ -23,3 +23,15 @@ format:
 **Track G+M · Klasse 7 · Niveau M · 45 Minuten**
 
 {{< include _unit02_growing-up_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 145c3873c8cd40cab4506e9246d96e11 -->
+<img src="https://vg09.met.vgwort.de/na/145c3873c8cd40cab4506e9246d96e11"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

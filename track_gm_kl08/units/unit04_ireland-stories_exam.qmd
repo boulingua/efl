@@ -21,3 +21,15 @@ format:
 **Track G+M · Klasse 8 · Niveau M · 45 Minuten**
 
 {{< include _unit04_ireland-stories_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 16361d552eb74b68b9e3cdb6b5f66911 -->
+<img src="https://vg09.met.vgwort.de/na/16361d552eb74b68b9e3cdb6b5f66911"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

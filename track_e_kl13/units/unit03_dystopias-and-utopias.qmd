@@ -139,3 +139,15 @@ candidate path.
 - Thomas More, *Utopia* (1516).
 - Ursula K. Le Guin, *The Dispossessed* (1974).
 - Tom Moylan, *Demand the Impossible: Science Fiction and the Utopian Imagination*.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0ebba1650c624230b0c953679cc9e9cf -->
+<img src="https://vg09.met.vgwort.de/na/0ebba1650c624230b0c953679cc9e9cf"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

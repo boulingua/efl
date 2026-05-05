@@ -220,3 +220,15 @@ Unit's front matter.
 - [Grade 11](track_e_kl11/index.qmd) · [schedule](track_e_kl11/schedule.qmd)
 - [Grade 12](track_e_kl12/index.qmd) · [schedule](track_e_kl12/schedule.qmd)
 - [Grade 13](track_e_kl13/index.qmd) · [schedule](track_e_kl13/schedule.qmd)
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0096f96f15824ff4b1e15f917a9b85bb -->
+<img src="https://vg09.met.vgwort.de/na/0096f96f15824ff4b1e15f917a9b85bb"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

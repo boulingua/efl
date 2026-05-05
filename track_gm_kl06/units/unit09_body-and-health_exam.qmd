@@ -21,3 +21,15 @@ format:
 **Track G+M · Klasse 6 · Niveau M · 45 Minuten**
 
 {{< include _unit09_body-and-health_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1317ca3b689d4e5da51316732a912025 -->
+<img src="https://vg09.met.vgwort.de/na/1317ca3b689d4e5da51316732a912025"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

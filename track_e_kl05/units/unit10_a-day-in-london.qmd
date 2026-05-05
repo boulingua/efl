@@ -140,3 +140,15 @@ question linking to the next Unit's grammar.
 
 - VisitLondon — accessible city overview.
 - British Museum — free entry, online floor plans.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 020bb00478144f1b9e98d9d507a22c4d -->
+<img src="https://vg09.met.vgwort.de/na/020bb00478144f1b9e98d9d507a22c4d"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

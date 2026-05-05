@@ -21,3 +21,15 @@ format:
 **Track G+M · Klasse 6 · Niveau M · 45 Minuten**
 
 {{< include _unit05_daily-routines_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 12e1c36d2b2d4e2eba6e39b1fd91e5f1 -->
+<img src="https://vg09.met.vgwort.de/na/12e1c36d2b2d4e2eba6e39b1fd91e5f1"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

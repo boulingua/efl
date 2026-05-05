@@ -21,3 +21,15 @@ format:
 **Track G+M · Klasse 6 · Niveau M · 45 Minuten**
 
 {{< include _unit03_in-the-city_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 12a350d826cb447cb393336df318264b -->
+<img src="https://vg09.met.vgwort.de/na/12a350d826cb447cb393336df318264b"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

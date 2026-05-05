@@ -145,3 +145,15 @@ question linking to the next Unit's grammar.
 
 - BBC Learning English — *Beginners*. <https://www.bbc.co.uk/learningenglish>
 - British Council — *LearnEnglish Kids: Hello*. <https://learnenglishkids.britishcouncil.org>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 00ce5ac12d7f46bfb977f6da49617adc -->
+<img src="https://vg09.met.vgwort.de/na/00ce5ac12d7f46bfb977f6da49617adc"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

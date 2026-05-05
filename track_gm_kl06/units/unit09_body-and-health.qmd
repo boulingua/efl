@@ -143,3 +143,15 @@ linking to the next Unit.
 
 - BBC Bitesize — *The body* topic.
 - NHS Kids — accessible health information.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 13170f4b528a4aa7addd9a9b28ff69c2 -->
+<img src="https://vg09.met.vgwort.de/na/13170f4b528a4aa7addd9a9b28ff69c2"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

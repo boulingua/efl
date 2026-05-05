@@ -21,3 +21,15 @@ format:
 **Track E · Klasse 12 · Niveau E · 4 Stunden (incl. breaks) · 90 BE**
 
 {{< include _unit12_klausur-composition-and-comment_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0e323b03fe9a4383ad670df82ec4ed17 -->
+<img src="https://vg09.met.vgwort.de/na/0e323b03fe9a4383ad670df82ec4ed17"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

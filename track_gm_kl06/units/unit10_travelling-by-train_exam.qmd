@@ -21,3 +21,15 @@ format:
 **Track G+M · Klasse 6 · Niveau M · 45 Minuten**
 
 {{< include _unit10_travelling-by-train_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1350bbfbe61f4263bed47e263475f6da -->
+<img src="https://vg09.met.vgwort.de/na/1350bbfbe61f4263bed47e263475f6da"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

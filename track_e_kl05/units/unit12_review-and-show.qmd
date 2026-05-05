@@ -138,3 +138,15 @@ question linking to the next Unit's grammar.
 
 - BBC Sounds — *Short Cuts* (short personal monologues).
 - LearnEnglish Kids — sample student videos at A1 level.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 021778e1104844a0bc144d7e87b0e6fc -->
+<img src="https://vg09.met.vgwort.de/na/021778e1104844a0bc144d7e87b0e6fc"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

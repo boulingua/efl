@@ -21,3 +21,15 @@ format:
 **Track E · Klasse 9 · Niveau E · 45 Minuten**
 
 {{< include _unit11_debate-and-discussion_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 08d8f221a538469eacb398346a51ae53 -->
+<img src="https://vg09.met.vgwort.de/na/08d8f221a538469eacb398346a51ae53"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

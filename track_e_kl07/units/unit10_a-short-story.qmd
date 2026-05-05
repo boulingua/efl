@@ -256,3 +256,15 @@ biography; stay with the text.
 - The New Yorker — short fiction archive (selected stories at
   Klasse 9+ level for keen readers).
   <https://www.newyorker.com/magazine/fiction>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 05465faf212e407da6797e82f933e745 -->
+<img src="https://vg09.met.vgwort.de/na/05465faf212e407da6797e82f933e745"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

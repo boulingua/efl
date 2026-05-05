@@ -21,3 +21,15 @@ format:
 **Track E · Klasse 12 · Niveau E · 4 Stunden (incl. breaks) · 90 BE**
 
 {{< include _unit10_kommunikationspruefung-mock_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0dd3ef79bf9a4f9c8ebe3f700b933988 -->
+<img src="https://vg09.met.vgwort.de/na/0dd3ef79bf9a4f9c8ebe3f700b933988"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

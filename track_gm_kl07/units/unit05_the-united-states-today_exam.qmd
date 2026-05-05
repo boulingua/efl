@@ -23,3 +23,15 @@ format:
 **Track G+M · Klasse 7 · Niveau M · 45 Minuten**
 
 {{< include _unit05_the-united-states-today_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 14ca9d0647044929b76f253d4495ac9e -->
+<img src="https://vg09.met.vgwort.de/na/14ca9d0647044929b76f253d4495ac9e"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

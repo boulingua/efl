@@ -131,3 +131,15 @@ structure. Above Niveau M: extension prompt linking to Klasse 10.
 
 - Project Gutenberg — short stories at A2/B1 level.
 - Penguin Modern Classics — extracts and notes.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 19155690d79e43409189a6465a406e45 -->
+<img src="https://vg09.met.vgwort.de/na/19155690d79e43409189a6465a406e45"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

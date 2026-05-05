@@ -130,3 +130,15 @@ structure. Above Niveau E: extension prompt linking to Klasse 10.
 
 - ESU (English-Speaking Union) — student debate clips.
 - BBC Sounds — *Question Time* extracts.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 08bdf72754dc4ad390a2f3b6d4ed36f8 -->
+<img src="https://vg09.met.vgwort.de/na/08bdf72754dc4ad390a2f3b6d4ed36f8"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

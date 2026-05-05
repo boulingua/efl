@@ -21,3 +21,15 @@ format:
 **Track E · Klasse 10 · Niveau E · 45 Minuten**
 
 {{< include _unit02_the-world-of-work_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0940a62dd8ab4dc6815a7730cee01b92 -->
+<img src="https://vg09.met.vgwort.de/na/0940a62dd8ab4dc6815a7730cee01b92"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

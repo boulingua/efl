@@ -21,3 +21,15 @@ format:
 **Track E · Klasse 8 · Niveau E · 45 Minuten**
 
 {{< include _unit10_a-novella-in-class_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 072f3387b20d48158ce982f97f8e8628 -->
+<img src="https://vg09.met.vgwort.de/na/072f3387b20d48158ce982f97f8e8628"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

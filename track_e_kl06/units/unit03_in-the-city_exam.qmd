@@ -21,3 +21,15 @@ format:
 **Track E · Klasse 6 · Niveau E · 45 Minuten**
 
 {{< include _unit03_in-the-city_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 02bd5087d83643ee94997d1b4ad5516d -->
+<img src="https://vg09.met.vgwort.de/na/02bd5087d83643ee94997d1b4ad5516d"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -134,3 +134,15 @@ into Oberstufe: extension prompt linking to Klasse 11
 
 - ESU (English-Speaking Union) — student debate footage.
 - BBC Sounds — *Question Time* extracts.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0a9995c01b974f92a5650898a8da124f -->
+<img src="https://vg09.met.vgwort.de/na/0a9995c01b974f92a5650898a8da124f"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

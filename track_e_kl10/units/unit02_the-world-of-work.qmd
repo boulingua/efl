@@ -130,3 +130,15 @@ into Oberstufe: extension prompt linking to Klasse 11
 
 - BBC Worklife — short articles.
 - Harvard Business Review — accessible career articles.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 091ec5722b384a5e93c6d72637c1def6 -->
+<img src="https://vg09.met.vgwort.de/na/091ec5722b384a5e93c6d72637c1def6"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

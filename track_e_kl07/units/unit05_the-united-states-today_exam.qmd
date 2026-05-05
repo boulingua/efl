@@ -23,3 +23,15 @@ format:
 **Track E · Klasse 7 · Niveau E · 45 Minuten**
 
 {{< include _unit05_the-united-states-today_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 04dfcc674ef0437686d5296d57add5af -->
+<img src="https://vg09.met.vgwort.de/na/04dfcc674ef0437686d5296d57add5af"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

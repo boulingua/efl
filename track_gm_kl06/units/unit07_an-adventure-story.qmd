@@ -136,3 +136,15 @@ linking to the next Unit.
 
 - Project Gutenberg — short adventure stories.
 - BBC Learning English — *Past continuous*.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 12ecafed9aa7448d8b1baf48d37023b7 -->
+<img src="https://vg09.met.vgwort.de/na/12ecafed9aa7448d8b1baf48d37023b7"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

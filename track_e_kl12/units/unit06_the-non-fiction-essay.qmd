@@ -132,3 +132,15 @@ analysis, integrated quotation, complex thesis.
 - Zadie Smith, *Feel Free* (essays).
 - James Baldwin, *Notes of a Native Son*.
 - Jhumpa Lahiri, *In Other Words* (memoir-essay).
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0d7bb0e1af444be8b4d7fc8810a47130 -->
+<img src="https://vg09.met.vgwort.de/na/0d7bb0e1af444be8b4d7fc8810a47130"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

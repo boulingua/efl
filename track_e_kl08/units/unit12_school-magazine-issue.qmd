@@ -136,3 +136,15 @@ question linking to the next Unit.
 
 - BBC News — student journalism collection.
 - The Guardian — school-magazine writing tips.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 074b2f8dfe7e4a45b581c0e39bced83f -->
+<img src="https://vg09.met.vgwort.de/na/074b2f8dfe7e4a45b581c0e39bced83f"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

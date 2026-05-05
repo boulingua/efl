@@ -241,3 +241,15 @@ that schools are democracies. Keep the framing accurate.
   <https://www.theguardian.com/education>
 - UNICEF — *Convention on the Rights of the Child*, child-friendly
   version. <https://www.unicef.org/child-rights-convention>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1549d3eba5f748289398569d236434f8 -->
+<img src="https://vg09.met.vgwort.de/na/1549d3eba5f748289398569d236434f8"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -23,3 +23,15 @@ format:
 **Track E · Klasse 7 · Niveau E · 45 Minuten**
 
 {{< include _unit06_food-cultures_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 04f73b6534a0476484d31ce75d9eaa81 -->
+<img src="https://vg09.met.vgwort.de/na/04f73b6534a0476484d31ce75d9eaa81"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

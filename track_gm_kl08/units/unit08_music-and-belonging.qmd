@@ -129,3 +129,15 @@ next Unit.
 
 - BBC Sounds — playlists by genre.
 - NPR Music — *Tiny Desk* concerts (free).
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1694f91be23241df85abab2aeea4641f -->
+<img src="https://vg09.met.vgwort.de/na/1694f91be23241df85abab2aeea4641f"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

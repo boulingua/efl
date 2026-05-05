@@ -136,3 +136,15 @@ next Unit.
 
 - Goethe-Institut — Beispiel-Aufgaben language mediation (Sprachmittlung) Englisch (Sek I).
 - Landesbildungsserver BW — mediation ("Mediation")-Beispielaufgaben.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 16810d3e7d7f421b8467d58d3d49424c -->
+<img src="https://vg09.met.vgwort.de/na/16810d3e7d7f421b8467d58d3d49424c"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -141,3 +141,15 @@ structure. Above Niveau M: extension prompt linking to Klasse 11
 
 - BBC Worklife — *The future of remote work*.
 - The Atlantic — accessible essays on the workplace.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 19e4c1b5aab8444c9c1ffea2644da60e -->
+<img src="https://vg09.met.vgwort.de/na/19e4c1b5aab8444c9c1ffea2644da60e"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

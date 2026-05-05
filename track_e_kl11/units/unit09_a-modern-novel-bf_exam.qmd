@@ -21,3 +21,15 @@ format:
 **Track E · Klasse 11 · Niveau E · 4 Stunden (incl. breaks) · 90 BE**
 
 {{< include _unit09_a-modern-novel-bf_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0c4ae68364fd41d0b4e76fd62c4b5b86 -->
+<img src="https://vg09.met.vgwort.de/na/0c4ae68364fd41d0b4e76fd62c4b5b86"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

@@ -21,3 +21,15 @@ format:
 **Track G+M · Klasse 10 · Niveau M · 45 Minuten**
 
 {{< include _unit02_the-world-of-work_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 19e214cabbab44c380031ea32b59feb3 -->
+<img src="https://vg09.met.vgwort.de/na/19e214cabbab44c380031ea32b59feb3"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

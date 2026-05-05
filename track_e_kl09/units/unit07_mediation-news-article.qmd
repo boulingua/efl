@@ -133,3 +133,15 @@ structure. Above Niveau E: extension prompt linking to Klasse 10.
 
 - Goethe-Institut — Beispiel-Aufgaben Sprachmittlung.
 - Landesbildungsserver BW — Mediation-Beispielaufgaben.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 085d344d91c64c1fbb795c6051d37eff -->
+<img src="https://vg09.met.vgwort.de/na/085d344d91c64c1fbb795c6051d37eff"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

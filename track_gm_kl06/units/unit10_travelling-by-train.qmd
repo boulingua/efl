@@ -143,3 +143,15 @@ linking to the next Unit.
 
 - National Rail Enquiries (UK) — example timetables. <https://www.nationalrail.co.uk>
 - BBC Learning English — *At the station*.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 13428ee50ef346daaa911c55146aa522 -->
+<img src="https://vg09.met.vgwort.de/na/13428ee50ef346daaa911c55146aa522"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

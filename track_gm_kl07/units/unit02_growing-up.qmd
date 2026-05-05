@@ -307,3 +307,15 @@ written piece (*"because we moved further from the bakery"*).
   <https://www.roalddahl.com>
 - BBC Bitesize — *Comparative and superlative adjectives*.
   <https://www.bbc.co.uk/bitesize/topics/zhfygdm>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 14530bdfd359440093facb10380de606 -->
+<img src="https://vg09.met.vgwort.de/na/14530bdfd359440093facb10380de606"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

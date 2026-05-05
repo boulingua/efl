@@ -21,3 +21,15 @@ format:
 **Track G+M · Klasse 9 · Niveau M · 45 Minuten**
 
 {{< include _unit10_application-letter_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 192a7b127b704877ad13c9341a503908 -->
+<img src="https://vg09.met.vgwort.de/na/192a7b127b704877ad13c9341a503908"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

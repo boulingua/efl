@@ -21,3 +21,15 @@ format:
 **Track G+M · Klasse 10 · Niveau M · 45 Minuten**
 
 {{< include _unit09_youth-and-the-future_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 1ac4df2941bb479a93b56de6391bd2cf -->
+<img src="https://vg09.met.vgwort.de/na/1ac4df2941bb479a93b56de6391bd2cf"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

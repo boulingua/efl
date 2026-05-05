@@ -128,3 +128,15 @@ structure. Above Niveau M: extension prompt linking to Klasse 10.
 
 - BBC Bitesize — *Personal finance* topic.
 - MoneyHelper UK — accessible articles for teens.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 17ed40abe50e4c35a3418627de2f08dc -->
+<img src="https://vg09.met.vgwort.de/na/17ed40abe50e4c35a3418627de2f08dc"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

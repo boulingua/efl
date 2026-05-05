@@ -129,3 +129,15 @@ into Oberstufe: extension prompt linking to Klasse 11
 
 - London Review of Books — short essays.
 - The Paris Review — *Art of Fiction* interviews.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0a8d89013c294552a406ac41177c3180 -->
+<img src="https://vg09.met.vgwort.de/na/0a8d89013c294552a406ac41177c3180"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

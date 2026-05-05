@@ -278,3 +278,15 @@ not for a country.
   English. <https://www.saltfatacidheat.com>
 - The Guardian — *Word of Mouth* food blog.
   <https://www.theguardian.com/lifeandstyle/series/word-of-mouth>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 14daa4fc41bb481eb505298a9ce360ef -->
+<img src="https://vg09.met.vgwort.de/na/14daa4fc41bb481eb505298a9ce360ef"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

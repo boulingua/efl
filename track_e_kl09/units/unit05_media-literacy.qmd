@@ -133,3 +133,15 @@ structure. Above Niveau E: extension prompt linking to Klasse 10.
 - BBC Reality Check.
 - Snopes — fact-checking site.
 - FullFact (UK).
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 081395b6189d4a5098285e468a4e9cfd -->
+<img src="https://vg09.met.vgwort.de/na/081395b6189d4a5098285e468a4e9cfd"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

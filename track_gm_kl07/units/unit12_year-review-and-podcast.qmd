@@ -246,3 +246,15 @@ them with parents, archive them so Klasse 8 can hear how Klasse
 - ESL Pod — *News in Easy English* for listening practice over
   the holidays.
   <https://www.eslpod.com>
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 15b8f0090ebe4d2690285bc62908d15d -->
+<img src="https://vg09.met.vgwort.de/na/15b8f0090ebe4d2690285bc62908d15d"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

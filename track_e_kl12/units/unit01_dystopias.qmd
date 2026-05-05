@@ -136,3 +136,15 @@ analysis, integrated quotation, complex thesis.
 - George Orwell, *1984* (1949).
 - Aldous Huxley, *Brave New World* (1932).
 - Margaret Atwood, *The Handmaid's Tale* (1985); also *The Testaments* (2019).
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0cd2593abd47405eab11aced48bdfb62 -->
+<img src="https://vg09.met.vgwort.de/na/0cd2593abd47405eab11aced48bdfb62"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

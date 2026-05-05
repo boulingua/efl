@@ -134,3 +134,15 @@ question linking to the next Unit.
 
 - RTÉ Learning English — Ireland-focused content.
 - Tourism Ireland — accessible articles for young learners.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 064d5b90072a4c628ddd40672267f855 -->
+<img src="https://vg09.met.vgwort.de/na/064d5b90072a4c628ddd40672267f855"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

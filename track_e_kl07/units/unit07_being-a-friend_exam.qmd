@@ -23,3 +23,15 @@ format:
 **Track E · Klasse 7 · Niveau E · 45 Minuten**
 
 {{< include _unit07_being-a-friend_exam_body.qmd >}}
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 051814baed364734b15b215988555b2c -->
+<img src="https://vg09.met.vgwort.de/na/051814baed364734b15b215988555b2c"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

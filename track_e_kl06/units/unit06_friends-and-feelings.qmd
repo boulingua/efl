@@ -138,3 +138,15 @@ card. Above Niveau E: extension question linking to the next Unit.
 
 - BBC Learning English — *Feelings and emotions*.
 - ChildLine UK — accessible articles.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 0310404165394ac3801ff1b21abf8763 -->
+<img src="https://vg09.met.vgwort.de/na/0310404165394ac3801ff1b21abf8763"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::

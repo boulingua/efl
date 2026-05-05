@@ -143,3 +143,15 @@ question linking to the next Unit's grammar.
 
 - BBC Learning English — *Months and dates*.
 - British Council — invitation card templates.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 01be19fa9f394e84ae85ec956418df29 -->
+<img src="https://vg09.met.vgwort.de/na/01be19fa9f394e84ae85ec956418df29"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::
