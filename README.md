@@ -59,6 +59,25 @@ sequence and deploys the `docs/` output to GitHub Pages.
 - Code and site scaffolding: **MIT** (see `LICENSE`).
 - Teaching content: **CC-BY-SA 4.0**.
 
+## Citation
+
+If you use these materials, please cite the site rather than
+individual pages. See the
+[References](https://boulingua.github.io/efl/references.html#citing-this-course)
+page for APA + BibTeX. Short form:
+
+```bibtex
+@misc{leboulanger2026efl,
+  author       = {Le Boulanger, S.},
+  title        = {{EFL}: A Two-Track English Curriculum for
+                  Comprehensive School (Grades 5--13)},
+  year         = {2026},
+  howpublished = {\url{https://boulingua.github.io/efl/}},
+  note         = {Open educational resource.
+                  Code: MIT; teaching content: CC-BY-SA 4.0}
+}
+```
+
 ## Legal
 
 Before going public, fill in the Impressum (`impressum.qmd`) and

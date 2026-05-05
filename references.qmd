@@ -52,3 +52,52 @@ are the framework, not the topic-by-topic reading.
 - Lucide icons — <https://lucide.dev>
 - Source Sans 3 — <https://fonts.google.com/specimen/Source+Sans+3>
 - JetBrains Mono — <https://www.jetbrains.com/lp/mono/>
+
+## Acknowledgements
+
+A separate [Acknowledgements](/acknowledgements.qmd) page names the
+direct didactic, content, and tooling influences behind this site,
+along with the personal thanks owed to colleagues and students who
+tested half-finished materials in real classrooms.
+
+## Citing this course
+
+If you use these materials in teaching, research, or further
+publication, please cite the site rather than individual pages so
+that revisions remain traceable.
+
+**APA (7th ed.):**
+
+> Le Boulanger, S. (2026). *EFL: A two-track English curriculum
+> for comprehensive school (Grades 5–13)* \[Open educational
+> resource\]. <https://boulingua.github.io/efl/>
+
+**BibTeX:**
+
+``` bibtex
+@misc{leboulanger2026efl,
+  author       = {Le Boulanger, S.},
+  title        = {{EFL}: A Two-Track English Curriculum for
+                  Comprehensive School (Grades 5--13)},
+  year         = {2026},
+  howpublished = {\url{https://boulingua.github.io/efl/}},
+  note         = {Open educational resource.
+                  Code: MIT; teaching content: CC-BY-SA 4.0}
+}
+```
+
+When citing a single Unit, add the course track, grade, and Unit
+title (e.g. *Track E, Grade 6, Unit 3 — In the City*) to the
+reference so readers can locate the specific material.
+
+::: {.vgwort-pixel}
+```{=html}
+<!-- VG Wort Zählmarke (slb) — public ID: 008946c2f4dd49488499791869f4b411 -->
+<img src="https://vg09.met.vgwort.de/na/008946c2f4dd49488499791869f4b411"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+```
+:::
