@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you reference this resource, please cite it as below."
+title: "EFL — English as a Foreign Language (Gesamtschule BW, Klassen 5–13)"
+type: dataset
+authors:
+  - family-names: "Le Boulanger"
+    given-names: "S."
+    email: "277736839+s-leboulanger@users.noreply.github.com"
+license: MIT
