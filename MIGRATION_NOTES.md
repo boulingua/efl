@@ -357,3 +357,110 @@ canonical denylist YAML is settled across the four repos.
 
 All four blocking. Plus `verify_vgwort_coverage.py` continues running
 non-blocking as the Mindestumfang warning channel.
+
+### 2026-05-06 — Phase 7+8 final QA + deploy verification
+
+#### Phase 7 — final QA inventory
+
+| Check | State |
+|---|---|
+| `public/sitemap.xml` | 467 URL entries |
+| `public/index.xml` (RSS) | present |
+| `public/robots.txt` | present, sane defaults (`User-agent: *`) |
+| `public/404.html` | present, title `EFL` |
+| Hugo build | 549 pages, 484 aliases, 0 errors, 0 warnings (after Phase 1 fix) |
+
+#### Phase 8 — verify deploy
+
+CI run **25433484506** (commit `938add9`) — build + deploy both
+**success**. Chain of post-Phase-6 fixes that finally landed:
+
+| Run | Commit | Outcome | Why |
+|---|---|---|---|
+| 25433113144 | `b43aa8e` | failure | Plausible source-grep gate broke when Phase 3 parameterised the script tag |
+| 25433296999 | `d7afe92` | failure | `verify_all_pixels.py` still checked inline `.md` pixels, but Phase 4 moved them into `data/vgwort.yaml` |
+| **25433484506** | **`938add9`** | **success** | Both gates retargeted at the new sources of truth |
+
+These were stale CI gates that hadn't been kept in sync with the
+phases that changed the underlying architecture — caught precisely
+because the four new Phase 6 gates exposed the full chain end-to-end
+in a single run.
+
+#### Live URL probes (post-deploy)
+
+```
+200  /                                          has-Le-Boulanger=yes  meta-author=yes
+200  /about/                                    has-Le-Boulanger=yes  meta-author=yes
+200  /materials/                                has-Le-Boulanger=yes  meta-author=yes
+200  /track-e/kl05/units/unit01-hello-world/    has-Le-Boulanger=yes  meta-author=yes
+200  /impressum/                                has-Le-Boulanger=yes  meta-author=yes
+200  /datenschutz/                              has-Le-Boulanger=yes  meta-author=yes
+```
+
+6 / 6 URLs return 200; every page carries both `<meta name="author">`
+and a visible "Le Boulanger" string in the body.
+
+---
+
+## Closing summary
+
+The post-migration verification pass on **boulingua/efl** is complete.
+Phase 0 inventoried the qmd-era CI gates and identified three that did
+not survive the Quarto → Hugo migration plus two new gates required by
+the brief. Phase 1 added explicit `author: "S. Le Boulanger"` to 186
+pages where Quarto inheritance had been lost, fixed a `.Site.Data`
+deprecation, and confirmed zero Quarto carryover (no `:::` divs, no
+`{{< include >}}`, no `@fig-`/`@tbl-`/`@sec-` cross-refs, no `#|`
+execution chunks). Phase 2 added a stricter network-data validation
+gate (`scripts/validate_network_data.py`). Phase 3 parameterised
+Plausible into `params.plausible.{domain,src}`. Phase 4 refactored
+399 inline VG Wort pixels into `data/vgwort.yaml` plus a
+`_partials/vgwort.html` partial that renders only on registered
+pages. Phases 5 + 6 implemented four new blocking CI gates
+(`verify_legal_placeholders.py`, `verify_bildungsplan_refs.py`,
+`verify_pdf_attribution.py`, `verify_author_attribution.py`) and
+added a visible "By S. Le Boulanger" byline plus Schema.org `Person`
+microdata to every content page. Phases 7 + 8 confirmed the full
+deploy chain via CI run `25433484506` and probed six representative
+live URLs end-to-end.
+
+**Outstanding follow-ups** (not blocking deploy; tracked in this file
+for later attention):
+
+1. **VG Wort Zählmarken needed for two pages.** `/about/` (2,503
+   chars) and `/acknowledgements/` (2,352 chars) both exceed the
+   1,800-char Mindestumfang but have no entry in
+   `data/vgwort.yaml`. Action: register two new Zählmarken via the
+   VG Wort T.O.M. portal under S. Le Boulanger, add the rows to
+   `vgwort-manifest.csv`, re-run
+   `_scripts/migrate_vgwort_to_data.py`. The Datenschutzerklärung
+   already discloses VG Wort tracking — no further legal copy
+   required. Surfaced by `_scripts/verify_vgwort_coverage.py` on
+   every CI run.
+
+2. **Commercial-source-denylist YAML.** EFL BW currently links
+   externally only to non-commercial pedagogical sources (BBC
+   Learning English, British Council, bildungsplaene-bw.de, DW).
+   The brief asks for a small `data/commercial_denylist.yaml`
+   safety net mirroring the Ressourcen-Hub's strict allowlist;
+   deferred until the canonical denylist is settled across the
+   four sister repos so all four use the same content-addressable
+   list.
+
+3. **Lighthouse + axe-core CI gates** (network Phase 6 follow-up).
+   The brief calls for ≥95 a11y score and zero axe-core errors as
+   blocking gates. Both require running Chrome in CI, typically
+   via `treosh/lighthouse-ci-action@v12` plus a transient HTTP
+   server over `public/`. Adds 2–3 minutes per deploy. Deferred
+   so a baseline can be established on the deployed site before
+   locking in the numeric threshold.
+
+4. **Cytoscape keyboard-bindings plugin** (network a11y gap).
+   The Materials Network's filter rail and DOM-nav fallback are
+   keyboard-navigable; the graph itself isn't. Adding
+   `cytoscape-key-bindings` is ~5 KB on the existing 280 KB
+   bundle budget; deferred to the next a11y pass.
+
+The repo ships with **13 blocking + 3 informational CI gates** and
+deploys cleanly to `https://boulingua.github.io/efl/` on every push
+to `main`.
