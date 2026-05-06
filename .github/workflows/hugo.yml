@@ -1,0 +1,74 @@
+name: Hugo build and deploy
+on:
+  push:
+    branches: [main, "migration/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+env:
+  HUGO_VERSION: "0.139.4"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Install Hugo (extended)
+        run: |
+          curl -fsSL -o /tmp/hugo.deb \
+            "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          sudo dpkg -i /tmp/hugo.deb
+          hugo version
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+
+      - name: Hugo Modules tidy + verify
+        run: |
+          hugo mod tidy
+          hugo mod verify
+
+      - name: Verify Plausible snippet is wired
+        run: |
+          test -f layouts/_partials/head/extensions.html
+          grep -q 'data-domain="boulingua.github.io/efl"' layouts/_partials/head/extensions.html
+          grep -q 'analytics.hellebo.de' layouts/_partials/head/extensions.html
+
+      - name: Build site
+        run: hugo --minify --gc
+
+      - name: Verify Plausible appears in rendered home page
+        run: |
+          test -f public/index.html
+          grep -q 'data-domain="boulingua.github.io/efl"' public/index.html
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    # Only deploy from main; migration branches build only.
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

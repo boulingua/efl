@@ -1,0 +1,243 @@
+baseURL = "https://boulingua.github.io/efl/"
+title = "EFL"
+languageCode = "en"
+defaultContentLanguage = "en"
+enableEmoji = false
+enableRobotsTXT = true
+
+publishDir = "public"
+
+[pagination]
+  pagerSize = 20
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 2
+  endLevel = 3
+  ordered = false
+
+[params]
+  author = "S. Le Boulanger"
+  description = "A two-track English curriculum for comprehensive school, grades 5 to 13, aligned to a regional curriculum framework."
+  keywords = "EFL,English,curriculum,Bildungsplan,Baden-Württemberg,OER,CEFR,Gesamtschule"
+  info = ["EFL", "Two-track English curriculum", "Klassen 5–13"]
+  avatarURL = "images/avatar.png"
+  dateFormat = "2006-01-02"
+  hideFooter = false
+  hideCredits = true
+  since = 2025
+  colorScheme = "auto"
+  customCSS = ["css/custom.css"]
+  faviconSVG = ""
+
+# Match the reference repo (boulingua/website) social link for visual continuity.
+[[params.social]]
+  name = "GitHub"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/boulingua/efl"
+
+# ----- Main menu (mirrors current Quarto navbar order) -----
+
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  weight = 1
+  url = "/"
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  weight = 2
+  url = "/about/"
+
+[[menu.main]]
+  identifier = "curriculum"
+  name = "Curriculum"
+  weight = 3
+  url = "/bildungsplan/"
+
+[[menu.main]]
+  identifier = "schedule"
+  name = "Schedule"
+  weight = 4
+  url = "/schedule/"
+
+# Materials (new top-level — Phase 3 fills it in).
+[[menu.main]]
+  identifier = "materials"
+  name = "Materials"
+  weight = 5
+  url = "/materials/"
+
+[[menu.main]]
+  identifier = "materials-presentations"
+  name = "Presentations"
+  weight = 1
+  url = "/materials/presentations/"
+  parent = "materials"
+
+[[menu.main]]
+  identifier = "materials-worksheets"
+  name = "Worksheets"
+  weight = 2
+  url = "/materials/worksheets/"
+  parent = "materials"
+
+# Track G+M (Klassen 5–10).
+[[menu.main]]
+  identifier = "track-gm"
+  name = "Track G+M"
+  weight = 6
+  url = "/track-gm/"
+
+[[menu.main]]
+  identifier = "track-gm-kl05"
+  name = "Grade 5"
+  weight = 1
+  url = "/track-gm/kl05/"
+  parent = "track-gm"
+
+[[menu.main]]
+  identifier = "track-gm-kl06"
+  name = "Grade 6"
+  weight = 2
+  url = "/track-gm/kl06/"
+  parent = "track-gm"
+
+[[menu.main]]
+  identifier = "track-gm-kl07"
+  name = "Grade 7"
+  weight = 3
+  url = "/track-gm/kl07/"
+  parent = "track-gm"
+
+[[menu.main]]
+  identifier = "track-gm-kl08"
+  name = "Grade 8"
+  weight = 4
+  url = "/track-gm/kl08/"
+  parent = "track-gm"
+
+[[menu.main]]
+  identifier = "track-gm-kl09"
+  name = "Grade 9"
+  weight = 5
+  url = "/track-gm/kl09/"
+  parent = "track-gm"
+
+[[menu.main]]
+  identifier = "track-gm-kl10"
+  name = "Grade 10"
+  weight = 6
+  url = "/track-gm/kl10/"
+  parent = "track-gm"
+
+# Track E (Klassen 5–13).
+[[menu.main]]
+  identifier = "track-e"
+  name = "Track E"
+  weight = 7
+  url = "/track-e/"
+
+[[menu.main]]
+  identifier = "track-e-kl05"
+  name = "Grade 5"
+  weight = 1
+  url = "/track-e/kl05/"
+  parent = "track-e"
+
+[[menu.main]]
+  identifier = "track-e-kl06"
+  name = "Grade 6"
+  weight = 2
+  url = "/track-e/kl06/"
+  parent = "track-e"
+
+[[menu.main]]
+  identifier = "track-e-kl07"
+  name = "Grade 7"
+  weight = 3
+  url = "/track-e/kl07/"
+  parent = "track-e"
+
+[[menu.main]]
+  identifier = "track-e-kl08"
+  name = "Grade 8"
+  weight = 4
+  url = "/track-e/kl08/"
+  parent = "track-e"
+
+[[menu.main]]
+  identifier = "track-e-kl09"
+  name = "Grade 9"
+  weight = 5
+  url = "/track-e/kl09/"
+  parent = "track-e"
+
+[[menu.main]]
+  identifier = "track-e-kl10"
+  name = "Grade 10"
+  weight = 6
+  url = "/track-e/kl10/"
+  parent = "track-e"
+
+[[menu.main]]
+  identifier = "track-e-kl11"
+  name = "Grade 11"
+  weight = 7
+  url = "/track-e/kl11/"
+  parent = "track-e"
+
+[[menu.main]]
+  identifier = "track-e-kl12"
+  name = "Grade 12"
+  weight = 8
+  url = "/track-e/kl12/"
+  parent = "track-e"
+
+[[menu.main]]
+  identifier = "track-e-kl13"
+  name = "Grade 13"
+  weight = 9
+  url = "/track-e/kl13/"
+  parent = "track-e"
+
+# Legal menu (right side in the old Quarto navbar; Coder doesn't split L/R).
+[[menu.main]]
+  identifier = "legal"
+  name = "Legal"
+  weight = 8
+  url = "/impressum/"
+
+[[menu.main]]
+  identifier = "impressum"
+  name = "Impressum"
+  weight = 1
+  url = "/impressum/"
+  parent = "legal"
+
+[[menu.main]]
+  identifier = "datenschutz"
+  name = "Datenschutz"
+  weight = 2
+  url = "/datenschutz/"
+  parent = "legal"
+
+[[menu.main]]
+  identifier = "haftungsausschluss"
+  name = "Haftungsausschluss"
+  weight = 3
+  url = "/haftungsausschluss/"
+  parent = "legal"
+
+# ----- Hugo Modules: pin hugo-coder identical to reference repo -----
+
+[module]
+  [[module.imports]]
+    path = "github.com/luizdepra/hugo-coder"

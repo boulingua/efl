@@ -2,8 +2,16 @@
 /_freeze/
 /_site/
 /docs/
+
+# Hugo build artefacts (migration/hugo-coder)
+/public/
+/resources/
+.hugo_build.lock
+
 *.html
 !**/index.html
+# Hugo layouts and partials are HTML — never ignore them.
+!layouts/**/*.html
 .DS_Store
 __pycache__/
 *.pyc
