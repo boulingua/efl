@@ -58,11 +58,3 @@ Write 6 sentences describing a path from your school to your favourite local pla
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 02bd5087d83643ee94997d1b4ad5516d -->
-<img src="https://vg09.met.vgwort.de/na/02bd5087d83643ee94997d1b4ad5516d"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

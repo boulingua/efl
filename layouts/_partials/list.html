@@ -1,0 +1,33 @@
+{{- /* Override of hugo-coder's _partials/list.html.
+
+  Adds the VG Wort partial at the bottom of every section list page.
+  The 15 course indexes (track-{e,gm}/kl<NN>/_index.md) carry registered
+  Zählmarken in data/vgwort.yaml; without this override their pixels
+  would never render (page.html partial only fires on Kind=page).
+
+  Otherwise mirrors Coder's stock list.html.
+*/ -}}
+<section class="container list">
+  <header>
+    <h1 class="title">
+      <a class="title-link" href="{{ .Permalink | safeURL }}">
+        {{- if eq .Kind "term" -}}
+          {{- i18n .Data.Plural 1 | title -}}
+          {{- print ": " -}}
+        {{- end -}}
+        {{- i18n (lower .Title) | default .Title | title -}}
+      </a>
+    </h1>
+  </header>
+  {{ .Content }}
+  <ul>
+    {{ range .Paginator.Pages }}
+    <li>
+      <span class="date">{{ .Date | time.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+      <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+  {{ partial "pagination.html" . }}
+  {{ partial "vgwort.html" . }}
+</section>

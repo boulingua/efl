@@ -232,11 +232,3 @@ sentences.
   <https://www.bbc.co.uk/learningenglish>
 - LearnEnglish Kids — *Family Tree*.
   <https://learnenglishkids.britishcouncil.org>
-
-<!-- VG Wort Zählmarke (slb) — public ID: 109ea94e035e4ceab69cfa2c8d681496 -->
-<img src="https://vg09.met.vgwort.de/na/109ea94e035e4ceab69cfa2c8d681496"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

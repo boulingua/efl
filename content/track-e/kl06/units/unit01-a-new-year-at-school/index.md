@@ -183,11 +183,3 @@ card. Above Niveau E: extension question linking to the next Unit.
 
 - BBC Learning English — *Adverbs of frequency*.
 - British Council — *School routines* topic.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 026ec0f667cf45dcb62eaeee030e97ee -->
-<img src="https://vg09.met.vgwort.de/na/026ec0f667cf45dcb62eaeee030e97ee"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

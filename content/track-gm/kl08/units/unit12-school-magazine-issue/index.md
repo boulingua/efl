@@ -186,11 +186,3 @@ next Unit.
 
 - BBC News — student journalism collection.
 - The Guardian — school-magazine writing tips.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1795a935bd404cb08efa32b550efac53 -->
-<img src="https://vg09.met.vgwort.de/na/1795a935bd404cb08efa32b550efac53"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -67,11 +67,3 @@ practice run before the actual school-leaving examination ("Abitur").
 Materials are CC-BY-SA 4.0 — fork the repo, adapt the YAML curriculum
 outline, and re-render. The `_resources/` folder holds the structured
 Bildungsplan map; everything else flows from there.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0081d4975f5d4008b8c3c71aefcd3eb0 -->
-<img src="https://vg09.met.vgwort.de/na/0081d4975f5d4008b8c3c71aefcd3eb0"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

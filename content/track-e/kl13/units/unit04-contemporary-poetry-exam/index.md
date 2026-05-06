@@ -63,11 +63,3 @@ Read the three forms paraphrased above.
 (Single-section Klausuren in this year scale to the proportional
 BE-weight of the section in the full Klausur.)
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0ede4d4948074fcc9b564b010c57b402 -->
-<img src="https://vg09.met.vgwort.de/na/0ede4d4948074fcc9b564b010c57b402"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -57,11 +57,3 @@ Read your set text. Identify three chapters where the *language-as-control* moti
 | 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
 | 22–29 | 5  |  0–21 | 6   |       |    |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0dc9bd8b392a4a6ab84786f7b0ba664c -->
-<img src="https://vg09.met.vgwort.de/na/0dc9bd8b392a4a6ab84786f7b0ba664c"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

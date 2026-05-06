@@ -187,11 +187,3 @@ card. Above Niveau E: extension question linking to the next Unit.
 
 - Project Gutenberg — children's adventure stories.
 - Roald Dahl Stories Online — extracts.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 03bfa04ca49a4743a15c81985306c22f -->
-<img src="https://vg09.met.vgwort.de/na/03bfa04ca49a4743a15c81985306c22f"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -184,11 +184,3 @@ card. Above Niveau E: extension question linking to the next Unit.
 
 - BBC Good Food — international recipes.
 - British Council Kids — *Food from around the world*.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 02c1c9b0b535452d98b35102854ad56c -->
-<img src="https://vg09.met.vgwort.de/na/02c1c9b0b535452d98b35102854ad56c"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -24,11 +24,3 @@ year. Each Unit covers roughly three teaching weeks.
 | 12 | [Year Review: A Class Podcast](/track-e/kl07/units/unit12-year-review-and-podcast/) | speaking, listening, language_awareness | class test ("Klassenarbeit") |
 
 [← Back to Grade 7 overview](/)
-
-<!-- VG Wort Zählmarke (slb) — public ID: 03fae6f19b6f4e71840a3c89d544caf1 -->
-<img src="https://vg09.met.vgwort.de/na/03fae6f19b6f4e71840a3c89d544caf1"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

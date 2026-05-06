@@ -183,11 +183,3 @@ into Oberstufe: extension prompt linking to Klasse 11
 
 - Goethe-Institut — Sprachmittlungs-Beispielaufgaben Oberstufe.
 - The Atlantic — *CityLab* features for register comparison.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 09e77bea5aa844cb854151e191b41da7 -->
-<img src="https://vg09.met.vgwort.de/na/09e77bea5aa844cb854151e191b41da7"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -180,11 +180,3 @@ linking to the next Unit.
 
 - BBC Sounds — *Short Cuts*. Models for short personal talks.
 - British Council Schools Online — festival ideas.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1397d398927b4cefb2c7581ce87d7dad -->
-<img src="https://vg09.met.vgwort.de/na/1397d398927b4cefb2c7581ce87d7dad"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

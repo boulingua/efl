@@ -56,11 +56,3 @@ Write 220 words: an op-ed on a media-democracy topic. Use 4 academic hedges.
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 09b7c679d431485e8e9a302e4f2e9d31 -->
-<img src="https://vg09.met.vgwort.de/na/09b7c679d431485e8e9a302e4f2e9d31"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

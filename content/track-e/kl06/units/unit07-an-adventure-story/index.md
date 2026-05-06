@@ -187,11 +187,3 @@ card. Above Niveau E: extension question linking to the next Unit.
 
 - Project Gutenberg — short adventure stories.
 - BBC Learning English — *Past continuous*.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0324341669f14558ae160a02ccabd3e8 -->
-<img src="https://vg09.met.vgwort.de/na/0324341669f14558ae160a02ccabd3e8"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

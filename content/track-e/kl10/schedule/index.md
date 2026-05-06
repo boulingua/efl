@@ -24,11 +24,3 @@ year. Each Unit covers roughly three teaching weeks.
 | 12 | [Year Review: Toward Oberstufe](/track-e/kl10/units/unit12-year-review-toward-oberstufe/) | writing, speaking, language_awareness | class test ("Klassenarbeit") |
 
 [← Back to Grade 10 overview](/)
-
-<!-- VG Wort Zählmarke (slb) — public ID: 08fc221574af428f96a1c00cbf34a9fe -->
-<img src="https://vg09.met.vgwort.de/na/08fc221574af428f96a1c00cbf34a9fe"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

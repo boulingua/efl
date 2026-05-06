@@ -186,11 +186,3 @@ analysis, integrated quotation, complex thesis.
 
 - Bildungsplan-aligned Komm-Prüfung mock-stimulus collections (Klett, Stark).
 - BBC Sounds — *Question Time* extracts for examiner-style follow-up rhythm.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0dd114733da24566a1d21208359d03c9 -->
-<img src="https://vg09.met.vgwort.de/na/0dd114733da24566a1d21208359d03c9"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

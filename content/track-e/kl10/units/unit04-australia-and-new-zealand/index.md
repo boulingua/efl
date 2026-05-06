@@ -181,11 +181,3 @@ into Oberstufe: extension prompt linking to Klasse 11
 
 - ABC Australia News, RNZ News (NZ).
 - Te Papa Tongarewa (NZ national museum) — accessible online articles.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0963668cecac42ffa6fbea81a7000940 -->
-<img src="https://vg09.met.vgwort.de/na/0963668cecac42ffa6fbea81a7000940"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

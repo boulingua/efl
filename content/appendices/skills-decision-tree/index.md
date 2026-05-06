@@ -47,11 +47,3 @@ flowchart LR
 ## Intercultural — representative Units
 
 [Kl.5/G+M](/track-gm/kl05/units/unit10-a-day-in-london/) · [Kl.6/G+M](/track-gm/kl06/units/unit02-on-holiday/) · [Kl.6/G+M](/track-gm/kl06/units/unit04-food-around-the-world/)
-
-<!-- VG Wort Zählmarke (slb) — public ID: 00256953c3354316922af74639998a18 -->
-<img src="https://vg09.met.vgwort.de/na/00256953c3354316922af74639998a18"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

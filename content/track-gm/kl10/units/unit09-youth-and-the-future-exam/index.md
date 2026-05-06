@@ -56,11 +56,3 @@ Write 200 words on a youth-led initiative. Use 3 future perfect + 2 future conti
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1ac4df2941bb479a93b56de6391bd2cf -->
-<img src="https://vg09.met.vgwort.de/na/1ac4df2941bb479a93b56de6391bd2cf"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

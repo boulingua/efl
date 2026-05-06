@@ -184,11 +184,3 @@ structure. Above Niveau E: extension prompt linking to Klasse 10.
 
 - BBC Bitesize Careers — accessible job profiles.
 - National Careers Service (UK) — job-skill matrices.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 077a7cae83364cddab22bc82d802e6d8 -->
-<img src="https://vg09.met.vgwort.de/na/077a7cae83364cddab22bc82d802e6d8"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

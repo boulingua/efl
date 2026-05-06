@@ -56,11 +56,3 @@ Write 120 words: an opinion paragraph on a school topic. Use the four-move struc
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1670ff1f5d1b4f75adb56074d7f7bd4f -->
-<img src="https://vg09.met.vgwort.de/na/1670ff1f5d1b4f75adb56074d7f7bd4f"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

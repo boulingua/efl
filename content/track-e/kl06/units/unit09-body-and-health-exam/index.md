@@ -58,11 +58,3 @@ Write an 8-line doctor-patient dialogue.
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0391f4372a854068a9ffb9ca9cf422b3 -->
-<img src="https://vg09.met.vgwort.de/na/0391f4372a854068a9ffb9ca9cf422b3"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

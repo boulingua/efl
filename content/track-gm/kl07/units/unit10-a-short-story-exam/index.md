@@ -111,11 +111,3 @@ gist (4), addressee-fit (2), correct grammar (4).
 | 56–60 | 1 | 49–55 | 2 | 40–48 | 3 |
 | 30–39 | 4 | 18–29 | 5 | 0–17  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 157bea832c3641af92297de418700591 -->
-<img src="https://vg09.met.vgwort.de/na/157bea832c3641af92297de418700591"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

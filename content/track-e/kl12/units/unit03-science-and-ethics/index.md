@@ -182,11 +182,3 @@ analysis, integrated quotation, complex thesis.
 
 - Henry T. Greely, *CRISPR People* (accessible chapters).
 - The Atlantic — *Tech Ethics* essays.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0d39a6cd0e0845ba9afde00710bc593b -->
-<img src="https://vg09.met.vgwort.de/na/0d39a6cd0e0845ba9afde00710bc593b"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

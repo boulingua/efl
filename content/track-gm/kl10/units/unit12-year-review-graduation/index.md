@@ -179,11 +179,3 @@ structure. Above Niveau M: extension prompt linking to Klasse 11
 
 - BBC Bitesize — *Reflective writing*.
 - British Council — *Self-evaluation* tips for upper secondary.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1aed751f3258460abc5ff31a6411c710 -->
-<img src="https://vg09.met.vgwort.de/na/1aed751f3258460abc5ff31a6411c710"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

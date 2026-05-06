@@ -189,11 +189,3 @@ into Oberstufe: extension prompt linking to Klasse 11
 
 - The New Yorker — *The Writer's Voice* podcast.
 - Granta — short fiction archive.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 09dd1df9d53d498c90492179f43812b9 -->
-<img src="https://vg09.met.vgwort.de/na/09dd1df9d53d498c90492179f43812b9"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

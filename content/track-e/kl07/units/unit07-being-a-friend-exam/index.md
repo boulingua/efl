@@ -112,11 +112,3 @@ correct grammar (4).
 | 56–60 | 1 | 49–55 | 2 | 40–48 | 3 |
 | 30–39 | 4 | 18–29 | 5 | 0–17  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 051814baed364734b15b215988555b2c -->
-<img src="https://vg09.met.vgwort.de/na/051814baed364734b15b215988555b2c"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

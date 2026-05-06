@@ -57,11 +57,3 @@ Leistungsfach (advanced course): 40/60.
 (Single-section Klausuren in this year scale to the proportional
 BE-weight of the section in the full Klausur.)
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0f415ac55e5c4494aea5638434ad95fb -->
-<img src="https://vg09.met.vgwort.de/na/0f415ac55e5c4494aea5638434ad95fb"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

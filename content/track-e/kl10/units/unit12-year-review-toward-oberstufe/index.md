@@ -179,11 +179,3 @@ into Oberstufe: extension prompt linking to Klasse 11
 
 - BBC Bitesize — *Reflective writing*.
 - British Council — *Self-evaluation* materials.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0abaadc2e09245769937481e6ba013f8 -->
-<img src="https://vg09.met.vgwort.de/na/0abaadc2e09245769937481e6ba013f8"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

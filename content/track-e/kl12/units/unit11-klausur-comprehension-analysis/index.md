@@ -187,11 +187,3 @@ analysis, integrated quotation, complex thesis.
 
 - Bildungsplan-aligned Klausur collections.
 - Past Abitur papers (BW), with caution: format familiarity only.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0dd7a9c66b9c434f9540435c4692bb21 -->
-<img src="https://vg09.met.vgwort.de/na/0dd7a9c66b9c434f9540435c4692bb21"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

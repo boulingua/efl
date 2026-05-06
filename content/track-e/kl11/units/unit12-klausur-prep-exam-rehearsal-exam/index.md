@@ -62,11 +62,3 @@ Complete a full 90-BE Klausur rehearsal under timed conditions. Submit with a 20
 | 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
 | 22–29 | 5  |  0–21 | 6   |       |    |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0c9d5e9496eb4cc786f5253bb2403fed -->
-<img src="https://vg09.met.vgwort.de/na/0c9d5e9496eb4cc786f5253bb2403fed"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

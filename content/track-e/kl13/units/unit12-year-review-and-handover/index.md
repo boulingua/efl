@@ -196,11 +196,3 @@ candidate path.
 
 - BBC Bitesize — *Reflective writing* (later secondary).
 - British Council — *Self-evaluation* materials.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1029244baf5c415898e90173a9b1d9ef -->
-<img src="https://vg09.met.vgwort.de/na/1029244baf5c415898e90173a9b1d9ef"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

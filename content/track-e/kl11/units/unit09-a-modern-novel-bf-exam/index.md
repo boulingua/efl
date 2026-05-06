@@ -62,11 +62,3 @@ Write 350 words: a Basisfach literary essay on *Klara and the Sun* ch. 1-4. Use 
 | 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
 | 22–29 | 5  |  0–21 | 6   |       |    |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0c4ae68364fd41d0b4e76fd62c4b5b86 -->
-<img src="https://vg09.met.vgwort.de/na/0c4ae68364fd41d0b4e76fd62c4b5b86"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

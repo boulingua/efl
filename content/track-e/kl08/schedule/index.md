@@ -24,11 +24,3 @@ year. Each Unit covers roughly three teaching weeks.
 | 12 | [Class Magazine Issue](/track-e/kl08/units/unit12-school-magazine-issue/) | writing, speaking, language_awareness | class test ("Klassenarbeit") |
 
 [← Back to Grade 8 overview](/)
-
-<!-- VG Wort Zählmarke (slb) — public ID: 05a2e6404faf44ca81eebdb863846867 -->
-<img src="https://vg09.met.vgwort.de/na/05a2e6404faf44ca81eebdb863846867"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

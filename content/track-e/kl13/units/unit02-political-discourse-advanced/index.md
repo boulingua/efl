@@ -191,11 +191,3 @@ candidate path.
 
 - Sam Leith, *You Talkin' to Me?* (later chapters).
 - George Lakoff, *Don't Think of an Elephant!* (framing).
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0e99b5b783fd4a4f9456d4b2fe425208 -->
-<img src="https://vg09.met.vgwort.de/na/0e99b5b783fd4a4f9456d4b2fe425208"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

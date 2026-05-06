@@ -186,11 +186,3 @@ structure. Above Niveau M: extension prompt linking to Klasse 11
 
 - BBC News — Youth-led initiative profiles.
 - The Conversation — opinion essays on youth and policy.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1ab7907c31a04ac3831ea08405ab7b80 -->
-<img src="https://vg09.met.vgwort.de/na/1ab7907c31a04ac3831ea08405ab7b80"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

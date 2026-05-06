@@ -58,11 +58,3 @@ Write 5–6 sentences about your family. Use at least two possessives.
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 00f99c4e98bb45a2bda813cf02cf43ed -->
-<img src="https://vg09.met.vgwort.de/na/00f99c4e98bb45a2bda813cf02cf43ed"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

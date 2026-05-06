@@ -184,11 +184,3 @@ into Oberstufe: extension prompt linking to Klasse 11
 
 - The Guardian — *Comment is free*.
 - Reuters Institute — accessible digital news report.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 09b4c4cb35db415d80823a42285e4a58 -->
-<img src="https://vg09.met.vgwort.de/na/09b4c4cb35db415d80823a42285e4a58"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

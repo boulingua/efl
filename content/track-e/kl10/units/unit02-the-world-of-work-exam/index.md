@@ -56,11 +56,3 @@ Write 200 words: a career reflection. Use 2 perfect continuous + 1 third conditi
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0940a62dd8ab4dc6815a7730cee01b92 -->
-<img src="https://vg09.met.vgwort.de/na/0940a62dd8ab4dc6815a7730cee01b92"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

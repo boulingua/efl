@@ -194,11 +194,3 @@ question linking to the next Unit's grammar.
 
 - BBC Earth Kids — short animal videos.
 - RSPB — UK bird identifier (visual). <https://www.rspb.org.uk>
-
-<!-- VG Wort Zählmarke (slb) — public ID: 016b913a7cc94fe08498fa0ff23b4d08 -->
-<img src="https://vg09.met.vgwort.de/na/016b913a7cc94fe08498fa0ff23b4d08"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

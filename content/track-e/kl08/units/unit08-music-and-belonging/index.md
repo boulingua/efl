@@ -181,11 +181,3 @@ question linking to the next Unit.
 
 - BBC Sounds — playlists by genre.
 - NPR Music — *Tiny Desk* concerts (free).
-
-<!-- VG Wort Zählmarke (slb) — public ID: 06c4032e137745b4a02b40513010876d -->
-<img src="https://vg09.met.vgwort.de/na/06c4032e137745b4a02b40513010876d"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

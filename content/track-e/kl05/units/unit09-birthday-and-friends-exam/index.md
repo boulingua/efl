@@ -55,11 +55,3 @@ Write a 6-line birthday invitation: greeting, reason, date, time, place, RSVP, s
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 01e7ecc188e54a12a9d4cff549e691b0 -->
-<img src="https://vg09.met.vgwort.de/na/01e7ecc188e54a12a9d4cff549e691b0"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

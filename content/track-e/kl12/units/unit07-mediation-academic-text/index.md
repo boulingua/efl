@@ -190,11 +190,3 @@ analysis, integrated quotation, complex thesis.
 
 - Goethe-Institut — Sprachmittlungs-Beispielaufgaben Oberstufe.
 - Cambridge — *Translation and Mediation* course materials.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0d9a5ca950b74b66a1e1c5037d342ea1 -->
-<img src="https://vg09.met.vgwort.de/na/0d9a5ca950b74b66a1e1c5037d342ea1"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

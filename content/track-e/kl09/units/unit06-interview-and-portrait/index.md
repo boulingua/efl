@@ -187,11 +187,3 @@ structure. Above Niveau E: extension prompt linking to Klasse 10.
 
 - BBC News — *In Pictures* / portrait journalism.
 - The Guardian — *Long reads* (selected).
-
-<!-- VG Wort Zählmarke (slb) — public ID: 084c05fffaf8441cb9d33180e0bb0764 -->
-<img src="https://vg09.met.vgwort.de/na/084c05fffaf8441cb9d33180e0bb0764"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

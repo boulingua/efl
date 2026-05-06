@@ -195,11 +195,3 @@ card. Above Niveau E: extension question linking to the next Unit.
 
 - BBC Learning English — *Daily routines vocabulary*.
 - British Council Kids — *My day*.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 02d05f78415f4c38a4bc97296065e763 -->
-<img src="https://vg09.met.vgwort.de/na/02d05f78415f4c38a4bc97296065e763"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

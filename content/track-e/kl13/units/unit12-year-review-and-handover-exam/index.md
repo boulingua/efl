@@ -66,11 +66,3 @@ Write 400 words: a year-review reflection across Klasse 11-13. Use 6 grammar poi
 (Single-section Klausuren in this year scale to the proportional
 BE-weight of the section in the full Klausur.)
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 10364cfcd0cd4cc2b1dc03d41a4262df -->
-<img src="https://vg09.met.vgwort.de/na/10364cfcd0cd4cc2b1dc03d41a4262df"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

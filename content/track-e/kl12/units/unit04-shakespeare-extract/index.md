@@ -192,11 +192,3 @@ analysis, integrated quotation, complex thesis.
 
 - Stephen Booth, *Shakespeare's Sonnets* — accessible annotations.
 - Don Paterson, *Reading Shakespeare's Sonnets*.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0d44b390f7f7425e9a943d2a1a95057e -->
-<img src="https://vg09.met.vgwort.de/na/0d44b390f7f7425e9a943d2a1a95057e"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

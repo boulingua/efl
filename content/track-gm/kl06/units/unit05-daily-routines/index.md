@@ -199,11 +199,3 @@ linking to the next Unit.
 
 - BBC Learning English — *Daily routines vocabulary*.
 - British Council Kids — *My day* songs and games.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 12dab4cb4ac94866b2e62c2fa6d308ad -->
-<img src="https://vg09.met.vgwort.de/na/12dab4cb4ac94866b2e62c2fa6d308ad"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -183,11 +183,3 @@ card. Above Niveau E: extension question linking to the next Unit.
 
 - BBC Learning English — *Asking for directions*.
 - British Council — *In town* topic.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 02bc693e71b34140bea8e76a6cfb4207 -->
-<img src="https://vg09.met.vgwort.de/na/02bc693e71b34140bea8e76a6cfb4207"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

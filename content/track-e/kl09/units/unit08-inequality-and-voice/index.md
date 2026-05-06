@@ -186,11 +186,3 @@ structure. Above Niveau E: extension prompt linking to Klasse 10.
 
 - BBC News — *Education* social-issue articles.
 - JRF (Joseph Rowntree Foundation, UK) — accessible reports.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0879aac216fa46b6b6da31678286aa93 -->
-<img src="https://vg09.met.vgwort.de/na/0879aac216fa46b6b6da31678286aa93"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

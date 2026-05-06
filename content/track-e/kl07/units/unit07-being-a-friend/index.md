@@ -357,11 +357,3 @@ take it offline.
 - The Guardian — *Dear Mariella* / advice columns at A2/B1
   reading level.
   <https://www.theguardian.com/lifeandstyle>
-
-<!-- VG Wort Zählmarke (slb) — public ID: 050c6520d49a4fe093228fe40aeb0cca -->
-<img src="https://vg09.met.vgwort.de/na/050c6520d49a4fe093228fe40aeb0cca"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

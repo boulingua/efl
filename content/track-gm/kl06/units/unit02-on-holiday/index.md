@@ -182,11 +182,3 @@ linking to the next Unit.
 
 - BBC Learning English — *Past simple* lessons.
 - VisitBritain — short articles for young learners.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 12573109f0024aaa8693fe04858b0a1f -->
-<img src="https://vg09.met.vgwort.de/na/12573109f0024aaa8693fe04858b0a1f"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

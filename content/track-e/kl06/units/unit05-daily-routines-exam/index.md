@@ -58,11 +58,3 @@ Write 6 sentences about your typical Saturday routine using 4 sequence words.
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 030f1dddb5524025b2fd97b944dc809d -->
-<img src="https://vg09.met.vgwort.de/na/030f1dddb5524025b2fd97b944dc809d"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

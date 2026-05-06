@@ -183,11 +183,3 @@ card. Above Niveau E: extension question linking to the next Unit.
 
 - BBC Bitesize — *School around the world*.
 - British Council Schools Online.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 03596e8529c64aaeb83eaa3bc68ee93e -->
-<img src="https://vg09.met.vgwort.de/na/03596e8529c64aaeb83eaa3bc68ee93e"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

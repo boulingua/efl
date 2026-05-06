@@ -193,11 +193,3 @@ analysis, integrated quotation, complex thesis.
 
 - Kazuo Ishiguro, *Klara and the Sun* (2021).
 - James Wood, *How Fiction Works*.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0c18955c88dc4848af12ce0571070fdc -->
-<img src="https://vg09.met.vgwort.de/na/0c18955c88dc4848af12ce0571070fdc"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

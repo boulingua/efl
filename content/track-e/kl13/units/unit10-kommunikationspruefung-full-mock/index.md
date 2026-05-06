@@ -190,11 +190,3 @@ candidate path.
 
 - Bildungsplan-aligned Komm-Prüfung mock-stimulus collections.
 - BBC Sounds — *Question Time* extracts (examiner-style follow-up rhythm).
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0fc059f2b4304cbb99947bb5e073644a -->
-<img src="https://vg09.met.vgwort.de/na/0fc059f2b4304cbb99947bb5e073644a"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -58,11 +58,3 @@ Write 100 words: your festival stall, one Klasse-6 achievement, and what you wil
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 03eddd775f9f4db9bce229ca1d7c76d4 -->
-<img src="https://vg09.met.vgwort.de/na/03eddd775f9f4db9bce229ca1d7c76d4"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

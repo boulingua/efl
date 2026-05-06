@@ -194,11 +194,3 @@ candidate path.
 
 - ESU (English-Speaking Union) — student debate footage.
 - Oxford Union — selected debate recordings (with caution: register varies).
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0ff8753a2faf4b27b30abc9a52cdbfeb -->
-<img src="https://vg09.met.vgwort.de/na/0ff8753a2faf4b27b30abc9a52cdbfeb"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

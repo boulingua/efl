@@ -187,11 +187,3 @@ next Unit.
 
 - BBC Countryfile — accessible articles.
 - The Guardian — *Cities* section.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 16d62e8c7d9a401d98ef6cff3a864d6d -->
-<img src="https://vg09.met.vgwort.de/na/16d62e8c7d9a401d98ef6cff3a864d6d"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

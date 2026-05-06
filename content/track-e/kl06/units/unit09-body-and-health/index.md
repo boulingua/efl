@@ -192,11 +192,3 @@ card. Above Niveau E: extension question linking to the next Unit.
 
 - BBC Bitesize — *The body* topic.
 - NHS Kids — accessible health information.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0369d432207845f5990283e120e4cf6d -->
-<img src="https://vg09.met.vgwort.de/na/0369d432207845f5990283e120e4cf6d"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

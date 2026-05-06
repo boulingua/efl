@@ -56,11 +56,3 @@ Write 220 words: a science-and-society reflection on the trial. Use 4 scientific
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0a2bfdc8fa624f4085693826a59062ab -->
-<img src="https://vg09.met.vgwort.de/na/0a2bfdc8fa624f4085693826a59062ab"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

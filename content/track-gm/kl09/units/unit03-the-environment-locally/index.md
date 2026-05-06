@@ -184,11 +184,3 @@ structure. Above Niveau M: extension prompt linking to Klasse 10.
 
 - BBC Newsround — local environment stories.
 - WWF UK Schools — accessible factsheets.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 17ff33f6088b4f5dac7ef2d055353444 -->
-<img src="https://vg09.met.vgwort.de/na/17ff33f6088b4f5dac7ef2d055353444"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

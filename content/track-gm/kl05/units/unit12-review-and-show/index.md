@@ -192,11 +192,3 @@ links to the next Unit.
 
 - BBC Sounds — *Short Cuts*. Listen for short personal monologue models.
 - LearnEnglish Kids — sample student videos at A1 level.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 11e232f8a8e447959271439f88d23834 -->
-<img src="https://vg09.met.vgwort.de/na/11e232f8a8e447959271439f88d23834"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

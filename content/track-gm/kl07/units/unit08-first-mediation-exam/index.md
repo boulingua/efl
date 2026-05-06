@@ -103,11 +103,3 @@ Mediation tasks reward gist + adressatengerechte Anpassung over
 literal translation. A nearly-literal translation cannot reach the
 top band.
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 15420da270ec458bb50a8b909ac75638 -->
-<img src="https://vg09.met.vgwort.de/na/15420da270ec458bb50a8b909ac75638"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

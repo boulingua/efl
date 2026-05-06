@@ -57,11 +57,3 @@ Read the *Twenty Years of Globalisation* extract.
 | 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
 | 22–29 | 5  |  0–21 | 6   |       |    |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0d292d8e22124b23bdd0f4bced388998 -->
-<img src="https://vg09.met.vgwort.de/na/0d292d8e22124b23bdd0f4bced388998"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

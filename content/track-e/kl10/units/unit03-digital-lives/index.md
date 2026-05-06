@@ -189,11 +189,3 @@ into Oberstufe: extension prompt linking to Klasse 11
 
 - The Atlantic — *Technology* essays.
 - Cal Newport, *Digital Minimalism* — accessible chapters.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0954ea3c80894f36bfcff7289e1bbd0a -->
-<img src="https://vg09.met.vgwort.de/na/0954ea3c80894f36bfcff7289e1bbd0a"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

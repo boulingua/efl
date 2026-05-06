@@ -183,11 +183,3 @@ linking to the next Unit.
 
 - BBC Learning English — *Asking for directions*.
 - British Council — *In town* topic.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 12a111e2dac5449dbfceda59b2c51b93 -->
-<img src="https://vg09.met.vgwort.de/na/12a111e2dac5449dbfceda59b2c51b93"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

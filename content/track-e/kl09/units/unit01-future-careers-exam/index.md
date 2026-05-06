@@ -58,11 +58,3 @@ Write 120 words about your career plans (real or imagined). Use 4 verb + to-infi
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 077c5c46673c4f2aabf6bf00cd362ffb -->
-<img src="https://vg09.met.vgwort.de/na/077c5c46673c4f2aabf6bf00cd362ffb"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

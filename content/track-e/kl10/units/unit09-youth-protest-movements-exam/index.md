@@ -56,11 +56,3 @@ Write 220 words: a comparison of two youth movements with one cleft + 2 hedges.
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0a5af96271b0448cb30382213865ac77 -->
-<img src="https://vg09.met.vgwort.de/na/0a5af96271b0448cb30382213865ac77"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

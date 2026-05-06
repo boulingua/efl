@@ -63,11 +63,3 @@ Read the three PMQs paraphrases above.
 (Single-section Klausuren in this year scale to the proportional
 BE-weight of the section in the full Klausur.)
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0ea30b9d5c1c4931a5cfa84b1dce39ba -->
-<img src="https://vg09.met.vgwort.de/na/0ea30b9d5c1c4931a5cfa84b1dce39ba"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

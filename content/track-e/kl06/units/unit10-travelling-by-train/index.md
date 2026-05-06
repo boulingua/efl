@@ -194,11 +194,3 @@ card. Above Niveau E: extension question linking to the next Unit.
 
 - National Rail Enquiries (UK) — example timetables.
 - BBC Learning English — *At the station*.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 039bcc22d3e84425b94a495025d88b49 -->
-<img src="https://vg09.met.vgwort.de/na/039bcc22d3e84425b94a495025d88b49"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

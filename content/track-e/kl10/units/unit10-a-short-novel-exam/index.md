@@ -56,11 +56,3 @@ Write 300 words: a literary essay on the *Slow Hour* extract. Use 2 quotes + 1 c
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0a9617d33aef4c9abf090abd41cbb185 -->
-<img src="https://vg09.met.vgwort.de/na/0a9617d33aef4c9abf090abd41cbb185"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

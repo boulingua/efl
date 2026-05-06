@@ -186,11 +186,3 @@ structure. Above Niveau M: extension prompt linking to Klasse 11
 
 - The New Yorker — short fiction archive.
 - BBC Radio 4 — *Short Story* podcasts.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1a3412de96d7419b90426dda55d9f9dd -->
-<img src="https://vg09.met.vgwort.de/na/1a3412de96d7419b90426dda55d9f9dd"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

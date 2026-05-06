@@ -57,11 +57,3 @@ Read the *Three Ethics Frames* paraphrase above.
 | 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
 | 22–29 | 5  |  0–21 | 6   |       |    |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0d40103e1c0146a598f8d86f1397bab2 -->
-<img src="https://vg09.met.vgwort.de/na/0d40103e1c0146a598f8d86f1397bab2"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

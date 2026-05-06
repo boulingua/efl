@@ -62,11 +62,3 @@ Write 450 words: a Leistungsfach literary essay tracing Macbeth's relationship t
 | 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
 | 22–29 | 5  |  0–21 | 6   |       |    |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0c5af961fa2d46beb1033ae629c556fe -->
-<img src="https://vg09.met.vgwort.de/na/0c5af961fa2d46beb1033ae629c556fe"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

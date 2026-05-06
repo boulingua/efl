@@ -189,11 +189,3 @@ linking to the next Unit.
 
 - Project Gutenberg — children's adventure stories.
 - Roald Dahl Stories Online — extracts.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 135c048bb8e14908b0e5720756d4d1f7 -->
-<img src="https://vg09.met.vgwort.de/na/135c048bb8e14908b0e5720756d4d1f7"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

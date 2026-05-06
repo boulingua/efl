@@ -186,11 +186,3 @@ next Unit.
 
 - Project Gutenberg — short novellas at A2/B1 level.
 - BBC Bitesize — *Reported speech* practice.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 170fb20257bd4d5f81769f9f5aa43c91 -->
-<img src="https://vg09.met.vgwort.de/na/170fb20257bd4d5f81769f9f5aa43c91"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

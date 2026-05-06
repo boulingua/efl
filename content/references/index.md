@@ -91,11 +91,3 @@ that revisions remain traceable.
 When citing a single Unit, add the course track, grade, and Unit
 title (e.g. *Track E, Grade 6, Unit 3 — In the City*) to the
 reference so readers can locate the specific material.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 008946c2f4dd49488499791869f4b411 -->
-<img src="https://vg09.met.vgwort.de/na/008946c2f4dd49488499791869f4b411"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

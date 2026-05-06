@@ -186,11 +186,3 @@ structure. Above Niveau M: extension prompt linking to Klasse 11
 
 - Granta — accessible literary essays.
 - London Review of Books — *Diary* short essays.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1ade3c36560345c2bcddce27ff528c3a -->
-<img src="https://vg09.met.vgwort.de/na/1ade3c36560345c2bcddce27ff528c3a"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

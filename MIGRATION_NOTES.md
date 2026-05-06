@@ -234,3 +234,51 @@ Keyboard nav is the gap: Cytoscape keyboard plugin is not currently
 loaded. Filed as a follow-up for the next a11y pass — adding
 `cytoscape-key-bindings` adds ~5 KB to the bundle (well within the
 280 KB budget).
+
+### 2026-05-06 — Phase 4 VG Wort data-driven partial
+
+Refactored from inline-HTML pixels in every `.md` body to a single
+data file + a single partial:
+
+- `data/vgwort.yaml` (399 entries) is the source of truth. Each entry
+  carries `url` (Hugo content-page relative path), `public_id`,
+  `pixel_url`, `min_chars: 1800`, `author: "S. Le Boulanger"`,
+  `registered_at`, and the legacy `qmd_path` for provenance.
+  Generated from `vgwort-manifest.csv` by
+  `_scripts/migrate_vgwort_to_data.py` — idempotent.
+- `layouts/_partials/vgwort.html` (new) reads the current page's
+  `.RelPermalink`, looks up the matching entry, renders a 1×1
+  invisible `<img>` with the registered URL (per VG Wort placement
+  guidance, wrapped in `<div style="display:inline">` and placed near
+  the end of article body). Renders nothing on pages without an entry.
+- `layouts/_partials/page.html` (single page template) and
+  `layouts/_partials/list.html` (section index template — new
+  override; needed for the 15 course indexes that carry Zählmarken)
+  both invoke the partial.
+- All 399 inline `<!-- VG Wort -->` blocks stripped from `.md` files
+  in the same migrator run.
+
+Verification on local build:
+- `verify_rendered_pixels.py`: 399/399 pixels found in `public/`,
+  byte-identical URLs to `vgwort-manifest.csv`.
+- `verify_tracking.py`: Plausible everywhere, VG Wort on unit pages
+  only, `/materials/` free of pixels.
+
+#### VG Wort: Zählmarken needed
+
+`_scripts/verify_vgwort_coverage.py` (new) walks rendered HTML and
+warns on pages over the 1800-char Mindestumfang without a registered
+Zählmarke. Wired into CI as `continue-on-error: true` per the brief
+(registration is async via the T.O.M. portal).
+
+Two pages currently over threshold without a Zählmarke:
+
+| Page | Chars | Notes |
+|---|---:|---|
+| `/about/` | 2,503 | Substantial editorial prose introducing the curriculum |
+| `/acknowledgements/` | 2,352 | Sources, inspirations, license details |
+
+Action for the author: register two new Zählmarken via VG Wort
+T.O.M., add the rows to `vgwort-manifest.csv`, re-run
+`_scripts/migrate_vgwort_to_data.py`. The Datenschutzerklärung
+already discloses VG Wort usage so no further legal copy needed.

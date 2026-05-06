@@ -117,11 +117,3 @@ rubric sheet.
 Writing (Task 4) splits Inhalt 10 / Sprache 10 with the BW house
 weighting (Niveau M).
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 145c3873c8cd40cab4506e9246d96e11 -->
-<img src="https://vg09.met.vgwort.de/na/145c3873c8cd40cab4506e9246d96e11"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

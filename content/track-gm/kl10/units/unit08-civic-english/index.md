@@ -187,11 +187,3 @@ structure. Above Niveau M: extension prompt linking to Klasse 11
 
 - UNICEF — child-friendly version of the CRC.
 - Council of Europe — accessible articles on Convention rights.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1aa80acc2c8044028fa5ad96c3fa356b -->
-<img src="https://vg09.met.vgwort.de/na/1aa80acc2c8044028fa5ad96c3fa356b"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

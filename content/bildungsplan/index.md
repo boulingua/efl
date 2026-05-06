@@ -115,11 +115,3 @@ alignment fields and the coverage matrix are finalised as Units
 land in Phases 3–5. Until then, individual Units display the
 Bildungsplan section with the chapter codes that apply, even if the
 fine-grained Kompetenzaussagen are still being authored.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0070e2f8329f4d94a5d1c94a53b6c559 -->
-<img src="https://vg09.met.vgwort.de/na/0070e2f8329f4d94a5d1c94a53b6c559"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

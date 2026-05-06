@@ -58,11 +58,3 @@ Write 120 words about a money decision. Use *should / shouldn't / had better* (3
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 07a6b9feebeb486ab9f11a1224f9ed32 -->
-<img src="https://vg09.met.vgwort.de/na/07a6b9feebeb486ab9f11a1224f9ed32"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

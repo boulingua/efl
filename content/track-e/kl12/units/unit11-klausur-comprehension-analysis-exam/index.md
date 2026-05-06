@@ -53,11 +53,3 @@ Allocate the 90 minutes: ___ min reading; ___ min Comprehension; ___ min Analysi
 | 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
 | 22–29 | 5  |  0–21 | 6   |       |    |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0de63e6de74a4942ae44aa571f84c789 -->
-<img src="https://vg09.met.vgwort.de/na/0de63e6de74a4942ae44aa571f84c789"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -189,11 +189,3 @@ question linking to the next Unit's grammar.
 
 - BBC Sport — short kids' articles.
 - British Council — *Hobbies* topic.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 01ad6e65a81d4dba81784b50429df014 -->
-<img src="https://vg09.met.vgwort.de/na/01ad6e65a81d4dba81784b50429df014"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

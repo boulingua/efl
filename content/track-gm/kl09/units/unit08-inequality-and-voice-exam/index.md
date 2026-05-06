@@ -58,11 +58,3 @@ Write 150 words: take a position on a small fairness issue. Use 3 of: *despite, 
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 190c39045a5c4324b67345ed8709320b -->
-<img src="https://vg09.met.vgwort.de/na/190c39045a5c4324b67345ed8709320b"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

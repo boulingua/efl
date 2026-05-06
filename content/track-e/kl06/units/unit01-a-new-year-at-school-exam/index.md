@@ -58,11 +58,3 @@ Write 6 sentences about your school week using 4 different frequency adverbs and
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 027141142f7f45899232ff996d02055d -->
-<img src="https://vg09.met.vgwort.de/na/027141142f7f45899232ff996d02055d"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

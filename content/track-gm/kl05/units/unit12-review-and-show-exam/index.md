@@ -58,11 +58,3 @@ Write your own 60-second talk text (8–12 sentences). Use *Then / Now / Forward
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 11e4dda17a67403299fca1e8ffb90855 -->
-<img src="https://vg09.met.vgwort.de/na/11e4dda17a67403299fca1e8ffb90855"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

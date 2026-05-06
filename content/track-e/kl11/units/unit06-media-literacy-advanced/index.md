@@ -189,11 +189,3 @@ analysis, integrated quotation, complex thesis.
 
 - Reuters Institute Digital News Report.
 - Columbia Journalism Review — accessible essays.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0babfdcb4bc74c32bd628613ed74d4ac -->
-<img src="https://vg09.met.vgwort.de/na/0babfdcb4bc74c32bd628613ed74d4ac"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

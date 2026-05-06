@@ -197,11 +197,3 @@ links to the next Unit.
 
 - BBC Learning English — *Months and dates*.
 - British Council — *Birthday party invitation* template.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1168185e5ef843ff8149c546fbf82cc4 -->
-<img src="https://vg09.met.vgwort.de/na/1168185e5ef843ff8149c546fbf82cc4"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -110,11 +110,3 @@ addressee-fit (2), grammar (4).
 | 56–60 | 1 | 49–55 | 2 | 40–48 | 3 |
 | 30–39 | 4 | 18–29 | 5 | 0–17  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0586ba95200847288208ff1abdfd7f59 -->
-<img src="https://vg09.met.vgwort.de/na/0586ba95200847288208ff1abdfd7f59"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

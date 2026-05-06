@@ -58,11 +58,3 @@ Write 120 words: a proposal to the council on a local environment issue. Use 3 f
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 07e4ecf1f7f94abf985dd8138474072d -->
-<img src="https://vg09.met.vgwort.de/na/07e4ecf1f7f94abf985dd8138474072d"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

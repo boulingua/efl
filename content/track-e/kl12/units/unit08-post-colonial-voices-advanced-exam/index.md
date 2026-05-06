@@ -57,11 +57,3 @@ Read the three extracts above.
 | 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
 | 22–29 | 5  |  0–21 | 6   |       |    |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0dbf0c04e221459ebb0fd1926a64812d -->
-<img src="https://vg09.met.vgwort.de/na/0dbf0c04e221459ebb0fd1926a64812d"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

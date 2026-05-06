@@ -179,11 +179,3 @@ structure. Above Niveau M: extension prompt linking to Klasse 11
 
 - ABC Australia — short news articles.
 - Australian Bureau of Statistics — accessible factsheets.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 19fc922efbdc4d888af1c32c46d3ba38 -->
-<img src="https://vg09.met.vgwort.de/na/19fc922efbdc4d888af1c32c46d3ba38"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

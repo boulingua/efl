@@ -61,11 +61,3 @@ Read the sample speech above.
 (Single-section Klausuren in this year scale to the proportional
 BE-weight of the section in the full Klausur.)
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 10267196a7fb4fbf8aaa5a7bd4cc6ef4 -->
-<img src="https://vg09.met.vgwort.de/na/10267196a7fb4fbf8aaa5a7bd4cc6ef4"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -56,11 +56,3 @@ Write 120 words: a balanced comparison of one rural place and one urban place yo
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 16ed7122eecf43ecbe0894064f67bb5d -->
-<img src="https://vg09.met.vgwort.de/na/16ed7122eecf43ecbe0894064f67bb5d"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

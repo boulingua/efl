@@ -58,11 +58,3 @@ Write 5 sentences describing a path from your school to your favourite place in 
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 12a350d826cb447cb393336df318264b -->
-<img src="https://vg09.met.vgwort.de/na/12a350d826cb447cb393336df318264b"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

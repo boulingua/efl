@@ -51,11 +51,3 @@ Leistungsfach (advanced course): 40/60.
 | 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
 | 22–29 | 5  |  0–21 | 6   |       |    |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0e323b03fe9a4383ad670df82ec4ed17 -->
-<img src="https://vg09.met.vgwort.de/na/0e323b03fe9a4383ad670df82ec4ed17"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

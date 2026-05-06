@@ -24,11 +24,3 @@ year. Each Unit covers roughly three teaching weeks.
 | 12 | [Year Review: Graduation Exam Prep](/track-gm/kl10/units/unit12-year-review-graduation/) | writing, speaking, language_awareness | class test ("Klassenarbeit") |
 
 [← Back to Grade 10 overview](/)
-
-<!-- VG Wort Zählmarke (slb) — public ID: 195f5e649de24016a75dd8190c69233f -->
-<img src="https://vg09.met.vgwort.de/na/195f5e649de24016a75dd8190c69233f"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

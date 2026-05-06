@@ -56,11 +56,3 @@ Write a 150-word application letter for a summer job (any). Use formal register 
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 08af4110b6af493d8a2a744e351f0e7d -->
-<img src="https://vg09.met.vgwort.de/na/08af4110b6af493d8a2a744e351f0e7d"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

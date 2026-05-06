@@ -185,11 +185,3 @@ analysis, integrated quotation, complex thesis.
 
 - Dani Rodrik, *Straight Talk on Trade* (accessible chapters).
 - The Economist — globalisation special reports.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0d24e36056694072ade61362c032e733 -->
-<img src="https://vg09.met.vgwort.de/na/0d24e36056694072ade61362c032e733"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

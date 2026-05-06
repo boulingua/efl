@@ -58,11 +58,3 @@ Write 80–100 words continuing the story 'Lina's key'. Use *while* and *when* o
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 130295e4e6af43d39cd6f821c9f0caa8 -->
-<img src="https://vg09.met.vgwort.de/na/130295e4e6af43d39cd6f821c9f0caa8"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -195,11 +195,3 @@ links to the next Unit.
 
 - BBC Learning English — *Weather*. <https://www.bbc.co.uk/learningenglish>
 - Met Office Kids — *Weather words*. <https://www.metoffice.gov.uk>
-
-<!-- VG Wort Zählmarke (slb) — public ID: 111ccdc0a85349cd844a2c194e5b714c -->
-<img src="https://vg09.met.vgwort.de/na/111ccdc0a85349cd844a2c194e5b714c"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

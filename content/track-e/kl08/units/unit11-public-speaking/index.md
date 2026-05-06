@@ -178,11 +178,3 @@ question linking to the next Unit.
 
 - TED-Ed — short student talks.
 - BBC Sounds — *Short Cuts*.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0747aeef3cc74895b2b4b6c249081a72 -->
-<img src="https://vg09.met.vgwort.de/na/0747aeef3cc74895b2b4b6c249081a72"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

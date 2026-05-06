@@ -24,11 +24,3 @@ year. Each Unit covers roughly three teaching weeks.
 | 12 | [Year Review: Portfolio](/track-e/kl09/units/unit12-year-review-portfolio/) | writing, speaking, language_awareness | class test ("Klassenarbeit") |
 
 [← Back to Grade 9 overview](/)
-
-<!-- VG Wort Zählmarke (slb) — public ID: 07791e58108a499888f4a8c440652a26 -->
-<img src="https://vg09.met.vgwort.de/na/07791e58108a499888f4a8c440652a26"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -118,11 +118,3 @@ present simple/passive (4).
 | 18–29 | 5 |
 | 0–17  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 047fb4cd33344dd5ba22bedb161c33d8 -->
-<img src="https://vg09.met.vgwort.de/na/047fb4cd33344dd5ba22bedb161c33d8"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

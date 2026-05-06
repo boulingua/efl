@@ -187,11 +187,3 @@ card. Above Niveau E: extension question linking to the next Unit.
 
 - BBC Learning English — *Past simple* lessons.
 - VisitBritain — short articles for young learners.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 029f882608764ca7abdedd91be1acfdf -->
-<img src="https://vg09.met.vgwort.de/na/029f882608764ca7abdedd91be1acfdf"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

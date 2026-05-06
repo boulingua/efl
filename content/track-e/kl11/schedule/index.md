@@ -24,11 +24,3 @@ year. Each Unit covers roughly three teaching weeks.
 | 12 | [Klausur Prep: Exam Rehearsal](/track-e/kl11/units/unit12-klausur-prep-exam-rehearsal/) | reading, writing, language_awareness | Klausur (assessment) |
 
 [← Back to Grade 11 overview](/)
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0ae3f9f5c3e6437dabb3efe3345df7af -->
-<img src="https://vg09.met.vgwort.de/na/0ae3f9f5c3e6437dabb3efe3345df7af"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

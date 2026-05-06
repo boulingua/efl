@@ -184,11 +184,3 @@ structure. Above Niveau M: extension prompt linking to Klasse 11
 
 - Goethe-Institut — Sprachmittlungs-Beispielaufgaben.
 - Cambridge Business English — accessible policy-text samples.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1a51996ad7d1435aa4d74c0211457b89 -->
-<img src="https://vg09.met.vgwort.de/na/1a51996ad7d1435aa4d74c0211457b89"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

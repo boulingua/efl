@@ -58,11 +58,3 @@ Write 120 words: a media-literacy review of a viral post. Use 3 hedged claims.
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 18580d1d92c74abe883a9b7a1f7ceb5f -->
-<img src="https://vg09.met.vgwort.de/na/18580d1d92c74abe883a9b7a1f7ceb5f"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

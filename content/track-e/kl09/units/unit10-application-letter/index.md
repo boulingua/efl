@@ -192,11 +192,3 @@ structure. Above Niveau E: extension prompt linking to Klasse 10.
 
 - BBC Bitesize — *Formal letter writing*.
 - British Council — application-letter samples.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 08aa9d2aab534b099d2c25811f3c5cdd -->
-<img src="https://vg09.met.vgwort.de/na/08aa9d2aab534b099d2c25811f3c5cdd"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

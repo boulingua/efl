@@ -198,11 +198,3 @@ analysis, integrated quotation, complex thesis.
 
 - Stephen Greenblatt, *Will in the World* — accessible Shakespeare biography.
 - Frank Kermode, *Shakespeare's Language*.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0c597fc3d6064c408c9a3699508bf373 -->
-<img src="https://vg09.met.vgwort.de/na/0c597fc3d6064c408c9a3699508bf373"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -64,11 +64,3 @@ Draw your room and write 4 sentences. Use *there is / there are* and one preposi
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 10deeb9782434644a1cd970730769cc5 -->
-<img src="https://vg09.met.vgwort.de/na/10deeb9782434644a1cd970730769cc5"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

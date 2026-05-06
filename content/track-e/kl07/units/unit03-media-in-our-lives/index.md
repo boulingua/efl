@@ -412,11 +412,3 @@ changes."
   people. <https://www.theguardian.com/lifeandstyle/screen-time>
 - Cal Newport, *Digital Minimalism* — accessible chapter samples
   on the author's site at <https://calnewport.com>.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 045ec407ecac4502a5c1c4d6b0d6251c -->
-<img src="https://vg09.met.vgwort.de/na/045ec407ecac4502a5c1c4d6b0d6251c"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -190,11 +190,3 @@ next Unit.
 
 - BBC Bitesize — *Identity* topic at KS3 level.
 - British Council Voices — short student-identity essays.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 15f08a681fdb4657b9ab4b9b3aadf1f3 -->
-<img src="https://vg09.met.vgwort.de/na/15f08a681fdb4657b9ab4b9b3aadf1f3"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

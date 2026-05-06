@@ -58,11 +58,3 @@ Draw a real or imagined pet. Write 4 sentences: name, age, colour, one thing it 
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1119f03ebdf4487b90f7e3ecc64bde46 -->
-<img src="https://vg09.met.vgwort.de/na/1119f03ebdf4487b90f7e3ecc64bde46"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

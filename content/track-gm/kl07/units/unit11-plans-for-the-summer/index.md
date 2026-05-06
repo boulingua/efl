@@ -325,11 +325,3 @@ report-back.
   vocabulary. <https://www.lonelyplanet.com>
 - *The Travel Show* (BBC) extracts.
   <https://www.bbc.com/travel>
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1584a24d70f54cbfb67ffd25a27e8a5e -->
-<img src="https://vg09.met.vgwort.de/na/1584a24d70f54cbfb67ffd25a27e8a5e"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

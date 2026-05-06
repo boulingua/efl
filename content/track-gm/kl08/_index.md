@@ -127,11 +127,3 @@ The chapter codes and German labels are pulled live from
   (HTML), worksheet (PDF placeholder), exam example (PDF).
 - Speaker notes on every slide cover timing, transitions, and
   Niveau-aware differentiation prompts for mixed groups.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 15e07ad41861429bb58f66ee88b751f9 -->
-<img src="https://vg09.met.vgwort.de/na/15e07ad41861429bb58f66ee88b751f9"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

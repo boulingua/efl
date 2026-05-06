@@ -180,11 +180,3 @@ structure. Above Niveau M: extension prompt linking to Klasse 10.
 
 - ESU (English-Speaking Union) — student debate clips.
 - BBC Sounds — *Question Time* extracts.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 19377004d8bc449f9283c2b381966f0a -->
-<img src="https://vg09.met.vgwort.de/na/19377004d8bc449f9283c2b381966f0a"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

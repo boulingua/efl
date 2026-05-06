@@ -53,11 +53,3 @@ Write 200 words: a comparative AU / NZ portrait. Use 2 comparatives + 1 Māori o
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0978a5dd508e4e54897c0491cff131cb -->
-<img src="https://vg09.met.vgwort.de/na/0978a5dd508e4e54897c0491cff131cb"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -24,11 +24,3 @@ year. Each Unit covers roughly three teaching weeks.
 | 12 | [Klausur: Composition and Comment](/track-e/kl12/units/unit12-klausur-composition-and-comment/) | writing, language_awareness | Klausur (assessment) |
 
 [← Back to Grade 12 overview](/)
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0cacd418d1464736b232b9dcb3d9ef54 -->
-<img src="https://vg09.met.vgwort.de/na/0cacd418d1464736b232b9dcb3d9ef54"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

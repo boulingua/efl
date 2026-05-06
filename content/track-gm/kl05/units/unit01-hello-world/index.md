@@ -247,11 +247,3 @@ brother?*).
   <https://www.bbc.co.uk/learningenglish>
 - The British Council — *LearnEnglish Kids: Hello*.
   <https://learnenglishkids.britishcouncil.org>
-
-<!-- VG Wort Zählmarke (slb) — public ID: 108a7765f0404f52b533459f4ddc7e88 -->
-<img src="https://vg09.met.vgwort.de/na/108a7765f0404f52b533459f4ddc7e88"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

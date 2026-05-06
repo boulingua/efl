@@ -196,11 +196,3 @@ analysis, integrated quotation, complex thesis.
 
 - The Atlantic, The Guardian Long Reads, The New Yorker — opinion archives.
 - George Orwell, *Politics and the English Language* (1946) — short, accessible.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0c02597e9c8c4c498e95c1098b95426c -->
-<img src="https://vg09.met.vgwort.de/na/0c02597e9c8c4c498e95c1098b95426c"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -192,11 +192,3 @@ question linking to the next Unit.
 
 - BBC Newsround — short fairness debates for teens.
 - Childline UK — *Your rights at school* page.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0634d9929e4d4a27aa56f082538348c6 -->
-<img src="https://vg09.met.vgwort.de/na/0634d9929e4d4a27aa56f082538348c6"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -185,11 +185,3 @@ next Unit.
 
 - The Guardian — short opinion pieces by teachers.
 - BBC News — *Have your say* columns.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1661433fbe6b4ee2b40db82b846ab1e1 -->
-<img src="https://vg09.met.vgwort.de/na/1661433fbe6b4ee2b40db82b846ab1e1"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

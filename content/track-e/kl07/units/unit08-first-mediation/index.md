@@ -372,11 +372,3 @@ information selection, not word-for-word coverage.
   <https://www.bbc.co.uk/bitesize/topics/zhfygdm>
 - Landesbildungsserver BW — mediation ("Mediation")-Beispielaufgaben.
   <https://www.schule-bw.de>
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0527690881b04ec68f15d5f3db55bbdb -->
-<img src="https://vg09.met.vgwort.de/na/0527690881b04ec68f15d5f3db55bbdb"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

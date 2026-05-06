@@ -186,11 +186,3 @@ linking to the next Unit.
 
 - BBC Bitesize — *School around the world*.
 - British Council Schools Online — pen-pal projects.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 131347abe36d47f7acd347b781880818 -->
-<img src="https://vg09.met.vgwort.de/na/131347abe36d47f7acd347b781880818"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

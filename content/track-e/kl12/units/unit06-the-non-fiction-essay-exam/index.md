@@ -55,11 +55,3 @@ Read the paraphrase above.
 | 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
 | 22–29 | 5  |  0–21 | 6   |       |    |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0d8b9e2e45104ab9bb116e214331849b -->
-<img src="https://vg09.met.vgwort.de/na/0d8b9e2e45104ab9bb116e214331849b"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

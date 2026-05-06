@@ -198,11 +198,3 @@ links to the next Unit.
 
 - VisitLondon — accessible city overview. <https://www.visitlondon.com>
 - British Museum (free) — <https://www.britishmuseum.org>
-
-<!-- VG Wort Zählmarke (slb) — public ID: 117ac5628bd842fa8d2d3d6eebc42a30 -->
-<img src="https://vg09.met.vgwort.de/na/117ac5628bd842fa8d2d3d6eebc42a30"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

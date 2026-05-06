@@ -58,11 +58,3 @@ Write 120 words: a self-portrait beyond surface labels.
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 05f0030c2ca044f2ac6ced17de0b9f76 -->
-<img src="https://vg09.met.vgwort.de/na/05f0030c2ca044f2ac6ced17de0b9f76"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

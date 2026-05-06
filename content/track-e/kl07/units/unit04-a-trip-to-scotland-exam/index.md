@@ -117,11 +117,3 @@ detail; flag missing past-perfect attempts.
 | 18–29 | 5 |
 | 0–17  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 04b3c173ed7c4955b0d3cad388cd5448 -->
-<img src="https://vg09.met.vgwort.de/na/04b3c173ed7c4955b0d3cad388cd5448"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

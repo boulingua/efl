@@ -186,11 +186,3 @@ analysis, integrated quotation, complex thesis.
 
 - Sam Leith, *You Talkin' to Me? Rhetoric from Aristotle to Obama*.
 - Brian MacArthur, *The Penguin Book of Twentieth-Century Speeches*.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0d665d643ac6499a8a9c8595b37b7fca -->
-<img src="https://vg09.met.vgwort.de/na/0d665d643ac6499a8a9c8595b37b7fca"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

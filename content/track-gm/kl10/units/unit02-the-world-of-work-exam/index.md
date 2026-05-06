@@ -58,11 +58,3 @@ Write 150 words about a workplace you would like to shadow for a day. Use 3 pres
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 19e214cabbab44c380031ea32b59feb3 -->
-<img src="https://vg09.met.vgwort.de/na/19e214cabbab44c380031ea32b59feb3"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

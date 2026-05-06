@@ -58,11 +58,3 @@ Write 5–6 sentences about today's mood. Use 3 feelings, one *because* and one 
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 12e42c8285944b25b42265a5f517fee3 -->
-<img src="https://vg09.met.vgwort.de/na/12e42c8285944b25b42265a5f517fee3"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

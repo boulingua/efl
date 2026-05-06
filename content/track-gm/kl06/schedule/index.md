@@ -24,11 +24,3 @@ year. Each Unit covers roughly three teaching weeks.
 | 12 | [Year-End Festival](/track-gm/kl06/units/unit12-year-end-festival/) | speaking, writing, intercultural | class test ("Klassenarbeit") |
 
 [← Back to Grade 6 overview](/)
-
-<!-- VG Wort Zählmarke (slb) — public ID: 11f6fb20072e4b28aff54e4f9bc43bd6 -->
-<img src="https://vg09.met.vgwort.de/na/11f6fb20072e4b28aff54e4f9bc43bd6"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

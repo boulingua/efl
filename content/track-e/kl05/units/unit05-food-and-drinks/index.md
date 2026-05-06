@@ -195,11 +195,3 @@ question linking to the next Unit's grammar.
 
 - BBC Good Food — short recipe articles.
 - British Council — *Food vocabulary* games.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0144f7ea1b4c42aabc99e23ce13efb40 -->
-<img src="https://vg09.met.vgwort.de/na/0144f7ea1b4c42aabc99e23ce13efb40"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

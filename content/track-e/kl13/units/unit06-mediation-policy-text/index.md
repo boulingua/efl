@@ -197,11 +197,3 @@ candidate path.
 
 - Goethe-Institut — Sprachmittlungs-Beispielaufgaben Oberstufe.
 - OECD Education at a Glance — comparative-education register samples.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0f2387325262478487e6d03a4a354b22 -->
-<img src="https://vg09.met.vgwort.de/na/0f2387325262478487e6d03a4a354b22"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

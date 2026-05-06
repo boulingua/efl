@@ -55,11 +55,3 @@ Write 6 sentences about a city trip you would like to take. Include 3 places + 1
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 020c3fd7bfd84d0eb8831664be3cc67f -->
-<img src="https://vg09.met.vgwort.de/na/020c3fd7bfd84d0eb8831664be3cc67f"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

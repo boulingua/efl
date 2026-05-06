@@ -59,11 +59,3 @@ Mediate: 12 English sentences from the source for a Canadian housing researcher.
 | 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
 | 22–29 | 5  |  0–21 | 6   |       |    |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0bd996fbb07d472b8c8e158acda04d13 -->
-<img src="https://vg09.met.vgwort.de/na/0bd996fbb07d472b8c8e158acda04d13"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

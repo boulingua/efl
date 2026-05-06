@@ -62,11 +62,3 @@ Write 250 words: a cultural-essay paragraph on a British anchor. Use 4 academic 
 | 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
 | 22–29 | 5  |  0–21 | 6   |       |    |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0aeeb6fc08194f4db8894507fe4a7571 -->
-<img src="https://vg09.met.vgwort.de/na/0aeeb6fc08194f4db8894507fe4a7571"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

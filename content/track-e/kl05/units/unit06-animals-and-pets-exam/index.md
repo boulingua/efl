@@ -58,11 +58,3 @@ Write 6 sentences about a real or imagined pet (name, age, colour, food, habit, 
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0172c8d937044774927d0ab4b0bd3f5e -->
-<img src="https://vg09.met.vgwort.de/na/0172c8d937044774927d0ab4b0bd3f5e"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

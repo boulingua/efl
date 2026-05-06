@@ -56,11 +56,3 @@ Write a 200-word year-review reflection. Use 4 grammar points from the year.
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 08f8a4d4fb9941fc9c1a4d7f9c9ee88d -->
-<img src="https://vg09.met.vgwort.de/na/08f8a4d4fb9941fc9c1a4d7f9c9ee88d"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

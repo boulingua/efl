@@ -188,11 +188,3 @@ candidate path.
 
 - Bildungsplan-aligned Abitur-prep collections (Klett, Stark).
 - Past Abitur papers (BW), with caution: format familiarity only.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0f3848feffb2479b88810f9a7a41b772 -->
-<img src="https://vg09.met.vgwort.de/na/0f3848feffb2479b88810f9a7a41b772"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -56,11 +56,3 @@ Write a 250-word year-review reflection. Use 5 grammar points from Klasse 9 + 10
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1b0a82d2104f4bcc8c310d4a7a0bd306 -->
-<img src="https://vg09.met.vgwort.de/na/1b0a82d2104f4bcc8c310d4a7a0bd306"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -192,11 +192,3 @@ question linking to the next Unit's grammar.
 
 - BBC Weather — child-friendly forecast.
 - Met Office Kids — *Weather words*.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 017b956dd0d64953acb568c60a6cdb00 -->
-<img src="https://vg09.met.vgwort.de/na/017b956dd0d64953acb568c60a6cdb00"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

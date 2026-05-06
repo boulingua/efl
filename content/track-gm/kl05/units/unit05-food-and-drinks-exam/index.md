@@ -56,11 +56,3 @@ Write a short cafe dialogue (4 lines). One customer, one waiter, two items order
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 110ab037008f4a7d9e209c2eef15e126 -->
-<img src="https://vg09.met.vgwort.de/na/110ab037008f4a7d9e209c2eef15e126"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

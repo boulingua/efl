@@ -58,11 +58,3 @@ Write a 5-line birthday invitation: greeting, date, time, place, sign-off.
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 117761451b31437d858b6746aae82d89 -->
-<img src="https://vg09.met.vgwort.de/na/117761451b31437d858b6746aae82d89"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

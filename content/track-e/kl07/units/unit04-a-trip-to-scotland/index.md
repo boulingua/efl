@@ -401,11 +401,3 @@ all.
 - Robert Louis Stevenson, *Kidnapped* — short extracts as
   follow-up reading for keen Niveau-M learners.
   <https://www.gutenberg.org/ebooks/421>
-
-<!-- VG Wort Zählmarke (slb) — public ID: 04a36ab02ba44278a2e0e40138fb6ac7 -->
-<img src="https://vg09.met.vgwort.de/na/04a36ab02ba44278a2e0e40138fb6ac7"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

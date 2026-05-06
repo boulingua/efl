@@ -188,11 +188,3 @@ structure. Above Niveau M: extension prompt linking to Klasse 11
 
 - BBC Bitesize Careers — *Choices after 16*.
 - Bundesagentur für Arbeit — *BERUFENET* (auf Deutsch, but accessible).
-
-<!-- VG Wort Zählmarke (slb) — public ID: 196c59c8b51d4ea2a0d640d363c4bfd7 -->
-<img src="https://vg09.met.vgwort.de/na/196c59c8b51d4ea2a0d640d363c4bfd7"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

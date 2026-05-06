@@ -56,11 +56,3 @@ Write 200 words: an identity reflection past flag-and-passport thinking. Use 2 m
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 090e57294a1e4bb7a56eb727f6eabddf -->
-<img src="https://vg09.met.vgwort.de/na/090e57294a1e4bb7a56eb727f6eabddf"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

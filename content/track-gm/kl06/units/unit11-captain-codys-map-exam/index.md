@@ -58,11 +58,3 @@ Write 80 words continuing the Cody story. Use one *going to* and one *will*.
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1366aa2c671f4b6fbecda6c8fa611e2f -->
-<img src="https://vg09.met.vgwort.de/na/1366aa2c671f4b6fbecda6c8fa611e2f"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -184,11 +184,3 @@ linking to the next Unit.
 
 - BBC Learning English — *Adverbs of frequency*.
 - British Council Kids — *School routines* topic.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1212f243a0c54d5eb34bfeff384aca54 -->
-<img src="https://vg09.met.vgwort.de/na/1212f243a0c54d5eb34bfeff384aca54"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

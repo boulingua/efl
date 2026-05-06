@@ -185,11 +185,3 @@ links to the next Unit.
 
 - BBC Learning English — *Hobbies*. <https://www.bbc.co.uk/learningenglish>
 - LearnEnglish Kids — *Sports* games and songs.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 11566c3ad8344b0dac4ea27d18a4645d -->
-<img src="https://vg09.met.vgwort.de/na/11566c3ad8344b0dac4ea27d18a4645d"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

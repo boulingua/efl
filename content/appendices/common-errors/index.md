@@ -85,11 +85,3 @@ and refer to it in writing tasks. The style appears in
 when, and which to prioritise) will be added once the prototype
 course (Kl. 7 G+M, Phase 3) has surfaced concrete examples.
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 00099581191e497bab13be8907d95a52 -->
-<img src="https://vg09.met.vgwort.de/na/00099581191e497bab13be8907d95a52"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

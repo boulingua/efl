@@ -58,11 +58,3 @@ Write 5–6 sentences: today's weather, your favourite season, two things you do
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 018ca34f009b478eac777c50ce8d1b1a -->
-<img src="https://vg09.met.vgwort.de/na/018ca34f009b478eac777c50ce8d1b1a"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

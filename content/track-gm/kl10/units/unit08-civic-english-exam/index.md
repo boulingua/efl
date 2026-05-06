@@ -56,11 +56,3 @@ Write 180 words: a civic-English commentary on one right or one rule in your sch
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1ab6e666fb58488c8699efa06831a3b2 -->
-<img src="https://vg09.met.vgwort.de/na/1ab6e666fb58488c8699efa06831a3b2"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

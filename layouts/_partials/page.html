@@ -21,5 +21,10 @@
     {{- end -}}
 
     {{ .Content }}
+
+    {{- /* VG Wort Zählpixel — keyed off data/vgwort.yaml. Renders only
+           on pages that have a registered Zählmarke; emits nothing for
+           navigation pages (homepage, list pages, materials hub, etc.). */ -}}
+    {{ partial "vgwort.html" . }}
   </article>
 </section>

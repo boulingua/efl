@@ -397,11 +397,3 @@ them to use *while* or *because* at least once in their writing.
   (search "first day back").
 - A simple read-aloud version of *Welcome back, Year 7* is in the
   shared `_classroom/` folder for absent students.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 03fd8c29268e440cb15c0126998ea488 -->
-<img src="https://vg09.met.vgwort.de/na/03fd8c29268e440cb15c0126998ea488"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

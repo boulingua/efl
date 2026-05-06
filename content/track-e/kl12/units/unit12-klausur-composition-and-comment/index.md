@@ -182,11 +182,3 @@ analysis, integrated quotation, complex thesis.
 
 - Bildungsplan-aligned Klausur collections.
 - Goethe-Institut Sprachmittlungs-Beispielaufgaben Oberstufe.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0e28b39da3264454b9977d762a18acf6 -->
-<img src="https://vg09.met.vgwort.de/na/0e28b39da3264454b9977d762a18acf6"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

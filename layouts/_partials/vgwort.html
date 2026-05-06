@@ -1,0 +1,35 @@
+{{- /* VG Wort Zählpixel partial.
+
+  Looks up the current page's relative URL in `data/vgwort.yaml`
+  (399 entries, one per registered work) and renders a 1×1
+  invisible <img> with the registered public_id's URL.
+
+  Renders nothing if the page is not in the data file — this is the
+  correct behaviour: list pages, the homepage, the network viz, and
+  tag/category indexes have no Zählmarken and must not emit one. The
+  build-time character-count gate (_scripts/verify_vgwort_coverage.py)
+  warns when long-form content (>=1800 chars) lacks a registered
+  Zählmarke, so unregistered editorial pages show up in CI logs.
+
+  Per VG Wort placement guidance, wrap in <div style="display:inline">
+  and place near the end of article body. The partial is invoked from
+  layouts/_partials/page.html.
+*/ -}}
+{{- $rel := .RelPermalink -}}
+{{- $base := site.BaseURL | replaceRE "https?://[^/]+" "" | strings.TrimRight "/" -}}
+{{- if $base -}}
+  {{- $rel = $rel | strings.TrimPrefix $base -}}
+{{- end -}}
+{{- range hugo.Data.vgwort -}}
+  {{- if eq .url $rel -}}
+<div style="display:inline">
+<!-- VG Wort Zählmarke (slb) — public ID: {{ .public_id }} -->
+<img src="{{ .pixel_url }}"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
+</div>
+  {{- end -}}
+{{- end -}}

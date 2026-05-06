@@ -24,11 +24,3 @@ year. Each Unit covers roughly three teaching weeks.
 | 12 | [Review and Show](/track-e/kl05/units/unit12-review-and-show/) | speaking, writing, language_awareness | class test ("Klassenarbeit") |
 
 [← Back to Grade 5 overview](/)
-
-<!-- VG Wort Zählmarke (slb) — public ID: 00abbea1be9849cbbb8c75674c0d2cbe -->
-<img src="https://vg09.met.vgwort.de/na/00abbea1be9849cbbb8c75674c0d2cbe"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -190,11 +190,3 @@ question linking to the next Unit.
 
 - BBC News — *Education* short articles.
 - British Council Schools Online — pen-pal projects.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 060404d9934a43d3822b956efbe9481f -->
-<img src="https://vg09.met.vgwort.de/na/060404d9934a43d3822b956efbe9481f"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

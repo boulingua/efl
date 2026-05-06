@@ -189,11 +189,3 @@ question linking to the next Unit.
 
 - BBC Learning English — *Present perfect* lessons.
 - ChildLine UK — *Online friendships* topic.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 065c459afbe14086847897a8af1fed31 -->
-<img src="https://vg09.met.vgwort.de/na/065c459afbe14086847897a8af1fed31"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

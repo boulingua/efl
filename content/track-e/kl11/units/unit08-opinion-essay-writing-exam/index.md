@@ -62,11 +62,3 @@ Write 350 words: a five-paragraph opinion essay. Use lexical chain + 4 conjuncti
 | 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
 | 22–29 | 5  |  0–21 | 6   |       |    |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0c085ae8e9304cc1bd4794500fa9807a -->
-<img src="https://vg09.met.vgwort.de/na/0c085ae8e9304cc1bd4794500fa9807a"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

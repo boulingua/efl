@@ -65,11 +65,3 @@ Read the German source above.
 (Single-section Klausuren in this year scale to the proportional
 BE-weight of the section in the full Klausur.)
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0f27ca5b00bb4b1cb8c2b3f8bece2c69 -->
-<img src="https://vg09.met.vgwort.de/na/0f27ca5b00bb4b1cb8c2b3f8bece2c69"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

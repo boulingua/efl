@@ -56,11 +56,3 @@ Write 200 words: a literary response to the extract. Use 2 defining + 1 non-defi
 | 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
 | 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1a4ef501a9b241f79940dad338942bac -->
-<img src="https://vg09.met.vgwort.de/na/1a4ef501a9b241f79940dad338942bac"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

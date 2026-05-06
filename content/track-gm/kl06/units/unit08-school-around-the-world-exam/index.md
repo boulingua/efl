@@ -58,11 +58,3 @@ Write 100 words to a pen-pal comparing your school day with theirs (real or imag
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1316c36053ea48c5b8461db411fbc2cb -->
-<img src="https://vg09.met.vgwort.de/na/1316c36053ea48c5b8461db411fbc2cb"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

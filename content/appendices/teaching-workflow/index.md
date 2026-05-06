@@ -40,11 +40,3 @@ flowchart TD
 - **Folgeunit** loops back via the recurring cast: characters
   introduced in Unit 1 reappear in later Units of the same
   Klassenstufe to give learners a continuous narrative to lean on.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0034e73a5f6e4c27b747c3bbcd10cfa0 -->
-<img src="https://vg09.met.vgwort.de/na/0034e73a5f6e4c27b747c3bbcd10cfa0"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

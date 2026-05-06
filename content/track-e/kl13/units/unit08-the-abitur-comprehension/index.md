@@ -195,11 +195,3 @@ candidate path.
 
 - Bildungsplan-aligned Abitur-prep collections.
 - Past Abitur papers (BW), with caution.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0f72f429b8c8446bb8282cfa9d4ce656 -->
-<img src="https://vg09.met.vgwort.de/na/0f72f429b8c8446bb8282cfa9d4ce656"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -121,11 +121,3 @@ sheet.
 Writing (Task 5) splits Inhalt 10 / Sprache 10 with the BW house
 weighting (Niveau M).
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 143709bd1c364ef2b23e329e47596e77 -->
-<img src="https://vg09.met.vgwort.de/na/143709bd1c364ef2b23e329e47596e77"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

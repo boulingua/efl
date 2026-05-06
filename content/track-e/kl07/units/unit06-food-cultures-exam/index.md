@@ -120,11 +120,3 @@ gist (4), addressee-fit (2), correct grammar (4).
 | 18–29 | 5 |
 | 0–17  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 04f73b6534a0476484d31ce75d9eaa81 -->
-<img src="https://vg09.met.vgwort.de/na/04f73b6534a0476484d31ce75d9eaa81"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

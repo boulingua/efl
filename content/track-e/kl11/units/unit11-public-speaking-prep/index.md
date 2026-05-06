@@ -190,11 +190,3 @@ analysis, integrated quotation, complex thesis.
 
 - TED Talks — short examples of stimulus-led talks.
 - BBC Sounds — *Question Time* extracts.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0c6502c7dc2c44a989043d7fbf302f57 -->
-<img src="https://vg09.met.vgwort.de/na/0c6502c7dc2c44a989043d7fbf302f57"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -58,11 +58,3 @@ Write 4 sentences: today's weather + your favourite season + one thing you do in
 | 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
 | 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
 {{< /callout >}}
-
-<!-- VG Wort Zählmarke (slb) — public ID: 1135a9ddbe1745928b5bebdc01fa6461 -->
-<img src="https://vg09.met.vgwort.de/na/1135a9ddbe1745928b5bebdc01fa6461"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -24,11 +24,3 @@ year. Each Unit covers roughly three teaching weeks.
 | 12 | [Year Review and Handover](/track-e/kl13/units/unit12-year-review-and-handover/) | writing, speaking, language_awareness | Abitur-grade Klausur (school-leaving examination) |
 
 [← Back to Grade 13 overview](/)
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0e4bc3be5b0c410db9b3be96fefbea96 -->
-<img src="https://vg09.met.vgwort.de/na/0e4bc3be5b0c410db9b3be96fefbea96"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -389,11 +389,3 @@ text to push against the temptation to write a generic America.
   <https://www.nytimes.com/column/the-daily>
 - VOA Learning English — short news pieces with audio.
   <https://learningenglish.voanews.com>
-
-<!-- VG Wort Zählmarke (slb) — public ID: 04cb7032025c46e4b9e8309836f15650 -->
-<img src="https://vg09.met.vgwort.de/na/04cb7032025c46e4b9e8309836f15650"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

@@ -180,11 +180,3 @@ structure. Above Niveau E: extension prompt linking to Klasse 10.
 
 - BBC Bitesize — *Personal finance* topic.
 - MoneyHelper UK — accessible articles for teens.
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0783ad6e0e4d43dfb2745af4c69b5b68 -->
-<img src="https://vg09.met.vgwort.de/na/0783ad6e0e4d43dfb2745af4c69b5b68"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />

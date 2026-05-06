@@ -189,11 +189,3 @@ analysis, integrated quotation, complex thesis.
 
 - Poetry Foundation — *Poems & Poets* archive.
 - Don Paterson, *The Poem* (essays on form).
-
-<!-- VG Wort Zählmarke (slb) — public ID: 0b76f49e6bc74bbd9aa12e9bcbca18d9 -->
-<img src="https://vg09.met.vgwort.de/na/0b76f49e6bc74bbd9aa12e9bcbca18d9"
-     width="1" height="1" alt=""
-     loading="eager"
-     fetchpriority="high"
-     decoding="async"
-     style="position:absolute;visibility:hidden;" />
