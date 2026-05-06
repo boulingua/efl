@@ -14,7 +14,9 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HUGO_VERSION: "0.139.4"
+  # 0.146 introduced layouts/_partials/ support; 0.159.2 is what was used
+  # to verify the migration locally.
+  HUGO_VERSION: "0.159.2"
 
 jobs:
   build:
