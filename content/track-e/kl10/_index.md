@@ -29,84 +29,84 @@ learners build a continuous sense of place and voice.
 {{< card >}}
 <span class="kicker">Unit 1 · Niveau E</span>
 
-### [Identity in a Global World](units/unit01-identity-in-a-global-world/)
+### [Identity in a Global World](/track-e/kl10/units/unit01-identity-in-a-global-world/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 2 · Niveau E</span>
 
-### [The World of Work](units/unit02-the-world-of-work/)
+### [The World of Work](/track-e/kl10/units/unit02-the-world-of-work/)
 reading, speaking, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 3 · Niveau E</span>
 
-### [Digital Lives](units/unit03-digital-lives/)
+### [Digital Lives](/track-e/kl10/units/unit03-digital-lives/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 4 · Niveau E</span>
 
-### [Australia and New Zealand](units/unit04-australia-and-new-zealand/)
+### [Australia and New Zealand](/track-e/kl10/units/unit04-australia-and-new-zealand/)
 reading, listening, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 5 · Niveau E</span>
 
-### [Media and Democracy](units/unit05-media-and-democracy/)
+### [Media and Democracy](/track-e/kl10/units/unit05-media-and-democracy/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 6 · Niveau E</span>
 
-### [Contemporary Short Fiction](units/unit06-contemporary-short-fiction/)
+### [Contemporary Short Fiction](/track-e/kl10/units/unit06-contemporary-short-fiction/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 7 · Niveau E</span>
 
-### [Mediation: A German Feature Article](units/unit07-mediation-feature-article/)
+### [Mediation: A German Feature Article](/track-e/kl10/units/unit07-mediation-feature-article/)
 mediation, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 8 · Niveau E</span>
 
-### [Science and Society](units/unit08-science-and-society/)
+### [Science and Society](/track-e/kl10/units/unit08-science-and-society/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 9 · Niveau E</span>
 
-### [Youth Protest Movements](units/unit09-youth-protest-movements/)
+### [Youth Protest Movements](/track-e/kl10/units/unit09-youth-protest-movements/)
 reading, speaking, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 10 · Niveau E</span>
 
-### [A Short Novel](units/unit10-a-short-novel/)
+### [A Short Novel](/track-e/kl10/units/unit10-a-short-novel/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 11 · Niveau E</span>
 
-### [Public Speaking and Debate](units/unit11-public-speaking-and-debate/)
+### [Public Speaking and Debate](/track-e/kl10/units/unit11-public-speaking-and-debate/)
 speaking, listening, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 12 · Niveau E</span>
 
-### [Year Review: Toward Oberstufe](units/unit12-year-review-toward-oberstufe/)
+### [Year Review: Toward Oberstufe](/track-e/kl10/units/unit12-year-review-toward-oberstufe/)
 writing, speaking, language_awareness
 
 {{< /card >}}
@@ -122,7 +122,7 @@ The chapter codes and German labels are pulled live from
 
 ## Use this course in class
 
-- The [schedule](schedule/) lists all twelve Units.
+- The [schedule](/track-e/kl10/schedule/) lists all twelve Units.
 - Each Unit page links four downloads: article (HTML), slide deck
   (HTML), worksheet (PDF placeholder), exam example (PDF).
 - Speaker notes on every slide cover timing, transitions, and

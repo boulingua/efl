@@ -10,18 +10,18 @@ year. Each Unit covers roughly three teaching weeks.
 
 | Unit | Title | Skills focus | Exam type |
 |------|-------|--------------|-----------|
-| 1 | [First Day Back](units/unit01-first-day-back/) | speaking, listening, writing, language_awareness | class test ("Klassenarbeit") |
-| 2 | [Growing Up](units/unit02-growing-up/) | reading, writing, language_awareness | class test ("Klassenarbeit") |
-| 3 | [Media in Our Lives](units/unit03-media-in-our-lives/) | listening, writing, language_awareness | class test ("Klassenarbeit") |
-| 4 | [A Trip to Scotland](units/unit04-a-trip-to-scotland/) | reading, listening, intercultural | class test ("Klassenarbeit") |
-| 5 | [The United States Today](units/unit05-the-united-states-today/) | reading, writing, intercultural | class test ("Klassenarbeit") |
-| 6 | [Food Cultures](units/unit06-food-cultures/) | reading, speaking, intercultural | class test ("Klassenarbeit") |
-| 7 | [Being a Friend](units/unit07-being-a-friend/) | speaking, writing, language_awareness | class test ("Klassenarbeit") |
-| 8 | [Erste Mediation: A German E-mail](units/unit08-first-mediation/) | mediation, writing, language_awareness | class test ("Klassenarbeit") |
-| 9 | [School Rules and Rights](units/unit09-school-rules-and-rights/) | reading, writing, language_awareness | class test ("Klassenarbeit") |
-| 10 | [Reading a Short Story](units/unit10-a-short-story/) | reading, writing, language_awareness | class test ("Klassenarbeit") |
-| 11 | [Plans for the Summer](units/unit11-plans-for-the-summer/) | speaking, writing, language_awareness | class test ("Klassenarbeit") |
-| 12 | [Year Review: A Class Podcast](units/unit12-year-review-and-podcast/) | speaking, listening, language_awareness | class test ("Klassenarbeit") |
+| 1 | [First Day Back](/track-gm/kl07/units/unit01-first-day-back/) | speaking, listening, writing, language_awareness | class test ("Klassenarbeit") |
+| 2 | [Growing Up](/track-gm/kl07/units/unit02-growing-up/) | reading, writing, language_awareness | class test ("Klassenarbeit") |
+| 3 | [Media in Our Lives](/track-gm/kl07/units/unit03-media-in-our-lives/) | listening, writing, language_awareness | class test ("Klassenarbeit") |
+| 4 | [A Trip to Scotland](/track-gm/kl07/units/unit04-a-trip-to-scotland/) | reading, listening, intercultural | class test ("Klassenarbeit") |
+| 5 | [The United States Today](/track-gm/kl07/units/unit05-the-united-states-today/) | reading, writing, intercultural | class test ("Klassenarbeit") |
+| 6 | [Food Cultures](/track-gm/kl07/units/unit06-food-cultures/) | reading, speaking, intercultural | class test ("Klassenarbeit") |
+| 7 | [Being a Friend](/track-gm/kl07/units/unit07-being-a-friend/) | speaking, writing, language_awareness | class test ("Klassenarbeit") |
+| 8 | [Erste Mediation: A German E-mail](/track-gm/kl07/units/unit08-first-mediation/) | mediation, writing, language_awareness | class test ("Klassenarbeit") |
+| 9 | [School Rules and Rights](/track-gm/kl07/units/unit09-school-rules-and-rights/) | reading, writing, language_awareness | class test ("Klassenarbeit") |
+| 10 | [Reading a Short Story](/track-gm/kl07/units/unit10-a-short-story/) | reading, writing, language_awareness | class test ("Klassenarbeit") |
+| 11 | [Plans for the Summer](/track-gm/kl07/units/unit11-plans-for-the-summer/) | speaking, writing, language_awareness | class test ("Klassenarbeit") |
+| 12 | [Year Review: A Class Podcast](/track-gm/kl07/units/unit12-year-review-and-podcast/) | speaking, listening, language_awareness | class test ("Klassenarbeit") |
 
 [← Back to Grade 7 overview](/)
 

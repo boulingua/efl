@@ -26,7 +26,9 @@ publishDir = "public"
   description = "A two-track English curriculum for comprehensive school, grades 5 to 13, aligned to a regional curriculum framework."
   keywords = "EFL,English,curriculum,Bildungsplan,Baden-Württemberg,OER,CEFR,Gesamtschule"
   info = ["EFL", "Two-track English curriculum", "Klassen 5–13"]
-  avatarURL = "images/avatar.png"
+  # avatarURL intentionally unset until a real avatar lands under
+  # static/images/. Coder skips the home-page avatar block when this
+  # param is empty, avoiding a 404 reference on /index.html.
   dateFormat = "2006-01-02"
   hideFooter = false
   hideCredits = true

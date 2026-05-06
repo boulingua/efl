@@ -47,7 +47,7 @@ under CC-BY-SA 4.0.
 {{< card >}}
 <span class="kicker">Track G+M · Grades 5–10</span>
 
-### [Hauptschul- and Realschulabschluss](track-gm/kl05/)
+### [Hauptschul- and Realschulabschluss](/track-gm/kl05/)
 Six grades at grundlegend and mittleres Niveau, finishing with
 the Mittlerer Bildungsabschluss (end of Grade 10).
 
@@ -56,7 +56,7 @@ the Mittlerer Bildungsabschluss (end of Grade 10).
 {{< card >}}
 <span class="kicker">Track E · Grades 5–13</span>
 
-### [Allgemeine Hochschulreife](track-e/kl05/)
+### [Allgemeine Hochschulreife](/track-e/kl05/)
 Nine grades at erweitertes Niveau, finishing with the school-leaving
 examination ("Abitur") — written exam plus oral exam
 ("Kommunikationsprüfung"), Basisfach and Leistungsfach.
@@ -70,77 +70,77 @@ examination ("Abitur") — written exam plus oral exam
 {{< card >}}
 <span class="kicker">G+M · Grade 5</span>
 
-### [Family, school, friends](track-gm/kl05/)
+### [Family, school, friends](/track-gm/kl05/)
 {{< /card >}}
 {{< card >}}
 <span class="kicker">G+M · Grade 6</span>
 
-### [Adventures and routines](track-gm/kl06/)
+### [Adventures and routines](/track-gm/kl06/)
 {{< /card >}}
 {{< card >}}
 <span class="kicker">G+M · Grade 7</span>
 
-### [Identity and the wider world](track-gm/kl07/)
+### [Identity and the wider world](/track-gm/kl07/)
 {{< /card >}}
 {{< card >}}
 <span class="kicker">G+M · Grade 8</span>
 
-### [Belonging and fairness](track-gm/kl08/)
+### [Belonging and fairness](/track-gm/kl08/)
 {{< /card >}}
 {{< card >}}
 <span class="kicker">G+M · Grade 9</span>
 
-### [Choices and society](track-gm/kl09/)
+### [Choices and society](/track-gm/kl09/)
 {{< /card >}}
 {{< card >}}
 <span class="kicker">G+M · Grade 10</span>
 
-### [Transition, work, media](track-gm/kl10/)
+### [Transition, work, media](/track-gm/kl10/)
 {{< /card >}}
 {{< card >}}
 <span class="kicker">E · Grade 5</span>
 
-### [Family, school, friends](track-e/kl05/)
+### [Family, school, friends](/track-e/kl05/)
 {{< /card >}}
 {{< card >}}
 <span class="kicker">E · Grade 6</span>
 
-### [Adventures and routines](track-e/kl06/)
+### [Adventures and routines](/track-e/kl06/)
 {{< /card >}}
 {{< card >}}
 <span class="kicker">E · Grade 7</span>
 
-### [Identity and the wider world](track-e/kl07/)
+### [Identity and the wider world](/track-e/kl07/)
 {{< /card >}}
 {{< card >}}
 <span class="kicker">E · Grade 8</span>
 
-### [Belonging and fairness](track-e/kl08/)
+### [Belonging and fairness](/track-e/kl08/)
 {{< /card >}}
 {{< card >}}
 <span class="kicker">E · Grade 9</span>
 
-### [Choices and society](track-e/kl09/)
+### [Choices and society](/track-e/kl09/)
 {{< /card >}}
 {{< card >}}
 <span class="kicker">E · Grade 10</span>
 
-### [Transition and the world](track-e/kl10/)
+### [Transition and the world](/track-e/kl10/)
 {{< /card >}}
 {{< card >}}
 <span class="kicker">E · Grade 11</span>
 
-### [Cultural entry, literary voice](track-e/kl11/)
+### [Cultural entry, literary voice](/track-e/kl11/)
 {{< /card >}}
 {{< card >}}
 <span class="kicker">E · Grade 12</span>
 
-### [Discourse and analysis](track-e/kl12/)
+### [Discourse and analysis](/track-e/kl12/)
 {{< /card >}}
 {{< card >}}
 <span class="kicker">E · Grade 13</span>
 
-### [Exam-grade and issue-framed](track-e/kl13/)
+### [Exam-grade and issue-framed](/track-e/kl13/)
 {{< /card >}}
 {{< /card-grid >}}
 

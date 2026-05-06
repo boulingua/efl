@@ -29,84 +29,84 @@ learners build a continuous sense of place and voice.
 {{< card >}}
 <span class="kicker">Unit 1 · Niveau G+M</span>
 
-### [Transition After Grade 10](units/unit01-transition-after-grade-10/)
+### [Transition After Grade 10](/track-gm/kl10/units/unit01-transition-after-grade-10/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 2 · Niveau G+M</span>
 
-### [The World of Work](units/unit02-the-world-of-work/)
+### [The World of Work](/track-gm/kl10/units/unit02-the-world-of-work/)
 reading, speaking, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 3 · Niveau G+M</span>
 
-### [Digital Lives at Work](units/unit03-digital-lives-at-work/)
+### [Digital Lives at Work](/track-gm/kl10/units/unit03-digital-lives-at-work/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 4 · Niveau G+M</span>
 
-### [Australia Now](units/unit04-australia-now/)
+### [Australia Now](/track-gm/kl10/units/unit04-australia-now/)
 reading, listening, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 5 · Niveau G+M</span>
 
-### [Media and Truth](units/unit05-media-and-truth/)
+### [Media and Truth](/track-gm/kl10/units/unit05-media-and-truth/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 6 · Niveau G+M</span>
 
-### [Contemporary Short Fiction](units/unit06-contemporary-short-fiction/)
+### [Contemporary Short Fiction](/track-gm/kl10/units/unit06-contemporary-short-fiction/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 7 · Niveau G+M</span>
 
-### [Mediation: A Workplace Text](units/unit07-mediation-workplace-text/)
+### [Mediation: A Workplace Text](/track-gm/kl10/units/unit07-mediation-workplace-text/)
 mediation, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 8 · Niveau G+M</span>
 
-### [Civic English: Rights and Voices](units/unit08-civic-english/)
+### [Civic English: Rights and Voices](/track-gm/kl10/units/unit08-civic-english/)
 reading, speaking, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 9 · Niveau G+M</span>
 
-### [Youth and the Future](units/unit09-youth-and-the-future/)
+### [Youth and the Future](/track-gm/kl10/units/unit09-youth-and-the-future/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 10 · Niveau G+M</span>
 
-### [Project and Presentation](units/unit10-project-and-presentation/)
+### [Project and Presentation](/track-gm/kl10/units/unit10-project-and-presentation/)
 speaking, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 11 · Niveau G+M</span>
 
-### [A Short Novel](units/unit11-a-short-novel/)
+### [A Short Novel](/track-gm/kl10/units/unit11-a-short-novel/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 12 · Niveau G+M</span>
 
-### [Year Review: Graduation Exam Prep](units/unit12-year-review-graduation/)
+### [Year Review: Graduation Exam Prep](/track-gm/kl10/units/unit12-year-review-graduation/)
 writing, speaking, language_awareness
 
 {{< /card >}}
@@ -122,7 +122,7 @@ The chapter codes and German labels are pulled live from
 
 ## Use this course in class
 
-- The [schedule](schedule/) lists all twelve Units.
+- The [schedule](/track-gm/kl10/schedule/) lists all twelve Units.
 - Each Unit page links four downloads: article (HTML), slide deck
   (HTML), worksheet (PDF placeholder), exam example (PDF).
 - Speaker notes on every slide cover timing, transitions, and

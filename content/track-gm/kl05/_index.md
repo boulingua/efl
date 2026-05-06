@@ -29,84 +29,84 @@ learners build a continuous sense of place and voice.
 {{< card >}}
 <span class="kicker">Unit 1 · Niveau G+M</span>
 
-### [Hello World](units/unit01-hello-world/)
+### [Hello World](/track-gm/kl05/units/unit01-hello-world/)
 speaking, listening, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 2 · Niveau G+M</span>
 
-### [My Family](units/unit02-my-family/)
+### [My Family](/track-gm/kl05/units/unit02-my-family/)
 speaking, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 3 · Niveau G+M</span>
 
-### [Home and My Room](units/unit03-home-and-room/)
+### [Home and My Room](/track-gm/kl05/units/unit03-home-and-room/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 4 · Niveau G+M</span>
 
-### [A School Day](units/unit04-school-day/)
+### [A School Day](/track-gm/kl05/units/unit04-school-day/)
 listening, speaking, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 5 · Niveau G+M</span>
 
-### [Food and Drinks](units/unit05-food-and-drinks/)
+### [Food and Drinks](/track-gm/kl05/units/unit05-food-and-drinks/)
 reading, speaking, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 6 · Niveau G+M</span>
 
-### [Animals and Pets](units/unit06-animals-and-pets/)
+### [Animals and Pets](/track-gm/kl05/units/unit06-animals-and-pets/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 7 · Niveau G+M</span>
 
-### [Weather and Seasons](units/unit07-weather-and-seasons/)
+### [Weather and Seasons](/track-gm/kl05/units/unit07-weather-and-seasons/)
 listening, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 8 · Niveau G+M</span>
 
-### [Hobbies and Sports](units/unit08-hobbies-and-sports/)
+### [Hobbies and Sports](/track-gm/kl05/units/unit08-hobbies-and-sports/)
 speaking, listening, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 9 · Niveau G+M</span>
 
-### [Birthday and Friends](units/unit09-birthday-and-friends/)
+### [Birthday and Friends](/track-gm/kl05/units/unit09-birthday-and-friends/)
 speaking, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 10 · Niveau G+M</span>
 
-### [A Day in London](units/unit10-a-day-in-london/)
+### [A Day in London](/track-gm/kl05/units/unit10-a-day-in-london/)
 reading, listening, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 11 · Niveau G+M</span>
 
-### [Clothes and Colours](units/unit11-clothes-and-colours/)
+### [Clothes and Colours](/track-gm/kl05/units/unit11-clothes-and-colours/)
 speaking, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 12 · Niveau G+M</span>
 
-### [Review and Show](units/unit12-review-and-show/)
+### [Review and Show](/track-gm/kl05/units/unit12-review-and-show/)
 speaking, writing, language_awareness
 
 {{< /card >}}
@@ -122,7 +122,7 @@ The chapter codes and German labels are pulled live from
 
 ## Use this course in class
 
-- The [schedule](schedule/) lists all twelve Units.
+- The [schedule](/track-gm/kl05/schedule/) lists all twelve Units.
 - Each Unit page links four downloads: article (HTML), slide deck
   (HTML), worksheet (PDF placeholder), exam example (PDF).
 - Speaker notes on every slide cover timing, transitions, and

@@ -29,84 +29,84 @@ learners build a continuous sense of place and voice.
 {{< card >}}
 <span class="kicker">Unit 1 · Niveau E</span>
 
-### [Dystopias](units/unit01-dystopias/)
+### [Dystopias](/track-e/kl12/units/unit01-dystopias/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 2 · Niveau E</span>
 
-### [Globalisation Debates](units/unit02-globalisation-debates/)
+### [Globalisation Debates](/track-e/kl12/units/unit02-globalisation-debates/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 3 · Niveau E</span>
 
-### [Science and Ethics](units/unit03-science-and-ethics/)
+### [Science and Ethics](/track-e/kl12/units/unit03-science-and-ethics/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 4 · Niveau E</span>
 
-### [Shakespeare in Extract](units/unit04-shakespeare-extract/)
+### [Shakespeare in Extract](/track-e/kl12/units/unit04-shakespeare-extract/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 5 · Niveau E</span>
 
-### [Political Discourse](units/unit05-political-discourse/)
+### [Political Discourse](/track-e/kl12/units/unit05-political-discourse/)
 reading, listening, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 6 · Niveau E</span>
 
-### [The Non-Fiction Essay](units/unit06-the-non-fiction-essay/)
+### [The Non-Fiction Essay](/track-e/kl12/units/unit06-the-non-fiction-essay/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 7 · Niveau E</span>
 
-### [Mediation: An Academic Text](units/unit07-mediation-academic-text/)
+### [Mediation: An Academic Text](/track-e/kl12/units/unit07-mediation-academic-text/)
 mediation, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 8 · Niveau E</span>
 
-### [Post-Colonial Voices, Advanced](units/unit08-post-colonial-voices-advanced/)
+### [Post-Colonial Voices, Advanced](/track-e/kl12/units/unit08-post-colonial-voices-advanced/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 9 · Niveau E</span>
 
-### [A Novel in Full](units/unit09-a-novel-in-full/)
+### [A Novel in Full](/track-e/kl12/units/unit09-a-novel-in-full/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 10 · Niveau E</span>
 
-### [Kommunikationsprüfung Mock](units/unit10-kommunikationspruefung-mock/)
+### [Kommunikationsprüfung Mock](/track-e/kl12/units/unit10-kommunikationspruefung-mock/)
 speaking, listening, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 11 · Niveau E</span>
 
-### [Klausur: Comprehension and Analysis](units/unit11-klausur-comprehension-analysis/)
+### [Klausur: Comprehension and Analysis](/track-e/kl12/units/unit11-klausur-comprehension-analysis/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 12 · Niveau E</span>
 
-### [Klausur: Composition and Comment](units/unit12-klausur-composition-and-comment/)
+### [Klausur: Composition and Comment](/track-e/kl12/units/unit12-klausur-composition-and-comment/)
 writing, language_awareness
 
 {{< /card >}}
@@ -122,7 +122,7 @@ The chapter codes and German labels are pulled live from
 
 ## Use this course in class
 
-- The [schedule](schedule/) lists all twelve Units.
+- The [schedule](/track-e/kl12/schedule/) lists all twelve Units.
 - Each Unit page links four downloads: article (HTML), slide deck
   (HTML), worksheet (PDF placeholder), exam example (PDF).
 - Speaker notes on every slide cover timing, transitions, and

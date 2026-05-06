@@ -20,13 +20,27 @@
   {{- $worksheet := printf "/downloads/%s/kl%s/unit%s_%s_worksheet.pdf" $track $kk $nn $slug -}}
   {{- $exam      := printf "/downloads/%s/kl%s/unit%s_%s_exam.pdf" $track $kk $nn $slug -}}
 
+  {{- /* Slides + exam PDFs are external Quarto-pipeline outputs (Phase 0
+     §8 decisions 1+2). Emit a link only if the file is actually present
+     under static/, so the in-site build never carries broken hrefs.
+     Drop the real artefact at the canonical path and the link reappears. */ -}}
+  {{- $slidesExist    := fileExists (printf "static%s" $slides) -}}
+  {{- $worksheetExist := fileExists (printf "static%s" $worksheet) -}}
+  {{- $examExist      := fileExists (printf "static%s" $exam) -}}
+
 <div class="callout callout-tip downloads">
   <div class="callout-title">Downloads</div>
   <ul class="callout-body">
     <li><a href="{{ .Page.RelPermalink }}">Unit article</a></li>
+    {{- if $slidesExist }}
     <li><a href="{{ $slides }}">Slide deck</a></li>
+    {{- end }}
+    {{- if $worksheetExist }}
     <li><a href="{{ $worksheet }}">Worksheet (PDF)</a></li>
+    {{- end }}
+    {{- if $examExist }}
     <li><a href="{{ $exam }}">Exam example (PDF)</a></li>
+    {{- end }}
   </ul>
 </div>
 {{- else -}}

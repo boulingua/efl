@@ -29,84 +29,84 @@ learners build a continuous sense of place and voice.
 {{< card >}}
 <span class="kicker">Unit 1 · Niveau E</span>
 
-### [British Cultural Anchors](units/unit01-british-cultural-anchors/)
+### [British Cultural Anchors](/track-e/kl11/units/unit01-british-cultural-anchors/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 2 · Niveau E</span>
 
-### [The American Dream](units/unit02-the-american-dream/)
+### [The American Dream](/track-e/kl11/units/unit02-the-american-dream/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 3 · Niveau E</span>
 
-### [Post-Colonial Voices: An Introduction](units/unit03-post-colonial-voices-intro/)
+### [Post-Colonial Voices: An Introduction](/track-e/kl11/units/unit03-post-colonial-voices-intro/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 4 · Niveau E</span>
 
-### [Short Stories and Style](units/unit04-short-stories-and-style/)
+### [Short Stories and Style](/track-e/kl11/units/unit04-short-stories-and-style/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 5 · Niveau E</span>
 
-### [Poetry from the Anthology](units/unit05-poetry-from-the-anthology/)
+### [Poetry from the Anthology](/track-e/kl11/units/unit05-poetry-from-the-anthology/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 6 · Niveau E</span>
 
-### [Media Literacy, Advanced](units/unit06-media-literacy-advanced/)
+### [Media Literacy, Advanced](/track-e/kl11/units/unit06-media-literacy-advanced/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 7 · Niveau E</span>
 
-### [Mediation as a Skill](units/unit07-mediation-as-a-skill/)
+### [Mediation as a Skill](/track-e/kl11/units/unit07-mediation-as-a-skill/)
 mediation, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 8 · Niveau E</span>
 
-### [Opinion Essay Writing](units/unit08-opinion-essay-writing/)
+### [Opinion Essay Writing](/track-e/kl11/units/unit08-opinion-essay-writing/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 9 · Niveau E</span>
 
-### [A Modern Novel (Basisfach focus)](units/unit09-a-modern-novel-bf/)
+### [A Modern Novel (Basisfach focus)](/track-e/kl11/units/unit09-a-modern-novel-bf/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 10 · Niveau E</span>
 
-### [A Classic Text (Leistungsfach focus)](units/unit10-a-classic-text-lf/)
+### [A Classic Text (Leistungsfach focus)](/track-e/kl11/units/unit10-a-classic-text-lf/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 11 · Niveau E</span>
 
-### [Public Speaking: Toward the Komm-Prüfung](units/unit11-public-speaking-prep/)
+### [Public Speaking: Toward the Komm-Prüfung](/track-e/kl11/units/unit11-public-speaking-prep/)
 speaking, listening, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 12 · Niveau E</span>
 
-### [Klausur Prep: Exam Rehearsal](units/unit12-klausur-prep-exam-rehearsal/)
+### [Klausur Prep: Exam Rehearsal](/track-e/kl11/units/unit12-klausur-prep-exam-rehearsal/)
 reading, writing, language_awareness
 
 {{< /card >}}
@@ -122,7 +122,7 @@ The chapter codes and German labels are pulled live from
 
 ## Use this course in class
 
-- The [schedule](schedule/) lists all twelve Units.
+- The [schedule](/track-e/kl11/schedule/) lists all twelve Units.
 - Each Unit page links four downloads: article (HTML), slide deck
   (HTML), worksheet (PDF placeholder), exam example (PDF).
 - Speaker notes on every slide cover timing, transitions, and

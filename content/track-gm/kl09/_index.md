@@ -29,84 +29,84 @@ learners build a continuous sense of place and voice.
 {{< card >}}
 <span class="kicker">Unit 1 · Niveau G+M</span>
 
-### [Future Careers](units/unit01-future-careers/)
+### [Future Careers](/track-gm/kl09/units/unit01-future-careers/)
 reading, speaking, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 2 · Niveau G+M</span>
 
-### [Money and Choices](units/unit02-money-and-choices/)
+### [Money and Choices](/track-gm/kl09/units/unit02-money-and-choices/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 3 · Niveau G+M</span>
 
-### [The Environment, Locally](units/unit03-the-environment-locally/)
+### [The Environment, Locally](/track-gm/kl09/units/unit03-the-environment-locally/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 4 · Niveau G+M</span>
 
-### [Canada: Perspectives](units/unit04-canada-perspectives/)
+### [Canada: Perspectives](/track-gm/kl09/units/unit04-canada-perspectives/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 5 · Niveau G+M</span>
 
-### [Media Literacy](units/unit05-media-literacy/)
+### [Media Literacy](/track-gm/kl09/units/unit05-media-literacy/)
 reading, listening, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 6 · Niveau G+M</span>
 
-### [Interview and Portrait](units/unit06-interview-and-portrait/)
+### [Interview and Portrait](/track-gm/kl09/units/unit06-interview-and-portrait/)
 speaking, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 7 · Niveau G+M</span>
 
-### [Mediation: A German News Article](units/unit07-mediation-news-article/)
+### [Mediation: A German News Article](/track-gm/kl09/units/unit07-mediation-news-article/)
 mediation, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 8 · Niveau G+M</span>
 
-### [Inequality and Voice](units/unit08-inequality-and-voice/)
+### [Inequality and Voice](/track-gm/kl09/units/unit08-inequality-and-voice/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 9 · Niveau G+M</span>
 
-### [Short Fiction in the Classroom](units/unit09-short-fiction/)
+### [Short Fiction in the Classroom](/track-gm/kl09/units/unit09-short-fiction/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 10 · Niveau G+M</span>
 
-### [Writing an Application Letter](units/unit10-application-letter/)
+### [Writing an Application Letter](/track-gm/kl09/units/unit10-application-letter/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 11 · Niveau G+M</span>
 
-### [Debate and Discussion](units/unit11-debate-and-discussion/)
+### [Debate and Discussion](/track-gm/kl09/units/unit11-debate-and-discussion/)
 speaking, listening, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 12 · Niveau G+M</span>
 
-### [Year Review: Portfolio](units/unit12-year-review-portfolio/)
+### [Year Review: Portfolio](/track-gm/kl09/units/unit12-year-review-portfolio/)
 writing, speaking, language_awareness
 
 {{< /card >}}
@@ -122,7 +122,7 @@ The chapter codes and German labels are pulled live from
 
 ## Use this course in class
 
-- The [schedule](schedule/) lists all twelve Units.
+- The [schedule](/track-gm/kl09/schedule/) lists all twelve Units.
 - Each Unit page links four downloads: article (HTML), slide deck
   (HTML), worksheet (PDF placeholder), exam example (PDF).
 - Speaker notes on every slide cover timing, transitions, and

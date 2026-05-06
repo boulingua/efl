@@ -10,18 +10,18 @@ year. Each Unit covers roughly three teaching weeks.
 
 | Unit | Title | Skills focus | Exam type |
 |------|-------|--------------|-----------|
-| 1 | [British Cultural Anchors](units/unit01-british-cultural-anchors/) | reading, writing, intercultural | Klausur (assessment) |
-| 2 | [The American Dream](units/unit02-the-american-dream/) | reading, writing, intercultural | Klausur (assessment) |
-| 3 | [Post-Colonial Voices: An Introduction](units/unit03-post-colonial-voices-intro/) | reading, writing, intercultural | Klausur (assessment) |
-| 4 | [Short Stories and Style](units/unit04-short-stories-and-style/) | reading, writing, language_awareness | Klausur (assessment) |
-| 5 | [Poetry from the Anthology](units/unit05-poetry-from-the-anthology/) | reading, writing, language_awareness | Klausur (assessment) |
-| 6 | [Media Literacy, Advanced](units/unit06-media-literacy-advanced/) | reading, writing, language_awareness | Klausur (assessment) |
-| 7 | [Mediation as a Skill](units/unit07-mediation-as-a-skill/) | mediation, writing, language_awareness | Klausur (assessment) |
-| 8 | [Opinion Essay Writing](units/unit08-opinion-essay-writing/) | reading, writing, language_awareness | Klausur (assessment) |
-| 9 | [A Modern Novel (Basisfach focus)](units/unit09-a-modern-novel-bf/) | reading, writing, language_awareness | Klausur (assessment) |
-| 10 | [A Classic Text (Leistungsfach focus)](units/unit10-a-classic-text-lf/) | reading, writing, language_awareness | Klausur (assessment) |
-| 11 | [Public Speaking: Toward the Komm-Prüfung](units/unit11-public-speaking-prep/) | speaking, listening, language_awareness | Klausur (assessment) |
-| 12 | [Klausur Prep: Exam Rehearsal](units/unit12-klausur-prep-exam-rehearsal/) | reading, writing, language_awareness | Klausur (assessment) |
+| 1 | [British Cultural Anchors](/track-e/kl11/units/unit01-british-cultural-anchors/) | reading, writing, intercultural | Klausur (assessment) |
+| 2 | [The American Dream](/track-e/kl11/units/unit02-the-american-dream/) | reading, writing, intercultural | Klausur (assessment) |
+| 3 | [Post-Colonial Voices: An Introduction](/track-e/kl11/units/unit03-post-colonial-voices-intro/) | reading, writing, intercultural | Klausur (assessment) |
+| 4 | [Short Stories and Style](/track-e/kl11/units/unit04-short-stories-and-style/) | reading, writing, language_awareness | Klausur (assessment) |
+| 5 | [Poetry from the Anthology](/track-e/kl11/units/unit05-poetry-from-the-anthology/) | reading, writing, language_awareness | Klausur (assessment) |
+| 6 | [Media Literacy, Advanced](/track-e/kl11/units/unit06-media-literacy-advanced/) | reading, writing, language_awareness | Klausur (assessment) |
+| 7 | [Mediation as a Skill](/track-e/kl11/units/unit07-mediation-as-a-skill/) | mediation, writing, language_awareness | Klausur (assessment) |
+| 8 | [Opinion Essay Writing](/track-e/kl11/units/unit08-opinion-essay-writing/) | reading, writing, language_awareness | Klausur (assessment) |
+| 9 | [A Modern Novel (Basisfach focus)](/track-e/kl11/units/unit09-a-modern-novel-bf/) | reading, writing, language_awareness | Klausur (assessment) |
+| 10 | [A Classic Text (Leistungsfach focus)](/track-e/kl11/units/unit10-a-classic-text-lf/) | reading, writing, language_awareness | Klausur (assessment) |
+| 11 | [Public Speaking: Toward the Komm-Prüfung](/track-e/kl11/units/unit11-public-speaking-prep/) | speaking, listening, language_awareness | Klausur (assessment) |
+| 12 | [Klausur Prep: Exam Rehearsal](/track-e/kl11/units/unit12-klausur-prep-exam-rehearsal/) | reading, writing, language_awareness | Klausur (assessment) |
 
 [← Back to Grade 11 overview](/)
 

@@ -29,84 +29,84 @@ learners build a continuous sense of place and voice.
 {{< card >}}
 <span class="kicker">Unit 1 · Niveau E</span>
 
-### [A New Year at School](units/unit01-a-new-year-at-school/)
+### [A New Year at School](/track-e/kl06/units/unit01-a-new-year-at-school/)
 speaking, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 2 · Niveau E</span>
 
-### [On Holiday](units/unit02-on-holiday/)
+### [On Holiday](/track-e/kl06/units/unit02-on-holiday/)
 listening, speaking, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 3 · Niveau E</span>
 
-### [In the City](units/unit03-in-the-city/)
+### [In the City](/track-e/kl06/units/unit03-in-the-city/)
 reading, speaking, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 4 · Niveau E</span>
 
-### [Food Around the World](units/unit04-food-around-the-world/)
+### [Food Around the World](/track-e/kl06/units/unit04-food-around-the-world/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 5 · Niveau E</span>
 
-### [Daily Routines](units/unit05-daily-routines/)
+### [Daily Routines](/track-e/kl06/units/unit05-daily-routines/)
 speaking, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 6 · Niveau E</span>
 
-### [Friends and Feelings](units/unit06-friends-and-feelings/)
+### [Friends and Feelings](/track-e/kl06/units/unit06-friends-and-feelings/)
 speaking, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 7 · Niveau E</span>
 
-### [An Adventure Story](units/unit07-an-adventure-story/)
+### [An Adventure Story](/track-e/kl06/units/unit07-an-adventure-story/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 8 · Niveau E</span>
 
-### [School Around the World](units/unit08-school-around-the-world/)
+### [School Around the World](/track-e/kl06/units/unit08-school-around-the-world/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 9 · Niveau E</span>
 
-### [Body and Health](units/unit09-body-and-health/)
+### [Body and Health](/track-e/kl06/units/unit09-body-and-health/)
 listening, speaking, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 10 · Niveau E</span>
 
-### [Travelling by Train](units/unit10-travelling-by-train/)
+### [Travelling by Train](/track-e/kl06/units/unit10-travelling-by-train/)
 listening, reading, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 11 · Niveau E</span>
 
-### [Captain Cody's Map](units/unit11-captain-codys-map/)
+### [Captain Cody's Map](/track-e/kl06/units/unit11-captain-codys-map/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 12 · Niveau E</span>
 
-### [Year-End Festival](units/unit12-year-end-festival/)
+### [Year-End Festival](/track-e/kl06/units/unit12-year-end-festival/)
 speaking, writing, intercultural
 
 {{< /card >}}
@@ -122,7 +122,7 @@ The chapter codes and German labels are pulled live from
 
 ## Use this course in class
 
-- The [schedule](schedule/) lists all twelve Units.
+- The [schedule](/track-e/kl06/schedule/) lists all twelve Units.
 - Each Unit page links four downloads: article (HTML), slide deck
   (HTML), worksheet (PDF placeholder), exam example (PDF).
 - Speaker notes on every slide cover timing, transitions, and

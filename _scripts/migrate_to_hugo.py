@@ -389,10 +389,22 @@ def convert_body(body: str, qmd: Path) -> str:
     )
 
     # 4. Rewrite [..](foo.qmd) links — map .qmd path to Hugo URL form.
+    # Always produce ABSOLUTE URLs anchored at the site root, so the rewrite
+    # is independent of the destination .md's nesting depth (otherwise a
+    # link that was a sibling in flat Quarto layout breaks once the source
+    # moves into a page-bundle directory).
+    src_dir = qmd.relative_to(ROOT).parent
+
     def rewrite_qmd_link(m: re.Match[str]) -> str:
         prefix, target, suffix = m.group(1), m.group(2), m.group(3)
         path_part = target.removesuffix(".qmd")
-        comps = path_part.split("/")
+        # Resolve relative to the source .qmd's directory, then strip back
+        # to a site-root-relative absolute path.
+        if path_part.startswith("/"):
+            comps = path_part.lstrip("/").split("/")
+        else:
+            joined = (src_dir / path_part).as_posix()
+            comps = joined.lstrip("/").split("/") if joined != "." else []
         # Apply the same track_<x>_kl<NN> -> track-<x>/kl<NN> split as in
         # the file mapper, then hyphenate every component.
         new: list[str] = []
@@ -406,10 +418,11 @@ def convert_body(body: str, qmd: Path) -> str:
         if new and new[-1] == "index":
             new.pop()
         new_path = "/".join(new)
-        # Always end with a trailing slash for directory-style URLs.
+        # Always end with a trailing slash for directory-style URLs and
+        # anchor at the site root.
         if not new_path.endswith("/"):
             new_path += "/"
-        return f"{prefix}{new_path}{suffix.lstrip(')')})"
+        return f"{prefix}/{new_path}{suffix.lstrip(')')})"
 
     body = QMD_LINK_RE.sub(rewrite_qmd_link, body)
 

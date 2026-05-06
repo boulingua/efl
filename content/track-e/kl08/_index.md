@@ -29,84 +29,84 @@ learners build a continuous sense of place and voice.
 {{< card >}}
 <span class="kicker">Unit 1 · Niveau E</span>
 
-### [Identities](units/unit01-identities/)
+### [Identities](/track-e/kl08/units/unit01-identities/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 2 · Niveau E</span>
 
-### [School Life Elsewhere](units/unit02-school-life-elsewhere/)
+### [School Life Elsewhere](/track-e/kl08/units/unit02-school-life-elsewhere/)
 reading, speaking, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 3 · Niveau E</span>
 
-### [Fairness at School](units/unit03-fairness-at-school/)
+### [Fairness at School](/track-e/kl08/units/unit03-fairness-at-school/)
 speaking, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 4 · Niveau E</span>
 
-### [Ireland: Stories from the Island](units/unit04-ireland-stories/)
+### [Ireland: Stories from the Island](/track-e/kl08/units/unit04-ireland-stories/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 5 · Niveau E</span>
 
-### [Digital Friendships](units/unit05-digital-friendships/)
+### [Digital Friendships](/track-e/kl08/units/unit05-digital-friendships/)
 listening, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 6 · Niveau E</span>
 
-### [Writing an Opinion](units/unit06-opinion-writing/)
+### [Writing an Opinion](/track-e/kl08/units/unit06-opinion-writing/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 7 · Niveau E</span>
 
-### [Mediation: A Teen Magazine](units/unit07-teen-magazine-mediation/)
+### [Mediation: A Teen Magazine](/track-e/kl08/units/unit07-teen-magazine-mediation/)
 mediation, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 8 · Niveau E</span>
 
-### [Music and Belonging](units/unit08-music-and-belonging/)
+### [Music and Belonging](/track-e/kl08/units/unit08-music-and-belonging/)
 listening, speaking, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 9 · Niveau E</span>
 
-### [Rural and Urban Lives](units/unit09-rural-and-urban/)
+### [Rural and Urban Lives](/track-e/kl08/units/unit09-rural-and-urban/)
 reading, writing, intercultural
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 10 · Niveau E</span>
 
-### [A Novella in Class](units/unit10-a-novella-in-class/)
+### [A Novella in Class](/track-e/kl08/units/unit10-a-novella-in-class/)
 reading, writing, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 11 · Niveau E</span>
 
-### [Public Speaking: A Short Talk](units/unit11-public-speaking/)
+### [Public Speaking: A Short Talk](/track-e/kl08/units/unit11-public-speaking/)
 speaking, listening, language_awareness
 
 {{< /card >}}
 {{< card >}}
 <span class="kicker">Unit 12 · Niveau E</span>
 
-### [Class Magazine Issue](units/unit12-school-magazine-issue/)
+### [Class Magazine Issue](/track-e/kl08/units/unit12-school-magazine-issue/)
 writing, speaking, language_awareness
 
 {{< /card >}}
@@ -122,7 +122,7 @@ The chapter codes and German labels are pulled live from
 
 ## Use this course in class
 
-- The [schedule](schedule/) lists all twelve Units.
+- The [schedule](/track-e/kl08/schedule/) lists all twelve Units.
 - Each Unit page links four downloads: article (HTML), slide deck
   (HTML), worksheet (PDF placeholder), exam example (PDF).
 - Speaker notes on every slide cover timing, transitions, and
