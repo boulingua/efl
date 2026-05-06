@@ -123,15 +123,24 @@ export class NetworkGraph {
       layout: {
         name: "fcose",
         quality: "default",
-        randomize: false,
+        // randomize:true is required when the graph has no pre-existing
+        // positions — false collapses every node to (0,0) and the
+        // layout pass stops, so the whole graph renders as one point /
+        // single line.
+        randomize: true,
         animate: false,
         fit: true,
-        padding: 30,
-        nodeRepulsion: 6500,
-        idealEdgeLength: 80,
-        edgeElasticity: 0.45,
+        padding: 40,
+        nodeRepulsion: () => 8500,
+        idealEdgeLength: () => 95,
+        edgeElasticity: () => 0.45,
         nestingFactor: 0.1,
         gravity: 0.25,
+        gravityRangeCompound: 1.5,
+        gravityCompound: 1.0,
+        numIter: 2500,
+        tile: true,
+        uniformNodeDimensions: false,
       },
     });
 

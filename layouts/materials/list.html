@@ -105,8 +105,19 @@
 {{- $units = where $units "Params.unit_nr" "ne" nil -}}
 {{- $units = where $units (printf "Params.%s" $kind) "ne" nil -}}
 
-<section class="materials-hub">
-  <h1>{{ .Title }}</h1>
+<section class="container materials-hub">
+  <header>
+    <h1 class="title">
+      <a class="title-link" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
+    </h1>
+    {{- $author := .Params.author | default site.Params.author -}}
+    {{- if $author }}
+    <p class="byline" itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <span class="byline-prefix">By</span>
+      <span itemprop="name">{{ $author }}</span>
+    </p>
+    {{- end }}
+  </header>
   <div class="content">
     {{ .Content }}
   </div>
