@@ -1,0 +1,113 @@
+---
+title: "Klassenarbeit — Unit 8: Erste Mediation: A German E-mail"
+subtitle: "Track E · Klasse 7 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 7
+track: "e"
+unit_nr: 8
+slug: "first-mediation"
+aliases:
+  - /track_e_kl07/units/unit08_first-mediation_exam.html
+---
+
+
+**Track E · Klasse 7 · Niveau E · 45 Minuten**
+
+{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
+**Materials allowed.** A monolingual dictionary (Niveau M only).\
+**Time.** 45 minutes.\
+**Total.** 60 points.
+{{< /callout >}}
+
+### Task 1 — Mediation A: WhatsApp message (15 BE)
+
+Read the German message your aunt sent you about the school trip.
+
+> "Hallo Schatz, kurze Info: Das Wandertag-Datum wurde verschoben.
+> Statt am 14. Juni gehen wir jetzt am 21. Juni los. Treffpunkt
+> bleibt am Bahnhof, aber 15 Minuten früher. Wer den Zug verpasst,
+> kommt nicht mit. Festes Schuhwerk und Regenjacke sind Pflicht."
+
+Write **four sentences in English** to your English-speaking
+exchange partner explaining the new arrangements. Cover: new date,
+meeting time, what happens if you miss the train, what to bring.
+
+### Task 2 — Mediation B: short German blog post (15 BE)
+
+Read the short German text below.
+
+> "Letztes Wochenende war ich zum ersten Mal in der Stuttgarter
+> Markthalle. Es ist ein wunderschönes Jugendstil-Gebäude
+> mitten in der Stadt. Drinnen gibt es kleine Stände mit Käse,
+> Brot, Oliven, Gewürzen aus aller Welt. Mein Lieblingsstand
+> verkauft frische Pasta. Die Verkäuferin hat mir erklärt, wie
+> sie die Ravioli mit der Hand füllt."
+
+Write **three to four sentences in English** for an English-
+speaking visitor describing what the Stuttgarter Markthalle is
+and what they would experience there.
+
+### Task 3 — Use of English (10 BE)
+
+**Reporting verbs.** Rewrite each German cue in indirect English
+speech, using *says / explains / mentions / advises / asks*.
+
+1. "Wir treffen uns 15 Minuten früher." (Tante) → My aunt says
+   that ___ .
+2. "Vergiss die Regenjacke nicht." (Mutter) → My mother advises
+   me ___ .
+3. "Wo ist der Bahnhof?" (Tourist) → A tourist asks ___ .
+4. "Die Pasta wird mit der Hand gefüllt." (Verkäuferin) → The
+   seller explains that ___ .
+5. "Der Käse ist aus den Alpen." (Stand) → The sign mentions
+   that ___ .
+
+### Task 4 — Writing (20 BE)
+
+You spent a Saturday with your German cousin in your home town.
+Write 100–120 words in English to a friend who has never been
+there, telling them about **one place you visited together**. Use
+at least three reporting structures (*"My cousin said …", "She
+explained that …", "She asked whether …"*).
+
+{{< callout type="tip" title="Expected answer key — class test (\"Klassenarbeit\")" collapse="true" >}}
+**Task 1 (15 BE).** Sample: *"The hiking day has been moved from
+June 14 to June 21. We still meet at the train station, but
+fifteen minutes earlier. If you miss the train, you can't come.
+Bring sturdy shoes and a rain jacket."* Award for: gist (6),
+addressee-fit (3), correct grammar (6).
+
+**Task 2 (15 BE).** Sample: *"The Stuttgarter Markthalle is a
+beautiful Art-Nouveau building in the city centre. Inside, there
+are small stalls selling cheese, bread, olives, and spices from
+all over the world. The blogger's favourite stall sold fresh
+pasta. The seller explained how she fills the ravioli by hand."*
+Award for: gist (6), addressee-fit (3), correct grammar (6).
+
+**Task 3 (10 BE).** 1. … we meet fifteen minutes earlier.
+2. … not to forget the rain jacket. 3. … where the station is.
+4. … the pasta is filled by hand. 5. … the cheese comes from the
+Alps.
+
+**Task 4 (20 BE).** Inhalt 10 / Sprache 10.
+{{< /callout >}}
+
+{{< callout type="tip" title="Rubric — grading scale (Notenschlüssel)" collapse="true" >}}
+| Punkte (von 60) | Note |
+|-----------------|------|
+| 56–60 | 1 | 49–55 | 2 | 40–48 | 3 |
+| 30–39 | 4 | 18–29 | 5 | 0–17  | 6 |
+
+Mediation tasks reward gist + adressatengerechte Anpassung over
+literal translation. A nearly-literal translation cannot reach the
+top band.
+{{< /callout >}}
+
+<!-- VG Wort Zählmarke (slb) — public ID: 05362dffd96d446c9124a13d9239eb30 -->
+<img src="https://vg09.met.vgwort.de/na/05362dffd96d446c9124a13d9239eb30"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
