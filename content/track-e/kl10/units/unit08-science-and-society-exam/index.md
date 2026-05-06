@@ -1,0 +1,66 @@
+---
+title: 'class test ("Klassenarbeit") — Unit 8: Science and Society'
+subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 8
+unit_slug: "science-and-society"
+aliases:
+  - /track_e_kl10/units/unit08_science-and-society_exam.html
+---
+
+
+**Track E · Klasse 10 · Niveau E · 45 Minuten**
+
+{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
+**Time.** 45 minutes. **Total.** 45 points.
+{{< /callout >}}
+
+### Task 1 — Listening (10 BE)
+
+Listen twice.
+
+> "A two-year trial of a four-day school week in a small Belgian district found test scores unchanged, well-being higher, and modest cost savings. The trial included 14 schools with a matched control group. The study notes one limitation: families struggled with Friday childcare."
+
+1. Length: ___ . 2. Three findings: ___ . 3. Sample: ___ . 4. Limitation: ___ .
+
+### Task 2 — Reading (12 BE)
+
+Read the *Four Days, Five Lessons* extract above.
+
+1. Three findings: ___ . 2. Sample size: ___ . 3. Year of publication: ___ . 4. Authors' warning: ___ .
+
+### Task 3 — Use of English (10 BE)
+
+**Insert scientific-reasoning vocabulary.**
+
+1. The ___ for this study was 14 schools.
+2. The ___ included 14 nearby schools as comparison.
+3. The results were ___ in 2027.
+4. The authors caution against ___ before the limitation is solved.
+
+### Task 4 — Writing (13 BE)
+
+Write 220 words: a science-and-society reflection on the trial. Use 4 scientific-reasoning terms.
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**T1.** 2 years; test scores unchanged / well-being higher / modest cost savings; 14 schools + 14-school control; Friday childcare burden on lower-income parents.
+**T2.** test scores unchanged / well-being higher / modest cost savings; 14 schools (with 14-school control); 2027; do not scale up before childcare burden is solved.
+**T3.** sample size / control group / peer-reviewed / scaling up.
+**T4.** Open.
+{{< /callout >}}
+
+{{< callout type="tip" title="grading scale (Notenschlüssel) (von 45)" collapse="true" >}}
+| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
+| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
+{{< /callout >}}
+
+<!-- VG Wort Zählmarke (slb) — public ID: 0a2bfdc8fa624f4085693826a59062ab -->
+<img src="https://vg09.met.vgwort.de/na/0a2bfdc8fa624f4085693826a59062ab"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />

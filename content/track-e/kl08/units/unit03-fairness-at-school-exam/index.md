@@ -1,0 +1,68 @@
+---
+title: "Klassenarbeit — Unit 3: Fairness at School"
+subtitle: "Track E · Klasse 8 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 3
+unit_slug: "fairness-at-school"
+aliases:
+  - /track_e_kl08/units/unit03_fairness-at-school_exam.html
+---
+
+
+**Track E · Klasse 8 · Niveau E · 45 Minuten**
+
+{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
+**Time.** 45 minutes. **Total.** 45 points.
+{{< /callout >}}
+
+### Task 1 — Listening (10 BE)
+
+Listen twice.
+
+> "If I were the headteacher, I would replace the no-phones rule with a no-loud-phones rule. I think it would be fairer. Although some students would still break it, most wouldn't. On the other hand, enforcing it would still be tricky."
+
+1. Speaker would replace: ___ . 2. With: ___ . 3. Most students would: ___ . 4. Tricky part: ___ .
+
+### Task 2 — Reading (12 BE)
+
+Read.
+
+> "In an interview, the head pupil said: 'If we had more student representation on the rule committee, fewer rules would feel unfair. However, I understand that adults don't always want students to vote on everything.'"
+
+1. What would help: ___ . 2. Result: ___ . 3. Adults: ___ . 4. *However* introduces: ___ .
+
+### Task 3 — Use of English (10 BE)
+
+**Build the second conditional.**
+
+1. If I __________ (be) headteacher, I __________ (change) the rule.
+2. If we __________ (vote), the result __________ (be) close.
+3. I __________ (not / ban) phones if I __________ (have) to enforce it.
+4. Although the rule __________ (be) clear, it __________ (not / be) fair.
+
+### Task 4 — Writing (13 BE)
+
+Write 120 words: one school rule you would change. Use 2 second conditionals + 2 contrast connectives.
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**T1.** no-phones rule, no-loud-phones rule, wouldn't break, enforcing.
+**T2.** more student representation, fewer rules feel unfair, don't always want students to vote, contrast.
+**T3.** were / would change; voted / would be; wouldn't ban / had; is / is not (or *isn't*).
+**T4.** Open.
+{{< /callout >}}
+
+{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
+| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
+| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
+{{< /callout >}}
+
+<!-- VG Wort Zählmarke (slb) — public ID: 06488f8d373e42d2a6e7177a2ddddae5 -->
+<img src="https://vg09.met.vgwort.de/na/06488f8d373e42d2a6e7177a2ddddae5"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />

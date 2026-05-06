@@ -1,0 +1,27 @@
+{{- /* Paired thumbnail-card block: presentation left, worksheet right.
+     Rendered near the top of every unit-article single page. */ -}}
+{{- $p := .Params.presentation -}}
+{{- $w := .Params.worksheet -}}
+
+<aside class="material-links" aria-label="Downloadable materials">
+  <div class="material-link material-link--presentation">
+    <a href="{{ index $p "file" }}" download
+       aria-label="Download presentation: {{ .Title }}">
+      <img class="material-link-thumb"
+           src="{{ index $p "thumbnail" }}"
+           alt="Presentation thumbnail for {{ .Title }}"
+           loading="lazy">
+      <span class="material-link-label">Presentation (.pptx)</span>
+    </a>
+  </div>
+  <div class="material-link material-link--worksheet">
+    <a href="{{ index $w "file" }}" download
+       aria-label="Download worksheet: {{ .Title }}">
+      <img class="material-link-thumb"
+           src="{{ index $w "thumbnail" }}"
+           alt="Worksheet thumbnail for {{ .Title }}"
+           loading="lazy">
+      <span class="material-link-label">Worksheet (.pdf)</span>
+    </a>
+  </div>
+</aside>

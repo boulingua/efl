@@ -1,0 +1,72 @@
+---
+title: "Klausur (assessment) — Unit 10: A Classic Text (Leistungsfach focus)"
+subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 11
+track: "e"
+unit_nr: 10
+unit_slug: "a-classic-text-lf"
+aliases:
+  - /track_e_kl11/units/unit10_a-classic-text-lf_exam.html
+---
+
+
+**Track E · Klasse 11 · Niveau E · 4 Stunden (incl. breaks) · 90 BE**
+
+{{< callout type="warning" title="Klausur (assessment) — Niveau E (full paper, 90 BE)" icon="false" >}}
+**Time.** 4 hours including 20 minutes of breaks (220 active
+minutes). **Total.** 90 BE.\
+**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
+Leistungsfach (advanced course): 40/60.
+{{< /callout >}}
+
+### Part A — Comprehension (~24 BE)
+
+Listen twice.
+
+> "In 1.7, Macbeth approaches the murder as completion: *if it were done when 'tis done, then 'twere well / it were done quickly*. In 2.1, he steps into the perceptual present: *is this a dagger?* In 5.5, the future collapses: *tomorrow, and tomorrow, and tomorrow*."
+
+1. 1.7 mode: ___ . 2. 2.1 mode: ___ . 3. 5.5 mode: ___ . 4. Verb-system arc: ___ .
+
+### Part B — Analysis (~18 BE)
+
+Read the three soliloquy extracts above.
+
+1. 1.7 — Macbeth's tense / mood: ___ . 2. 2.1 — what compels: ___ . 3. 5.5 — the future as: ___ . 4. The arc, in one sentence: ___ .
+
+### Part C — Composition (~18 BE)
+
+**Quote integration ("Leistungsfach").**
+
+1. Integrated: *Macbeth speaks of … 'done quickly'.* → ___
+2. Integrated: *In 2.1, the dagger is …* → ___
+3. Embedded fragment using *'petty pace'*: ___
+4. Cleft on *the verse-rhythm*: ___
+
+### Mediation (~30 BE)
+
+Write 450 words: a Leistungsfach literary essay tracing Macbeth's relationship to time across the three soliloquies. Use 4 integrated quotes + 6 markers + 1 cleft.
+
+{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+**T1.** completion (conditional / hypothetical); perceptual present; future emptied of force; from conditional → perceptual present → emptied future.
+**T2.** conditional / hypothetical; the hallucinated dagger compels rather than waits; *a petty pace from day to day* — empty repetition; tense-system collapses from conditional through compelling-present to ledger-future.
+**T3.** *Macbeth approaches the act as something to be 'done quickly', a phrase whose repetition the verse itself destabilises. / In 2.1, the dagger 'before me' compels rather than waits. / The 'petty pace' the speaker names is the verse rhythm enacting itself. / It is precisely the verse-rhythm that completes the meaning.*
+**T4.** Open.
+{{< /callout >}}
+
+{{< callout type="tip" title="grading scale (Notenschlüssel) (von 90 BE)" collapse="true" >}}
+| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
+| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
+| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
+| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
+| 22–29 | 5  |  0–21 | 6   |       |    |
+{{< /callout >}}
+
+<!-- VG Wort Zählmarke (slb) — public ID: 0c5af961fa2d46beb1033ae629c556fe -->
+<img src="https://vg09.met.vgwort.de/na/0c5af961fa2d46beb1033ae629c556fe"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />

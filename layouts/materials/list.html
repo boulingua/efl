@@ -1,0 +1,153 @@
+{{- define "title" -}}{{ .Title }} · {{ .Site.Title }}{{- end -}}
+
+{{- define "content" -}}
+{{- $kind := .Params.material_kind -}}
+{{- if not $kind -}}
+<section class="container page">
+  <article>
+    <header><h1 class="title">{{ .Title }}</h1></header>
+    {{ .Content }}
+  </article>
+</section>
+{{- else -}}
+{{- $units := where .Site.RegularPages "Section" "in" (slice "track-e" "track-gm") -}}
+{{- $units = where $units "Params.unit_nr" "ne" nil -}}
+{{- $units = where $units (printf "Params.%s" $kind) "ne" nil -}}
+
+<section class="materials-hub">
+  <h1>{{ .Title }}</h1>
+  <div class="content">
+    {{ .Content }}
+  </div>
+
+  {{- /* Build distinct tag sets from the collected unit pages. */ -}}
+  {{- $tracks := slice -}}
+  {{- $klassen := slice -}}
+  {{- $niveaus := slice -}}
+  {{- range $units -}}
+    {{- if .Params.track -}}
+      {{- $tracks = $tracks | append (printf "track-%s" .Params.track) -}}
+    {{- end -}}
+    {{- if .Params.klassenstufe -}}
+      {{- $klassen = $klassen | append (printf "klasse-%02d" (int .Params.klassenstufe)) -}}
+    {{- end -}}
+    {{- if .Params.niveau -}}
+      {{- $niveaus = $niveaus | append (printf "niveau-%s" (lower .Params.niveau)) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $tracks = $tracks | uniq | sort -}}
+  {{- $klassen = $klassen | uniq | sort -}}
+  {{- $niveaus = $niveaus | uniq | sort -}}
+
+  <form class="materials-controls" onsubmit="return false">
+    <input type="search" id="materials-search"
+           placeholder="Search by title…"
+           aria-label="Search materials by title"
+           autocomplete="off">
+    <fieldset class="materials-tags">
+      <legend>Track</legend>
+      {{ range $tracks }}
+        <label><input type="checkbox" data-tag="{{ . }}"> {{ . }}</label>
+      {{ end }}
+    </fieldset>
+    <fieldset class="materials-tags">
+      <legend>Klasse</legend>
+      {{ range $klassen }}
+        <label><input type="checkbox" data-tag="{{ . }}"> {{ . }}</label>
+      {{ end }}
+    </fieldset>
+    <fieldset class="materials-tags">
+      <legend>Niveau</legend>
+      {{ range $niveaus }}
+        <label><input type="checkbox" data-tag="{{ . }}"> {{ . }}</label>
+      {{ end }}
+    </fieldset>
+  </form>
+
+  <ul class="materials-grid" id="materials-grid">
+    {{- range $units -}}
+      {{- $m := index .Params $kind -}}
+      {{- $tags := slice
+            (printf "track-%s" .Params.track)
+            (printf "klasse-%02d" (int .Params.klassenstufe))
+            (printf "niveau-%s" (lower .Params.niveau)) -}}
+      <li class="material-card"
+          data-title="{{ .Title | lower }}"
+          data-tags="{{ delimit $tags " " }}">
+        <a href="{{ .RelPermalink }}" class="material-card-link">
+          <img class="material-thumb"
+               src="{{ index $m "thumbnail" }}"
+               alt="Thumbnail for {{ .Title }}"
+               loading="lazy">
+          <div class="material-meta">
+            <h3 class="material-title">{{ .Title }}</h3>
+            <p class="material-sub">
+              Track {{ if eq .Params.track "gm" }}G+M{{ else }}E{{ end }}
+              · Klasse {{ .Params.klassenstufe }}
+              · Niveau {{ .Params.niveau }}
+            </p>
+            <ul class="material-tags">
+              {{ range $tags }}<li>{{ . }}</li>{{ end }}
+            </ul>
+          </div>
+        </a>
+        <a class="material-download" href="{{ index $m "file" }}"
+           download
+           aria-label="Download {{ $kind }} for {{ .Title }}">
+          Download {{ if eq $kind "presentation" }}.pptx{{ else }}.pdf{{ end }}
+        </a>
+      </li>
+    {{- end -}}
+  </ul>
+
+  <p class="materials-empty" id="materials-empty" hidden>
+    No materials match the current filters.
+  </p>
+</section>
+
+<script>
+(function () {
+  var search = document.getElementById('materials-search');
+  var grid = document.getElementById('materials-grid');
+  var empty = document.getElementById('materials-empty');
+  if (!grid) return;
+  var cards = Array.prototype.slice.call(grid.querySelectorAll('.material-card'));
+  var checks = Array.prototype.slice.call(
+    document.querySelectorAll('.materials-tags input[type=checkbox]'));
+
+  function activeTags() {
+    var byGroup = {};
+    checks.forEach(function (cb) {
+      if (!cb.checked) return;
+      var grp = cb.closest('fieldset').querySelector('legend').textContent;
+      (byGroup[grp] = byGroup[grp] || []).push(cb.dataset.tag);
+    });
+    return byGroup;
+  }
+
+  function update() {
+    var q = (search.value || '').toLowerCase().trim();
+    var tags = activeTags();
+    var visible = 0;
+    cards.forEach(function (c) {
+      var title = c.dataset.title || '';
+      var cardTags = (c.dataset.tags || '').split(' ');
+      var match = !q || title.indexOf(q) !== -1;
+      Object.keys(tags).forEach(function (grp) {
+        var any = tags[grp].some(function (t) {
+          return cardTags.indexOf(t) !== -1;
+        });
+        if (!any) match = false;
+      });
+      c.hidden = !match;
+      if (match) visible++;
+    });
+    empty.hidden = visible !== 0;
+  }
+
+  search.addEventListener('input', update);
+  checks.forEach(function (cb) { cb.addEventListener('change', update); });
+})();
+</script>
+{{- end -}}
+{{- end -}}

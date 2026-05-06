@@ -1,0 +1,66 @@
+---
+title: 'class test ("Klassenarbeit") — Unit 9: Youth Protest Movements'
+subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 10
+track: "e"
+unit_nr: 9
+unit_slug: "youth-protest-movements"
+aliases:
+  - /track_e_kl10/units/unit09_youth-protest-movements_exam.html
+---
+
+
+**Track E · Klasse 10 · Niveau E · 45 Minuten**
+
+{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
+**Time.** 45 minutes. **Total.** 45 points.
+{{< /callout >}}
+
+### Task 1 — Listening (10 BE)
+
+Listen twice.
+
+> "The school-strike movement drew millions across more than 130 countries. Its demand — that governments listen to climate scientists — was clear and its tactic, visible absence, was easily understood. The Lisbon housing movement used building occupations and detailed policy papers; its demands were narrower."
+
+1. School-strike scale: ___ . 2. School-strike demand: ___ . 3. Lisbon tactic: ___ . 4. Lisbon demands: ___ .
+
+### Task 2 — Reading (12 BE)
+
+Read the *Two Youth Movements* extract above.
+
+1. Years of school-strike: ___ . 2. School-strike tactic: ___ . 3. Lisbon years + tactic: ___ . 4. The argument about legibility vs. specificity: ___ .
+
+### Task 3 — Use of English (10 BE)
+
+**Build a cleft sentence emphasising the underlined phrase.**
+
+1. *the legibility* of the first movement made it useful → ___
+2. *the specificity* of the second produced sharper results → ___
+3. *the public* eventually decided the issue → ___
+4. *the writers* were responsible for the framing → ___
+
+### Task 4 — Writing (13 BE)
+
+Write 220 words: a comparison of two youth movements with one cleft + 2 hedges.
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**T1.** millions across 130+ countries; listen to climate scientists; building occupations + policy papers; narrower / harder to summarise.
+**T2.** 2018-2020; visible absence (school walk-outs); 2024-2026 / building occupations + policy papers; legibility wins attention, specificity wins policy.
+**T3.** *It was the legibility … that made it useful. It was the specificity … that produced sharper results. It was the public that decided. It was the writers that were responsible.*
+**T4.** Open.
+{{< /callout >}}
+
+{{< callout type="tip" title="grading scale (Notenschlüssel) (von 45)" collapse="true" >}}
+| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
+| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
+{{< /callout >}}
+
+<!-- VG Wort Zählmarke (slb) — public ID: 0a5af96271b0448cb30382213865ac77 -->
+<img src="https://vg09.met.vgwort.de/na/0a5af96271b0448cb30382213865ac77"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />

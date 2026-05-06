@@ -1,0 +1,11 @@
+{{- /* Override of hugo-coder's custom-icons partial.
+
+  The theme's default emits hardcoded references to /images/favicon.svg,
+  /images/favicon-{16,32}x32.png, /images/apple-touch-icon.png,
+  /site.webmanifest, and /images/safari-pinned-tab.svg even when the
+  files don't exist. EFL doesn't ship those assets yet, so emit nothing
+  rather than 7 broken <link> tags on every page.
+
+  Restore the theme defaults by deleting this file once real favicon
+  assets land under static/images/.
+*/ -}}

@@ -1,0 +1,177 @@
+---
+title: "Unit 12 — Year Review: Portfolio"
+subtitle: "Track G+M · Klasse 9 · Niveau G/M"
+niveau: "G+M"
+klassenstufe: 9
+track: "gm"
+unit_nr: 12
+unit_slug: "year-review-portfolio"
+bildungsplan:
+  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.2.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
+  - "3.2.3.5 Schreiben"
+  - "3.2.4 Text- und Medienkompetenz"
+skills_focus:
+  - writing
+  - speaking
+  - language_awareness
+aliases:
+  - /track_gm_kl09/units/unit12_year-review-portfolio.html
+presentation:
+  file: /materials/presentations/gm/kl09/unit12_year-review-portfolio.pptx
+  thumbnail: /materials/presentations/gm/kl09/unit12_year-review-portfolio.png
+worksheet:
+  file: /downloads/gm/kl09/unit12_year-review-portfolio_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl09/unit12_year-review-portfolio.png
+---
+
+{{< callout type="note" >}}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** G/M parallel. class test ("Klassenarbeit") at Niveau M (45 BE).
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can compile a Klasse-9 portfolio with 4 representative pieces.*
+- *I can write a 200-word reflection on my year.*
+- *I can deliver a 2-minute portfolio talk with one quote from my own writing.*
+
+## Bildungsplan alignment
+
+- **3.2.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.2.3.4 Sprechen – zusammenhängendes monologisches Sprechen**
+- **3.2.3.5 Schreiben**
+- **3.2.4 Text- und Medienkompetenz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Mr. Yilmaz handed out an empty A3 sheet. "This is your portfolio," he said. "Pick four pieces from this year. One you are proud of. One that surprised you. One that didn't work. One that you would write differently now."
+
+## 1. Activate
+
+**Pick-four scan.** Open your folder. Pick four pieces. Label each: *proud / surprised / didn't work / would do differently*.
+
+## 2. Input
+
+### Portfolio structure
+
+1. **Cover sheet** (name, year, date, one-line theme).
+2. **Four pieces** (with one-line label each).
+3. **Reflection** (200 words: what changed, what didn't, one moment of progress, one thing for Klasse 10).
+4. **Talk** (2 minutes, one quote from your own writing).
+
+### Reflection — useful frames
+
+*At the start of Klasse 9 I … / By December I had started to … / The piece that surprised me was … because … / The piece that didn't work taught me that … / If I rewrote one of these now, I would …*
+
+## 3. Practise
+
+### Niveau G
+
+1. Build the four labels for your own folder.
+
+### Niveau M
+
+2. Build a 5-line reflection draft.
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**G.** Open.
+
+**M.** Open.
+{{< /callout >}}
+
+## 4. Produce
+
+**Portfolio + 200-word reflection + 2-minute talk.** Each student submits the A3 portfolio and delivers a 2-minute portfolio talk to the class. Audience gives one feedback sentence using *I noticed that …*
+
+### Sample
+
+*At the start of Klasse 9, I wrote in short sentences that did the same thing twice. By December I had started to write longer sentences with a turn in the middle. The piece I am proudest of is the application letter — the formal register felt strange but I understood why it was needed by the third draft. The piece that didn't work was my Canada reflection — I tried to cover too much. If I rewrote it now, I would pick one detail and stay with it. The biggest thing I learned this year is that careful first drafts save more time than fast ones, and that a good question is worth ten paragraphs of answer.*
+
+## 5. Reflect
+
+- [ ] I can compile a 4-piece portfolio.
+- [ ] I can write a 200-word year reflection.
+- [ ] I can deliver a 2-minute portfolio talk.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
+**Time.** 45 minutes. **Total.** 45 points.
+{{< /callout >}}
+
+### Task 1 — Listening (10 BE)
+
+Listen twice to a portfolio talk.
+
+> "At the start of Klasse 9 I wrote short, repetitive sentences. By December I had started to vary them. The piece I am proudest of is the application letter. The piece that didn't work was my Canada reflection. If I rewrote it now, I would pick one detail."
+
+1. September: ___ . 2. December: ___ . 3. Proud piece: ___ . 4. Didn't work: ___ .
+
+### Task 2 — Reading (12 BE)
+
+Read the reflection sample above. Answer.
+
+1. September writing: ___ . 2. December change: ___ . 3. Proud piece + reason: ___ . 4. Lesson: ___ .
+
+### Task 3 — Use of English (10 BE)
+
+**Mixed grammar review.**
+
+1. By December I __________ (start) to write better. (past perfect)
+2. If I __________ (rewrite) the piece, I __________ (pick) one detail. (second conditional)
+3. The piece __________ (write / passive) in March.
+4. Although I ___ (struggle), I ___ (learn).
+
+### Task 4 — Writing (13 BE)
+
+Write a 200-word year-review reflection. Use 4 grammar points from the year.
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**T1.** short repetitive sentences; varied sentences; application letter; Canada reflection.
+**T2.** short, repetitive; varied sentences with a turn in the middle; application letter — formal register; first drafts save more time than fast ones, a good question is worth ten paragraphs.
+**T3.** had started / rewrote-would pick / was written / struggled-learned.
+**T4.** Open.
+{{< /callout >}}
+
+{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
+| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
+| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
+{{< /callout >}}
+
+## Downloads
+
+{{< downloads >}}
+
+<div class="notes">
+**Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
+5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
+
+**Differentiation.** Niveau G: scaffold card with the key
+structure. Above Niveau M: extension prompt linking to Klasse 10.
+</div>
+
+## Common pitfalls
+
+- Reading the talk word-for-word.
+- Generic claims (*I learned a lot*) — give a concrete example.
+- Picking only your best four — the *didn't-work* slot matters.
+
+## Further reading / listening
+
+- BBC Bitesize — *Reflective writing*.
+- British Council — *Self-evaluation* tips for learners.
+
+<!-- VG Wort Zählmarke (slb) — public ID: 194a76445de544a79a950a61107db84f -->
+<img src="https://vg09.met.vgwort.de/na/194a76445de544a79a950a61107db84f"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />

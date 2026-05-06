@@ -1,0 +1,183 @@
+---
+title: "Unit 3 — In the City"
+subtitle: "Track G+M · Klasse 6 · Niveau G/M"
+niveau: "G+M"
+klassenstufe: 6
+track: "gm"
+unit_nr: 3
+unit_slug: "in-the-city"
+bildungsplan:
+  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+  - "3.1.3.2 Leseverstehen"
+  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+skills_focus:
+  - reading
+  - speaking
+  - language_awareness
+aliases:
+  - /track_gm_kl06/units/unit03_in-the-city.html
+presentation:
+  file: /materials/presentations/gm/kl06/unit03_in-the-city.pptx
+  thumbnail: /materials/presentations/gm/kl06/unit03_in-the-city.png
+worksheet:
+  file: /downloads/gm/kl06/unit03_in-the-city_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl06/unit03_in-the-city.png
+---
+
+{{< callout type="note" >}}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** G/M parallel. class test ("Klassenarbeit") at Niveau M (30 BE).
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can name 12 places in a city.*
+- *I can ask for and give directions.*
+- *I can describe my favourite place in town.*
+
+## Bildungsplan alignment
+
+- **3.1.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.1.3.2 Leseverstehen**
+- **3.1.3.3 Sprechen – an Gesprächen teilnehmen**
+- **3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Sam and Lina meet at the fountain in the market square. The square smells of fresh bread and old rain. They have one hour before the bus and a list of three errands. The bookshop, the post office, and a bakery that supposedly sells the best apple pastry in town.
+
+## 1. Activate
+
+**City map.** Quick-draw your home street and three places nearby (shop, school, park). Label them in English.
+
+## 2. Input
+
+### Vocabulary — places in town
+
+*supermarket, bakery, butcher, post office, library, museum, cinema, theatre, town hall, market square, bus stop, train station, playground, sports centre, bookshop, pharmacy, hospital, cafe.*
+
+### Phrases — directions
+
+- *Excuse me, where is …?*
+- *Go straight on, then turn left at the lights.*
+- *Take the second turning on the right.*
+- *It's on your left, opposite the post office.*
+- *Is it far?* — *About five minutes on foot.*
+
+## 3. Practise
+
+### Niveau G
+
+1. Match place to activity: post office — buy stamps; bakery — bread; pharmacy — medicine; library — books. (T / F)
+2. Direction fill-in: Go __________ on. Turn __________ at the bank. It is __________ your right.
+
+### Niveau M
+
+3. Give directions from school to your home in 4 lines.
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**G.** 1. all true. 2. straight / left or right / on.
+
+**M.** 3. Open.
+{{< /callout >}}
+
+## 4. Produce
+
+**Pair role-play — *Lost Tourist*.** Two minutes. One asks for three places; the other gives directions. Swap.
+
+### Sample
+
+*— Excuse me, where is the bookshop?* — *Go straight on for two minutes. Take the first street on the right. It is opposite the post office.*
+
+## 5. Reflect
+
+- [ ] I can name 12 places in town.
+- [ ] I can ask and give simple directions.
+- [ ] I can describe my favourite local place.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example
+
+{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
+**Time.** 45 minutes. **Total.** 30 points.
+{{< /callout >}}
+
+### Task 1 — Listening (8 BE)
+
+Listen twice.
+
+> "Excuse me, how do I get to the train station? Walk straight on for three minutes. Then turn left at the church. The station is on your right."
+
+1. Place: ___ . 2. Walk for: ___ . 3. Turn at: ___ . 4. Station is on the: ___ .
+
+### Task 2 — Reading (8 BE)
+
+Read.
+
+> "My favourite place in town is the small bakery next to the library. They open at 6 a.m. and the bread is still warm. The owner knows everyone's name."
+
+1. Where: ___ . 2. Open at: ___ . 3. Bread is: ___ . 4. Owner knows: ___ .
+
+### Task 3 — Use of English (8 BE)
+
+**Fill in the right preposition.**
+
+1. The library is ___ the bookshop. (next to)
+2. The bank is ___ the church. (opposite)
+3. The cafe is ___ the corner. (on)
+4. Walk ___ on. (straight)
+
+### Task 4 — Writing (6 BE)
+
+Write 5 sentences describing a path from your school to your favourite place in town. Use 3 direction phrases.
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**T1.** train station, 3 minutes, the church, right.
+**T2.** next to library, 6 a.m., still warm, everyone's name.
+**T3.** next to / opposite / on / straight.
+**T4.** Open.
+{{< /callout >}}
+
+{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
+| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
+| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
+{{< /callout >}}
+
+## Downloads
+
+{{< downloads >}}
+
+<div class="notes">
+**Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
+4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
+5 min.
+
+**Differentiation.** Niveau G: extra picture support and a
+printed reference card. Above Niveau M: extension question
+linking to the next Unit.
+</div>
+
+## Common pitfalls
+
+- *Where is the post office is?* → ✗ — only one *is*.
+- *Go right on* → unclear; prefer *Turn right*.
+- L1 trap: *Apotheke* → *pharmacy / chemist's*, not *apothecary*.
+
+## Further reading / listening
+
+- BBC Learning English — *Asking for directions*.
+- British Council — *In town* topic.
+
+<!-- VG Wort Zählmarke (slb) — public ID: 12a111e2dac5449dbfceda59b2c51b93 -->
+<img src="https://vg09.met.vgwort.de/na/12a111e2dac5449dbfceda59b2c51b93"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
