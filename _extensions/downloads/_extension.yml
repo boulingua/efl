@@ -1,7 +1,0 @@
-title: Downloads shortcode
-author: S. Le Boulanger
-version: 1.0.0
-quarto-required: ">=1.4.0"
-contributes:
-  shortcodes:
-    - downloads.lua
