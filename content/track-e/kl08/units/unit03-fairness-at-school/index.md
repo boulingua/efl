@@ -1,5 +1,6 @@
 ---
 title: "Unit 3 — Fairness at School"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 8 · Niveau E"
 niveau: "E"
 klassenstufe: 8

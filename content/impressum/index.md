@@ -1,5 +1,6 @@
 ---
 title: "Impressum"
+author: "S. Le Boulanger"
 aliases:
   - /legal/impressum/
   - /impressum.html

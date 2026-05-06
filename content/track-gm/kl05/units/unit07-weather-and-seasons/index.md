@@ -1,5 +1,6 @@
 ---
 title: "Unit 7 — Weather and Seasons"
+author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 5 · Niveau G/M"
 niveau: "G+M"
 klassenstufe: 5

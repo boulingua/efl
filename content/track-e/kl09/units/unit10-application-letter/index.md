@@ -1,5 +1,6 @@
 ---
 title: "Unit 10 — Writing an Application Letter"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 9 · Niveau E"
 niveau: "E"
 klassenstufe: 9

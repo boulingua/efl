@@ -1,5 +1,6 @@
 ---
 title: "Unit 12 — Klausur Prep: Exam Rehearsal"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 11 · Niveau E (Basisfach / Leistungsfach)"
 niveau: "E"
 klassenstufe: 11

@@ -1,5 +1,6 @@
 ---
 title: "Unit 6 — Writing an Opinion"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 8 · Niveau E"
 niveau: "E"
 klassenstufe: 8

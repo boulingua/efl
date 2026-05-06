@@ -1,5 +1,6 @@
 ---
 title: "Unit 1 — A New Year at School"
+author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 6 · Niveau G/M"
 niveau: "G+M"
 klassenstufe: 6

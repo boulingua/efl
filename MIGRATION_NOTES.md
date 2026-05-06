@@ -88,3 +88,80 @@ flagged.
 
 VG Wort + Plausible + internal-link + manifest + Materials-Network
 gates from the migration phases all survive and are running on `main`.
+
+### 2026-05-06 — Phase 1 post-conversion content verification
+
+#### Front-matter sanity
+
+`_scripts/audit_frontmatter.py` checks every content page (top-level +
+appendices + course indexes + schedules + 180 unit pages + 180 exam
+wrappers + materials hub) for `title`, `author`, plus `klassenstufe` /
+`track` / `unit_nr` / `unit_slug` / `tags` / `topic` / `bildungsplan`
+on unit pages.
+
+The brief calls the curriculum-reference field `bildungsplan_ref` but
+this repo has used `bildungsplan` since the qmd era — preserved
+verbatim. The audit script accepts the existing key as canonical.
+
+Initial run: **186 pages missing `author`**. Cause: the qmd-era
+convention was `author: "S. Le Boulanger"` once in
+`<course>/units/_metadata.yml` and Quarto inherited it into every
+sibling `.qmd`. Hugo doesn't have that inheritance, and the migrator
+didn't promote `_metadata.yml` into per-page front matter, so author
+data lived only at the site-params level after migration.
+
+Fix: `_scripts/restore_author_attribution.py` (idempotent) inserts
+`author: "S. Le Boulanger"` into every content page that doesn't
+already declare one. 186 fixed; 222 already had it from the migrator's
+own work. Re-audit: **408/408 pages, all required fields present**.
+
+#### Markdown integrity
+
+`hugo --minify --gc --printPathWarnings --printUnusedTemplates`:
+
+- One real warning: `.Site.Data was deprecated in Hugo v0.156.0`.
+  Source: `layouts/materials/list.network.json`. Fixed by switching
+  to `hugo.Data.topics`. Re-run is silent.
+- The `--printUnusedTemplates` flag emits ~25 informational lines
+  for Coder's bundled analytics partials (Baidu, Fathom, Matomo,
+  GoatCounter, etc.) — all conditional on `Site.Params` we don't set;
+  not actionable.
+
+#### Quarto carryover scan
+
+| Construct | Hits |
+|---|---:|
+| `^::: ` Pandoc fenced divs | 0 |
+| `{{< include >}}` Quarto includes | 0 |
+| `@(fig|tbl|sec)-` Quarto cross-refs | 0 |
+| `]{.class}` Pandoc inline class spans | 0 |
+| `^#|` Quarto execution chunks | 0 |
+| `tbl-cap:` Quarto table caption | 0 |
+
+The migrator (Phase 2 of the Quarto→Hugo work) handled all of these
+during conversion. No drift since.
+
+#### Content parity
+
+| Bucket | Source `.qmd` | Migrated `.md` | Match |
+|---|---:|---:|:-:|
+| Unit pages | 180 | 180 | ✓ |
+| Exam wrappers | 180 | 180 | ✓ |
+| Course indexes (15 × 1) | 15 | 15 | ✓ |
+| Course schedules (15 × 1) | 15 | 15 | ✓ |
+| Appendices | 5 | 5 | ✓ |
+| Top-level pages | 9 | 9 | ✓ |
+| Materials hub | n/a (post-migration) | 4 | n/a |
+| **VG Wort pixels** | 399 | 399 in `content/`, 399 verified in `public/` (414 occurrences across 1017 pages — pres/ws share a parent's pixel) | ✓ |
+
+#### Asset paths
+
+`verify_internal_links.py`: 18,344 internal href/src targets, **0
+broken**. The 367 static + asset files all resolve.
+
+#### Code execution carryover
+
+Zero Quarto execution chunks survived migration (none would have been
+emitted on this site — the curriculum used `{mermaid}` for two
+appendices but those were rewritten to plain ` ```mermaid ` fences in
+the migration's "build green" commit).

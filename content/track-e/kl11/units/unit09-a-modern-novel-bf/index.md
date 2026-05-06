@@ -1,5 +1,6 @@
 ---
 title: "Unit 9 — A Modern Novel (Basisfach focus)"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 11 · Niveau E (Basisfach / Leistungsfach)"
 niveau: "E"
 klassenstufe: 11

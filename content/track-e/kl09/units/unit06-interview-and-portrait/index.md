@@ -1,5 +1,6 @@
 ---
 title: "Unit 6 — Interview and Portrait"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 9 · Niveau E"
 niveau: "E"
 klassenstufe: 9

@@ -1,5 +1,6 @@
 ---
 title: "Unit 11 — Debate and Discussion"
+author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 9 · Niveau G/M"
 niveau: "G+M"
 klassenstufe: 9

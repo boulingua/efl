@@ -1,5 +1,6 @@
 ---
 title: "Unit 8 — School Around the World"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6

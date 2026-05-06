@@ -1,5 +1,6 @@
 ---
 title: "Unit 9 — School Rules and Rights"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 7 · Niveau E"
 niveau: "E"
 klassenstufe: 7

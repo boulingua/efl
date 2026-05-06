@@ -1,5 +1,6 @@
 ---
 title: "Unit 4 — A Trip to Scotland"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 7 · Niveau E"
 niveau: "E"
 klassenstufe: 7

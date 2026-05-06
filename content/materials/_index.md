@@ -1,5 +1,6 @@
 ---
 title: "Materials"
+author: "S. Le Boulanger"
 description: "Per-Unit slide decks and worksheets, downloadable for classroom use."
 outputs:
   - html

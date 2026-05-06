@@ -147,7 +147,7 @@
 {{- end -}}
 
 {{- $topicsList := slice -}}
-{{- range $.Site.Data.topics -}}
+{{- range hugo.Data.topics -}}
   {{- $topicsList = $topicsList | append (dict
         "id"        .id
         "label_de"  .label_de

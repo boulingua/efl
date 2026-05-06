@@ -1,5 +1,6 @@
 ---
 title: "Unit 7 — An Adventure Story"
+author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 6 · Niveau G/M"
 niveau: "G+M"
 klassenstufe: 6

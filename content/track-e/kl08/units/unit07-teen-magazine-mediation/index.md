@@ -1,5 +1,6 @@
 ---
 title: "Unit 7 — Mediation: A Teen Magazine"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 8 · Niveau E"
 niveau: "E"
 klassenstufe: 8

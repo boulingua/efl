@@ -1,5 +1,6 @@
 ---
 title: "Unit 4 — Short Stories and Style"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 11 · Niveau E (Basisfach / Leistungsfach)"
 niveau: "E"
 klassenstufe: 11

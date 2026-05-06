@@ -1,5 +1,6 @@
 ---
 title: "Unit 5 — Food and Drinks"
+author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 5 · Niveau G/M"
 niveau: "G+M"
 klassenstufe: 5

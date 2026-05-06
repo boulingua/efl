@@ -1,5 +1,6 @@
 ---
 title: "Unit 9 — A Novel in Full"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 12 · Niveau E (Basisfach / Leistungsfach)"
 niveau: "E"
 klassenstufe: 12

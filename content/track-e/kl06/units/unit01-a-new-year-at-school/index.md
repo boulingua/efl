@@ -1,5 +1,6 @@
 ---
 title: "Unit 1 — A New Year at School"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6

@@ -1,5 +1,6 @@
 ---
 title: "Unit 4 — Ireland: Stories from the Island"
+author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 8 · Niveau G/M"
 niveau: "G+M"
 klassenstufe: 8

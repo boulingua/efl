@@ -1,5 +1,6 @@
 ---
 title: "Unit 11 — Public Speaking: Toward the Komm-Prüfung"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 11 · Niveau E (Basisfach / Leistungsfach)"
 niveau: "E"
 klassenstufe: 11

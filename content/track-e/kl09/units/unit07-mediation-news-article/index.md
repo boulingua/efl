@@ -1,5 +1,6 @@
 ---
 title: "Unit 7 — Mediation: A German News Article"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 9 · Niveau E"
 niveau: "E"
 klassenstufe: 9

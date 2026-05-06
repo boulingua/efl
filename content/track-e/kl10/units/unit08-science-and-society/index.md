@@ -1,5 +1,6 @@
 ---
 title: "Unit 8 — Science and Society"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 10 · Niveau E"
 niveau: "E"
 klassenstufe: 10

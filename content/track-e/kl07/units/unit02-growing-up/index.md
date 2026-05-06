@@ -1,5 +1,6 @@
 ---
 title: "Unit 2 — Growing Up"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 7 · Niveau E"
 niveau: "E"
 klassenstufe: 7

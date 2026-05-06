@@ -1,5 +1,6 @@
 ---
 title: "Unit 9 — Youth and the Future"
+author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 10 · Niveau G/M"
 niveau: "G+M"
 klassenstufe: 10

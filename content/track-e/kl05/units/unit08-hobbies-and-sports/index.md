@@ -1,5 +1,6 @@
 ---
 title: "Unit 8 — Hobbies and Sports"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 5 · Niveau E"
 niveau: "E"
 klassenstufe: 5

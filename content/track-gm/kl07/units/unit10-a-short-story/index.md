@@ -1,5 +1,6 @@
 ---
 title: "Unit 10 — Reading a Short Story"
+author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 7 · Niveau G/M"
 niveau: "G+M"
 klassenstufe: 7

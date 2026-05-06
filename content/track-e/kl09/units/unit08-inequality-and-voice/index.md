@@ -1,5 +1,6 @@
 ---
 title: "Unit 8 — Inequality and Voice"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 9 · Niveau E"
 niveau: "E"
 klassenstufe: 9

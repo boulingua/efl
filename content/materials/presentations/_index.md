@@ -1,5 +1,6 @@
 ---
 title: "Presentations"
+author: "S. Le Boulanger"
 description: "Per-Unit slide decks across the EFL curriculum."
 material_kind: "presentation"
 ---

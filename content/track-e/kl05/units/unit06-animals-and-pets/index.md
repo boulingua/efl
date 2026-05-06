@@ -1,5 +1,6 @@
 ---
 title: "Unit 6 — Animals and Pets"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 5 · Niveau E"
 niveau: "E"
 klassenstufe: 5

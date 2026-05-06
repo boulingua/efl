@@ -1,5 +1,6 @@
 ---
 title: "Unit 1 — Dystopias"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 12 · Niveau E (Basisfach / Leistungsfach)"
 niveau: "E"
 klassenstufe: 12

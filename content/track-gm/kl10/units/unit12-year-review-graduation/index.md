@@ -1,5 +1,6 @@
 ---
 title: "Unit 12 — Year Review: Graduation Exam Prep"
+author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 10 · Niveau G/M"
 niveau: "G+M"
 klassenstufe: 10

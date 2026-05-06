@@ -1,5 +1,6 @@
 ---
 title: "Unit 11 — Public Speaking: A Short Talk"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 8 · Niveau E"
 niveau: "E"
 klassenstufe: 8

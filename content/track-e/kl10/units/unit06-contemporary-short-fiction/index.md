@@ -1,5 +1,6 @@
 ---
 title: "Unit 6 — Contemporary Short Fiction"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 10 · Niveau E"
 niveau: "E"
 klassenstufe: 10

@@ -1,5 +1,6 @@
 ---
 title: "Unit 11 — Plans for the Summer"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 7 · Niveau E"
 niveau: "E"
 klassenstufe: 7

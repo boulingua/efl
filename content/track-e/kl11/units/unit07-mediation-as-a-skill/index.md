@@ -1,5 +1,6 @@
 ---
 title: "Unit 7 — Mediation as a Skill"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 11 · Niveau E (Basisfach / Leistungsfach)"
 niveau: "E"
 klassenstufe: 11

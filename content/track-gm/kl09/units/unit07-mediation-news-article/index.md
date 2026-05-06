@@ -1,5 +1,6 @@
 ---
 title: "Unit 7 — Mediation: A German News Article"
+author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 9 · Niveau G/M"
 niveau: "G+M"
 klassenstufe: 9

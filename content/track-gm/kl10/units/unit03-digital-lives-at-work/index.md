@@ -1,5 +1,6 @@
 ---
 title: "Unit 3 — Digital Lives at Work"
+author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 10 · Niveau G/M"
 niveau: "G+M"
 klassenstufe: 10

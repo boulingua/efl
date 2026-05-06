@@ -1,5 +1,6 @@
 ---
 title: "Unit 9 — Short Fiction in the Classroom"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 9 · Niveau E"
 niveau: "E"
 klassenstufe: 9

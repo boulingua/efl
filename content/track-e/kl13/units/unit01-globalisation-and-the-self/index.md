@@ -1,5 +1,6 @@
 ---
 title: "Unit 1 — Globalisation and the Self"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 13 · Niveau E (Basisfach / Leistungsfach) · Abitur year"
 niveau: "E"
 klassenstufe: 13

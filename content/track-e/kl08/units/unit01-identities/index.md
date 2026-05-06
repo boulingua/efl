@@ -1,5 +1,6 @@
 ---
 title: "Unit 1 — Identities"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 8 · Niveau E"
 niveau: "E"
 klassenstufe: 8

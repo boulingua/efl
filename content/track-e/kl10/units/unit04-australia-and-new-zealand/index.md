@@ -1,5 +1,6 @@
 ---
 title: "Unit 4 — Australia and New Zealand"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 10 · Niveau E"
 niveau: "E"
 klassenstufe: 10

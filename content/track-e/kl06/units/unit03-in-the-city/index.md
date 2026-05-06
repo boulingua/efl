@@ -1,5 +1,6 @@
 ---
 title: "Unit 3 — In the City"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6

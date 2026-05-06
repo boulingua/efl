@@ -1,5 +1,6 @@
 ---
 title: "Unit 2 — Money and Choices"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 9 · Niveau E"
 niveau: "E"
 klassenstufe: 9

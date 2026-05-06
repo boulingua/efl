@@ -1,5 +1,6 @@
 ---
 title: "Unit 1 — First Day Back"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 7 · Niveau E"
 niveau: "E"
 klassenstufe: 7

@@ -1,5 +1,6 @@
 ---
 title: "Unit 10 — Travelling by Train"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 6 · Niveau E"
 niveau: "E"
 klassenstufe: 6

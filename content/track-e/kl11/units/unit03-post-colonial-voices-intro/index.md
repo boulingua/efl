@@ -1,5 +1,6 @@
 ---
 title: "Unit 3 — Post-Colonial Voices: An Introduction"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 11 · Niveau E (Basisfach / Leistungsfach)"
 niveau: "E"
 klassenstufe: 11

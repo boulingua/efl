@@ -1,5 +1,6 @@
 ---
 title: "Unit 8 — Erste Mediation: A German E-mail"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 7 · Niveau E"
 niveau: "E"
 klassenstufe: 7

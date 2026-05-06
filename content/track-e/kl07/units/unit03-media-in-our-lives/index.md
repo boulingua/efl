@@ -1,5 +1,6 @@
 ---
 title: "Unit 3 — Media in Our Lives"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 7 · Niveau E"
 niveau: "E"
 klassenstufe: 7

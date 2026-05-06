@@ -1,5 +1,6 @@
 ---
 title: "Haftungsausschluss"
+author: "S. Le Boulanger"
 aliases:
   - /legal/disclaimer/
   - /disclaimer/

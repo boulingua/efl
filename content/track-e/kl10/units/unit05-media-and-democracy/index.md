@@ -1,5 +1,6 @@
 ---
 title: "Unit 5 — Media and Democracy"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 10 · Niveau E"
 niveau: "E"
 klassenstufe: 10

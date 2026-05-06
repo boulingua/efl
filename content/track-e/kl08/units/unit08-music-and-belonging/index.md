@@ -1,5 +1,6 @@
 ---
 title: "Unit 8 — Music and Belonging"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 8 · Niveau E"
 niveau: "E"
 klassenstufe: 8

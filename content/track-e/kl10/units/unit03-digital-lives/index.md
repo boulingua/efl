@@ -1,5 +1,6 @@
 ---
 title: "Unit 3 — Digital Lives"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 10 · Niveau E"
 niveau: "E"
 klassenstufe: 10

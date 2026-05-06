@@ -1,5 +1,6 @@
 ---
 title: "Unit 5 — Media and Public Opinion"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 13 · Niveau E (Basisfach / Leistungsfach) · Abitur year"
 niveau: "E"
 klassenstufe: 13

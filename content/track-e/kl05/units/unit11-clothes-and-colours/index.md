@@ -1,5 +1,6 @@
 ---
 title: "Unit 11 — Clothes and Colours"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 5 · Niveau E"
 niveau: "E"
 klassenstufe: 5

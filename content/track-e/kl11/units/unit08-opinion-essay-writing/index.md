@@ -1,5 +1,6 @@
 ---
 title: "Unit 8 — Opinion Essay Writing"
+author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 11 · Niveau E (Basisfach / Leistungsfach)"
 niveau: "E"
 klassenstufe: 11

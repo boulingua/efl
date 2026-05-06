@@ -1,5 +1,6 @@
 ---
 title: "Datenschutzerklärung"
+author: "S. Le Boulanger"
 aliases:
   - /legal/privacy/
   - /privacy/
