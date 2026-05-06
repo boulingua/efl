@@ -244,7 +244,9 @@ html.colorscheme-dark, [data-theme="dark"] {
   gap: 0.5rem;
   transition: border-color var(--network-dur-fast) var(--network-ease);
 }
-.network-card:hover { border-color: var(--network-border-strong); }
+.network-card:hover,
+.network-card.hovered { border-color: var(--network-highlight); }
+.network-card.hovered { box-shadow: 0 0 0 2px var(--network-highlight); }
 .network-card--article {
   grid-column: span 2;
   border-left: 4px solid var(--topic, var(--network-border-strong));

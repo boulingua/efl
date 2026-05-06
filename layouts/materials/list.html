@@ -19,6 +19,15 @@
     <header><h1 class="title">{{ .Title }}</h1></header>
     {{ .Content }}
 
+    <div class="network-search" role="search">
+      <input id="network-search-input"
+             type="search"
+             placeholder="Search by title, tag, or course…"
+             aria-label="Search materials"
+             autocomplete="off">
+      <span class="network-search-shortcut" aria-hidden="true">/</span>
+    </div>
+
     <div class="network-shell">
       <aside class="network-rail" id="network-rail" aria-label="Filter rail">
         <noscript>
@@ -37,6 +46,8 @@
       <span id="network-status-text">{{ len (where .Site.RegularPages "Params.unit_nr" "ne" nil) }} units · 3 topics · 15 courses</span>
       <a href="{{ "/materials/preview/" | relURL }}">Design preview</a>
     </p>
+
+    <ul class="network-grid" id="network-list" aria-label="Filtered materials"></ul>
 
     {{- /* Static DOM nav for a11y + sub-768px viewports. Always rendered.
            Hidden visually on desktop (Phase 6 a11y CSS). */ -}}

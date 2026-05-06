@@ -1,18 +1,26 @@
 /* Materials Discovery Network — entry module.
  *
- * Loads graph.json, creates a shared store, mounts the Cytoscape graph
- * (desktop only) and the filter rail, and wires their state together.
+ * Loads graph.json, creates a shared store, mounts:
+ *   - the Cytoscape graph (desktop only)
+ *   - the filter rail
+ *   - the search box
+ *   - the list view
+ * and wires their state together via a single store.
  *
- * Phases shipped here:
+ * Phases shipped:
  *   - Phase 3: graph rendering (NetworkGraph in graph.js).
- *   - Phase 4: filter rail with live counts + URL state (Filters in filters.js).
+ *   - Phase 4: filter rail with live counts + URL state (Filters).
+ *   - Phase 5: Pagefind search + list view + bidirectional hover sync
+ *              (Search, List).
  *
- * Mobile (<768px): graph DOM is hidden by CSS, the JS payload itself
- * bails before importing Cytoscape's runtime (graph never instantiates).
- * The page falls through to the always-rendered <nav class="network-fallback">.
+ * Mobile (<768px): Cytoscape is not instantiated, but filters + search
+ * + list still work over the DOM. The search index is the same Pagefind
+ * artefact regardless of viewport.
  */
 import { NetworkGraph } from "./graph.js";
 import { Filters } from "./filters.js";
+import { Search, patchFiltersForSearch } from "./search.js";
+import { List } from "./list.js";
 import { createStore, emptyState } from "./store.js";
 
 async function loadGraphData() {
@@ -41,30 +49,63 @@ async function init() {
 
   const store = createStore(emptyState(data));
 
-  // Mount filter rail (works on desktop + tablet, even when graph hidden).
+  // Filter rail (works on desktop + tablet + mobile).
   const rail = document.getElementById("network-rail");
   let filters = null;
   if (rail) {
     filters = new Filters(rail, data, store);
+    patchFiltersForSearch(filters);
     filters.hydrate();
   }
 
-  // Desktop only: instantiate Cytoscape and bridge filter state.
+  // Search input (above or beside the graph).
+  const searchInput = document.getElementById("network-search-input");
+  if (searchInput && filters) {
+    const search = new Search(searchInput, store, data, filters);
+    search.hydrate();
+  }
+
+  // List view (always visible — it's the canonical filtered subset).
+  const listEl = document.getElementById("network-list");
+  let list = null;
+  if (listEl) {
+    list = new List(listEl, data, store);
+    list.hydrate();
+  }
+
+  // Desktop: instantiate Cytoscape and bridge filter+hover state.
   let graph = null;
   if (isDesktop) {
     graph = new NetworkGraph(container, data);
     await graph.render();
+    // Filter changes -> dim non-matching nodes.
     store.subscribe((s) => {
       graph.applyFilter((node) => s.filteredNodeIds.has(node.id));
     });
-    // Apply initial filter state (URL-derived).
     graph.applyFilter((node) => store.get().filteredNodeIds.has(node.id));
+
+    // Graph hover -> store, so the list highlights/scrolls.
+    graph.cy.on("mouseover", "node", (e) => {
+      store.set({ hovered: e.target.id() });
+    });
+    graph.cy.on("mouseout", "node", () => {
+      store.set({ hovered: null });
+    });
+    // Store hover -> graph highlight (when triggered by list hover).
+    store.subscribe((s) => {
+      graph.cy.batch(() => {
+        graph.cy.nodes().removeClass("hovered");
+        if (s.hovered) {
+          const n = graph.cy.getElementById(s.hovered);
+          if (n) n.addClass("hovered");
+        }
+      });
+    });
   } else {
-    // Mobile: hide the loading skeleton placeholder; the DOM-nav is the UI.
     container.innerHTML = "";
   }
 
-  window.__efl_network = { graph, filters, store, data };
+  window.__efl_network = { graph, filters, list, store, data };
 }
 
 if (document.readyState === "loading") {

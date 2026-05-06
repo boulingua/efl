@@ -10,7 +10,7 @@ enforces:
   3. graph.json contains at least one shared-tag edge (the network is
      not a star around same-article structural edges).
   4. Every topic in data/topics.yml has at least one article.
-  5. (deferred to Phase 5) Pagefind index is non-empty.
+  5. Pagefind index exists and is non-empty (Phase 5).
 
 Exits non-zero with a loud, specific error on any violation.
 Single-purpose: run after `hugo --minify`, before deploy.
@@ -94,6 +94,23 @@ def main() -> int:
         errors.append(
             f"GATE 4 FAIL: {len(orphans)} orphan topic(s). Either delete "
             f"them from data/topics.yml or assign articles to them.")
+
+    # Gate 5: Pagefind index present + non-empty.
+    pf_dir = ROOT / "public" / "pagefind"
+    pf_js = pf_dir / "pagefind.js"
+    if not pf_js.is_file():
+        errors.append(
+            f"GATE 5 FAIL: {pf_js.relative_to(ROOT)} missing — "
+            f"`npx pagefind --site public` did not run.")
+    else:
+        # Pagefind shards index data into pagefind/index/*.pf_index. Empty
+        # site = no shards. Treat 0 shards as failure.
+        index_dir = pf_dir / "index"
+        shards = list(index_dir.glob("*.pf_index")) if index_dir.is_dir() else []
+        if not shards:
+            errors.append(
+                f"GATE 5 FAIL: pagefind built no index shards under "
+                f"{index_dir.relative_to(ROOT)}. The search index is empty.")
 
     if errors:
         print("\n".join(errors), file=sys.stderr)

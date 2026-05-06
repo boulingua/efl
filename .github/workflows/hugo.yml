@@ -80,6 +80,12 @@ jobs:
       - name: Build site
         run: hugo --minify --gc
 
+      - name: Build Pagefind search index
+        # Indexes public/ in place. Generates public/pagefind/pagefind.js
+        # and a sharded index that the search.js module loads on first
+        # keystroke.
+        run: npx pagefind --site public
+
       - name: Verify Plausible appears in rendered home page
         run: |
           test -f public/index.html
