@@ -82,11 +82,15 @@ jobs:
         # never drift from the bildungsplan + skills_focus source of truth.
         run: python _scripts/populate_network_frontmatter.py
 
-      - name: Verify Plausible snippet is wired
+      - name: Verify Plausible config is wired
+        # Phase 3 of the post-migration verification pass externalised
+        # the Plausible script tag into params.plausible.{domain,src}.
+        # Source-grep the params file + the partial that consumes them.
         run: |
           test -f layouts/_partials/head/extensions.html
-          grep -q 'data-domain="boulingua.github.io/efl"' layouts/_partials/head/extensions.html
-          grep -q 'analytics.hellebo.de' layouts/_partials/head/extensions.html
+          grep -q 'site.Params.plausible' layouts/_partials/head/extensions.html
+          grep -q 'boulingua.github.io/efl' hugo.toml
+          grep -q 'analytics.hellebo.de' hugo.toml
 
       - name: Build site
         run: hugo --minify --gc
