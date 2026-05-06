@@ -53,7 +53,18 @@ jobs:
           python-version: "3.11"
 
       - name: Install Python deps for placeholder generators
-        run: pip install pyyaml reportlab pypdf python-pptx Pillow
+        run: pip install pyyaml reportlab pypdf python-pptx Pillow pypdfium2
+
+      - name: Install LibreOffice (headless, for .pptx -> .pdf rendering)
+        # GitHub-hosted Ubuntu runners typically include LibreOffice;
+        # this guarantees it. -y flag, --no-install-recommends keeps
+        # the install lean (no Java GUI bits).
+        run: |
+          if ! command -v soffice >/dev/null; then
+            sudo apt-get update -qq
+            sudo apt-get install -y --no-install-recommends libreoffice-impress libreoffice-core
+          fi
+          soffice --version
 
       - name: Hugo Modules tidy + verify
         run: |
@@ -114,6 +125,9 @@ jobs:
 
       - name: Verify network JS bundle budget
         run: python _scripts/verify_bundle_budget.py
+
+      - name: Verify every material download + thumbnail URL resolves
+        run: python _scripts/verify_downloads.py
 
       - name: Verify Plausible + VG Wort tracking on /materials/ + unit page
         run: python _scripts/verify_tracking.py

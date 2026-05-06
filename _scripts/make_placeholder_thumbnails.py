@@ -1,26 +1,34 @@
-"""Render thumbnail PNGs for placeholder worksheets and presentations.
+"""Render thumbnail PNGs from the actual placeholder binaries.
 
-Both placeholder generators (`make_placeholder_worksheets.py` and
-`make_placeholder_presentations.py`) write binary content but no
-thumbnails. Real LibreOffice/Poppler-based rendering is fragile in CI
-and overkill for placeholder material; instead, this script produces a
-matching one-page thumbnail PNG using Pillow that mirrors what the
-binary file's first page contains.
+For every Unit:
+    static/downloads/<track>/kl<NN>/unit<NN>_<slug>_worksheet.pdf
+        -> static/materials/worksheets/<track>/kl<NN>/unit<NN>_<slug>.png
+    static/materials/presentations/<track>/kl<NN>/unit<NN>_<slug>.pptx
+        -> static/materials/presentations/<track>/kl<NN>/unit<NN>_<slug>.png
 
-Per Unit:
-    static/materials/worksheets/<track>/kl<NN>/unit<NN>_<slug>.png
-    static/materials/presentations/<track>/kl<NN>/unit<NN>_<slug>.png
+Rendering pipeline:
+  - PDFs    -> pypdfium2 (self-contained PDFium binding, no system deps).
+  - PPTXs   -> LibreOffice headless converts to PDF, then pypdfium2.
+                LibreOffice ships pre-installed on GitHub-hosted Ubuntu
+                runners. When unavailable locally (e.g. on Windows
+                without LibreOffice), we fall back to a Pillow-rendered
+                synthetic title card so local previews still have *some*
+                thumbnail. The CI build always uses the real-render path.
 
-When real materials replace the placeholder binaries, the same path
-convention applies — drop a real PNG thumbnail beside the binary and
-the Materials hub picks it up.
+When real materials replace the placeholder binaries, this same script
+produces real thumbnails — drop a real `.pptx` or `.pdf` at the
+canonical path and re-run.
 """
 from __future__ import annotations
 
 import argparse
 import pathlib
+import shutil
+import subprocess
 import sys
+import tempfile
 
+import pypdfium2 as pdfium
 import yaml
 from PIL import Image, ImageDraw, ImageFont
 
@@ -29,93 +37,110 @@ REPO = HERE.parent
 OUTLINE = REPO / "_resources" / "curriculum_outline.yml"
 WORKSHEETS_OUT = REPO / "static" / "materials" / "worksheets"
 PRESENTATIONS_OUT = REPO / "static" / "materials" / "presentations"
+WORKSHEETS_BIN = REPO / "static" / "downloads"
+PRESENTATIONS_BIN = REPO / "static" / "materials" / "presentations"
+
+THUMB_SCALE = 1.5  # PDFium DPI multiplier; ~108 DPI at default 72.
+MAX_DIM = 1024     # cap thumbnail max dimension (downscale after render).
 
 
-def _font(size: int) -> ImageFont.ImageFont:
-    # Pillow ships a default bitmap font; for placeholders that's enough.
-    try:
-        return ImageFont.truetype("DejaVuSans.ttf", size)
-    except (OSError, IOError):
+def find_libreoffice() -> str | None:
+    for cmd in ("soffice", "libreoffice"):
+        if shutil.which(cmd):
+            return cmd
+    # Common Windows install locations.
+    for p in (
+        r"C:\Program Files\LibreOffice\program\soffice.exe",
+        r"C:\Program Files (x86)\LibreOffice\program\soffice.exe",
+    ):
+        if pathlib.Path(p).is_file():
+            return p
+    return None
+
+
+SOFFICE = find_libreoffice()
+
+
+def render_pdf_first_page(pdf_path: pathlib.Path, out: pathlib.Path) -> None:
+    out.parent.mkdir(parents=True, exist_ok=True)
+    doc = pdfium.PdfDocument(str(pdf_path))
+    if len(doc) == 0:
+        raise RuntimeError(f"empty PDF: {pdf_path}")
+    img = doc[0].render(scale=THUMB_SCALE).to_pil()
+    if max(img.size) > MAX_DIM:
+        ratio = MAX_DIM / max(img.size)
+        img = img.resize((int(img.width * ratio), int(img.height * ratio)),
+                         Image.LANCZOS)
+    img.save(out, format="PNG", optimize=True)
+
+
+def render_pptx_first_slide(pptx_path: pathlib.Path, out: pathlib.Path) -> None:
+    """LibreOffice -> PDF -> pypdfium2 -> PNG. Falls back to synthesis."""
+    if SOFFICE is None:
+        _render_pptx_synthetic(pptx_path, out)
+        return
+    with tempfile.TemporaryDirectory() as td:
+        td_path = pathlib.Path(td)
         try:
-            return ImageFont.truetype("arial.ttf", size)
-        except (OSError, IOError):
-            return ImageFont.load_default()
+            result = subprocess.run(
+                [SOFFICE, "--headless", "--convert-to", "pdf",
+                 "--outdir", str(td_path), str(pptx_path)],
+                capture_output=True, text=True, timeout=120,
+            )
+        except subprocess.TimeoutExpired:
+            print(f"  TIMEOUT converting {pptx_path.name}; falling back",
+                  file=sys.stderr)
+            _render_pptx_synthetic(pptx_path, out)
+            return
+        if result.returncode != 0:
+            print(f"  soffice error on {pptx_path.name}: "
+                  f"{result.stderr.strip()[:200]}", file=sys.stderr)
+            _render_pptx_synthetic(pptx_path, out)
+            return
+        produced = td_path / (pptx_path.stem + ".pdf")
+        if not produced.is_file():
+            _render_pptx_synthetic(pptx_path, out)
+            return
+        render_pdf_first_page(produced, out)
 
 
-def render_thumbnail(out_path: pathlib.Path, kind: str, track: str,
-                     klasse: int, niveau: str, unit_nr: int,
-                     title: str) -> None:
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-
-    # 16:9 for presentation thumbs, 1:sqrt(2) ~ A4 portrait for worksheets.
-    if kind == "presentation":
-        w, h = 800, 450
-        bg, fg, accent = (245, 247, 250), (34, 34, 34), (60, 90, 160)
-    else:
-        w, h = 600, 848  # ~A4 ratio
-        bg, fg, accent = (250, 246, 240), (34, 34, 34), (160, 90, 60)
-
-    img = Image.new("RGB", (w, h), bg)
+def _render_pptx_synthetic(pptx_path: pathlib.Path, out: pathlib.Path) -> None:
+    """Fallback used when LibreOffice is unavailable. The title is the
+    PPTX core property `title`; otherwise the file stem."""
+    out.parent.mkdir(parents=True, exist_ok=True)
+    title = pptx_path.stem
+    try:
+        from pptx import Presentation
+        title = Presentation(str(pptx_path)).core_properties.title or title
+    except Exception:
+        pass
+    w, h = 800, 450
+    img = Image.new("RGB", (w, h), (245, 247, 250))
     draw = ImageDraw.Draw(img)
-
-    pad = 40
-    # Top accent bar.
-    draw.rectangle([(0, 0), (w, 8)], fill=accent)
-
-    # Kind label.
-    label = "Presentation" if kind == "presentation" else "Worksheet"
-    draw.text((pad, pad), label.upper(), font=_font(18), fill=accent)
-
-    # Title — wrap manually if long.
-    title_text = f"Unit {unit_nr}: {title}"
-    title_font = _font(34 if kind == "presentation" else 28)
-    wrapped: list[str] = []
-    line = ""
-    for word in title_text.split():
-        candidate = (line + " " + word).strip()
-        bbox = draw.textbbox((0, 0), candidate, font=title_font)
-        if bbox[2] - bbox[0] > w - 2 * pad and line:
-            wrapped.append(line)
-            line = word
-        else:
-            line = candidate
-    if line:
-        wrapped.append(line)
-
-    y = pad + 36
-    for ln in wrapped:
-        draw.text((pad, y), ln, font=title_font, fill=fg)
-        y += title_font.size + 8
-
-    # Subtitle.
-    track_label = "G+M" if track == "gm" else "E"
-    sub = f"Track {track_label} · Klasse {klasse} · Niveau {niveau}"
-    draw.text((pad, y + 12), sub, font=_font(18), fill=(80, 80, 80))
-
-    # Footer "placeholder" caption.
-    caption = "Placeholder — replace with final material."
-    draw.text((pad, h - pad - 36), caption, font=_font(16),
-              fill=(120, 120, 120))
-    draw.text((pad, h - pad - 14),
-              f"© S. Le Boulanger · CC-BY-SA 4.0",
-              font=_font(12), fill=(140, 140, 140))
-
-    img.save(out_path, format="PNG", optimize=True)
+    draw.rectangle([(0, 0), (w, 8)], fill=(60, 90, 160))
+    try:
+        font = ImageFont.truetype("DejaVuSans.ttf", 30)
+        small = ImageFont.truetype("DejaVuSans.ttf", 16)
+    except (OSError, IOError):
+        font = ImageFont.load_default()
+        small = font
+    draw.text((40, 60), "PRESENTATION", font=small, fill=(60, 90, 160))
+    draw.text((40, 96), title[:60], font=font, fill=(34, 34, 34))
+    draw.text((40, h - 60), "Synthetic preview — install LibreOffice for real render.",
+              font=small, fill=(140, 140, 140))
+    img.save(out, format="PNG", optimize=True)
 
 
 def iter_units(outline: dict):
     for course in outline.get("courses", []):
         track = course["track"]
         klasse = int(course["klassenstufe"])
-        niveau = course.get("niveau", "")
         for unit in course.get("units", []):
             yield {
                 "track": track,
                 "klasse": klasse,
-                "niveau": unit.get("niveau", niveau),
                 "unit_nr": int(unit["unit_nr"]),
                 "slug": unit["slug"],
-                "title": unit["title"],
             }
 
 
@@ -123,31 +148,44 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--worksheets-out", default=str(WORKSHEETS_OUT))
     ap.add_argument("--presentations-out", default=str(PRESENTATIONS_OUT))
+    ap.add_argument("--worksheets-bin", default=str(WORKSHEETS_BIN))
+    ap.add_argument("--presentations-bin", default=str(PRESENTATIONS_BIN))
     args = ap.parse_args()
 
     if not OUTLINE.exists():
         print(f"WARN: {OUTLINE} not found.", file=sys.stderr)
         return 0
 
-    with OUTLINE.open(encoding="utf-8") as f:
-        outline = yaml.safe_load(f) or {}
+    print(f"LibreOffice: {SOFFICE or 'NOT FOUND (synthetic fallback for .pptx)'}")
+    print(f"PDFium:      pypdfium2 ready")
 
-    ws_base = pathlib.Path(args.worksheets_out)
-    pr_base = pathlib.Path(args.presentations_out)
-    n = 0
+    outline = yaml.safe_load(OUTLINE.read_text(encoding="utf-8")) or {}
+    ws_base, pr_base = pathlib.Path(args.worksheets_out), pathlib.Path(args.presentations_out)
+    ws_bin, pr_bin = pathlib.Path(args.worksheets_bin), pathlib.Path(args.presentations_bin)
+
+    n_ws = n_pr = 0
     for u in iter_units(outline):
-        nn = f"{u['unit_nr']:02d}"
-        kk = f"{u['klasse']:02d}"
-        ws_path = (ws_base / u["track"] / f"kl{kk}" /
-                   f"unit{nn}_{u['slug']}.png")
-        pr_path = (pr_base / u["track"] / f"kl{kk}" /
-                   f"unit{nn}_{u['slug']}.png")
-        render_thumbnail(ws_path, "worksheet", u["track"], u["klasse"],
-                         u["niveau"], u["unit_nr"], u["title"])
-        render_thumbnail(pr_path, "presentation", u["track"], u["klasse"],
-                         u["niveau"], u["unit_nr"], u["title"])
-        n += 1
-    print(f"Wrote {n} worksheet + {n} presentation thumbnail PNG(s).")
+        nn, kk = f"{u['unit_nr']:02d}", f"{u['klasse']:02d}"
+        slug, track = u["slug"], u["track"]
+        # Worksheet thumbnail.
+        pdf = ws_bin / track / f"kl{kk}" / f"unit{nn}_{slug}_worksheet.pdf"
+        if pdf.is_file():
+            out = ws_base / track / f"kl{kk}" / f"unit{nn}_{slug}.png"
+            try:
+                render_pdf_first_page(pdf, out)
+                n_ws += 1
+            except Exception as e:
+                print(f"  WS fail {pdf.name}: {e}", file=sys.stderr)
+        # Presentation thumbnail.
+        pptx = pr_bin / track / f"kl{kk}" / f"unit{nn}_{slug}.pptx"
+        if pptx.is_file():
+            out = pr_base / track / f"kl{kk}" / f"unit{nn}_{slug}.png"
+            try:
+                render_pptx_first_slide(pptx, out)
+                n_pr += 1
+            except Exception as e:
+                print(f"  PR fail {pptx.name}: {e}", file=sys.stderr)
+    print(f"Wrote {n_ws} worksheet + {n_pr} presentation thumbnails.")
     return 0
 
 
