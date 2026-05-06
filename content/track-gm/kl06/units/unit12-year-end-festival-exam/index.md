@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 12
-slug: "year-end-festival"
+unit_slug: "year-end-festival"
 aliases:
   - /track_gm_kl06/units/unit12_year-end-festival_exam.html
 ---

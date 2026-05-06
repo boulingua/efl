@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 3
-slug: "fairness-at-school"
+unit_slug: "fairness-at-school"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"

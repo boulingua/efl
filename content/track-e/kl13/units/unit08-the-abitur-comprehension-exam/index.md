@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 8
-slug: "the-abitur-comprehension"
+unit_slug: "the-abitur-comprehension"
 aliases:
   - /track_e_kl13/units/unit08_the-abitur-comprehension_exam.html
 ---

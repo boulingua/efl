@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 12
-slug: "school-magazine-issue"
+unit_slug: "school-magazine-issue"
 aliases:
   - /track_gm_kl08/units/unit12_school-magazine-issue_exam.html
 ---

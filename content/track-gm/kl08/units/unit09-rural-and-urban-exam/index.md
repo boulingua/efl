@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 9
-slug: "rural-and-urban"
+unit_slug: "rural-and-urban"
 aliases:
   - /track_gm_kl08/units/unit09_rural-and-urban_exam.html
 ---

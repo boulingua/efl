@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 12
-slug: "year-end-festival"
+unit_slug: "year-end-festival"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.4 Sprechen – zusammenhängendes monologisches Sprechen"

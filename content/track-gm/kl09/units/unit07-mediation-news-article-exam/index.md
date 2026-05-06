@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 7
-slug: "mediation-news-article"
+unit_slug: "mediation-news-article"
 aliases:
   - /track_gm_kl09/units/unit07_mediation-news-article_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 7
-slug: "an-adventure-story"
+unit_slug: "an-adventure-story"
 aliases:
   - /track_e_kl06/units/unit07_an-adventure-story_exam.html
 ---

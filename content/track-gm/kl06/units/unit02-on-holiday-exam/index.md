@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 2
-slug: "on-holiday"
+unit_slug: "on-holiday"
 aliases:
   - /track_gm_kl06/units/unit02_on-holiday_exam.html
 ---

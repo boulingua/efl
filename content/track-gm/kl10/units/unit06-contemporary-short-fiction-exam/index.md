@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 6
-slug: "contemporary-short-fiction"
+unit_slug: "contemporary-short-fiction"
 aliases:
   - /track_gm_kl10/units/unit06_contemporary-short-fiction_exam.html
 ---

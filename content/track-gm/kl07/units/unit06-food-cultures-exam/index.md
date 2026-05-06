@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 6
-slug: "food-cultures"
+unit_slug: "food-cultures"
 aliases:
   - /track_gm_kl07/units/unit06_food-cultures_exam.html
 ---

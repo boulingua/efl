@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 8
-slug: "hobbies-and-sports"
+unit_slug: "hobbies-and-sports"
 aliases:
   - /track_e_kl05/units/unit08_hobbies-and-sports_exam.html
 ---

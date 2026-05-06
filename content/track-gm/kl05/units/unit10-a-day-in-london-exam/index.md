@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 10
-slug: "a-day-in-london"
+unit_slug: "a-day-in-london"
 aliases:
   - /track_gm_kl05/units/unit10_a-day-in-london_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 4
-slug: "canada-perspectives"
+unit_slug: "canada-perspectives"
 aliases:
   - /track_e_kl09/units/unit04_canada-perspectives_exam.html
 ---

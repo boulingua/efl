@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 11
-slug: "klausur-comprehension-analysis"
+unit_slug: "klausur-comprehension-analysis"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.2 / 3.5.3.2 Leseverstehen"

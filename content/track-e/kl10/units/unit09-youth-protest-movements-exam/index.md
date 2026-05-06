@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 9
-slug: "youth-protest-movements"
+unit_slug: "youth-protest-movements"
 aliases:
   - /track_e_kl10/units/unit09_youth-protest-movements_exam.html
 ---

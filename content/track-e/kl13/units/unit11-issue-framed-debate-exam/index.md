@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 11
-slug: "issue-framed-debate"
+unit_slug: "issue-framed-debate"
 aliases:
   - /track_e_kl13/units/unit11_issue-framed-debate_exam.html
 ---

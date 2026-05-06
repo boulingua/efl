@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 12
-slug: "review-and-show"
+unit_slug: "review-and-show"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.4 Sprechen – zusammenhängendes monologisches Sprechen"

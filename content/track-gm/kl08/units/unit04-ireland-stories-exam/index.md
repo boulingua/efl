@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 4
-slug: "ireland-stories"
+unit_slug: "ireland-stories"
 aliases:
   - /track_gm_kl08/units/unit04_ireland-stories_exam.html
 ---

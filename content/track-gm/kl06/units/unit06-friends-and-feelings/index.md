@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 6
-slug: "friends-and-feelings"
+unit_slug: "friends-and-feelings"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"

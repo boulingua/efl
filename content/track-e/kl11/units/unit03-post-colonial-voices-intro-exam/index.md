@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 3
-slug: "post-colonial-voices-intro"
+unit_slug: "post-colonial-voices-intro"
 aliases:
   - /track_e_kl11/units/unit03_post-colonial-voices-intro_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 2
-slug: "political-discourse-advanced"
+unit_slug: "political-discourse-advanced"
 aliases:
   - /track_e_kl13/units/unit02_political-discourse-advanced_exam.html
 ---

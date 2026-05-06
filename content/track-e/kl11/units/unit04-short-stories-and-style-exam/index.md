@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 4
-slug: "short-stories-and-style"
+unit_slug: "short-stories-and-style"
 aliases:
   - /track_e_kl11/units/unit04_short-stories-and-style_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 9
-slug: "body-and-health"
+unit_slug: "body-and-health"
 aliases:
   - /track_e_kl06/units/unit09_body-and-health_exam.html
 ---

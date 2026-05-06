@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 4
-slug: "short-stories-and-style"
+unit_slug: "short-stories-and-style"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.2 / 3.5.3.2 Leseverstehen"

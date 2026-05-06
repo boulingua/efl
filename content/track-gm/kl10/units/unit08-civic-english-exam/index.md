@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 8
-slug: "civic-english"
+unit_slug: "civic-english"
 aliases:
   - /track_gm_kl10/units/unit08_civic-english_exam.html
 ---

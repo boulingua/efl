@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 8
-slug: "the-abitur-comprehension"
+unit_slug: "the-abitur-comprehension"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.2 / 3.5.3.2 Leseverstehen"

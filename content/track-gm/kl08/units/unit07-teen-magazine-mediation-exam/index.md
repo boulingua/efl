@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 7
-slug: "teen-magazine-mediation"
+unit_slug: "teen-magazine-mediation"
 aliases:
   - /track_gm_kl08/units/unit07_teen-magazine-mediation_exam.html
 ---

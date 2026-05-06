@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 4
-slug: "food-around-the-world"
+unit_slug: "food-around-the-world"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.2 Interkulturelle kommunikative Kompetenz"

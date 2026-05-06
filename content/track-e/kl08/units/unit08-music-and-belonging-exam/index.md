@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 8
-slug: "music-and-belonging"
+unit_slug: "music-and-belonging"
 aliases:
   - /track_e_kl08/units/unit08_music-and-belonging_exam.html
 ---

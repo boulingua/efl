@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 6
-slug: "animals-and-pets"
+unit_slug: "animals-and-pets"
 aliases:
   - /track_gm_kl05/units/unit06_animals-and-pets_exam.html
 ---

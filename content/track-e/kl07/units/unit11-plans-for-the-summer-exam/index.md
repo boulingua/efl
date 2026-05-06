@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 11
-slug: "plans-for-the-summer"
+unit_slug: "plans-for-the-summer"
 aliases:
   - /track_e_kl07/units/unit11_plans-for-the-summer_exam.html
 ---

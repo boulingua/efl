@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 10
-slug: "kommunikationspruefung-mock"
+unit_slug: "kommunikationspruefung-mock"
 aliases:
   - /track_e_kl12/units/unit10_kommunikationspruefung-mock_exam.html
 ---

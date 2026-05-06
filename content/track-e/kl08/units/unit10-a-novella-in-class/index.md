@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 10
-slug: "a-novella-in-class"
+unit_slug: "a-novella-in-class"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.2 Leseverstehen"

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 11
-slug: "captain-codys-map"
+unit_slug: "captain-codys-map"
 aliases:
   - /track_e_kl06/units/unit11_captain-codys-map_exam.html
 ---

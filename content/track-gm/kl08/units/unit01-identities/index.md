@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 1
-slug: "identities"
+unit_slug: "identities"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"

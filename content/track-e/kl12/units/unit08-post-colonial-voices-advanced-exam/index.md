@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 8
-slug: "post-colonial-voices-advanced"
+unit_slug: "post-colonial-voices-advanced"
 aliases:
   - /track_e_kl12/units/unit08_post-colonial-voices-advanced_exam.html
 ---

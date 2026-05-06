@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 12
-slug: "year-review-portfolio"
+unit_slug: "year-review-portfolio"
 aliases:
   - /track_gm_kl09/units/unit12_year-review-portfolio_exam.html
 ---

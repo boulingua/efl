@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 3
-slug: "science-and-ethics"
+unit_slug: "science-and-ethics"
 aliases:
   - /track_e_kl12/units/unit03_science-and-ethics_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 12
-slug: "review-and-show"
+unit_slug: "review-and-show"
 aliases:
   - /track_e_kl05/units/unit12_review-and-show_exam.html
 ---

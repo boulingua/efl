@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 9
-slug: "youth-and-the-future"
+unit_slug: "youth-and-the-future"
 aliases:
   - /track_gm_kl10/units/unit09_youth-and-the-future_exam.html
 ---

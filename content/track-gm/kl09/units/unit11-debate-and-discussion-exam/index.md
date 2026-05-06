@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 11
-slug: "debate-and-discussion"
+unit_slug: "debate-and-discussion"
 aliases:
   - /track_gm_kl09/units/unit11_debate-and-discussion_exam.html
 ---

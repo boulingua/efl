@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 5
-slug: "daily-routines"
+unit_slug: "daily-routines"
 aliases:
   - /track_gm_kl06/units/unit05_daily-routines_exam.html
 ---

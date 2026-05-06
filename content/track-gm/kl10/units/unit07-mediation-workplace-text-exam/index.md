@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 7
-slug: "mediation-workplace-text"
+unit_slug: "mediation-workplace-text"
 aliases:
   - /track_gm_kl10/units/unit07_mediation-workplace-text_exam.html
 ---

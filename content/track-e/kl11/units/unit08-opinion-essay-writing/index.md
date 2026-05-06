@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 8
-slug: "opinion-essay-writing"
+unit_slug: "opinion-essay-writing"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.2 / 3.5.3.2 Leseverstehen"

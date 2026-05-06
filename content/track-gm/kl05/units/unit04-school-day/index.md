@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 4
-slug: "school-day"
+unit_slug: "school-day"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.1 Hör-/Hörsehverstehen"

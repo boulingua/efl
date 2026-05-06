@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 9
-slug: "school-rules-and-rights"
+unit_slug: "school-rules-and-rights"
 aliases:
   - /track_e_kl07/units/unit09_school-rules-and-rights_exam.html
 ---

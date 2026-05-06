@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 5
-slug: "food-and-drinks"
+unit_slug: "food-and-drinks"
 aliases:
   - /track_e_kl05/units/unit05_food-and-drinks_exam.html
 ---

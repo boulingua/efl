@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 2
-slug: "the-world-of-work"
+unit_slug: "the-world-of-work"
 aliases:
   - /track_gm_kl10/units/unit02_the-world-of-work_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 9
-slug: "a-novel-in-full"
+unit_slug: "a-novel-in-full"
 aliases:
   - /track_e_kl12/units/unit09_a-novel-in-full_exam.html
 ---

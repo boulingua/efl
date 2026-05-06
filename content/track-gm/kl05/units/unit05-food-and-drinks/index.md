@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 5
-slug: "food-and-drinks"
+unit_slug: "food-and-drinks"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.2 Leseverstehen"

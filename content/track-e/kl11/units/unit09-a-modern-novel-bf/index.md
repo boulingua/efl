@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 9
-slug: "a-modern-novel-bf"
+unit_slug: "a-modern-novel-bf"
 bildungsplan:
   - "3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.5.3.2 Leseverstehen"

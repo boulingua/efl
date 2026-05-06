@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 9
-slug: "short-fiction"
+unit_slug: "short-fiction"
 aliases:
   - /track_e_kl09/units/unit09_short-fiction_exam.html
 ---

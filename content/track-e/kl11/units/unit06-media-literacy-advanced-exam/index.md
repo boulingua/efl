@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 6
-slug: "media-literacy-advanced"
+unit_slug: "media-literacy-advanced"
 aliases:
   - /track_e_kl11/units/unit06_media-literacy-advanced_exam.html
 ---

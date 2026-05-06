@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 5
-slug: "daily-routines"
+unit_slug: "daily-routines"
 aliases:
   - /track_e_kl06/units/unit05_daily-routines_exam.html
 ---

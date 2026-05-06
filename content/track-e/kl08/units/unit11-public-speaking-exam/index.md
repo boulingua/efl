@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 11
-slug: "public-speaking"
+unit_slug: "public-speaking"
 aliases:
   - /track_e_kl08/units/unit11_public-speaking_exam.html
 ---

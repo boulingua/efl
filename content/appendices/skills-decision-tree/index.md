@@ -9,7 +9,7 @@ Pick a skill area, then jump to representative Units across the
 fifteen courses. Generated from front-matter scans (3 representative
 Units per skill).
 
-```{mermaid}
+```mermaid
 flowchart LR
   ROOT[Which skill?] --> L[Listening]
   ROOT --> R[Reading]

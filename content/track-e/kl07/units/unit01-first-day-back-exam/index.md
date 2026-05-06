@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 1
-slug: "first-day-back"
+unit_slug: "first-day-back"
 aliases:
   - /track_e_kl07/units/unit01_first-day-back_exam.html
 ---

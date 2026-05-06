@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 8
-slug: "hobbies-and-sports"
+unit_slug: "hobbies-and-sports"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.1 Hör-/Hörsehverstehen"

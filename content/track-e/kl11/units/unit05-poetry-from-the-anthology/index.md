@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 5
-slug: "poetry-from-the-anthology"
+unit_slug: "poetry-from-the-anthology"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.2 / 3.5.3.2 Leseverstehen"

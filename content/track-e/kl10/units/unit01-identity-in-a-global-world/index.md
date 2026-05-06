@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 1
-slug: "identity-in-a-global-world"
+unit_slug: "identity-in-a-global-world"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.2 Interkulturelle kommunikative Kompetenz"

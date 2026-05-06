@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 8
-slug: "inequality-and-voice"
+unit_slug: "inequality-and-voice"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"

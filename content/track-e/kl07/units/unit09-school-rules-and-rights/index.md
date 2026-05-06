@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 9
-slug: "school-rules-and-rights"
+unit_slug: "school-rules-and-rights"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"

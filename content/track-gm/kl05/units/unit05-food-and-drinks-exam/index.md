@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 5
-slug: "food-and-drinks"
+unit_slug: "food-and-drinks"
 aliases:
   - /track_gm_kl05/units/unit05_food-and-drinks_exam.html
 ---

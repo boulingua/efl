@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 1
-slug: "hello-world"
+unit_slug: "hello-world"
 aliases:
   - /track_e_kl05/units/unit01_hello-world_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 4
-slug: "australia-now"
+unit_slug: "australia-now"
 aliases:
   - /track_gm_kl10/units/unit04_australia-now_exam.html
 ---

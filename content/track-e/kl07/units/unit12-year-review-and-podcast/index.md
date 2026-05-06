@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 12
-slug: "year-review-and-podcast"
+unit_slug: "year-review-and-podcast"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"

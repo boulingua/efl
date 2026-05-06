@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 10
-slug: "travelling-by-train"
+unit_slug: "travelling-by-train"
 aliases:
   - /track_e_kl06/units/unit10_travelling-by-train_exam.html
 ---

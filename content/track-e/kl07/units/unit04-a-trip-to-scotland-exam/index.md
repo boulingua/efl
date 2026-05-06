@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 4
-slug: "a-trip-to-scotland"
+unit_slug: "a-trip-to-scotland"
 aliases:
   - /track_e_kl07/units/unit04_a-trip-to-scotland_exam.html
 ---

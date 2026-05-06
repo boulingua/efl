@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 8
-slug: "music-and-belonging"
+unit_slug: "music-and-belonging"
 aliases:
   - /track_gm_kl08/units/unit08_music-and-belonging_exam.html
 ---

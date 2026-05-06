@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 2
-slug: "growing-up"
+unit_slug: "growing-up"
 aliases:
   - /track_gm_kl07/units/unit02_growing-up_exam.html
 ---

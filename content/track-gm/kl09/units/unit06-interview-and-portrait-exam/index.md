@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 6
-slug: "interview-and-portrait"
+unit_slug: "interview-and-portrait"
 aliases:
   - /track_gm_kl09/units/unit06_interview-and-portrait_exam.html
 ---

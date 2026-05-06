@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 12
-slug: "year-review-and-handover"
+unit_slug: "year-review-and-handover"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.4 / 3.5.3.4 Sprechen – zusammenhängendes monologisches Sprechen"

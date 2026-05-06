@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 9
-slug: "short-fiction"
+unit_slug: "short-fiction"
 aliases:
   - /track_gm_kl09/units/unit09_short-fiction_exam.html
 ---

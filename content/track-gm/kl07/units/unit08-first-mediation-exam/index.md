@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 8
-slug: "first-mediation"
+unit_slug: "first-mediation"
 aliases:
   - /track_gm_kl07/units/unit08_first-mediation_exam.html
 ---

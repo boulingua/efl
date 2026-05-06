@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 5
-slug: "political-discourse"
+unit_slug: "political-discourse"
 aliases:
   - /track_e_kl12/units/unit05_political-discourse_exam.html
 ---

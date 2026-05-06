@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 1
-slug: "a-new-year-at-school"
+unit_slug: "a-new-year-at-school"
 aliases:
   - /track_gm_kl06/units/unit01_a-new-year-at-school_exam.html
 ---

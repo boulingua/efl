@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 1
-slug: "first-day-back"
+unit_slug: "first-day-back"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.1 Hör-/Hörsehverstehen"

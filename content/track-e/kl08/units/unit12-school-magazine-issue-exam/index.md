@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 12
-slug: "school-magazine-issue"
+unit_slug: "school-magazine-issue"
 aliases:
   - /track_e_kl08/units/unit12_school-magazine-issue_exam.html
 ---

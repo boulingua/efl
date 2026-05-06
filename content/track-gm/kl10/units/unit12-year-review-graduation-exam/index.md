@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 12
-slug: "year-review-graduation"
+unit_slug: "year-review-graduation"
 aliases:
   - /track_gm_kl10/units/unit12_year-review-graduation_exam.html
 ---

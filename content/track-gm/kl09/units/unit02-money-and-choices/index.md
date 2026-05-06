@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 2
-slug: "money-and-choices"
+unit_slug: "money-and-choices"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.2 Leseverstehen"

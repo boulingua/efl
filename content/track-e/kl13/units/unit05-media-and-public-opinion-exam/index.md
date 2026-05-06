@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 5
-slug: "media-and-public-opinion"
+unit_slug: "media-and-public-opinion"
 aliases:
   - /track_e_kl13/units/unit05_media-and-public-opinion_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 6
-slug: "mediation-policy-text"
+unit_slug: "mediation-policy-text"
 aliases:
   - /track_e_kl13/units/unit06_mediation-policy-text_exam.html
 ---

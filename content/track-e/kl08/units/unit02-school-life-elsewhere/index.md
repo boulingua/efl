@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 2
-slug: "school-life-elsewhere"
+unit_slug: "school-life-elsewhere"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"

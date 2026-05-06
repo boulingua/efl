@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 3
-slug: "dystopias-and-utopias"
+unit_slug: "dystopias-and-utopias"
 aliases:
   - /track_e_kl13/units/unit03_dystopias-and-utopias_exam.html
 ---

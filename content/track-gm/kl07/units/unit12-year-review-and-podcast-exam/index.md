@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 12
-slug: "year-review-and-podcast"
+unit_slug: "year-review-and-podcast"
 aliases:
   - /track_gm_kl07/units/unit12_year-review-and-podcast_exam.html
 ---

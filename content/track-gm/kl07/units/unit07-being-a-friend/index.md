@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 7
-slug: "being-a-friend"
+unit_slug: "being-a-friend"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.1 Hör-/Hörsehverstehen"

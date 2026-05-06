@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 1
-slug: "future-careers"
+unit_slug: "future-careers"
 aliases:
   - /track_e_kl09/units/unit01_future-careers_exam.html
 ---

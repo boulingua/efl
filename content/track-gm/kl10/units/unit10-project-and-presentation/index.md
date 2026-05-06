@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 10
-slug: "project-and-presentation"
+unit_slug: "project-and-presentation"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.4 Sprechen – zusammenhängendes monologisches Sprechen"

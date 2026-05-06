@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 5
-slug: "poetry-from-the-anthology"
+unit_slug: "poetry-from-the-anthology"
 aliases:
   - /track_e_kl11/units/unit05_poetry-from-the-anthology_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 3
-slug: "digital-lives"
+unit_slug: "digital-lives"
 aliases:
   - /track_e_kl10/units/unit03_digital-lives_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 7
-slug: "mediation-academic-text"
+unit_slug: "mediation-academic-text"
 aliases:
   - /track_e_kl12/units/unit07_mediation-academic-text_exam.html
 ---

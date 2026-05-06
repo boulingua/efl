@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 10
-slug: "a-classic-text-lf"
+unit_slug: "a-classic-text-lf"
 bildungsplan:
   - "3.4.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.2 Leseverstehen"

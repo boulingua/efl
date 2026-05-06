@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 8
-slug: "first-mediation"
+unit_slug: "first-mediation"
 aliases:
   - /track_e_kl07/units/unit08_first-mediation_exam.html
 ---

@@ -8,7 +8,7 @@ aliases:
 The repeating cycle behind every Unit on this site, from
 Bildungsplan to feedback.
 
-```{mermaid}
+```mermaid
 flowchart TD
   A[Lehrplan-Abgleich<br/>curriculum framework ("Bildungsplan") + Schuljahr] --> B[Unit-Plan<br/>Lernziele, Skills, Exam-Typ]
   B --> C[Activate<br/>Vorwissen, Hook]

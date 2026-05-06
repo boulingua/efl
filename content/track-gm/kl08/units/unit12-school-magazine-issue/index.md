@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 12
-slug: "school-magazine-issue"
+unit_slug: "school-magazine-issue"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.4 Sprechen – zusammenhängendes monologisches Sprechen"

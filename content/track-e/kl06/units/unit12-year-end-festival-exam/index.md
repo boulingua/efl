@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 12
-slug: "year-end-festival"
+unit_slug: "year-end-festival"
 aliases:
   - /track_e_kl06/units/unit12_year-end-festival_exam.html
 ---

@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 7
-slug: "mediation-news-article"
+unit_slug: "mediation-news-article"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.5 Schreiben"

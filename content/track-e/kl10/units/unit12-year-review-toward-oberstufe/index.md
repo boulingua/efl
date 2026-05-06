@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 12
-slug: "year-review-toward-oberstufe"
+unit_slug: "year-review-toward-oberstufe"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.4 Sprechen – zusammenhängendes monologisches Sprechen"

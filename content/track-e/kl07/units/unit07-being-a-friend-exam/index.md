@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 7
-slug: "being-a-friend"
+unit_slug: "being-a-friend"
 aliases:
   - /track_e_kl07/units/unit07_being-a-friend_exam.html
 ---

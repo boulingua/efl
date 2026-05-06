@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 10
-slug: "travelling-by-train"
+unit_slug: "travelling-by-train"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.1 Hör-/Hörsehverstehen"

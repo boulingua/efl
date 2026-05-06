@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 5
-slug: "the-united-states-today"
+unit_slug: "the-united-states-today"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"

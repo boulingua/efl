@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 2
-slug: "the-american-dream"
+unit_slug: "the-american-dream"
 aliases:
   - /track_e_kl11/units/unit02_the-american-dream_exam.html
 ---

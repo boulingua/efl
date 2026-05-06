@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 11
-slug: "clothes-and-colours"
+unit_slug: "clothes-and-colours"
 aliases:
   - /track_gm_kl05/units/unit11_clothes-and-colours_exam.html
 ---

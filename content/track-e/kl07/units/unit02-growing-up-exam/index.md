@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 2
-slug: "growing-up"
+unit_slug: "growing-up"
 aliases:
   - /track_e_kl07/units/unit02_growing-up_exam.html
 ---

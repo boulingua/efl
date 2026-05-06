@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 9
-slug: "birthday-and-friends"
+unit_slug: "birthday-and-friends"
 aliases:
   - /track_gm_kl05/units/unit09_birthday-and-friends_exam.html
 ---

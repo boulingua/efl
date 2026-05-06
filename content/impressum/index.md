@@ -1,6 +1,5 @@
 ---
 title: "Impressum"
-lang: de
 aliases:
   - /legal/impressum/
   - /impressum.html

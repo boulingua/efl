@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 1
-slug: "a-new-year-at-school"
+unit_slug: "a-new-year-at-school"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"

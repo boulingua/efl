@@ -53,7 +53,12 @@ jobs:
       - name: Verify Plausible appears in rendered home page
         run: |
           test -f public/index.html
-          grep -q 'data-domain="boulingua.github.io/efl"' public/index.html
+          # Hugo's HTML minifier may strip the quotes around attribute values,
+          # so accept both quoted and bare forms.
+          grep -qE 'data-domain="?boulingua\.github\.io/efl"?' public/index.html
+
+      - name: Verify VG Wort manifest survived migration
+        run: python _scripts/verify_all_pixels.py
 
       - uses: actions/configure-pages@v5
 

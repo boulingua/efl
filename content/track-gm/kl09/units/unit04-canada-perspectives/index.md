@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 4
-slug: "canada-perspectives"
+unit_slug: "canada-perspectives"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"

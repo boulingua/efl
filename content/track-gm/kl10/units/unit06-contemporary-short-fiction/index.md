@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 6
-slug: "contemporary-short-fiction"
+unit_slug: "contemporary-short-fiction"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.2 Leseverstehen"

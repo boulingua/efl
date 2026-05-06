@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 10
-slug: "a-day-in-london"
+unit_slug: "a-day-in-london"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.2 Interkulturelle kommunikative Kompetenz"

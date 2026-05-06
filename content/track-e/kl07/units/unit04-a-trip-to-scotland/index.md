@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 4
-slug: "a-trip-to-scotland"
+unit_slug: "a-trip-to-scotland"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"

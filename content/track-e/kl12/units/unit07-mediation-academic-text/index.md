@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 7
-slug: "mediation-academic-text"
+unit_slug: "mediation-academic-text"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.5 / 3.5.3.5 Schreiben"

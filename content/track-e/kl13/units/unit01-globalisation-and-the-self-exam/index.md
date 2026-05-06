@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 1
-slug: "globalisation-and-the-self"
+unit_slug: "globalisation-and-the-self"
 aliases:
   - /track_e_kl13/units/unit01_globalisation-and-the-self_exam.html
 ---

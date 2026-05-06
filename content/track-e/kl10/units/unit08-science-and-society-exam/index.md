@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 8
-slug: "science-and-society"
+unit_slug: "science-and-society"
 aliases:
   - /track_e_kl10/units/unit08_science-and-society_exam.html
 ---

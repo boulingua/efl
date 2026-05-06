@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 3
-slug: "media-in-our-lives"
+unit_slug: "media-in-our-lives"
 aliases:
   - /track_e_kl07/units/unit03_media-in-our-lives_exam.html
 ---

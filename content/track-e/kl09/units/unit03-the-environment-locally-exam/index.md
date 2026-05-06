@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 3
-slug: "the-environment-locally"
+unit_slug: "the-environment-locally"
 aliases:
   - /track_e_kl09/units/unit03_the-environment-locally_exam.html
 ---

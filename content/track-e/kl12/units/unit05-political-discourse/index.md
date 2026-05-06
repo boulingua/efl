@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 5
-slug: "political-discourse"
+unit_slug: "political-discourse"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen"

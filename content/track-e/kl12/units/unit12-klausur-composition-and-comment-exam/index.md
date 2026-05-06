@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 12
-slug: "klausur-composition-and-comment"
+unit_slug: "klausur-composition-and-comment"
 aliases:
   - /track_e_kl12/units/unit12_klausur-composition-and-comment_exam.html
 ---

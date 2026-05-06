@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 1
-slug: "hello-world"
+unit_slug: "hello-world"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"

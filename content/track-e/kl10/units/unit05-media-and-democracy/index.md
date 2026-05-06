@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 5
-slug: "media-and-democracy"
+unit_slug: "media-and-democracy"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.2 Leseverstehen"

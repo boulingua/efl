@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 8
-slug: "civic-english"
+unit_slug: "civic-english"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.2 Interkulturelle kommunikative Kompetenz"

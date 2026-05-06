@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 3
-slug: "in-the-city"
+unit_slug: "in-the-city"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.2 Leseverstehen"

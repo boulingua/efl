@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 12
-slug: "year-review-toward-oberstufe"
+unit_slug: "year-review-toward-oberstufe"
 aliases:
   - /track_e_kl10/units/unit12_year-review-toward-oberstufe_exam.html
 ---

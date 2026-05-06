@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 4
-slug: "contemporary-poetry"
+unit_slug: "contemporary-poetry"
 aliases:
   - /track_e_kl13/units/unit04_contemporary-poetry_exam.html
 ---

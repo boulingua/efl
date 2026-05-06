@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 3
-slug: "dystopias-and-utopias"
+unit_slug: "dystopias-and-utopias"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.2 / 3.5.3.2 Leseverstehen"

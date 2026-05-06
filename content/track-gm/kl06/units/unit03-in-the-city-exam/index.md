@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 3
-slug: "in-the-city"
+unit_slug: "in-the-city"
 aliases:
   - /track_gm_kl06/units/unit03_in-the-city_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 4
-slug: "shakespeare-extract"
+unit_slug: "shakespeare-extract"
 aliases:
   - /track_e_kl12/units/unit04_shakespeare-extract_exam.html
 ---

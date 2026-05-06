@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 2
-slug: "my-family"
+unit_slug: "my-family"
 aliases:
   - /track_e_kl05/units/unit02_my-family_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 12
-slug: "year-review-and-podcast"
+unit_slug: "year-review-and-podcast"
 aliases:
   - /track_e_kl07/units/unit12_year-review-and-podcast_exam.html
 ---

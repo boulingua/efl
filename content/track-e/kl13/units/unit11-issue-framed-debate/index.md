@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 11
-slug: "issue-framed-debate"
+unit_slug: "issue-framed-debate"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen"

@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 4
-slug: "food-around-the-world"
+unit_slug: "food-around-the-world"
 aliases:
   - /track_gm_kl06/units/unit04_food-around-the-world_exam.html
 ---

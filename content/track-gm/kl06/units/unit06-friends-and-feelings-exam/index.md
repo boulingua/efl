@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 6
-slug: "friends-and-feelings"
+unit_slug: "friends-and-feelings"
 aliases:
   - /track_gm_kl06/units/unit06_friends-and-feelings_exam.html
 ---

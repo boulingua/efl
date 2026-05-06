@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 7
-slug: "mediation-as-a-skill"
+unit_slug: "mediation-as-a-skill"
 aliases:
   - /track_e_kl11/units/unit07_mediation-as-a-skill_exam.html
 ---

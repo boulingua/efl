@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 6
-slug: "opinion-writing"
+unit_slug: "opinion-writing"
 aliases:
   - /track_e_kl08/units/unit06_opinion-writing_exam.html
 ---

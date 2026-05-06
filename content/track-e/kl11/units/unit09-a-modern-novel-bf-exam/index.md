@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 9
-slug: "a-modern-novel-bf"
+unit_slug: "a-modern-novel-bf"
 aliases:
   - /track_e_kl11/units/unit09_a-modern-novel-bf_exam.html
 ---

@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 8
-slug: "school-around-the-world"
+unit_slug: "school-around-the-world"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.2 Interkulturelle kommunikative Kompetenz"

@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 10
-slug: "project-and-presentation"
+unit_slug: "project-and-presentation"
 aliases:
   - /track_gm_kl10/units/unit10_project-and-presentation_exam.html
 ---

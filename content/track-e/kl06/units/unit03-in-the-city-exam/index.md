@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 3
-slug: "in-the-city"
+unit_slug: "in-the-city"
 aliases:
   - /track_e_kl06/units/unit03_in-the-city_exam.html
 ---

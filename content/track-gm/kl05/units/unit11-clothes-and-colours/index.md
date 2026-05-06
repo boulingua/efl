@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 11
-slug: "clothes-and-colours"
+unit_slug: "clothes-and-colours"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"

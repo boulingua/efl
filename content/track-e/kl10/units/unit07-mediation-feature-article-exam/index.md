@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 7
-slug: "mediation-feature-article"
+unit_slug: "mediation-feature-article"
 aliases:
   - /track_e_kl10/units/unit07_mediation-feature-article_exam.html
 ---

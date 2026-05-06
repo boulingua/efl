@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 1
-slug: "identity-in-a-global-world"
+unit_slug: "identity-in-a-global-world"
 aliases:
   - /track_e_kl10/units/unit01_identity-in-a-global-world_exam.html
 ---

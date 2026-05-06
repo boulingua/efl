@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 10
-slug: "a-novella-in-class"
+unit_slug: "a-novella-in-class"
 aliases:
   - /track_e_kl08/units/unit10_a-novella-in-class_exam.html
 ---

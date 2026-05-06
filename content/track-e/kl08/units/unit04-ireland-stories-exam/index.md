@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 4
-slug: "ireland-stories"
+unit_slug: "ireland-stories"
 aliases:
   - /track_e_kl08/units/unit04_ireland-stories_exam.html
 ---

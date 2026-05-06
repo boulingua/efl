@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 3
-slug: "the-environment-locally"
+unit_slug: "the-environment-locally"
 aliases:
   - /track_gm_kl09/units/unit03_the-environment-locally_exam.html
 ---

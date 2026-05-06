@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 10
-slug: "application-letter"
+unit_slug: "application-letter"
 aliases:
   - /track_e_kl09/units/unit10_application-letter_exam.html
 ---

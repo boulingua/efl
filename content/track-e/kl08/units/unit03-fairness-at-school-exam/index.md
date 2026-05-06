@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 3
-slug: "fairness-at-school"
+unit_slug: "fairness-at-school"
 aliases:
   - /track_e_kl08/units/unit03_fairness-at-school_exam.html
 ---

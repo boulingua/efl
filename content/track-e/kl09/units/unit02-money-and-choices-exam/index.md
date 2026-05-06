@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 2
-slug: "money-and-choices"
+unit_slug: "money-and-choices"
 aliases:
   - /track_e_kl09/units/unit02_money-and-choices_exam.html
 ---

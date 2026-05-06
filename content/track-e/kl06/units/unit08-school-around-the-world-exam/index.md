@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 8
-slug: "school-around-the-world"
+unit_slug: "school-around-the-world"
 aliases:
   - /track_e_kl06/units/unit08_school-around-the-world_exam.html
 ---

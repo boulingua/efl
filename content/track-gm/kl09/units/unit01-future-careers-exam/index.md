@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 1
-slug: "future-careers"
+unit_slug: "future-careers"
 aliases:
   - /track_gm_kl09/units/unit01_future-careers_exam.html
 ---

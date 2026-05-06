@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 6
-slug: "opinion-writing"
+unit_slug: "opinion-writing"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.2 Leseverstehen"

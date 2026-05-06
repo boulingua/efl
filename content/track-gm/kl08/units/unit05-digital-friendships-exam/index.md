@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 5
-slug: "digital-friendships"
+unit_slug: "digital-friendships"
 aliases:
   - /track_gm_kl08/units/unit05_digital-friendships_exam.html
 ---

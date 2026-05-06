@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 11
-slug: "captain-codys-map"
+unit_slug: "captain-codys-map"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.2 Leseverstehen"

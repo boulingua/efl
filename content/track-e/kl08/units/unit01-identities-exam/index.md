@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 1
-slug: "identities"
+unit_slug: "identities"
 aliases:
   - /track_e_kl08/units/unit01_identities_exam.html
 ---

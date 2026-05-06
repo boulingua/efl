@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 5
-slug: "digital-friendships"
+unit_slug: "digital-friendships"
 aliases:
   - /track_e_kl08/units/unit05_digital-friendships_exam.html
 ---

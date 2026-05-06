@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 3
-slug: "digital-lives-at-work"
+unit_slug: "digital-lives-at-work"
 aliases:
   - /track_gm_kl10/units/unit03_digital-lives-at-work_exam.html
 ---

@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 11
-slug: "public-speaking-and-debate"
+unit_slug: "public-speaking-and-debate"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.1 Hör-/Hörsehverstehen"

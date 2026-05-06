@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 7
-slug: "an-adventure-story"
+unit_slug: "an-adventure-story"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.2 Leseverstehen"

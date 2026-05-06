@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 11
-slug: "public-speaking-and-debate"
+unit_slug: "public-speaking-and-debate"
 aliases:
   - /track_e_kl10/units/unit11_public-speaking-and-debate_exam.html
 ---

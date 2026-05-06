@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 1
-slug: "globalisation-and-the-self"
+unit_slug: "globalisation-and-the-self"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.2 / 3.5.2 Interkulturelle kommunikative Kompetenz"

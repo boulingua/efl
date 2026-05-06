@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 1
-slug: "first-day-back"
+unit_slug: "first-day-back"
 aliases:
   - /track_gm_kl07/units/unit01_first-day-back_exam.html
 ---

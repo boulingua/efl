@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 6
-slug: "interview-and-portrait"
+unit_slug: "interview-and-portrait"
 aliases:
   - /track_e_kl09/units/unit06_interview-and-portrait_exam.html
 ---

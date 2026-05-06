@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 3
-slug: "home-and-room"
+unit_slug: "home-and-room"
 aliases:
   - /track_gm_kl05/units/unit03_home-and-room_exam.html
 ---

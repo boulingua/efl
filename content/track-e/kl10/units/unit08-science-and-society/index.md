@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 8
-slug: "science-and-society"
+unit_slug: "science-and-society"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.2 Leseverstehen"

@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 5
-slug: "media-literacy"
+unit_slug: "media-literacy"
 aliases:
   - /track_gm_kl09/units/unit05_media-literacy_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 10
-slug: "a-classic-text-lf"
+unit_slug: "a-classic-text-lf"
 aliases:
   - /track_e_kl11/units/unit10_a-classic-text-lf_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 4
-slug: "australia-and-new-zealand"
+unit_slug: "australia-and-new-zealand"
 aliases:
   - /track_e_kl10/units/unit04_australia-and-new-zealand_exam.html
 ---

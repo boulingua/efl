@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 8
-slug: "inequality-and-voice"
+unit_slug: "inequality-and-voice"
 aliases:
   - /track_gm_kl09/units/unit08_inequality-and-voice_exam.html
 ---

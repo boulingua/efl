@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 4
-slug: "ireland-stories"
+unit_slug: "ireland-stories"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"

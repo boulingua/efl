@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 5
-slug: "media-and-democracy"
+unit_slug: "media-and-democracy"
 aliases:
   - /track_e_kl10/units/unit05_media-and-democracy_exam.html
 ---

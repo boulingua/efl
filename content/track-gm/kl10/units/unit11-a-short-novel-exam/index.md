@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 11
-slug: "a-short-novel"
+unit_slug: "a-short-novel"
 aliases:
   - /track_gm_kl10/units/unit11_a-short-novel_exam.html
 ---

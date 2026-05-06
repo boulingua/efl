@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 6
-slug: "opinion-writing"
+unit_slug: "opinion-writing"
 aliases:
   - /track_gm_kl08/units/unit06_opinion-writing_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 10
-slug: "a-short-story"
+unit_slug: "a-short-story"
 aliases:
   - /track_e_kl07/units/unit10_a-short-story_exam.html
 ---

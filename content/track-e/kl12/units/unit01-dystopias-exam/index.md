@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 1
-slug: "dystopias"
+unit_slug: "dystopias"
 aliases:
   - /track_e_kl12/units/unit01_dystopias_exam.html
 ---

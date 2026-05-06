@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 7
-slug: "an-adventure-story"
+unit_slug: "an-adventure-story"
 aliases:
   - /track_gm_kl06/units/unit07_an-adventure-story_exam.html
 ---

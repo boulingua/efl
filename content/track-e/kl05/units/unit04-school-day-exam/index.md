@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 4
-slug: "school-day"
+unit_slug: "school-day"
 aliases:
   - /track_e_kl05/units/unit04_school-day_exam.html
 ---

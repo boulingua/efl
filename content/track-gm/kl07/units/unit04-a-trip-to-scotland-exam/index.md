@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 4
-slug: "a-trip-to-scotland"
+unit_slug: "a-trip-to-scotland"
 aliases:
   - /track_gm_kl07/units/unit04_a-trip-to-scotland_exam.html
 ---

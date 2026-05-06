@@ -1,6 +1,5 @@
 ---
 title: "Datenschutzerklärung"
-lang: de
 aliases:
   - /legal/privacy/
   - /privacy/

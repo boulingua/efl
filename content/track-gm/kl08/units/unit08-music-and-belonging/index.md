@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 8
-slug: "music-and-belonging"
+unit_slug: "music-and-belonging"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"

@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 12
-slug: "klausur-prep-exam-rehearsal"
+unit_slug: "klausur-prep-exam-rehearsal"
 aliases:
   - /track_e_kl11/units/unit12_klausur-prep-exam-rehearsal_exam.html
 ---

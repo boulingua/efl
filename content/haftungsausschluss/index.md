@@ -1,6 +1,5 @@
 ---
 title: "Haftungsausschluss"
-lang: de
 aliases:
   - /legal/disclaimer/
   - /disclaimer/

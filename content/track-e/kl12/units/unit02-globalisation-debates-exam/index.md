@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 2
-slug: "globalisation-debates"
+unit_slug: "globalisation-debates"
 aliases:
   - /track_e_kl12/units/unit02_globalisation-debates_exam.html
 ---

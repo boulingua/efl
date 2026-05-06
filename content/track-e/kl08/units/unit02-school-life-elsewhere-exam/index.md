@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 2
-slug: "school-life-elsewhere"
+unit_slug: "school-life-elsewhere"
 aliases:
   - /track_e_kl08/units/unit02_school-life-elsewhere_exam.html
 ---

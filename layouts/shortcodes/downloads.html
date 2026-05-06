@@ -11,7 +11,7 @@
 {{- $track   := .Page.Params.track -}}
 {{- $klasse  := .Page.Params.klassenstufe -}}
 {{- $unit    := .Page.Params.unit_nr -}}
-{{- $slug    := .Page.Params.slug -}}
+{{- $slug    := .Page.Params.unit_slug -}}
 
 {{- if and $track $klasse $unit $slug -}}
   {{- $nn := printf "%02d" (int $unit) -}}

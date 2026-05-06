@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 1
-slug: "transition-after-grade-10"
+unit_slug: "transition-after-grade-10"
 aliases:
   - /track_gm_kl10/units/unit01_transition-after-grade-10_exam.html
 ---

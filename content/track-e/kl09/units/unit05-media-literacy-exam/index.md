@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 5
-slug: "media-literacy"
+unit_slug: "media-literacy"
 aliases:
   - /track_e_kl09/units/unit05_media-literacy_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 1
-slug: "identities"
+unit_slug: "identities"
 aliases:
   - /track_gm_kl08/units/unit01_identities_exam.html
 ---

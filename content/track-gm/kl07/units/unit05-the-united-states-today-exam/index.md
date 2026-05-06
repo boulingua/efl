@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 5
-slug: "the-united-states-today"
+unit_slug: "the-united-states-today"
 aliases:
   - /track_gm_kl07/units/unit05_the-united-states-today_exam.html
 ---

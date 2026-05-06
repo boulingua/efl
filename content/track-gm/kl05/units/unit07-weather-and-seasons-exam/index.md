@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 7
-slug: "weather-and-seasons"
+unit_slug: "weather-and-seasons"
 aliases:
   - /track_gm_kl05/units/unit07_weather-and-seasons_exam.html
 ---

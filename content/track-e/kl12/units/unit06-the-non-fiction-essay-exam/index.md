@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 6
-slug: "the-non-fiction-essay"
+unit_slug: "the-non-fiction-essay"
 aliases:
   - /track_e_kl12/units/unit06_the-non-fiction-essay_exam.html
 ---

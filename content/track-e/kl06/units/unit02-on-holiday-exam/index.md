@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 2
-slug: "on-holiday"
+unit_slug: "on-holiday"
 aliases:
   - /track_e_kl06/units/unit02_on-holiday_exam.html
 ---

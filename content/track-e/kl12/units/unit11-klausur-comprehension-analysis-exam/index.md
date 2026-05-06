@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 11
-slug: "klausur-comprehension-analysis"
+unit_slug: "klausur-comprehension-analysis"
 aliases:
   - /track_e_kl12/units/unit11_klausur-comprehension-analysis_exam.html
 ---

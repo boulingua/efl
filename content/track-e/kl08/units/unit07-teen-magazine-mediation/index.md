@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 7
-slug: "teen-magazine-mediation"
+unit_slug: "teen-magazine-mediation"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.5 Schreiben"

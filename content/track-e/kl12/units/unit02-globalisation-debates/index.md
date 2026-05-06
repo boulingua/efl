@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 2
-slug: "globalisation-debates"
+unit_slug: "globalisation-debates"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.2 / 3.5.2 Interkulturelle kommunikative Kompetenz"

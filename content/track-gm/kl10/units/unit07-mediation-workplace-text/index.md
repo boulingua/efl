@@ -5,7 +5,7 @@ niveau: "G+M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 7
-slug: "mediation-workplace-text"
+unit_slug: "mediation-workplace-text"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.5 Schreiben"

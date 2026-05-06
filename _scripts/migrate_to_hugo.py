@@ -144,12 +144,24 @@ def split_frontmatter(text: str) -> tuple[str, str]:
 
 
 def strip_dropped_keys(fm: str) -> str:
-    """Remove entire top-level YAML blocks for keys in DROP_KEYS."""
+    """Remove entire top-level YAML blocks for keys in DROP_KEYS.
+
+    Also rename `slug:` → `unit_slug:` because Hugo treats `slug` as a
+    magic URL-controlling key, and we need the directory-bundle name
+    (e.g. `unit01-hello-world`) to drive the URL — not the bare slug
+    `hello-world` that the original Quarto code stored.
+    """
     lines = fm.splitlines(keepends=False)
     out: list[str] = []
     i = 0
     while i < len(lines):
         line = lines[i]
+        # Rename slug: at the top level (not inside a nested block).
+        m_slug = re.match(r"^slug:\s*(.*)$", line)
+        if m_slug:
+            out.append("unit_slug: " + m_slug.group(1))
+            i += 1
+            continue
         m = re.match(r"^([A-Za-z_][\w-]*):\s*(.*)$", line)
         if m and m.group(1) in DROP_KEYS:
             # Skip this line and any indented continuation block.
@@ -290,6 +302,11 @@ def convert_body(body: str, qmd: Path) -> str:
     # 1. Inline {{< include foo.qmd >}} (must run BEFORE block parsing so
     #    nested fences from the partial participate in the same stack).
     body = expand_includes(body, qmd)
+
+    # 1b. Quarto-engine fenced code blocks `{mermaid}` etc. break Goldmark's
+    #     attribute parser. Convert `{mermaid}` -> `mermaid` so Hugo treats
+    #     it as a plain language tag (mermaid is rendered client-side).
+    body = re.sub(r"^```\{mermaid\}", "```mermaid", body, flags=re.MULTILINE)
 
     # 2. Walk lines with a fence stack to convert ::: blocks.
     lines = body.split("\n")

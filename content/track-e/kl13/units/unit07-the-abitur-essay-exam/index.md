@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 7
-slug: "the-abitur-essay"
+unit_slug: "the-abitur-essay"
 aliases:
   - /track_e_kl13/units/unit07_the-abitur-essay_exam.html
 ---

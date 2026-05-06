@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 9
-slug: "the-abitur-analysis"
+unit_slug: "the-abitur-analysis"
 aliases:
   - /track_e_kl13/units/unit09_the-abitur-analysis_exam.html
 ---

@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 5
-slug: "media-and-truth"
+unit_slug: "media-and-truth"
 aliases:
   - /track_gm_kl10/units/unit05_media-and-truth_exam.html
 ---

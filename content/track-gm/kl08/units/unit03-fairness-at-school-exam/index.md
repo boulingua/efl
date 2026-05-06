@@ -6,7 +6,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 3
-slug: "fairness-at-school"
+unit_slug: "fairness-at-school"
 aliases:
   - /track_gm_kl08/units/unit03_fairness-at-school_exam.html
 ---

@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 2
-slug: "my-family"
+unit_slug: "my-family"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.5 Schreiben"

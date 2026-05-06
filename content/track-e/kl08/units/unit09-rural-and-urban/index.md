@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 9
-slug: "rural-and-urban"
+unit_slug: "rural-and-urban"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"

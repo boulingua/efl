@@ -6,7 +6,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 4
-slug: "food-around-the-world"
+unit_slug: "food-around-the-world"
 aliases:
   - /track_e_kl06/units/unit04_food-around-the-world_exam.html
 ---

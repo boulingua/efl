@@ -5,7 +5,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 5
-slug: "media-literacy"
+unit_slug: "media-literacy"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.1 Hör-/Hörsehverstehen"
