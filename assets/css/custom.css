@@ -1,8 +1,310 @@
 /* EFL site overrides on top of hugo-coder.
  *
- * Phase 3: minimal layout for the Materials hub and the per-unit
- * material-links block. Visual polish (palette, typography) deferred
- * until Phase 4. */
+ * Phase 3 / Materials Discovery Network — Phase 2 of the network adds
+ * the design tokens below; Phase 3+ wires them to the interactive
+ * layer. Tokens are CSS custom properties so dark-mode swaps are free.
+ */
+
+/* ---------------------------------------------------------------- *
+ *  Materials Discovery Network — design tokens (Phase 2)            *
+ * ---------------------------------------------------------------- */
+
+:root {
+  /* Topic palette (light mode). Keys mirror data/topics.yml ids. All
+     pass WCAG AA on Coder's light surface (#FAFAF7). */
+  --topic-themen:        #7C9885;   /* sage   */
+  --topic-interkulturell:#9B7EBD;   /* violet */
+  --topic-text-medien:   #D4A373;   /* sand   */
+
+  /* Surfaces + borders for the network UI. Do NOT introduce new
+     background or foreground colours; hue is reserved for topics. */
+  --network-surface:        #FAFAF7;
+  --network-surface-elev:   #FFFFFF;
+  --network-border-subtle:  rgba(0, 0, 0, 0.08);
+  --network-border-strong:  rgba(0, 0, 0, 0.18);
+  --network-text-meta:      rgba(0, 0, 0, 0.55);
+
+  /* Highlight + dim. Highlight is warm gold so it stands apart from
+     every topic colour. Dim is opacity, not a new colour, so the
+     filtered-out node keeps its identity. */
+  --network-highlight: #E8C547;
+  --network-dim:       0.12;
+
+  /* Edge ink. Inherits foreground via currentColor at component level. */
+  --network-edge-structural: rgba(0, 0, 0, 0.30);
+  --network-edge-shared-tag: 0.20;   /* multiplier on topic colour    */
+
+  /* Typography scale (matches site loaded fonts). */
+  --network-font-ui:    "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --network-font-mono:  "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --network-text-label:    13px;     /* node hover label              */
+  --network-text-meta-sm:  11px;     /* counts, metadata, small text  */
+  --network-text-card:     15px;     /* card title                    */
+
+  /* Motion. Calm and short — research tool, not a game. */
+  --network-ease:        cubic-bezier(0.2, 0.0, 0.2, 1);
+  --network-dur-fast:    120ms;
+  --network-dur-base:    200ms;
+  --network-dur-pulse:   160ms;
+  --network-dur-search:  80ms;
+
+  /* Layout grid (desktop). */
+  --network-rail-w:      280px;
+  --network-graph-h:     60vh;
+  --network-graph-h-min: 480px;
+}
+
+html.colorscheme-dark, [data-theme="dark"] {
+  --topic-themen:        #A4C3B2;
+  --topic-interkulturell:#B8A1D9;
+  --topic-text-medien:   #E5B98F;
+
+  --network-surface:        #1C1F26;
+  --network-surface-elev:   #232732;
+  --network-border-subtle:  rgba(255, 255, 255, 0.08);
+  --network-border-strong:  rgba(255, 255, 255, 0.18);
+  --network-text-meta:      rgba(255, 255, 255, 0.62);
+
+  --network-highlight: #F0D060;
+  --network-edge-structural: rgba(255, 255, 255, 0.30);
+}
+
+/* ---------------------------------------------------------------- *
+ *  Static mock styles — Phase 2 only (no JS wiring yet)             *
+ *  These mirror the eventual Phase 3+ component classes so the      *
+ *  preview page is byte-replaceable when the live page lands.       *
+ * ---------------------------------------------------------------- */
+
+.network-page { font-family: var(--network-font-ui); }
+
+.network-search {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  height: 64px;
+  padding: 0 1rem;
+  background: var(--network-surface);
+  border-bottom: 1px solid var(--network-border-subtle);
+}
+.network-search input {
+  flex: 1;
+  font: 1rem/1.4 var(--network-font-ui);
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--network-border-strong);
+  border-radius: 4px;
+  background: var(--network-surface-elev);
+  color: inherit;
+}
+.network-search input:focus-visible {
+  outline: 2px solid var(--network-highlight);
+  outline-offset: 2px;
+  border-color: transparent;
+}
+.network-search-shortcut {
+  font: 500 var(--network-text-meta-sm)/1 var(--network-font-mono);
+  padding: 0.2rem 0.4rem;
+  border: 1px solid var(--network-border-subtle);
+  border-radius: 3px;
+  color: var(--network-text-meta);
+  background: var(--network-surface);
+}
+
+.network-shell {
+  display: grid;
+  grid-template-columns: var(--network-rail-w) 1fr;
+  gap: 1rem;
+  padding: 1rem;
+}
+@media (max-width: 1023px) {
+  .network-shell { grid-template-columns: 1fr; }
+}
+@media (max-width: 767px) {
+  .network-shell { padding: 0.5rem; }
+  .network-graph { display: none; }
+}
+
+.network-rail {
+  background: var(--network-surface);
+  border: 1px solid var(--network-border-subtle);
+  border-radius: 6px;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  height: max-content;
+  position: sticky;
+  top: 1rem;
+}
+.network-facet {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+.network-facet h3 {
+  margin: 0;
+  font: 600 var(--network-text-meta-sm)/1.2 var(--network-font-ui);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--network-text-meta);
+}
+.network-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font: 500 0.875rem/1 var(--network-font-ui);
+  padding: 0.4rem 0.7rem;
+  border: 1px solid var(--network-border-subtle);
+  border-radius: 999px;
+  background: var(--network-surface-elev);
+  color: inherit;
+  cursor: pointer;
+  user-select: none;
+  transition: background var(--network-dur-fast) var(--network-ease),
+              border-color var(--network-dur-fast) var(--network-ease);
+}
+.network-chip:hover { border-color: var(--network-border-strong); }
+.network-chip[aria-pressed="true"] {
+  background: var(--network-highlight);
+  border-color: var(--network-highlight);
+  color: #1C1F26;
+}
+.network-chip .count {
+  font: 500 var(--network-text-meta-sm)/1 var(--network-font-mono);
+  color: var(--network-text-meta);
+}
+.network-chip .swatch {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 2px;
+}
+.network-chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+}
+
+.network-graph {
+  position: relative;
+  background: var(--network-surface);
+  border: 1px solid var(--network-border-subtle);
+  border-radius: 6px;
+  height: var(--network-graph-h);
+  min-height: var(--network-graph-h-min);
+  overflow: hidden;
+}
+.network-graph-skeleton {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  color: var(--network-text-meta);
+}
+
+.network-status {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.6rem 1rem;
+  background: var(--network-surface);
+  border: 1px solid var(--network-border-subtle);
+  border-radius: 6px;
+  font: 500 var(--network-text-meta-sm)/1 var(--network-font-mono);
+  color: var(--network-text-meta);
+  margin-top: 1rem;
+}
+.network-status button {
+  font: 500 0.875rem/1 var(--network-font-ui);
+  padding: 0.4rem 0.8rem;
+  border: 1px solid var(--network-border-subtle);
+  border-radius: 4px;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+.network-status button:hover { border-color: var(--network-border-strong); }
+
+.network-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+@media (max-width: 1023px) { .network-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 767px)  { .network-grid { grid-template-columns: 1fr; } }
+
+.network-card {
+  background: var(--network-surface);
+  border: 1px solid var(--network-border-subtle);
+  border-radius: 6px;
+  padding: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  transition: border-color var(--network-dur-fast) var(--network-ease);
+}
+.network-card:hover { border-color: var(--network-border-strong); }
+.network-card--article {
+  grid-column: span 2;
+  border-left: 4px solid var(--topic, var(--network-border-strong));
+}
+@media (max-width: 1023px) { .network-card--article { grid-column: span 2; } }
+@media (max-width: 767px)  { .network-card--article { grid-column: span 1; } }
+
+.network-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+.network-card-title {
+  font: 600 var(--network-text-card)/1.3 var(--network-font-ui);
+  margin: 0;
+}
+.network-card-meta {
+  font: 500 var(--network-text-meta-sm)/1 var(--network-font-mono);
+  color: var(--network-text-meta);
+  white-space: nowrap;
+}
+.network-card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.network-card-tags li {
+  font: 500 var(--network-text-meta-sm)/1 var(--network-font-mono);
+  padding: 0.2rem 0.4rem;
+  border-radius: 999px;
+  background: var(--network-border-subtle);
+  color: var(--network-text-meta);
+}
+.network-card-types {
+  display: flex;
+  gap: 0.5rem;
+  font: 500 0.85rem/1 var(--network-font-ui);
+  color: var(--network-text-meta);
+}
+.network-card-types span { display: inline-flex; align-items: center; gap: 0.25rem; }
+
+/* Glyphs that match the graph node shapes:
+     ● article      ▪ presentation      ◆ worksheet                    */
+.glyph-article       { color: var(--topic, currentColor); }
+.glyph-presentation  { color: var(--topic, currentColor); opacity: 0.85; }
+.glyph-worksheet     { color: var(--topic, currentColor); opacity: 0.85; }
+
+/* Empty state. */
+.network-empty {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--network-text-meta);
+}
+.network-empty svg { display: block; margin: 0 auto 1rem; }
+
+
 
 /* ----- Header social icons (top-right) ----- */
 

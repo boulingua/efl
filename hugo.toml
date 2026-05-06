@@ -99,26 +99,29 @@ publishDir = "public"
   url = "/acknowledgements/"
   parent = "about"
 
+# Impressum stays top-level: under § 5 DDG / § 18 Abs. 2 MStV, the
+# provider notice must be reachable from every page in one click.
+# Datenschutz + Haftungsausschluss nest under it as the standard
+# Rechtliches grouping.
 [[menu.main]]
-  identifier = "about-impressum"
+  identifier = "impressum"
   name = "Impressum"
-  weight = 5
-  url = "/impressum/"
-  parent = "about"
-
-[[menu.main]]
-  identifier = "about-datenschutz"
-  name = "Datenschutz"
   weight = 6
-  url = "/datenschutz/"
-  parent = "about"
+  url = "/impressum/"
 
 [[menu.main]]
-  identifier = "about-haftungsausschluss"
+  identifier = "datenschutz"
+  name = "Datenschutz"
+  weight = 1
+  url = "/datenschutz/"
+  parent = "impressum"
+
+[[menu.main]]
+  identifier = "haftungsausschluss"
   name = "Haftungsausschluss"
-  weight = 7
+  weight = 2
   url = "/haftungsausschluss/"
-  parent = "about"
+  parent = "impressum"
 
 # Track G+M (Klassen 5–10).
 [[menu.main]]

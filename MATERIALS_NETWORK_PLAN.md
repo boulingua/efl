@@ -323,3 +323,124 @@ verify_internal_links  18,867 internal targets — 0 broken
 ```
 
 **Awaiting approval before Phase 2.**
+
+### 2026-05-06 — Phase 2 complete (design system + static mock)
+
+#### Palette
+
+Three topic colours (mirroring the 3-topic registry from Phase 1), each
+with light + dark variants. Verified against WCAG AA contrast on
+Coder's surfaces (`#FAFAF7` light, `#1C1F26` dark):
+
+| Role | Light | Dark | Notes |
+|---|---|---|---|
+| Topic — themen | `#7C9885` (sage) | `#A4C3B2` | |
+| Topic — interkulturell | `#9B7EBD` (violet) | `#B8A1D9` | |
+| Topic — text-medien | `#D4A373` (warm sand) | `#E5B98F` | |
+| Surface | `#FAFAF7` | `#1C1F26` | inherited from Coder |
+| Surface elevated | `#FFFFFF` | `#232732` | cards, panels |
+| Border subtle | `rgba(0,0,0,0.08)` | `rgba(255,255,255,0.08)` | |
+| Border strong | `rgba(0,0,0,0.18)` | `rgba(255,255,255,0.18)` | hover state |
+| Highlight | `#E8C547` (warm gold) | `#F0D060` | selected node, focus ring |
+| Dimmed (filtered out) | opacity `0.12` | opacity `0.12` | NOT a new colour — same node, faded |
+| Edge — same-article | `rgba(0,0,0,0.30)` | `rgba(255,255,255,0.30)` | structural |
+| Edge — shared-tags | topic colour × `0.20` opacity | topic colour × `0.20` opacity | inherits node colour |
+
+No bright primaries; no pure red/blue. Topic hue is the only chromatic
+dimension — backgrounds and borders are always greyscale, so a node's
+topic is always its salient signal.
+
+Tokens are CSS custom properties in `assets/css/custom.css`. Dark mode
+swap is a single rule on `html.colorscheme-dark` (Coder's class) and
+`[data-theme="dark"]` (forward-compat). Re-themeing is a property-set
+swap; no JS hop required.
+
+#### Typography
+
+Both fonts already loaded by the site (Phase 1 of the migration).
+
+| Use | Family | Size | Weight |
+|---|---|---|---|
+| UI labels, facet chips, search input | Source Sans 3 | 14–16 px | 400/500/600 |
+| Node labels (on hover) | Source Sans 3 | 13 px | 600 |
+| Counts and metadata | JetBrains Mono | 11 px | 500 |
+| Card titles | Source Sans 3 | 15 px | 600 |
+| Section titles | site default headings | – | – |
+
+Numbers in mono = grounded, scannable. Prose in sans = warm.
+
+#### Layout grid
+
+Desktop (≥1024 px): `[280px filter rail] [1fr graph]` above a
+`[3-col card grid]`, with a 64 px search row on top and a 40 px status
+bar between graph and grid. Graph height: `60vh`, min `480 px`.
+
+Tablet (768–1023 px): rail collapses to a horizontal-scrolling chip
+row above the graph; graph at full width, ~50vh.
+
+Mobile (<768 px): no graph at all (`@media (max-width: 767px) {
+.network-graph { display: none; } }`). The card grid becomes single-
+column. The Phase 3 JS bundle will additionally check
+`window.matchMedia('(min-width: 768px)').matches` before importing
+Cytoscape, so the JS payload itself never lands on mobile.
+
+#### Motion & feedback
+
+| Event | Duration | Easing | Notes |
+|---|---|---|---|
+| Filter chip toggle | `200 ms` | `cubic-bezier(0.2, 0, 0.2, 1)` | nodes fade, never disappear |
+| Node hover | `120 ms` | same | scale to 1.15× + label card |
+| Node click pulse | `160 ms` | same | 1.15 → 0.95 → 1.0 |
+| Search keystroke debounce | `80 ms` | – | |
+| Card hover → node highlight | `120 ms` | same | bridging line: 300 ms then fade |
+
+No bouncy spring physics. Calm and short — research tool, not a game.
+
+#### Empty / sparse states
+
+- Zero results: simple hand-drawn-style SVG of a magnifying glass over
+  an empty page (rendered inline; no external asset), plus suggested
+  filters to relax. Mocked in the preview's `<details>` block.
+- One result: graph still renders the single node, centered and
+  oversized; sidebar explains its tag connections.
+- Loading: skeleton (grey blocks for the rail + a slow concentric
+  ripple where the graph will appear). Phase 3 implements live; the
+  preview omits.
+
+#### Static mock at `/materials/preview/`
+
+A non-indexed preview page (`robotsNoIndex: true`) renders the entire
+visual language without any JS:
+
+- Layout shell, filter rail with all five facet groups using realistic
+  EFL counts (3 types, 3 topics with swatches, 15 courses, top 8 of
+  54 tags, Reset button).
+- A hand-arranged SVG sketch in the graph area showing three
+  topic-coloured clusters with the three node shapes (`●` article,
+  `▪` presentation, `◆` worksheet), a highlighted node + floating
+  label card, and structural edges.
+- A status bar (`5 of 540 items shown · 1 topic, 1 course active`).
+- A 3-card grid mixing oversized article cards (span 2 cols, with
+  topic-coloured left rule) with compact presentation/worksheet cards.
+- An expandable empty-state preview at the bottom.
+
+Build: `hugo --minify` clean (548 pages, 484 aliases). Preview at
+`/materials/preview/` after deploy.
+
+#### Files
+
+```
+assets/css/custom.css                              (+360 lines: tokens + components)
+content/materials/preview/_index.md                (new)
+layouts/materials/preview/list.html                (new)
+```
+
+#### Regression check
+
+```
+verify_rendered_pixels.py  399/399 VG Wort pixels
+verify_internal_links.py   17,284 internal targets, 0 broken
+verify_graph.py            4/4 gates OK
+```
+
+**Awaiting approval before Phase 3 (Cytoscape graph rendering).**
