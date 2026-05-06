@@ -3,12 +3,60 @@
 {{- define "content" -}}
 {{- $kind := .Params.material_kind -}}
 {{- if not $kind -}}
-<section class="container page">
+{{- /* Materials Discovery Network — Phase 3: graph rendering only.
+       Filters / search / list sync land in Phases 4 and 5; this template
+       ships the graph + a static list-fallback (DOM-nav for a11y +
+       sub-768px). */ -}}
+{{- $entry := resources.Get "js/network/main.js" | js.Build (dict
+      "minify" hugo.IsProduction
+      "format" "esm"
+      "targetPath" "js/network.bundle.js"
+   ) -}}
+{{- if hugo.IsProduction -}}{{- $entry = $entry | fingerprint -}}{{- end -}}
+
+<section class="container network-page">
   <article>
     <header><h1 class="title">{{ .Title }}</h1></header>
     {{ .Content }}
+
+    <div class="network-graph"
+         id="network-graph"
+         role="img"
+         aria-label="Discovery network for {{ .Title }}">
+      <div class="network-graph-skeleton">Loading network…</div>
+    </div>
+
+    <p class="network-status" role="status">
+      <span>{{ len (where .Site.RegularPages "Params.unit_nr" "ne" nil) }} units · 3 topics · 15 courses · ◆ worksheets · ▪ presentations</span>
+      <a href="{{ "/materials/preview/" | relURL }}">Design preview</a>
+    </p>
+
+    {{- /* Static DOM nav for a11y + sub-768px viewports. Always rendered.
+           Hidden visually on desktop (Phase 6 a11y CSS). */ -}}
+    <nav aria-label="All materials (alphabetical)" class="network-fallback">
+      <ul class="materials-grid">
+      {{- range (where (where .Site.RegularPages "Section" "in" (slice "track-e" "track-gm")) "Params.presentation" "ne" nil) }}
+        <li class="material-card">
+          <a class="material-card-link" href="{{ .RelPermalink }}">
+            <div class="material-meta">
+              <h3 class="material-title">{{ .Title }}</h3>
+              <p class="material-sub">
+                Track {{ if eq .Params.track "gm" }}G+M{{ else }}E{{ end }}
+                · Klasse {{ .Params.klassenstufe }}
+                · {{ .Params.topic }}
+              </p>
+            </div>
+          </a>
+        </li>
+      {{- end }}
+      </ul>
+    </nav>
   </article>
 </section>
+
+<script type="module" src="{{ $entry.RelPermalink }}"
+        {{- with $entry.Data.Integrity }} integrity="{{ . }}"{{ end -}}
+></script>
 {{- else -}}
 {{- $units := where .Site.RegularPages "Section" "in" (slice "track-e" "track-gm") -}}
 {{- $units = where $units "Params.unit_nr" "ne" nil -}}

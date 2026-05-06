@@ -15,6 +15,11 @@
 /static/materials/presentations/
 /static/materials/worksheets/
 
+# Materials Discovery Network — npm deps for Cytoscape bundling.
+/node_modules/
+# Hugo auto-emits this for IDE go-to-definition; not source.
+/assets/jsconfig.json
+
 *.html
 !**/index.html
 # Hugo layouts and partials are HTML — never ignore them.

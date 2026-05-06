@@ -296,6 +296,51 @@ html.colorscheme-dark, [data-theme="dark"] {
 .glyph-presentation  { color: var(--topic, currentColor); opacity: 0.85; }
 .glyph-worksheet     { color: var(--topic, currentColor); opacity: 0.85; }
 
+/* Floating node tooltip (rendered to <body> by graph.js). */
+.network-tip {
+  position: absolute;
+  z-index: 1000;
+  pointer-events: none;
+  background: var(--network-surface-elev);
+  border: 1px solid var(--network-border-subtle);
+  border-radius: 4px;
+  padding: 0.4rem 0.6rem;
+  min-width: 160px;
+  max-width: 280px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  opacity: 0;
+  transition: opacity var(--network-dur-fast) var(--network-ease);
+}
+.network-tip-title {
+  font: 600 var(--network-text-label)/1.2 var(--network-font-ui);
+  color: inherit;
+}
+.network-tip-meta {
+  font: 500 var(--network-text-meta-sm)/1.2 var(--network-font-mono);
+  color: var(--network-text-meta);
+  margin-top: 0.2rem;
+}
+
+/* DOM-nav fallback: visually hidden on desktop (graph is the primary
+   surface), full block on tablet/mobile. The graph itself is hidden
+   by an existing media query at <768px in this file. */
+@media (min-width: 768px) {
+  .network-fallback {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+}
+@media (max-width: 767px) {
+  .network-fallback { margin-top: 1rem; }
+}
+
 /* Empty state. */
 .network-empty {
   text-align: center;
