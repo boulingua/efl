@@ -1,0 +1,37 @@
+{{- /*
+  Mirrors Quarto's _extensions/downloads/downloads.lua.
+
+  Reads track, klassenstufe, unit_nr, slug from page params and emits a
+  four-link callout (article / slides / worksheet PDF / exam PDF).
+
+  In Hugo, the article *is* the current page, so the article link points
+  to .Permalink. Slides + PDFs are external Quarto-pipeline artefacts
+  served from /slides/ and /downloads/.
+*/ -}}
+{{- $track   := .Page.Params.track -}}
+{{- $klasse  := .Page.Params.klassenstufe -}}
+{{- $unit    := .Page.Params.unit_nr -}}
+{{- $slug    := .Page.Params.slug -}}
+
+{{- if and $track $klasse $unit $slug -}}
+  {{- $nn := printf "%02d" (int $unit) -}}
+  {{- $kk := printf "%02d" (int $klasse) -}}
+  {{- $slides    := printf "/slides/%s/kl%s/unit%s_slides.html" $track $kk $nn -}}
+  {{- $worksheet := printf "/downloads/%s/kl%s/unit%s_%s_worksheet.pdf" $track $kk $nn $slug -}}
+  {{- $exam      := printf "/downloads/%s/kl%s/unit%s_%s_exam.pdf" $track $kk $nn $slug -}}
+
+<div class="callout callout-tip downloads">
+  <div class="callout-title">Downloads</div>
+  <ul class="callout-body">
+    <li><a href="{{ .Page.RelPermalink }}">Unit article</a></li>
+    <li><a href="{{ $slides }}">Slide deck</a></li>
+    <li><a href="{{ $worksheet }}">Worksheet (PDF)</a></li>
+    <li><a href="{{ $exam }}">Exam example (PDF)</a></li>
+  </ul>
+</div>
+{{- else -}}
+<div class="callout callout-warning">
+  <div class="callout-body">Downloads shortcode: missing front-matter
+    (track, klassenstufe, unit_nr, slug).</div>
+</div>
+{{- end -}}
