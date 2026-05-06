@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl05/units/unit05_food-and-drinks.html
+presentation:
+  file: /materials/presentations/gm/kl05/unit05_food-and-drinks.pptx
+  thumbnail: /materials/presentations/gm/kl05/unit05_food-and-drinks.png
+worksheet:
+  file: /downloads/gm/kl05/unit05_food-and-drinks_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl05/unit05_food-and-drinks.png
 ---
 
 {{< callout type="note" >}}

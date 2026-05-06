@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl13/units/unit02_political-discourse-advanced.html
+presentation:
+  file: /materials/presentations/e/kl13/unit02_political-discourse-advanced.pptx
+  thumbnail: /materials/presentations/e/kl13/unit02_political-discourse-advanced.png
+worksheet:
+  file: /downloads/e/kl13/unit02_political-discourse-advanced_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl13/unit02_political-discourse-advanced.png
 ---
 
 {{< callout type="note" >}}

@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl05/units/unit11_clothes-and-colours.html
+presentation:
+  file: /materials/presentations/e/kl05/unit11_clothes-and-colours.pptx
+  thumbnail: /materials/presentations/e/kl05/unit11_clothes-and-colours.png
+worksheet:
+  file: /downloads/e/kl05/unit11_clothes-and-colours_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl05/unit11_clothes-and-colours.png
 ---
 
 {{< callout type="note" >}}

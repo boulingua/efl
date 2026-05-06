@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl10/units/unit02_the-world-of-work.html
+presentation:
+  file: /materials/presentations/e/kl10/unit02_the-world-of-work.pptx
+  thumbnail: /materials/presentations/e/kl10/unit02_the-world-of-work.png
+worksheet:
+  file: /downloads/e/kl10/unit02_the-world-of-work_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl10/unit02_the-world-of-work.png
 ---
 
 {{< callout type="note" >}}

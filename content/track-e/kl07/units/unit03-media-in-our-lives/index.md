@@ -19,6 +19,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl07/units/unit03_media-in-our-lives.html
+presentation:
+  file: /materials/presentations/e/kl07/unit03_media-in-our-lives.pptx
+  thumbnail: /materials/presentations/e/kl07/unit03_media-in-our-lives.png
+worksheet:
+  file: /downloads/e/kl07/unit03_media-in-our-lives_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl07/unit03_media-in-our-lives.png
 ---
 
 {{< callout type="note" >}}

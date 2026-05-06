@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl11/units/unit10_a-classic-text-lf.html
+presentation:
+  file: /materials/presentations/e/kl11/unit10_a-classic-text-lf.pptx
+  thumbnail: /materials/presentations/e/kl11/unit10_a-classic-text-lf.png
+worksheet:
+  file: /downloads/e/kl11/unit10_a-classic-text-lf_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl11/unit10_a-classic-text-lf.png
 ---
 
 {{< callout type="note" >}}

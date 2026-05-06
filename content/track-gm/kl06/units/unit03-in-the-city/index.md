@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl06/units/unit03_in-the-city.html
+presentation:
+  file: /materials/presentations/gm/kl06/unit03_in-the-city.pptx
+  thumbnail: /materials/presentations/gm/kl06/unit03_in-the-city.png
+worksheet:
+  file: /downloads/gm/kl06/unit03_in-the-city_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl06/unit03_in-the-city.png
 ---
 
 {{< callout type="note" >}}

@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl09/units/unit05_media-literacy.html
+presentation:
+  file: /materials/presentations/e/kl09/unit05_media-literacy.pptx
+  thumbnail: /materials/presentations/e/kl09/unit05_media-literacy.png
+worksheet:
+  file: /downloads/e/kl09/unit05_media-literacy_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl09/unit05_media-literacy.png
 ---
 
 {{< callout type="note" >}}

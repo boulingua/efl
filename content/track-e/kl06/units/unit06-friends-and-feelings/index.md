@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl06/units/unit06_friends-and-feelings.html
+presentation:
+  file: /materials/presentations/e/kl06/unit06_friends-and-feelings.pptx
+  thumbnail: /materials/presentations/e/kl06/unit06_friends-and-feelings.png
+worksheet:
+  file: /downloads/e/kl06/unit06_friends-and-feelings_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl06/unit06_friends-and-feelings.png
 ---
 
 {{< callout type="note" >}}

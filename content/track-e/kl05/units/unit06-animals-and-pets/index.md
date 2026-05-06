@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl05/units/unit06_animals-and-pets.html
+presentation:
+  file: /materials/presentations/e/kl05/unit06_animals-and-pets.pptx
+  thumbnail: /materials/presentations/e/kl05/unit06_animals-and-pets.png
+worksheet:
+  file: /downloads/e/kl05/unit06_animals-and-pets_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl05/unit06_animals-and-pets.png
 ---
 
 {{< callout type="note" >}}

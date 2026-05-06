@@ -17,6 +17,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_gm_kl06/units/unit12_year-end-festival.html
+presentation:
+  file: /materials/presentations/gm/kl06/unit12_year-end-festival.pptx
+  thumbnail: /materials/presentations/gm/kl06/unit12_year-end-festival.png
+worksheet:
+  file: /downloads/gm/kl06/unit12_year-end-festival_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl06/unit12_year-end-festival.png
 ---
 
 {{< callout type="note" >}}

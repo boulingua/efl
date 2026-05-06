@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl06/units/unit09_body-and-health.html
+presentation:
+  file: /materials/presentations/gm/kl06/unit09_body-and-health.pptx
+  thumbnail: /materials/presentations/gm/kl06/unit09_body-and-health.png
+worksheet:
+  file: /downloads/gm/kl06/unit09_body-and-health_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl06/unit09_body-and-health.png
 ---
 
 {{< callout type="note" >}}

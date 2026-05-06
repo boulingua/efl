@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl13/units/unit06_mediation-policy-text.html
+presentation:
+  file: /materials/presentations/e/kl13/unit06_mediation-policy-text.pptx
+  thumbnail: /materials/presentations/e/kl13/unit06_mediation-policy-text.png
+worksheet:
+  file: /downloads/e/kl13/unit06_mediation-policy-text_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl13/unit06_mediation-policy-text.png
 ---
 
 {{< callout type="note" >}}

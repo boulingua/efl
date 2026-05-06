@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl12/units/unit11_klausur-comprehension-analysis.html
+presentation:
+  file: /materials/presentations/e/kl12/unit11_klausur-comprehension-analysis.pptx
+  thumbnail: /materials/presentations/e/kl12/unit11_klausur-comprehension-analysis.png
+worksheet:
+  file: /downloads/e/kl12/unit11_klausur-comprehension-analysis_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl12/unit11_klausur-comprehension-analysis.png
 ---
 
 {{< callout type="note" >}}

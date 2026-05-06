@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl11/units/unit04_short-stories-and-style.html
+presentation:
+  file: /materials/presentations/e/kl11/unit04_short-stories-and-style.pptx
+  thumbnail: /materials/presentations/e/kl11/unit04_short-stories-and-style.png
+worksheet:
+  file: /downloads/e/kl11/unit04_short-stories-and-style_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl11/unit04_short-stories-and-style.png
 ---
 
 {{< callout type="note" >}}

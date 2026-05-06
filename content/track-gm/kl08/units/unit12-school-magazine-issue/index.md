@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl08/units/unit12_school-magazine-issue.html
+presentation:
+  file: /materials/presentations/gm/kl08/unit12_school-magazine-issue.pptx
+  thumbnail: /materials/presentations/gm/kl08/unit12_school-magazine-issue.png
+worksheet:
+  file: /downloads/gm/kl08/unit12_school-magazine-issue_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl08/unit12_school-magazine-issue.png
 ---
 
 {{< callout type="note" >}}

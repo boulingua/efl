@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl09/units/unit10_application-letter.html
+presentation:
+  file: /materials/presentations/e/kl09/unit10_application-letter.pptx
+  thumbnail: /materials/presentations/e/kl09/unit10_application-letter.png
+worksheet:
+  file: /downloads/e/kl09/unit10_application-letter_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl09/unit10_application-letter.png
 ---
 
 {{< callout type="note" >}}

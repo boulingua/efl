@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_gm_kl08/units/unit09_rural-and-urban.html
+presentation:
+  file: /materials/presentations/gm/kl08/unit09_rural-and-urban.pptx
+  thumbnail: /materials/presentations/gm/kl08/unit09_rural-and-urban.png
+worksheet:
+  file: /downloads/gm/kl08/unit09_rural-and-urban_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl08/unit09_rural-and-urban.png
 ---
 
 {{< callout type="note" >}}

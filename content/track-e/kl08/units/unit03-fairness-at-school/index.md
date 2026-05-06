@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl08/units/unit03_fairness-at-school.html
+presentation:
+  file: /materials/presentations/e/kl08/unit03_fairness-at-school.pptx
+  thumbnail: /materials/presentations/e/kl08/unit03_fairness-at-school.png
+worksheet:
+  file: /downloads/e/kl08/unit03_fairness-at-school_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl08/unit03_fairness-at-school.png
 ---
 
 {{< callout type="note" >}}

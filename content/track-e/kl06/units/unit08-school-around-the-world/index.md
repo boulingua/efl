@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl06/units/unit08_school-around-the-world.html
+presentation:
+  file: /materials/presentations/e/kl06/unit08_school-around-the-world.pptx
+  thumbnail: /materials/presentations/e/kl06/unit08_school-around-the-world.png
+worksheet:
+  file: /downloads/e/kl06/unit08_school-around-the-world_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl06/unit08_school-around-the-world.png
 ---
 
 {{< callout type="note" >}}

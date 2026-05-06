@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl10/units/unit06_contemporary-short-fiction.html
+presentation:
+  file: /materials/presentations/e/kl10/unit06_contemporary-short-fiction.pptx
+  thumbnail: /materials/presentations/e/kl10/unit06_contemporary-short-fiction.png
+worksheet:
+  file: /downloads/e/kl10/unit06_contemporary-short-fiction_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl10/unit06_contemporary-short-fiction.png
 ---
 
 {{< callout type="note" >}}

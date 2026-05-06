@@ -17,6 +17,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl12/units/unit01_dystopias.html
+presentation:
+  file: /materials/presentations/e/kl12/unit01_dystopias.pptx
+  thumbnail: /materials/presentations/e/kl12/unit01_dystopias.png
+worksheet:
+  file: /downloads/e/kl12/unit01_dystopias_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl12/unit01_dystopias.png
 ---
 
 {{< callout type="note" >}}

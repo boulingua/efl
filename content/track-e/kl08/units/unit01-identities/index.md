@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl08/units/unit01_identities.html
+presentation:
+  file: /materials/presentations/e/kl08/unit01_identities.pptx
+  thumbnail: /materials/presentations/e/kl08/unit01_identities.png
+worksheet:
+  file: /downloads/e/kl08/unit01_identities_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl08/unit01_identities.png
 ---
 
 {{< callout type="note" >}}

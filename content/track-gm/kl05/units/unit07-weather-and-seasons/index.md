@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl05/units/unit07_weather-and-seasons.html
+presentation:
+  file: /materials/presentations/gm/kl05/unit07_weather-and-seasons.pptx
+  thumbnail: /materials/presentations/gm/kl05/unit07_weather-and-seasons.png
+worksheet:
+  file: /downloads/gm/kl05/unit07_weather-and-seasons_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl05/unit07_weather-and-seasons.png
 ---
 
 {{< callout type="note" >}}

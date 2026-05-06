@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl10/units/unit08_science-and-society.html
+presentation:
+  file: /materials/presentations/e/kl10/unit08_science-and-society.pptx
+  thumbnail: /materials/presentations/e/kl10/unit08_science-and-society.png
+worksheet:
+  file: /downloads/e/kl10/unit08_science-and-society_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl10/unit08_science-and-society.png
 ---
 
 {{< callout type="note" >}}

@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl09/units/unit06_interview-and-portrait.html
+presentation:
+  file: /materials/presentations/gm/kl09/unit06_interview-and-portrait.pptx
+  thumbnail: /materials/presentations/gm/kl09/unit06_interview-and-portrait.png
+worksheet:
+  file: /downloads/gm/kl09/unit06_interview-and-portrait_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl09/unit06_interview-and-portrait.png
 ---
 
 {{< callout type="note" >}}

@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl05/units/unit08_hobbies-and-sports.html
+presentation:
+  file: /materials/presentations/gm/kl05/unit08_hobbies-and-sports.pptx
+  thumbnail: /materials/presentations/gm/kl05/unit08_hobbies-and-sports.png
+worksheet:
+  file: /downloads/gm/kl05/unit08_hobbies-and-sports_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl05/unit08_hobbies-and-sports.png
 ---
 
 {{< callout type="note" >}}

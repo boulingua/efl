@@ -17,6 +17,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl08/units/unit02_school-life-elsewhere.html
+presentation:
+  file: /materials/presentations/e/kl08/unit02_school-life-elsewhere.pptx
+  thumbnail: /materials/presentations/e/kl08/unit02_school-life-elsewhere.png
+worksheet:
+  file: /downloads/e/kl08/unit02_school-life-elsewhere_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl08/unit02_school-life-elsewhere.png
 ---
 
 {{< callout type="note" >}}

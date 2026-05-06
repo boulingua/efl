@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl07/units/unit07_being-a-friend.html
+presentation:
+  file: /materials/presentations/gm/kl07/unit07_being-a-friend.pptx
+  thumbnail: /materials/presentations/gm/kl07/unit07_being-a-friend.png
+worksheet:
+  file: /downloads/gm/kl07/unit07_being-a-friend_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl07/unit07_being-a-friend.png
 ---
 
 {{< callout type="note" >}}

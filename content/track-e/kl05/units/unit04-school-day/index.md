@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl05/units/unit04_school-day.html
+presentation:
+  file: /materials/presentations/e/kl05/unit04_school-day.pptx
+  thumbnail: /materials/presentations/e/kl05/unit04_school-day.png
+worksheet:
+  file: /downloads/e/kl05/unit04_school-day_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl05/unit04_school-day.png
 ---
 
 {{< callout type="note" >}}

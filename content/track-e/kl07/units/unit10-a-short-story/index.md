@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl07/units/unit10_a-short-story.html
+presentation:
+  file: /materials/presentations/e/kl07/unit10_a-short-story.pptx
+  thumbnail: /materials/presentations/e/kl07/unit10_a-short-story.png
+worksheet:
+  file: /downloads/e/kl07/unit10_a-short-story_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl07/unit10_a-short-story.png
 ---
 
 {{< callout type="note" >}}

@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl08/units/unit11_public-speaking.html
+presentation:
+  file: /materials/presentations/gm/kl08/unit11_public-speaking.pptx
+  thumbnail: /materials/presentations/gm/kl08/unit11_public-speaking.png
+worksheet:
+  file: /downloads/gm/kl08/unit11_public-speaking_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl08/unit11_public-speaking.png
 ---
 
 {{< callout type="note" >}}

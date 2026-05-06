@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl10/units/unit12_year-review-toward-oberstufe.html
+presentation:
+  file: /materials/presentations/e/kl10/unit12_year-review-toward-oberstufe.pptx
+  thumbnail: /materials/presentations/e/kl10/unit12_year-review-toward-oberstufe.png
+worksheet:
+  file: /downloads/e/kl10/unit12_year-review-toward-oberstufe_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl10/unit12_year-review-toward-oberstufe.png
 ---
 
 {{< callout type="note" >}}

@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_gm_kl10/units/unit04_australia-now.html
+presentation:
+  file: /materials/presentations/gm/kl10/unit04_australia-now.pptx
+  thumbnail: /materials/presentations/gm/kl10/unit04_australia-now.png
+worksheet:
+  file: /downloads/gm/kl10/unit04_australia-now_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl10/unit04_australia-now.png
 ---
 
 {{< callout type="note" >}}

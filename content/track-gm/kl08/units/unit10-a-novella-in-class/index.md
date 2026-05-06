@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl08/units/unit10_a-novella-in-class.html
+presentation:
+  file: /materials/presentations/gm/kl08/unit10_a-novella-in-class.pptx
+  thumbnail: /materials/presentations/gm/kl08/unit10_a-novella-in-class.png
+worksheet:
+  file: /downloads/gm/kl08/unit10_a-novella-in-class_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl08/unit10_a-novella-in-class.png
 ---
 
 {{< callout type="note" >}}

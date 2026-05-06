@@ -8,6 +8,13 @@
 /resources/
 .hugo_build.lock
 
+# Phase 3 placeholder binaries — regenerated in CI by
+# _scripts/make_placeholder_{worksheets,presentations,thumbnails}.py.
+# Real materials replacing them go elsewhere.
+/static/downloads/
+/static/materials/presentations/
+/static/materials/worksheets/
+
 *.html
 !**/index.html
 # Hugo layouts and partials are HTML — never ignore them.

@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl10/units/unit03_digital-lives.html
+presentation:
+  file: /materials/presentations/e/kl10/unit03_digital-lives.pptx
+  thumbnail: /materials/presentations/e/kl10/unit03_digital-lives.png
+worksheet:
+  file: /downloads/e/kl10/unit03_digital-lives_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl10/unit03_digital-lives.png
 ---
 
 {{< callout type="note" >}}

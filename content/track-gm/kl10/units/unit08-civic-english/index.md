@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl10/units/unit08_civic-english.html
+presentation:
+  file: /materials/presentations/gm/kl10/unit08_civic-english.pptx
+  thumbnail: /materials/presentations/gm/kl10/unit08_civic-english.png
+worksheet:
+  file: /downloads/gm/kl10/unit08_civic-english_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl10/unit08_civic-english.png
 ---
 
 {{< callout type="note" >}}

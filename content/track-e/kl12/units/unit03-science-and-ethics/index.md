@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl12/units/unit03_science-and-ethics.html
+presentation:
+  file: /materials/presentations/e/kl12/unit03_science-and-ethics.pptx
+  thumbnail: /materials/presentations/e/kl12/unit03_science-and-ethics.png
+worksheet:
+  file: /downloads/e/kl12/unit03_science-and-ethics_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl12/unit03_science-and-ethics.png
 ---
 
 {{< callout type="note" >}}

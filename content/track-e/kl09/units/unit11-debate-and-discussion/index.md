@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl09/units/unit11_debate-and-discussion.html
+presentation:
+  file: /materials/presentations/e/kl09/unit11_debate-and-discussion.pptx
+  thumbnail: /materials/presentations/e/kl09/unit11_debate-and-discussion.png
+worksheet:
+  file: /downloads/e/kl09/unit11_debate-and-discussion_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl09/unit11_debate-and-discussion.png
 ---
 
 {{< callout type="note" >}}

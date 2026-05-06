@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl12/units/unit09_a-novel-in-full.html
+presentation:
+  file: /materials/presentations/e/kl12/unit09_a-novel-in-full.pptx
+  thumbnail: /materials/presentations/e/kl12/unit09_a-novel-in-full.png
+worksheet:
+  file: /downloads/e/kl12/unit09_a-novel-in-full_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl12/unit09_a-novel-in-full.png
 ---
 
 {{< callout type="note" >}}

@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_gm_kl08/units/unit04_ireland-stories.html
+presentation:
+  file: /materials/presentations/gm/kl08/unit04_ireland-stories.pptx
+  thumbnail: /materials/presentations/gm/kl08/unit04_ireland-stories.png
+worksheet:
+  file: /downloads/gm/kl08/unit04_ireland-stories_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl08/unit04_ireland-stories.png
 ---
 
 {{< callout type="note" >}}

@@ -19,6 +19,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl07/units/unit01_first-day-back.html
+presentation:
+  file: /materials/presentations/e/kl07/unit01_first-day-back.pptx
+  thumbnail: /materials/presentations/e/kl07/unit01_first-day-back.png
+worksheet:
+  file: /downloads/e/kl07/unit01_first-day-back_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl07/unit01_first-day-back.png
 ---
 
 {{< callout type="note" >}}

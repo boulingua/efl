@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl05/units/unit01_hello-world.html
+presentation:
+  file: /materials/presentations/e/kl05/unit01_hello-world.pptx
+  thumbnail: /materials/presentations/e/kl05/unit01_hello-world.png
+worksheet:
+  file: /downloads/e/kl05/unit01_hello-world_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl05/unit01_hello-world.png
 ---
 
 {{< callout type="note" >}}

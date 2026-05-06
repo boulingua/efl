@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl10/units/unit07_mediation-feature-article.html
+presentation:
+  file: /materials/presentations/e/kl10/unit07_mediation-feature-article.pptx
+  thumbnail: /materials/presentations/e/kl10/unit07_mediation-feature-article.png
+worksheet:
+  file: /downloads/e/kl10/unit07_mediation-feature-article_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl10/unit07_mediation-feature-article.png
 ---
 
 {{< callout type="note" >}}

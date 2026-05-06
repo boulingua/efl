@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl06/units/unit05_daily-routines.html
+presentation:
+  file: /materials/presentations/gm/kl06/unit05_daily-routines.pptx
+  thumbnail: /materials/presentations/gm/kl06/unit05_daily-routines.png
+worksheet:
+  file: /downloads/gm/kl06/unit05_daily-routines_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl06/unit05_daily-routines.png
 ---
 
 {{< callout type="note" >}}

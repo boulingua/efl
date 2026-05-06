@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl09/units/unit12_year-review-portfolio.html
+presentation:
+  file: /materials/presentations/gm/kl09/unit12_year-review-portfolio.pptx
+  thumbnail: /materials/presentations/gm/kl09/unit12_year-review-portfolio.png
+worksheet:
+  file: /downloads/gm/kl09/unit12_year-review-portfolio_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl09/unit12_year-review-portfolio.png
 ---
 
 {{< callout type="note" >}}

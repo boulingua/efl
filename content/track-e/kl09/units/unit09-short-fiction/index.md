@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl09/units/unit09_short-fiction.html
+presentation:
+  file: /materials/presentations/e/kl09/unit09_short-fiction.pptx
+  thumbnail: /materials/presentations/e/kl09/unit09_short-fiction.png
+worksheet:
+  file: /downloads/e/kl09/unit09_short-fiction_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl09/unit09_short-fiction.png
 ---
 
 {{< callout type="note" >}}

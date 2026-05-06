@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl13/units/unit01_globalisation-and-the-self.html
+presentation:
+  file: /materials/presentations/e/kl13/unit01_globalisation-and-the-self.pptx
+  thumbnail: /materials/presentations/e/kl13/unit01_globalisation-and-the-self.png
+worksheet:
+  file: /downloads/e/kl13/unit01_globalisation-and-the-self_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl13/unit01_globalisation-and-the-self.png
 ---
 
 {{< callout type="note" >}}

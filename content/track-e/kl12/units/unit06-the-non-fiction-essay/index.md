@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl12/units/unit06_the-non-fiction-essay.html
+presentation:
+  file: /materials/presentations/e/kl12/unit06_the-non-fiction-essay.pptx
+  thumbnail: /materials/presentations/e/kl12/unit06_the-non-fiction-essay.png
+worksheet:
+  file: /downloads/e/kl12/unit06_the-non-fiction-essay_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl12/unit06_the-non-fiction-essay.png
 ---
 
 {{< callout type="note" >}}

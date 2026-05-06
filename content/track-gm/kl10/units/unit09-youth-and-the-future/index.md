@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_gm_kl10/units/unit09_youth-and-the-future.html
+presentation:
+  file: /materials/presentations/gm/kl10/unit09_youth-and-the-future.pptx
+  thumbnail: /materials/presentations/gm/kl10/unit09_youth-and-the-future.png
+worksheet:
+  file: /downloads/gm/kl10/unit09_youth-and-the-future_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl10/unit09_youth-and-the-future.png
 ---
 
 {{< callout type="note" >}}

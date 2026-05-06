@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl11/units/unit02_the-american-dream.html
+presentation:
+  file: /materials/presentations/e/kl11/unit02_the-american-dream.pptx
+  thumbnail: /materials/presentations/e/kl11/unit02_the-american-dream.png
+worksheet:
+  file: /downloads/e/kl11/unit02_the-american-dream_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl11/unit02_the-american-dream.png
 ---
 
 {{< callout type="note" >}}

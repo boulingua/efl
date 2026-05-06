@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl10/units/unit10_project-and-presentation.html
+presentation:
+  file: /materials/presentations/gm/kl10/unit10_project-and-presentation.pptx
+  thumbnail: /materials/presentations/gm/kl10/unit10_project-and-presentation.png
+worksheet:
+  file: /downloads/gm/kl10/unit10_project-and-presentation_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl10/unit10_project-and-presentation.png
 ---
 
 {{< callout type="note" >}}

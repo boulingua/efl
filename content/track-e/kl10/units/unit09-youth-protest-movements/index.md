@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl10/units/unit09_youth-protest-movements.html
+presentation:
+  file: /materials/presentations/e/kl10/unit09_youth-protest-movements.pptx
+  thumbnail: /materials/presentations/e/kl10/unit09_youth-protest-movements.png
+worksheet:
+  file: /downloads/e/kl10/unit09_youth-protest-movements_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl10/unit09_youth-protest-movements.png
 ---
 
 {{< callout type="note" >}}

@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl10/units/unit01_transition-after-grade-10.html
+presentation:
+  file: /materials/presentations/gm/kl10/unit01_transition-after-grade-10.pptx
+  thumbnail: /materials/presentations/gm/kl10/unit01_transition-after-grade-10.png
+worksheet:
+  file: /downloads/gm/kl10/unit01_transition-after-grade-10_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl10/unit01_transition-after-grade-10.png
 ---
 
 {{< callout type="note" >}}

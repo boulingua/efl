@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl08/units/unit06_opinion-writing.html
+presentation:
+  file: /materials/presentations/gm/kl08/unit06_opinion-writing.pptx
+  thumbnail: /materials/presentations/gm/kl08/unit06_opinion-writing.png
+worksheet:
+  file: /downloads/gm/kl08/unit06_opinion-writing_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl08/unit06_opinion-writing.png
 ---
 
 {{< callout type="note" >}}

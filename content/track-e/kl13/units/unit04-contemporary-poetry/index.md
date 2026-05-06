@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl13/units/unit04_contemporary-poetry.html
+presentation:
+  file: /materials/presentations/e/kl13/unit04_contemporary-poetry.pptx
+  thumbnail: /materials/presentations/e/kl13/unit04_contemporary-poetry.png
+worksheet:
+  file: /downloads/e/kl13/unit04_contemporary-poetry_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl13/unit04_contemporary-poetry.png
 ---
 
 {{< callout type="note" >}}

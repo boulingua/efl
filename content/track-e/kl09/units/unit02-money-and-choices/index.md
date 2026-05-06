@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl09/units/unit02_money-and-choices.html
+presentation:
+  file: /materials/presentations/e/kl09/unit02_money-and-choices.pptx
+  thumbnail: /materials/presentations/e/kl09/unit02_money-and-choices.png
+worksheet:
+  file: /downloads/e/kl09/unit02_money-and-choices_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl09/unit02_money-and-choices.png
 ---
 
 {{< callout type="note" >}}

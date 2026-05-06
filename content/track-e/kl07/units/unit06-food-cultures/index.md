@@ -19,6 +19,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl07/units/unit06_food-cultures.html
+presentation:
+  file: /materials/presentations/e/kl07/unit06_food-cultures.pptx
+  thumbnail: /materials/presentations/e/kl07/unit06_food-cultures.png
+worksheet:
+  file: /downloads/e/kl07/unit06_food-cultures_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl07/unit06_food-cultures.png
 ---
 
 {{< callout type="note" >}}

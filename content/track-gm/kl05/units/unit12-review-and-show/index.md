@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl05/units/unit12_review-and-show.html
+presentation:
+  file: /materials/presentations/gm/kl05/unit12_review-and-show.pptx
+  thumbnail: /materials/presentations/gm/kl05/unit12_review-and-show.png
+worksheet:
+  file: /downloads/gm/kl05/unit12_review-and-show_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl05/unit12_review-and-show.png
 ---
 
 {{< callout type="note" >}}

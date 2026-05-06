@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl05/units/unit03_home-and-room.html
+presentation:
+  file: /materials/presentations/e/kl05/unit03_home-and-room.pptx
+  thumbnail: /materials/presentations/e/kl05/unit03_home-and-room.png
+worksheet:
+  file: /downloads/e/kl05/unit03_home-and-room_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl05/unit03_home-and-room.png
 ---
 
 {{< callout type="note" >}}

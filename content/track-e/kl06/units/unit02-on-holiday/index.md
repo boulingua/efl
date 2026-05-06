@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl06/units/unit02_on-holiday.html
+presentation:
+  file: /materials/presentations/e/kl06/unit02_on-holiday.pptx
+  thumbnail: /materials/presentations/e/kl06/unit02_on-holiday.png
+worksheet:
+  file: /downloads/e/kl06/unit02_on-holiday_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl06/unit02_on-holiday.png
 ---
 
 {{< callout type="note" >}}

@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl09/units/unit01_future-careers.html
+presentation:
+  file: /materials/presentations/gm/kl09/unit01_future-careers.pptx
+  thumbnail: /materials/presentations/gm/kl09/unit01_future-careers.png
+worksheet:
+  file: /downloads/gm/kl09/unit01_future-careers_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl09/unit01_future-careers.png
 ---
 
 {{< callout type="note" >}}

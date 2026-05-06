@@ -17,6 +17,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_gm_kl08/units/unit08_music-and-belonging.html
+presentation:
+  file: /materials/presentations/gm/kl08/unit08_music-and-belonging.pptx
+  thumbnail: /materials/presentations/gm/kl08/unit08_music-and-belonging.png
+worksheet:
+  file: /downloads/gm/kl08/unit08_music-and-belonging_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl08/unit08_music-and-belonging.png
 ---
 
 {{< callout type="note" >}}

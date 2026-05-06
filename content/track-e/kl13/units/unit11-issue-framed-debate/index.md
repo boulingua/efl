@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl13/units/unit11_issue-framed-debate.html
+presentation:
+  file: /materials/presentations/e/kl13/unit11_issue-framed-debate.pptx
+  thumbnail: /materials/presentations/e/kl13/unit11_issue-framed-debate.png
+worksheet:
+  file: /downloads/e/kl13/unit11_issue-framed-debate_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl13/unit11_issue-framed-debate.png
 ---
 
 {{< callout type="note" >}}

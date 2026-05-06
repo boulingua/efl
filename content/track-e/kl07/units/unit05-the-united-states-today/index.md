@@ -19,6 +19,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl07/units/unit05_the-united-states-today.html
+presentation:
+  file: /materials/presentations/e/kl07/unit05_the-united-states-today.pptx
+  thumbnail: /materials/presentations/e/kl07/unit05_the-united-states-today.png
+worksheet:
+  file: /downloads/e/kl07/unit05_the-united-states-today_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl07/unit05_the-united-states-today.png
 ---
 
 {{< callout type="note" >}}

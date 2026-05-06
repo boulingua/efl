@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl08/units/unit05_digital-friendships.html
+presentation:
+  file: /materials/presentations/gm/kl08/unit05_digital-friendships.pptx
+  thumbnail: /materials/presentations/gm/kl08/unit05_digital-friendships.png
+worksheet:
+  file: /downloads/gm/kl08/unit05_digital-friendships_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl08/unit05_digital-friendships.png
 ---
 
 {{< callout type="note" >}}

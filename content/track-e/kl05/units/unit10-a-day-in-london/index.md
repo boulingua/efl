@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl05/units/unit10_a-day-in-london.html
+presentation:
+  file: /materials/presentations/e/kl05/unit10_a-day-in-london.pptx
+  thumbnail: /materials/presentations/e/kl05/unit10_a-day-in-london.png
+worksheet:
+  file: /downloads/e/kl05/unit10_a-day-in-london_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl05/unit10_a-day-in-london.png
 ---
 
 {{< callout type="note" >}}

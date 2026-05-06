@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl09/units/unit08_inequality-and-voice.html
+presentation:
+  file: /materials/presentations/gm/kl09/unit08_inequality-and-voice.pptx
+  thumbnail: /materials/presentations/gm/kl09/unit08_inequality-and-voice.png
+worksheet:
+  file: /downloads/gm/kl09/unit08_inequality-and-voice_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl09/unit08_inequality-and-voice.png
 ---
 
 {{< callout type="note" >}}

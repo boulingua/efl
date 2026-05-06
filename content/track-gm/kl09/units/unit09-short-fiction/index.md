@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl09/units/unit09_short-fiction.html
+presentation:
+  file: /materials/presentations/gm/kl09/unit09_short-fiction.pptx
+  thumbnail: /materials/presentations/gm/kl09/unit09_short-fiction.png
+worksheet:
+  file: /downloads/gm/kl09/unit09_short-fiction_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl09/unit09_short-fiction.png
 ---
 
 {{< callout type="note" >}}

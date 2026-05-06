@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl12/units/unit07_mediation-academic-text.html
+presentation:
+  file: /materials/presentations/e/kl12/unit07_mediation-academic-text.pptx
+  thumbnail: /materials/presentations/e/kl12/unit07_mediation-academic-text.png
+worksheet:
+  file: /downloads/e/kl12/unit07_mediation-academic-text_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl12/unit07_mediation-academic-text.png
 ---
 
 {{< callout type="note" >}}

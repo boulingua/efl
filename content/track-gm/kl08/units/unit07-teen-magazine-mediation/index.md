@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl08/units/unit07_teen-magazine-mediation.html
+presentation:
+  file: /materials/presentations/gm/kl08/unit07_teen-magazine-mediation.pptx
+  thumbnail: /materials/presentations/gm/kl08/unit07_teen-magazine-mediation.png
+worksheet:
+  file: /downloads/gm/kl08/unit07_teen-magazine-mediation_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl08/unit07_teen-magazine-mediation.png
 ---
 
 {{< callout type="note" >}}

@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl11/units/unit03_post-colonial-voices-intro.html
+presentation:
+  file: /materials/presentations/e/kl11/unit03_post-colonial-voices-intro.pptx
+  thumbnail: /materials/presentations/e/kl11/unit03_post-colonial-voices-intro.png
+worksheet:
+  file: /downloads/e/kl11/unit03_post-colonial-voices-intro_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl11/unit03_post-colonial-voices-intro.png
 ---
 
 {{< callout type="note" >}}

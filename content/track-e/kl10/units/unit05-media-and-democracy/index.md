@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl10/units/unit05_media-and-democracy.html
+presentation:
+  file: /materials/presentations/e/kl10/unit05_media-and-democracy.pptx
+  thumbnail: /materials/presentations/e/kl10/unit05_media-and-democracy.png
+worksheet:
+  file: /downloads/e/kl10/unit05_media-and-democracy_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl10/unit05_media-and-democracy.png
 ---
 
 {{< callout type="note" >}}

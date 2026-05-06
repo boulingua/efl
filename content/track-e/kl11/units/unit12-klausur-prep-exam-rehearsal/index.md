@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl11/units/unit12_klausur-prep-exam-rehearsal.html
+presentation:
+  file: /materials/presentations/e/kl11/unit12_klausur-prep-exam-rehearsal.pptx
+  thumbnail: /materials/presentations/e/kl11/unit12_klausur-prep-exam-rehearsal.png
+worksheet:
+  file: /downloads/e/kl11/unit12_klausur-prep-exam-rehearsal_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl11/unit12_klausur-prep-exam-rehearsal.png
 ---
 
 {{< callout type="note" >}}

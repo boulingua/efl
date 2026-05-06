@@ -1,0 +1,25 @@
+{{- /*
+  Override of hugo-coder's _partials/page.html.
+
+  Adds a paired material-links block (presentation .pptx + worksheet .pdf
+  with thumbnails) at the top of any page whose front matter declares
+  both `presentation:` and `worksheet:` blocks — i.e. the 180 unit pages.
+  All other pages render unchanged.
+*/ -}}
+<section class="container page">
+  <article>
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="{{ .Permalink | safeURL }}">
+          {{ .Title }}
+        </a>
+      </h1>
+    </header>
+
+    {{- if and .Params.presentation .Params.worksheet -}}
+      {{ partial "material-links.html" . }}
+    {{- end -}}
+
+    {{ .Content }}
+  </article>
+</section>

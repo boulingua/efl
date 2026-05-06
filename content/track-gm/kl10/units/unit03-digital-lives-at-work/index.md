@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl10/units/unit03_digital-lives-at-work.html
+presentation:
+  file: /materials/presentations/gm/kl10/unit03_digital-lives-at-work.pptx
+  thumbnail: /materials/presentations/gm/kl10/unit03_digital-lives-at-work.png
+worksheet:
+  file: /downloads/gm/kl10/unit03_digital-lives-at-work_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl10/unit03_digital-lives-at-work.png
 ---
 
 {{< callout type="note" >}}

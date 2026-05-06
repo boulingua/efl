@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl07/units/unit10_a-short-story.html
+presentation:
+  file: /materials/presentations/gm/kl07/unit10_a-short-story.pptx
+  thumbnail: /materials/presentations/gm/kl07/unit10_a-short-story.png
+worksheet:
+  file: /downloads/gm/kl07/unit10_a-short-story_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl07/unit10_a-short-story.png
 ---
 
 {{< callout type="note" >}}

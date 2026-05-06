@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl09/units/unit07_mediation-news-article.html
+presentation:
+  file: /materials/presentations/gm/kl09/unit07_mediation-news-article.pptx
+  thumbnail: /materials/presentations/gm/kl09/unit07_mediation-news-article.png
+worksheet:
+  file: /downloads/gm/kl09/unit07_mediation-news-article_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl09/unit07_mediation-news-article.png
 ---
 
 {{< callout type="note" >}}

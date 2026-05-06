@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl12/units/unit10_kommunikationspruefung-mock.html
+presentation:
+  file: /materials/presentations/e/kl12/unit10_kommunikationspruefung-mock.pptx
+  thumbnail: /materials/presentations/e/kl12/unit10_kommunikationspruefung-mock.png
+worksheet:
+  file: /downloads/e/kl12/unit10_kommunikationspruefung-mock_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl12/unit10_kommunikationspruefung-mock.png
 ---
 
 {{< callout type="note" >}}

@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl11/units/unit07_mediation-as-a-skill.html
+presentation:
+  file: /materials/presentations/e/kl11/unit07_mediation-as-a-skill.pptx
+  thumbnail: /materials/presentations/e/kl11/unit07_mediation-as-a-skill.png
+worksheet:
+  file: /downloads/e/kl11/unit07_mediation-as-a-skill_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl11/unit07_mediation-as-a-skill.png
 ---
 
 {{< callout type="note" >}}

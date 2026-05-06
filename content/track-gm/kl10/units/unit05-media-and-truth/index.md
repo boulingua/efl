@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl10/units/unit05_media-and-truth.html
+presentation:
+  file: /materials/presentations/gm/kl10/unit05_media-and-truth.pptx
+  thumbnail: /materials/presentations/gm/kl10/unit05_media-and-truth.png
+worksheet:
+  file: /downloads/gm/kl10/unit05_media-and-truth_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl10/unit05_media-and-truth.png
 ---
 
 {{< callout type="note" >}}

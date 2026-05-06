@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl06/units/unit07_an-adventure-story.html
+presentation:
+  file: /materials/presentations/gm/kl06/unit07_an-adventure-story.pptx
+  thumbnail: /materials/presentations/gm/kl06/unit07_an-adventure-story.png
+worksheet:
+  file: /downloads/gm/kl06/unit07_an-adventure-story_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl06/unit07_an-adventure-story.png
 ---
 
 {{< callout type="note" >}}

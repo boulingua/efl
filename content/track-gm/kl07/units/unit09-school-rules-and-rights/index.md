@@ -19,6 +19,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl07/units/unit09_school-rules-and-rights.html
+presentation:
+  file: /materials/presentations/gm/kl07/unit09_school-rules-and-rights.pptx
+  thumbnail: /materials/presentations/gm/kl07/unit09_school-rules-and-rights.png
+worksheet:
+  file: /downloads/gm/kl07/unit09_school-rules-and-rights_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl07/unit09_school-rules-and-rights.png
 ---
 
 {{< callout type="note" >}}

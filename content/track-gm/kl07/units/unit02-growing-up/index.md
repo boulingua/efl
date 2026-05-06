@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl07/units/unit02_growing-up.html
+presentation:
+  file: /materials/presentations/gm/kl07/unit02_growing-up.pptx
+  thumbnail: /materials/presentations/gm/kl07/unit02_growing-up.png
+worksheet:
+  file: /downloads/gm/kl07/unit02_growing-up_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl07/unit02_growing-up.png
 ---
 
 {{< callout type="note" >}}

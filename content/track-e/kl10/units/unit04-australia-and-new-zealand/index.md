@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl10/units/unit04_australia-and-new-zealand.html
+presentation:
+  file: /materials/presentations/e/kl10/unit04_australia-and-new-zealand.pptx
+  thumbnail: /materials/presentations/e/kl10/unit04_australia-and-new-zealand.png
+worksheet:
+  file: /downloads/e/kl10/unit04_australia-and-new-zealand_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl10/unit04_australia-and-new-zealand.png
 ---
 
 {{< callout type="note" >}}

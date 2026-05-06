@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl10/units/unit11_public-speaking-and-debate.html
+presentation:
+  file: /materials/presentations/e/kl10/unit11_public-speaking-and-debate.pptx
+  thumbnail: /materials/presentations/e/kl10/unit11_public-speaking-and-debate.png
+worksheet:
+  file: /downloads/e/kl10/unit11_public-speaking-and-debate_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl10/unit11_public-speaking-and-debate.png
 ---
 
 {{< callout type="note" >}}

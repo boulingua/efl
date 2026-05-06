@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl06/units/unit11_captain-codys-map.html
+presentation:
+  file: /materials/presentations/gm/kl06/unit11_captain-codys-map.pptx
+  thumbnail: /materials/presentations/gm/kl06/unit11_captain-codys-map.png
+worksheet:
+  file: /downloads/gm/kl06/unit11_captain-codys-map_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl06/unit11_captain-codys-map.png
 ---
 
 {{< callout type="note" >}}

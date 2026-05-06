@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl07/units/unit12_year-review-and-podcast.html
+presentation:
+  file: /materials/presentations/e/kl07/unit12_year-review-and-podcast.pptx
+  thumbnail: /materials/presentations/e/kl07/unit12_year-review-and-podcast.png
+worksheet:
+  file: /downloads/e/kl07/unit12_year-review-and-podcast_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl07/unit12_year-review-and-podcast.png
 ---
 
 {{< callout type="note" >}}

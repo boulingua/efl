@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl09/units/unit03_the-environment-locally.html
+presentation:
+  file: /materials/presentations/e/kl09/unit03_the-environment-locally.pptx
+  thumbnail: /materials/presentations/e/kl09/unit03_the-environment-locally.png
+worksheet:
+  file: /downloads/e/kl09/unit03_the-environment-locally_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl09/unit03_the-environment-locally.png
 ---
 
 {{< callout type="note" >}}

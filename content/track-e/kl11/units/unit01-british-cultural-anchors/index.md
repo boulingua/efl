@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl11/units/unit01_british-cultural-anchors.html
+presentation:
+  file: /materials/presentations/e/kl11/unit01_british-cultural-anchors.pptx
+  thumbnail: /materials/presentations/e/kl11/unit01_british-cultural-anchors.png
+worksheet:
+  file: /downloads/e/kl11/unit01_british-cultural-anchors_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl11/unit01_british-cultural-anchors.png
 ---
 
 {{< callout type="note" >}}

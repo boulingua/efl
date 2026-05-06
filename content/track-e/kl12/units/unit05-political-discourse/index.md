@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl12/units/unit05_political-discourse.html
+presentation:
+  file: /materials/presentations/e/kl12/unit05_political-discourse.pptx
+  thumbnail: /materials/presentations/e/kl12/unit05_political-discourse.png
+worksheet:
+  file: /downloads/e/kl12/unit05_political-discourse_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl12/unit05_political-discourse.png
 ---
 
 {{< callout type="note" >}}

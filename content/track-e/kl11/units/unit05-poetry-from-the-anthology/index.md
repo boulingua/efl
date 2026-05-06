@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl11/units/unit05_poetry-from-the-anthology.html
+presentation:
+  file: /materials/presentations/e/kl11/unit05_poetry-from-the-anthology.pptx
+  thumbnail: /materials/presentations/e/kl11/unit05_poetry-from-the-anthology.png
+worksheet:
+  file: /downloads/e/kl11/unit05_poetry-from-the-anthology_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl11/unit05_poetry-from-the-anthology.png
 ---
 
 {{< callout type="note" >}}

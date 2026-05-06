@@ -18,6 +18,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl07/units/unit11_plans-for-the-summer.html
+presentation:
+  file: /materials/presentations/e/kl07/unit11_plans-for-the-summer.pptx
+  thumbnail: /materials/presentations/e/kl07/unit11_plans-for-the-summer.png
+worksheet:
+  file: /downloads/e/kl07/unit11_plans-for-the-summer_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl07/unit11_plans-for-the-summer.png
 ---
 
 {{< callout type="note" >}}

@@ -36,10 +36,23 @@ jobs:
         with:
           go-version: "1.22"
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python deps for placeholder generators
+        run: pip install pyyaml reportlab pypdf python-pptx Pillow
+
       - name: Hugo Modules tidy + verify
         run: |
           hugo mod tidy
           hugo mod verify
+
+      - name: Generate placeholder worksheets, presentations + thumbnails
+        run: |
+          python _scripts/make_placeholder_worksheets.py --out static/downloads
+          python _scripts/make_placeholder_presentations.py
+          python _scripts/make_placeholder_thumbnails.py
 
       - name: Verify Plausible snippet is wired
         run: |

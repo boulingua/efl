@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_e_kl12/units/unit08_post-colonial-voices-advanced.html
+presentation:
+  file: /materials/presentations/e/kl12/unit08_post-colonial-voices-advanced.pptx
+  thumbnail: /materials/presentations/e/kl12/unit08_post-colonial-voices-advanced.png
+worksheet:
+  file: /downloads/e/kl12/unit08_post-colonial-voices-advanced_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl12/unit08_post-colonial-voices-advanced.png
 ---
 
 {{< callout type="note" >}}

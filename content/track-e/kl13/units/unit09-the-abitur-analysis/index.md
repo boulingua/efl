@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl13/units/unit09_the-abitur-analysis.html
+presentation:
+  file: /materials/presentations/e/kl13/unit09_the-abitur-analysis.pptx
+  thumbnail: /materials/presentations/e/kl13/unit09_the-abitur-analysis.png
+worksheet:
+  file: /downloads/e/kl13/unit09_the-abitur-analysis_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl13/unit09_the-abitur-analysis.png
 ---
 
 {{< callout type="note" >}}

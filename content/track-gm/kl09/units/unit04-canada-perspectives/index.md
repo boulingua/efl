@@ -18,6 +18,12 @@ skills_focus:
   - intercultural
 aliases:
   - /track_gm_kl09/units/unit04_canada-perspectives.html
+presentation:
+  file: /materials/presentations/gm/kl09/unit04_canada-perspectives.pptx
+  thumbnail: /materials/presentations/gm/kl09/unit04_canada-perspectives.png
+worksheet:
+  file: /downloads/gm/kl09/unit04_canada-perspectives_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl09/unit04_canada-perspectives.png
 ---
 
 {{< callout type="note" >}}

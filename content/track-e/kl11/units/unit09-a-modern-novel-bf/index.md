@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl11/units/unit09_a-modern-novel-bf.html
+presentation:
+  file: /materials/presentations/e/kl11/unit09_a-modern-novel-bf.pptx
+  thumbnail: /materials/presentations/e/kl11/unit09_a-modern-novel-bf.png
+worksheet:
+  file: /downloads/e/kl11/unit09_a-modern-novel-bf_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl11/unit09_a-modern-novel-bf.png
 ---
 
 {{< callout type="note" >}}

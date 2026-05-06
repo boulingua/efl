@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_gm_kl10/units/unit12_year-review-graduation.html
+presentation:
+  file: /materials/presentations/gm/kl10/unit12_year-review-graduation.pptx
+  thumbnail: /materials/presentations/gm/kl10/unit12_year-review-graduation.png
+worksheet:
+  file: /downloads/gm/kl10/unit12_year-review-graduation_worksheet.pdf
+  thumbnail: /materials/worksheets/gm/kl10/unit12_year-review-graduation.png
 ---
 
 {{< callout type="note" >}}

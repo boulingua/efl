@@ -17,6 +17,12 @@ skills_focus:
   - language_awareness
 aliases:
   - /track_e_kl10/units/unit10_a-short-novel.html
+presentation:
+  file: /materials/presentations/e/kl10/unit10_a-short-novel.pptx
+  thumbnail: /materials/presentations/e/kl10/unit10_a-short-novel.png
+worksheet:
+  file: /downloads/e/kl10/unit10_a-short-novel_worksheet.pdf
+  thumbnail: /materials/worksheets/e/kl10/unit10_a-short-novel.png
 ---
 
 {{< callout type="note" >}}
