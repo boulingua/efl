@@ -1,0 +1,121 @@
+---
+title: "Klassenarbeit — Unit 10: Reading a Short Story"
+subtitle: "Track G+M · Klasse 7 · Niveau M · 45 Minuten"
+author: "S. Le Boulanger"
+niveau: "M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 10
+slug: "a-short-story"
+aliases:
+  - /track_gm_kl07/units/unit10_a-short-story_exam.html
+---
+
+
+**Track G+M · Klasse 7 · Niveau M · 45 Minuten**
+
+{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
+**Materials allowed.** A monolingual dictionary (Niveau M only).\
+**Time.** 45 minutes.\
+**Total.** 60 points.
+{{< /callout >}}
+
+### Task 1 — Reading (20 BE)
+
+Read the short story *The Last Bus*.
+
+> Salim missed the last bus by two minutes. He could see the red
+> tail-lights at the corner; then they were gone. The shelter
+> smelled of rain. There was an old man in a coat that was too
+> big, holding a paper cup. Salim sat on the cold metal bench and
+> stared at his shoes. "First time?" the old man said. "First
+> time what?" "First time you missed the last bus." Salim almost
+> laughed. "Yes." The old man nodded. "Sit. Walk later. The walk
+> is always longer than you think, and a little better than you
+> remember."
+
+1. Why is Salim at the bus stop alone? (3)
+2. What is the weather like? (2)
+3. Who is the other person at the stop, and what does he hold? (3)
+4. What does the old man's last sentence mean — what kind of
+   advice is it? (6)
+5. Find one detail in the story that creates the mood. Explain in
+   one sentence why it works. (6)
+
+### Task 2 — Use of English (10 BE)
+
+**A. Adverbs of manner (5 BE).** Build the adverb from the
+adjective.
+
+1. quiet → ___
+2. slow → ___
+3. happy → ___
+4. good → ___
+5. easy → ___
+
+**B. Direct → reported speech (5 BE).** Rewrite.
+
+6. "First time?" the old man said. → The old man asked ___ .
+7. "Yes," Salim answered. → Salim answered ___ .
+8. "Sit," the old man said. → The old man told Salim ___ .
+
+### Task 3 — Mediation (10 BE)
+
+Your German cousin sends you the start of a German short story:
+
+> "Lena verpasste den letzten Bus um zwei Minuten. Sie sah die
+> roten Rücklichter um die Ecke verschwinden. Es regnete leise
+> auf das Dach des Wartehäuschens."
+
+Write **three sentences in English** for an English-speaking
+friend who reads stories: tell them what happens at the start and
+what mood the writer creates.
+
+### Task 4 — Writing (20 BE)
+
+Write 100–120 words **continuing** *The Last Bus*. What does
+Salim do next? Stay in past simple. Use:
+
+- at least one adverb of manner (*quietly, slowly, calmly*),
+- at least one short line of direct speech,
+- one sensory detail (something Salim hears, smells, or feels).
+
+{{< callout type="tip" title="Expected answer key — class test (\"Klassenarbeit\")" collapse="true" >}}
+**Task 1 (20 BE).**\
+1. He missed the last bus by two minutes. (3)
+2. It is raining; the shelter smells of rain. (2)
+3. An old man in an oversized coat, holding a paper cup. (3)
+4. Sample: *Walking can be unpleasant in the moment but it makes
+   a better memory than you think; a small piece of life
+   wisdom delivered as a kindness.* (6)
+5. Open answer; reward concrete detail (*"the cold metal bench",
+   "red tail-lights at the corner", "coat that was too big"*) and
+   a one-sentence reason. (6)
+
+**Task 2 (10 BE).**\
+A. 1. quietly, 2. slowly, 3. happily, 4. well, 5. easily.\
+B. 6. … if it was the first time. 7. … that it was. 8. … to sit.
+
+**Task 3 (10 BE).** Sample: *"Lena missed the last bus by two
+minutes — she watched the red tail-lights disappear around the
+corner. The rain was tapping softly on the roof of the shelter,
+which sets a quiet, lonely mood right at the start."* Award for:
+gist (4), addressee-fit (2), correct grammar (4).
+
+**Task 4 (20 BE).** Inhalt 10 / Sprache 10.
+{{< /callout >}}
+
+{{< callout type="tip" title="Rubric — grading scale (Notenschlüssel)" collapse="true" >}}
+| Punkte (von 60) | Note |
+|-----------------|------|
+| 56–60 | 1 | 49–55 | 2 | 40–48 | 3 |
+| 30–39 | 4 | 18–29 | 5 | 0–17  | 6 |
+{{< /callout >}}
+
+<!-- VG Wort Zählmarke (slb) — public ID: 157bea832c3641af92297de418700591 -->
+<img src="https://vg09.met.vgwort.de/na/157bea832c3641af92297de418700591"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
