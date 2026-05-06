@@ -6,14 +6,26 @@
   both `presentation:` and `worksheet:` blocks — i.e. the 180 unit pages.
   All other pages render unchanged.
 */ -}}
+{{- /* Resolve the canonical author for this page: explicit page-level
+       front-matter wins, site-level fallback otherwise. Both should
+       agree to "S. Le Boulanger" on this site, but the chain handles
+       any future override. */ -}}
+{{- $author := .Params.author | default site.Params.author -}}
+
 <section class="container page">
-  <article>
+  <article{{ if $author }} itemscope itemtype="https://schema.org/Article"{{ end }}>
     <header>
-      <h1 class="title">
+      <h1 class="title"{{ if $author }} itemprop="headline"{{ end }}>
         <a class="title-link" href="{{ .Permalink | safeURL }}">
           {{ .Title }}
         </a>
       </h1>
+      {{- if $author }}
+      <p class="byline" itemprop="author" itemscope itemtype="https://schema.org/Person">
+        <span class="byline-prefix">By</span>
+        <span itemprop="name">{{ $author }}</span>
+      </p>
+      {{- end }}
     </header>
 
     {{- if and .Params.presentation .Params.worksheet -}}

@@ -26,6 +26,9 @@
 # Hugo auto-emits this for IDE go-to-definition; not source.
 /assets/jsconfig.json
 
+# Bildungsplan live-fetch response cache (24h TTL, regenerated as needed).
+/_resources/.bildungsplan_cache/
+
 *.html
 !**/index.html
 # Hugo layouts and partials are HTML — never ignore them.

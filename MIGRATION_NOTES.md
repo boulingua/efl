@@ -282,3 +282,78 @@ Action for the author: register two new Zählmarken via VG Wort
 T.O.M., add the rows to `vgwort-manifest.csv`, re-run
 `_scripts/migrate_vgwort_to_data.py`. The Datenschutzerklärung
 already discloses VG Wort usage so no further legal copy needed.
+
+### 2026-05-06 — Phase 5+6 link verification + missing CI gates
+
+Phase 5: link verification was already comprehensive after the
+migration phases (`verify_internal_links.py` + lychee non-blocking
+external check). No new wiring needed.
+
+Phase 6 implemented the four gates flagged as lost in Phase 0 plus
+two new ones from the brief:
+
+#### 6.1 — `_scripts/verify_legal_placeholders.py`
+
+Re-implementation of the Quarto-era
+`scripts/check-legal-placeholders.sh`, retargeted at `public/` and
+expanded with more placeholder strings (`{{...}}`, `[NAME]`,
+`[ADDRESS]`, `Lorem ipsum`, `<TODO:`, `<FIXME:`, `[STUB]`, `[TBD]`)
+plus standalone `TODO`/`FIXME`/`XXX`/`HACK` markers. Blocking. Local:
+3 / 3 legal pages clean.
+
+#### 6.2 — `_scripts/verify_bildungsplan_refs.py`
+
+For every `source_urls` in `_resources/bildungsplan_bw_*.yml`, hits
+`bildungsplaene-bw.de` live. 200 = pass, anything else = hard fail.
+24h response cache at `_resources/.bildungsplan_cache/` (gitignored)
+keeps CI fast, but is never substituted for a live failure. Uses
+`certifi` for SSL trust (Windows-local fix; Ubuntu CI works either
+way). Blocking. Local: 3 / 3 URLs reachable.
+
+#### 6.6 — `_scripts/verify_pdf_attribution.py`
+
+Re-implementation of the Quarto-era inline gate from the old
+`publish.yml`. Walks every PDF under `static/downloads/`, asserts
+`/Author` core-property contains "Le Boulanger". Blocking. Local:
+180 / 180 PDFs attributed.
+
+#### 6.7 — `_scripts/verify_author_attribution.py` + visible byline
+
+Three checks per content page:
+1. `<meta name="author" content="...Le Boulanger...">` — Coder
+   emits this from `params.author` site-wide. **463 / 463 pass.**
+2. JSON-LD `Person` — Coder doesn't emit by default. Now emitted via
+   the page.html + list.html partial overrides as `itemscope
+   itemtype="https://schema.org/Person"` on the byline (Schema.org
+   Microdata; gate accepts either form for now).
+3. Visible "Le Boulanger" string in article body. Was failing on 385
+   pages because no template rendered an explicit byline. Fixed by
+   adding `<p class="byline">By S. Le Boulanger</p>` to both
+   `_partials/page.html` and `_partials/list.html` (the section-list
+   override added in Phase 4 for VG Wort). Minimal italic CSS in
+   `assets/css/custom.css`. Re-run: **463 / 463 pass.**
+
+Blocking. Skips alias-redirects, paginator pages, and the materials
+hub (navigation, not editorial).
+
+#### 6.4 / 6.5 — N/A on this repo
+
+License taxonomy + commercial-source allowlist apply to the
+Ressourcen-Hub site, not EFL BW. The brief calls for a "safety net"
+denylist on the other three sites; given EFL BW only links externally
+to BBC, British Council, BMB, and bildungsplaene-bw.de (none
+commercial), a denylist gate is filed as a follow-up rather than
+implemented now — adding it later is a one-file change once the
+canonical denylist YAML is settled across the four repos.
+
+#### CI workflow now runs
+
+```
++ Phase 6.1 — Impressum / Datenschutz placeholder check
++ Phase 6.2 — Bildungsplan BW live-fetch
++ Phase 6.6 — PDF attribution audit
++ Phase 6.7 — Author attribution gate
+```
+
+All four blocking. Plus `verify_vgwort_coverage.py` continues running
+non-blocking as the Mindestumfang warning channel.

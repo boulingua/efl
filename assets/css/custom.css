@@ -353,6 +353,23 @@ html.colorscheme-dark, [data-theme="dark"] {
 
 
 
+/* ----- Article byline (Phase 6.7 author attribution gate) ----- */
+
+.byline {
+  margin: 0 0 1.5rem;
+  font-size: 0.9rem;
+  color: var(--network-text-meta, rgba(0, 0, 0, 0.55));
+  font-style: italic;
+}
+.byline-prefix {
+  color: var(--network-text-meta, rgba(0, 0, 0, 0.55));
+  margin-right: 0.25rem;
+  font-style: normal;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.78rem;
+}
+
 /* ----- Header social icons (top-right) ----- */
 
 .navigation-item--social .navigation-link {

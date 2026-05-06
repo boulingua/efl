@@ -7,6 +7,7 @@
 
   Otherwise mirrors Coder's stock list.html.
 */ -}}
+{{- $author := .Params.author | default site.Params.author -}}
 <section class="container list">
   <header>
     <h1 class="title">
@@ -18,6 +19,12 @@
         {{- i18n (lower .Title) | default .Title | title -}}
       </a>
     </h1>
+    {{- if $author }}
+    <p class="byline" itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <span class="byline-prefix">By</span>
+      <span itemprop="name">{{ $author }}</span>
+    </p>
+    {{- end }}
   </header>
   {{ .Content }}
   <ul>
