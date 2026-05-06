@@ -49,25 +49,44 @@
 
     <ul class="network-grid" id="network-list" aria-label="Filtered materials"></ul>
 
-    {{- /* Static DOM nav for a11y + sub-768px viewports. Always rendered.
-           Hidden visually on desktop (Phase 6 a11y CSS). */ -}}
-    <nav aria-label="All materials (alphabetical)" class="network-fallback">
-      <ul class="materials-grid">
-      {{- range (where (where .Site.RegularPages "Section" "in" (slice "track-e" "track-gm")) "Params.presentation" "ne" nil) }}
-        <li class="material-card">
-          <a class="material-card-link" href="{{ .RelPermalink }}">
-            <div class="material-meta">
-              <h3 class="material-title">{{ .Title }}</h3>
-              <p class="material-sub">
-                Track {{ if eq .Params.track "gm" }}G+M{{ else }}E{{ end }}
-                · Klasse {{ .Params.klassenstufe }}
-                · {{ .Params.topic }}
-              </p>
-            </div>
-          </a>
-        </li>
+    {{- /* DOM-nav fallback for a11y + sub-768px viewports. Always
+           rendered. Visually hidden on desktop (network-fallback CSS).
+           Grouped course -> topic -> type so a screen reader walks the
+           same hierarchy a sighted user gets from the graph. */ -}}
+    <nav aria-label="All materials" class="network-fallback">
+      {{- $units := where (where .Site.RegularPages "Section" "in" (slice "track-e" "track-gm")) "Params.presentation" "ne" nil -}}
+      {{- $byCourse := dict -}}
+      {{- range $units -}}
+        {{- $key := printf "%s/kl%02d" .Params.track (int .Params.klassenstufe) -}}
+        {{- $list := default slice (index $byCourse $key) -}}
+        {{- $byCourse = merge $byCourse (dict $key ($list | append .)) -}}
+      {{- end -}}
+      {{- $courseKeys := slice -}}
+      {{- range $k, $_ := $byCourse }}{{ $courseKeys = $courseKeys | append $k }}{{ end -}}
+      {{- range $course := sort $courseKeys -}}
+        {{- $items := index $byCourse $course -}}
+        {{- $tm := findRE `^track-(e|gm)/kl(\d{2})$` $course 1 -}}
+        <section aria-labelledby="course-{{ replace $course "/" "-" }}">
+          <h2 id="course-{{ replace $course "/" "-" }}">
+            {{- if hasPrefix $course "track-gm" }}Track G+M{{ else }}Track E{{ end }} ·
+            Klasse {{ index (split (index (split $course "/") 1) "kl") 1 }}
+          </h2>
+          <ul>
+          {{- range $items }}
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              <span> — {{ .Params.topic }}</span>
+              {{- if .Params.presentation -}}
+                · <a href="{{ index .Params.presentation "file" }}" download>presentation</a>
+              {{- end -}}
+              {{- if .Params.worksheet -}}
+                · <a href="{{ index .Params.worksheet "file" }}" download>worksheet</a>
+              {{- end -}}
+            </li>
+          {{- end }}
+          </ul>
+        </section>
       {{- end }}
-      </ul>
     </nav>
   </article>
 </section>

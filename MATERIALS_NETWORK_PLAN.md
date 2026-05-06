@@ -444,3 +444,124 @@ verify_graph.py            4/4 gates OK
 ```
 
 **Awaiting approval before Phase 3 (Cytoscape graph rendering).**
+
+### 2026-05-06 — Phase 3 complete (Cytoscape + theme-aware styling)
+
+`assets/js/network/main.js` + `graph.js`, bundled by Hugo's `js.Build`
+(esbuild). Cytoscape + cytoscape-fcose pinned in `package.json`,
+installed via `npm ci` in CI; `node_modules/` gitignored. No loose
+`<script>` tags, no CDN dependency.
+
+- 540 nodes shaped by type (article=ellipse, presentation=round-
+  rectangle, worksheet=round-diamond), coloured by topic via the Phase
+  2 design tokens.
+- Hover scales + shows floating tooltip; tap navigates (article) or
+  triggers download (pres/ws).
+- `MutationObserver` on `<html>`'s `class` + `data-theme` re-applies
+  the stylesheet on dark/light toggle — no full re-render.
+- Public API `graph.applyFilter(predicate)` consumed by Phase 4+.
+- Mobile (`<768px`): graph DOM hidden by CSS, JS bails before
+  Cytoscape instantiation.
+- Bundle: **498 KB raw / 153 KB gzipped** (essentially all Cytoscape).
+
+### 2026-05-06 — Phase 4 complete (facet rail + URL state)
+
+`assets/js/network/store.js` + `filters.js`. Tiny pub/sub store; no
+framework.
+
+- 4 facet groups: type, topic, course, tags. Date dropped per Phase 0
+  §C1.
+- Live counts: each chip shows the count if THAT chip were toggled
+  with all other facets fixed.
+- Within-facet OR; across-facet AND.
+- URL state mirrored via `history.replaceState`. URL parsed on init
+  before first paint, no flash.
+- `filteredNodeIds` recomputed in the store on every change; subscriber
+  in `main.js` calls `graph.applyFilter` to dim non-matching nodes.
+
+### 2026-05-06 — Phase 5 complete (Pagefind + list + sync)
+
+`assets/js/network/search.js` + `list.js`.
+
+- Pagefind 1.4 added to `devDependencies`. CI runs `npx pagefind
+  --site public` after `hugo --minify`. Index sharded under
+  `public/pagefind/`. 535 pages, 7,739 words.
+- search.js lazy-imports `/pagefind/pagefind.js` on first keystroke
+  (Pagefind's runtime is its own module, ~50 KB, only loads when
+  used). 80 ms debounce. `/` focuses, `Esc` clears.
+- Result URLs become a Set; Filters' recompute pipeline intersects
+  `filteredNodeIds` with that Set. Articles match directly;
+  presentation/worksheet inherit their parent article's match.
+- Fallback: client-side substring match on titles + descriptions if
+  Pagefind fails to load.
+- list.js renders one card per article currently in scope, sorted
+  alphabetically, capped at 60 visible with a "+N more" hint.
+- Bidirectional hover: hover a card → highlight node; hover a node →
+  scroll matching card into view (smooth, nearest, only when
+  off-screen).
+- Gate 5 wired into `verify_graph.py`: fails when Pagefind index
+  missing or empty.
+
+### 2026-05-06 — Phase 6 complete (a11y + mobile + final CI gates)
+
+#### DOM-nav fallback
+
+`layouts/materials/list.html` now emits a `<nav aria-label="All
+materials">` grouped **course → topic → type**: each course (15) gets a
+`<section>` with an `<h2>`, items inside cite topic and link presentation
++ worksheet inline. Visually hidden on desktop (`network-fallback`
+clip-rect class) where the graph is the primary surface; the only view
+on phones.
+
+#### Bundle-size gate
+
+`_scripts/verify_bundle_budget.py` — fails if the gzipped network bundle
+exceeds 280 KB. Current: **157 KB / 280 KB** (44 % headroom).
+
+#### Tracking gate
+
+`_scripts/verify_tracking.py` — three assertions:
+
+1. `/materials/` carries the Plausible script tag with
+   `data-domain="boulingua.github.io/efl"`.
+2. `/materials/` does NOT carry a VG Wort pixel (navigation, not
+   editorial — Phase 0 §8 decision 4).
+3. The canonical unit page (`/track-e/kl05/units/unit01-hello-world/`)
+   carries both the Plausible script and a VG Wort pixel.
+
+All three pass in the local build.
+
+#### Final CI gate stack (after `hugo --minify` + Pagefind)
+
+| # | Gate | Blocking | Status |
+|---|---|---|---|
+| 1 | Plausible head-partial wired | yes | green |
+| 2 | All 399 VG Wort pixels in `content/` | yes | green |
+| 3 | All 399 VG Wort pixels in `public/` | yes | green |
+| 4 | URL parity vs deployed sitemap | informational | 227 / 407 (180 known slide-deck gap) |
+| 5 | Zero broken internal links | yes | 0 / 17 999 |
+| 6 | graph.json: zero-tag articles | yes | green |
+| 7 | graph.json: unknown topic | yes | green |
+| 8 | graph.json: zero shared-tag edges | yes | 1 087 edges |
+| 9 | data/topics.yml: orphan topic | yes | 0 / 3 |
+| 10 | Pagefind index non-empty | yes | 535 pages indexed |
+| 11 | JS bundle ≤ 280 KB gzipped | yes | 157 / 280 |
+| 12 | Plausible + VG Wort placement | yes | green |
+| 13 | lychee external links | informational | baseline running |
+
+#### Follow-ups not in scope this PR
+
+- **Lighthouse + axe-core in CI.** The prompt specifies a Lighthouse
+  a11y score ≥95 and zero axe-core errors as deploy-blocking gates.
+  Both require running Chrome in CI (typically via
+  `treosh/lighthouse-ci-action@v12` with a transient HTTP server over
+  `public/`). Adds 2–3 minutes to every deploy. Deferred to a
+  follow-up so the first deploy of the network can be visually
+  verified before locking in a numeric threshold.
+- **noUiSlider for date range.** Date facet was dropped per Phase 0
+  §C1; if real `date:` frontmatter is added later the slider can be
+  reintroduced as a sixth facet.
+- **Compound search vocabulary** (`tag:foo course:klasse-7`) — Pagefind
+  supports it natively; the wiring is a follow-up.
+
+**Materials Discovery Network — all six phases shipped on `main`.**

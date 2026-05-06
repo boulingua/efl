@@ -109,8 +109,14 @@ jobs:
       - name: Verify zero broken internal links
         run: python _scripts/verify_internal_links.py
 
-      - name: Verify Materials Network gates (graph.json + topics)
+      - name: Verify Materials Network gates (graph.json + topics + pagefind)
         run: python _scripts/verify_graph.py
+
+      - name: Verify network JS bundle budget
+        run: python _scripts/verify_bundle_budget.py
+
+      - name: Verify Plausible + VG Wort tracking on /materials/ + unit page
+        run: python _scripts/verify_tracking.py
 
       - name: Lychee external link check (informational)
         # Catches broken external links and HTTP redirects. Non-blocking
