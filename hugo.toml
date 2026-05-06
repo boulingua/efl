@@ -87,6 +87,13 @@ publishDir = "public"
   url = "/about/"
 
 [[menu.main]]
+  identifier = "about-courses"
+  name = "Course overview"
+  weight = 0
+  url = "/about/courses/"
+  parent = "about"
+
+[[menu.main]]
   identifier = "about-curriculum"
   name = "Curriculum"
   weight = 1

@@ -1,0 +1,112 @@
+{{- define "title" -}}{{ .Title }} · {{ .Site.Title }}{{- end -}}
+
+{{- define "content" -}}
+{{- $author := .Params.author | default site.Params.author -}}
+<section class="container course-overview">
+  <header>
+    <h1 class="title">
+      <a class="title-link" href="{{ .Permalink | safeURL }}">{{ .Title }}</a>
+    </h1>
+    {{- if $author }}
+    <p class="byline" itemprop="author" itemscope itemtype="https://schema.org/Person">
+      <span class="byline-prefix">By</span>
+      <span itemprop="name">{{ $author }}</span>
+    </p>
+    {{- end }}
+  </header>
+
+  {{ .Content }}
+
+  {{- /* Collect every track-{e,gm}/kl<NN>/_index.md from the content
+         tree, sort by track then by Klassenstufe. Each one is a
+         "course". Counts come from the live content; if a course gains
+         Units, this table updates automatically on the next build. */ -}}
+  {{- /* Build sortable dicts so the table is in curricular order:
+         Track G+M (Klasse 5 → 10), then Track E (Klasse 5 → 13). */ -}}
+  {{- $rows := slice -}}
+  {{- range site.Sections -}}
+    {{- if or (eq .Section "track-e") (eq .Section "track-gm") -}}
+      {{- $trackOrder := cond (eq .Section "track-gm") 0 1 -}}
+      {{- range .Pages -}}
+        {{- if eq .Kind "section" -}}
+          {{- /* extract the kl<NN> digits as a string and use them
+                 directly in the sort key — keeps sorts stable as
+                 lexicographic without going through Go's strconv,
+                 which can mistake "08"/"09" for octal. */ -}}
+          {{- $klMatch := findRE `kl(\d\d)` .RelPermalink -}}
+          {{- $klStr := "00" -}}
+          {{- with index $klMatch 0 -}}
+            {{- $klStr = substr . 2 2 -}}
+          {{- end -}}
+          {{- $rows = $rows | append (dict
+                "page"   .
+                "sortKey" (printf "%d-%s" $trackOrder $klStr)
+              ) -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $rows = sort $rows "sortKey" -}}
+  {{- $courses := slice -}}
+  {{- range $rows -}}{{- $courses = $courses | append .page -}}{{- end -}}
+
+  <table class="course-overview-table">
+    <thead>
+      <tr>
+        <th scope="col">Track</th>
+        <th scope="col">Klasse</th>
+        <th scope="col">Niveau</th>
+        <th scope="col">Theme arc</th>
+        <th scope="col" class="num">Units</th>
+        <th scope="col" class="num">Exams</th>
+        <th scope="col">Course</th>
+        <th scope="col">Schedule</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{- range $courses -}}
+        {{- $rel := .RelPermalink -}}
+        {{- $units := where (where .Site.RegularPages "Section" "in" (slice "track-e" "track-gm")) "Params.unit_nr" "ne" nil -}}
+        {{- $course := . -}}
+        {{- /* Filter to this course's units (URL prefix match). */ -}}
+        {{- $courseUnits := slice -}}
+        {{- range $units -}}
+          {{- if hasPrefix .RelPermalink $rel -}}
+            {{- $courseUnits = $courseUnits | append . -}}
+          {{- end -}}
+        {{- end -}}
+        {{- $unitCount := 0 -}}
+        {{- $examCount := 0 -}}
+        {{- range $courseUnits -}}
+          {{- if hasSuffix (path.Dir .RelPermalink) "-exam" -}}
+            {{- $examCount = add $examCount 1 -}}
+          {{- else -}}
+            {{- $unitCount = add $unitCount 1 -}}
+          {{- end -}}
+        {{- end -}}
+        {{- $sample := index $courseUnits 0 -}}
+        {{- $track := "" -}}
+        {{- $klasse := 0 -}}
+        {{- $niveau := "" -}}
+        {{- with $sample -}}
+          {{- $track = .Params.track -}}
+          {{- $klasse = .Params.klassenstufe -}}
+          {{- $niveau = .Params.niveau -}}
+        {{- end -}}
+        <tr>
+          <td>{{ if eq $track "gm" }}G+M{{ else }}E{{ end }}</td>
+          <td>Klasse {{ $klasse }}</td>
+          <td>{{ $niveau }}</td>
+          <td class="theme">{{ $course.Title | replaceRE `^(Klasse \d+ \w+ — |Grade \d+ \w+ — )` `` }}</td>
+          <td class="num">{{ $unitCount }}</td>
+          <td class="num">{{ $examCount }}</td>
+          <td><a href="{{ $rel }}">Open</a></td>
+          <td><a href="{{ $rel }}schedule/">Schedule</a></td>
+        </tr>
+      {{- end -}}
+    </tbody>
+  </table>
+
+  {{ partial "vgwort.html" . }}
+</section>
+{{- end -}}
