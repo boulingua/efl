@@ -53,7 +53,11 @@ publishDir = "public"
   weight = 1
   url = "https://github.com/boulingua/efl"
 
-# ----- Main menu (mirrors current Quarto navbar order) -----
+# ----- Main menu — five top-level entries -----
+# Home / About / Track G+M / Track E / Materials.
+# Curriculum, Schedule, and the legal pages nest under About; grade
+# pages nest under their respective tracks; Presentations + Worksheets
+# nest under Materials.
 
 [[menu.main]]
   identifier = "home"
@@ -68,43 +72,59 @@ publishDir = "public"
   url = "/about/"
 
 [[menu.main]]
-  identifier = "curriculum"
+  identifier = "about-curriculum"
   name = "Curriculum"
-  weight = 3
-  url = "/bildungsplan/"
-
-[[menu.main]]
-  identifier = "schedule"
-  name = "Schedule"
-  weight = 4
-  url = "/schedule/"
-
-# Materials (new top-level — Phase 3 fills it in).
-[[menu.main]]
-  identifier = "materials"
-  name = "Materials"
-  weight = 5
-  url = "/materials/"
-
-[[menu.main]]
-  identifier = "materials-presentations"
-  name = "Presentations"
   weight = 1
-  url = "/materials/presentations/"
-  parent = "materials"
+  url = "/bildungsplan/"
+  parent = "about"
 
 [[menu.main]]
-  identifier = "materials-worksheets"
-  name = "Worksheets"
+  identifier = "about-schedule"
+  name = "Schedule"
   weight = 2
-  url = "/materials/worksheets/"
-  parent = "materials"
+  url = "/schedule/"
+  parent = "about"
+
+[[menu.main]]
+  identifier = "about-references"
+  name = "References"
+  weight = 3
+  url = "/references/"
+  parent = "about"
+
+[[menu.main]]
+  identifier = "about-acknowledgements"
+  name = "Acknowledgements"
+  weight = 4
+  url = "/acknowledgements/"
+  parent = "about"
+
+[[menu.main]]
+  identifier = "about-impressum"
+  name = "Impressum"
+  weight = 5
+  url = "/impressum/"
+  parent = "about"
+
+[[menu.main]]
+  identifier = "about-datenschutz"
+  name = "Datenschutz"
+  weight = 6
+  url = "/datenschutz/"
+  parent = "about"
+
+[[menu.main]]
+  identifier = "about-haftungsausschluss"
+  name = "Haftungsausschluss"
+  weight = 7
+  url = "/haftungsausschluss/"
+  parent = "about"
 
 # Track G+M (Klassen 5–10).
 [[menu.main]]
   identifier = "track-gm"
   name = "Track G+M"
-  weight = 6
+  weight = 3
   url = "/track-gm/"
 
 [[menu.main]]
@@ -153,7 +173,7 @@ publishDir = "public"
 [[menu.main]]
   identifier = "track-e"
   name = "Track E"
-  weight = 7
+  weight = 4
   url = "/track-e/"
 
 [[menu.main]]
@@ -219,33 +239,26 @@ publishDir = "public"
   url = "/track-e/kl13/"
   parent = "track-e"
 
-# Legal menu (right side in the old Quarto navbar; Coder doesn't split L/R).
+# Materials — Phase 3 hub with Presentations + Worksheets sub-listings.
 [[menu.main]]
-  identifier = "legal"
-  name = "Legal"
-  weight = 8
-  url = "/impressum/"
+  identifier = "materials"
+  name = "Materials"
+  weight = 5
+  url = "/materials/"
 
 [[menu.main]]
-  identifier = "impressum"
-  name = "Impressum"
+  identifier = "materials-presentations"
+  name = "Presentations"
   weight = 1
-  url = "/impressum/"
-  parent = "legal"
+  url = "/materials/presentations/"
+  parent = "materials"
 
 [[menu.main]]
-  identifier = "datenschutz"
-  name = "Datenschutz"
+  identifier = "materials-worksheets"
+  name = "Worksheets"
   weight = 2
-  url = "/datenschutz/"
-  parent = "legal"
-
-[[menu.main]]
-  identifier = "haftungsausschluss"
-  name = "Haftungsausschluss"
-  weight = 3
-  url = "/haftungsausschluss/"
-  parent = "legal"
+  url = "/materials/worksheets/"
+  parent = "materials"
 
 # ----- Hugo Modules: pin hugo-coder identical to reference repo -----
 
