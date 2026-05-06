@@ -90,6 +90,13 @@
   </article>
 </section>
 
+<script>
+  // Resolve build-time URLs once. The bundle picks these up so it works
+  // under any baseURL — root deploys, GitHub Pages subpaths (/efl/),
+  // or future moves don't require a JS recompile.
+  window.__EFL_GRAPH_URL    = "{{ printf "%sgraph.json" .RelPermalink }}";
+  window.__EFL_PAGEFIND_URL = "{{ "pagefind/pagefind.js" | relURL }}";
+</script>
 <script type="module" src="{{ $entry.RelPermalink }}"
         {{- with $entry.Data.Integrity }} integrity="{{ . }}"{{ end -}}
 ></script>

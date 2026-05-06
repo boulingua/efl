@@ -24,9 +24,13 @@ import { List } from "./list.js";
 import { createStore, emptyState } from "./store.js";
 
 async function loadGraphData() {
-  const url = `${document.documentElement.dataset.basePath || ""}/materials/graph.json`;
+  // Build-time URL injected by layouts/materials/list.html via relURL,
+  // so the same bundle works under any baseURL. Falls back to a
+  // page-relative path when the inline script wasn't emitted (older
+  // build pipelines or local quick tests).
+  const url = window.__EFL_GRAPH_URL || "graph.json";
   const res = await fetch(url, { credentials: "same-origin" });
-  if (!res.ok) throw new Error(`graph.json: HTTP ${res.status}`);
+  if (!res.ok) throw new Error(`graph.json: HTTP ${res.status} (${url})`);
   return res.json();
 }
 

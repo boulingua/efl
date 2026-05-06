@@ -59,7 +59,10 @@ export class Search {
   async _ensurePagefind() {
     if (this._pf) return this._pf;
     try {
-      const url = `${document.documentElement.dataset.basePath || ""}/pagefind/pagefind.js`;
+      // Build-time URL injected by layouts/materials/list.html, so the
+      // same bundle works under any baseURL.
+      const url = window.__EFL_PAGEFIND_URL ||
+                  (new URL("../pagefind/pagefind.js", window.location.href).href);
       const mod = await import(/* @vite-ignore */ url);
       this._pf = mod;
       if (mod.options) await mod.options({ excerptLength: 24 });
