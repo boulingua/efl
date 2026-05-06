@@ -123,6 +123,9 @@ jobs:
       - name: Verify Materials Network gates (graph.json + topics + pagefind)
         run: python _scripts/verify_graph.py
 
+      - name: Validate network-viz data schema (Phase 2)
+        run: python scripts/validate_network_data.py
+
       - name: Verify network JS bundle budget
         run: python _scripts/verify_bundle_budget.py
 

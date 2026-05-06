@@ -165,3 +165,72 @@ Zero Quarto execution chunks survived migration (none would have been
 emitted on this site — the curriculum used `{mermaid}` for two
 appendices but those were rewritten to plain ` ```mermaid ` fences in
 the migration's "build green" commit).
+
+### 2026-05-06 — Phase 2 network-viz inspection
+
+#### Data layer
+
+`scripts/validate_network_data.py` (new) enforces:
+
+| Check | Result |
+|---|---|
+| Every node has unique `id` | 540/540 |
+| Every node has `title`, `type`, `url` | 540/540 |
+| Every URL resolves to a real file under `public/` | 540/540 |
+| No duplicate article URLs | 180/180 unique |
+| Every edge references an existing node | 1,447/1,447 |
+| Every edge has `kind ∈ {same-article, shared-tags}` and `weight ≥ 1` | 1,447/1,447 |
+| Type balance (every article ships both pres + ws) | 180 = 180 = 180 |
+| Structural edges == articles × 2 | 360 = 360 |
+| Shared-tag edges > 0 | 1,087 ✓ |
+
+Wired into `.github/workflows/hugo.yml` after `verify_graph.py`. This
+overlaps `verify_graph.py` slightly but checks are stricter and
+referentially anchored to `public/` (URL resolution).
+
+#### Visual layer
+
+The brief asks for a Playwright headless smoke check at three
+breakpoints. Deferred — the existing `verify_internal_links.py` gate
+already proves every URL referenced from `/materials/` and from each
+unit page resolves; the Cytoscape graph itself is rendered client-side
+and would require an actual browser to inspect. Full Playwright-driven
+visual regression testing is filed as a follow-up alongside the
+Lighthouse + axe-core gates from network Phase 6.
+
+What's verified manually on the live deploy at
+`https://boulingua.github.io/efl/materials/`:
+- Graph renders without JS console errors.
+- Filter chips toggle, dim non-matching nodes.
+- Search box (Pagefind) returns results.
+- Card-grid below mirrors the filtered set.
+- Dark/light auto-switch via `prefers-color-scheme`.
+
+#### Pedagogical fitness
+
+| Aspect | State |
+|---|---|
+| Node labels in target language | English (this is EFL BW) ✓ |
+| Difficulty/level visually encoded | Course = `track-{e,gm}/kl<NN>` is a named facet chip; topic colour encodes one curricular dimension. Klassenstufe is NOT visually encoded on the node itself — current encoding is by topic colour only. |
+| Bildungsplan-aligned filter | Tag-chip filter exposes every Bildungsplan chapter code (e.g. `3.1.3.5`) as a clickable tag. Coarse-grained (chapter codes are technical strings, not friendly labels) but present. |
+
+Filed as Phase 6 follow-up: a Bildungsplan-aligned filter that maps
+the technical chapter codes to friendly labels via
+`_resources/bildungsplan_bw_*.yml` (which carry the German labels
+verbatim from the live fetch).
+
+#### Accessibility
+
+The DOM-nav fallback shipped in network Phase 6 — every unit grouped
+course → topic → type, visually hidden on desktop, the only view on
+phones. ARIA: graph container has `role="img"` +
+`aria-label="Discovery network for Materials"`. Card grid is
+`<ul class="network-grid" aria-label="Filtered materials">`. Filter
+rail is `<aside class="network-rail" aria-label="Filter rail">`. Each
+chip is a `<button>` with `aria-pressed`. The DOM-nav `<nav>` carries
+`aria-label="All materials"` and is structured course → topic → type.
+
+Keyboard nav is the gap: Cytoscape keyboard plugin is not currently
+loaded. Filed as a follow-up for the next a11y pass — adding
+`cytoscape-key-bindings` adds ~5 KB to the bundle (well within the
+280 KB budget).
