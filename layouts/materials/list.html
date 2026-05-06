@@ -19,15 +19,22 @@
     <header><h1 class="title">{{ .Title }}</h1></header>
     {{ .Content }}
 
-    <div class="network-graph"
-         id="network-graph"
-         role="img"
-         aria-label="Discovery network for {{ .Title }}">
-      <div class="network-graph-skeleton">Loading network…</div>
+    <div class="network-shell">
+      <aside class="network-rail" id="network-rail" aria-label="Filter rail">
+        <noscript>
+          Filters require JavaScript. The full list of materials is below.
+        </noscript>
+      </aside>
+      <div class="network-graph"
+           id="network-graph"
+           role="img"
+           aria-label="Discovery network for {{ .Title }}">
+        <div class="network-graph-skeleton">Loading network…</div>
+      </div>
     </div>
 
     <p class="network-status" role="status">
-      <span>{{ len (where .Site.RegularPages "Params.unit_nr" "ne" nil) }} units · 3 topics · 15 courses · ◆ worksheets · ▪ presentations</span>
+      <span id="network-status-text">{{ len (where .Site.RegularPages "Params.unit_nr" "ne" nil) }} units · 3 topics · 15 courses</span>
       <a href="{{ "/materials/preview/" | relURL }}">Design preview</a>
     </p>
 
