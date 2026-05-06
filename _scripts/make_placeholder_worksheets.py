@@ -88,6 +88,10 @@ def main() -> int:
                         help="Generate only one course (e.g. track_gm_kl07).")
     parser.add_argument("--out", default=str(DOCS / "downloads"),
                         help="Output base directory (default: docs/downloads).")
+    parser.add_argument("--force", action="store_true",
+                        help="Overwrite existing files. Default skips them, "
+                             "so a real worksheet manually placed at the "
+                             "canonical path survives CI re-runs.")
     args = parser.parse_args()
 
     if not OUTLINE.exists():
@@ -99,7 +103,7 @@ def main() -> int:
         outline = yaml.safe_load(f) or {}
 
     out_base = pathlib.Path(args.out)
-    count = 0
+    count = skipped = 0
     for u in iter_units(outline):
         course_id = f"track_{u['track']}_kl{u['klasse']:02d}"
         if args.course and course_id != args.course:
@@ -107,6 +111,9 @@ def main() -> int:
         nn = f"{u['unit_nr']:02d}"
         kk = f"{u['klasse']:02d}"
         path = out_base / u["track"] / f"kl{kk}" / f"unit{nn}_{u['slug']}_worksheet.pdf"
+        if path.is_file() and not args.force:
+            skipped += 1
+            continue
         ctx = AttributionContext(
             track=u["track"],
             klasse=u["klasse"],
@@ -117,7 +124,7 @@ def main() -> int:
         render_one(path, ctx, u["title"])
         count += 1
 
-    print(f"Wrote {count} placeholder worksheet PDF(s) under {out_base}/")
+    print(f"Wrote {count} placeholder worksheet PDF(s); kept {skipped} existing.")
     return 0
 
 

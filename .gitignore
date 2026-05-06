@@ -10,7 +10,13 @@
 
 # Phase 3 placeholder binaries — regenerated in CI by
 # _scripts/make_placeholder_{worksheets,presentations,thumbnails}.py.
-# Real materials replacing them go elsewhere.
+# To replace a placeholder with a real material:
+#   1. Drop the real .pptx / .pdf at the canonical path under static/.
+#   2. `git add -f <path>` to commit it past this ignore.
+# The placeholder generators run with --skip-existing by default, so a
+# real material committed at the canonical path survives every CI re-run.
+# The thumbnail generator always re-renders from whatever binary exists
+# at the path, so a swapped real file gets a fresh thumbnail next deploy.
 /static/downloads/
 /static/materials/presentations/
 /static/materials/worksheets/

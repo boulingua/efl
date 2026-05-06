@@ -109,6 +109,10 @@ def iter_units(outline: dict):
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default=str(DEFAULT_OUT))
+    ap.add_argument("--force", action="store_true",
+                    help="Overwrite existing files. Default skips them, so "
+                         "a real .pptx manually placed at the canonical path "
+                         "survives CI re-runs.")
     args = ap.parse_args()
 
     if not OUTLINE.exists():
@@ -119,16 +123,19 @@ def main() -> int:
         outline = yaml.safe_load(f) or {}
 
     out_base = pathlib.Path(args.out)
-    count = 0
+    count = skipped = 0
     for u in iter_units(outline):
         nn = f"{u['unit_nr']:02d}"
         kk = f"{u['klasse']:02d}"
         path = out_base / u["track"] / f"kl{kk}" / f"unit{nn}_{u['slug']}.pptx"
+        if path.is_file() and not args.force:
+            skipped += 1
+            continue
         render_one(path, u["track"], u["klasse"], u["niveau"],
                    u["unit_nr"], u["slug"], u["title"])
         count += 1
 
-    print(f"Wrote {count} placeholder .pptx file(s) under {out_base}/")
+    print(f"Wrote {count} placeholder .pptx file(s); kept {skipped} existing.")
     return 0
 
 
