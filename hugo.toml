@@ -46,6 +46,21 @@ publishDir = "public"
   customCSS = ["css/custom.css"]
   faviconSVG = ""
 
+# Plausible Analytics — self-hosted instance (server in Germany,
+# DSGVO-compliant disclosure already in /datenschutz/). Each sister
+# site configures its own data-domain so cross-site visits are
+# counted as separate properties.
+[params.plausible]
+  domain = "boulingua.github.io/efl"
+  # script.file-downloads.outbound-links.js: Plausible variant that
+  # additionally tracks .pdf/.pptx/.png downloads and outbound link
+  # clicks. The Ressourcen-Hub-style worksheet links are the
+  # primary thing we care to count for VG Wort planning, so this
+  # explicit override of the prompt's "no outbound tracking by
+  # default" stance is intentional and disclosed in /datenschutz/.
+  # Switch to "script.js" for the cookieless / no-outbound default.
+  src = "https://analytics.hellebo.de/js/script.file-downloads.outbound-links.js"
+
 # Match the reference repo (boulingua/website) social link for visual continuity.
 [[params.social]]
   name = "GitHub"

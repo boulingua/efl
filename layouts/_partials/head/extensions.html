@@ -1,5 +1,20 @@
+{{- /* Site-wide head additions: fonts + Plausible analytics.
+
+       Plausible config is read from `params.plausible.*` so each of the
+       four boulingua sister sites configures its own domain + script
+       independently without forking this partial. The prompt's default
+       (`script.js`, cookieless, no outbound tracking) is what
+       `params.plausible.src` should resolve to on a fresh repo; this
+       repo overrides explicitly to the file-downloads variant so
+       worksheet/PPTX downloads are counted (disclosed in /datenschutz/).
+*/ -}}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-<script defer data-domain="boulingua.github.io/efl" src="https://analytics.hellebo.de/js/script.file-downloads.outbound-links.js"></script>
+
+{{- with site.Params.plausible }}
+{{- $domain := .domain | default site.Params.plausible_domain -}}
+{{- $src := .src | default "https://plausible.io/js/script.js" -}}
+<script defer data-domain="{{ $domain }}" src="{{ $src }}"></script>
 <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
+{{- end }}
