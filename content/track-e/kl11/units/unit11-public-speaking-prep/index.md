@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl11/unit11_public-speaking-prep_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl11/unit11_public-speaking-prep.png
+tags:
+  - "speaking"
+  - "listening"
+  - "language_awareness"
+  - "3.4.1"
+  - "3.4.3.1"
+  - "3.4.3.3"
+  - "3.4.3.4"
+topic: themen
 ---
 
 {{< callout type="note" >}}

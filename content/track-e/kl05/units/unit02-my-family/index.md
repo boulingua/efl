@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl05/unit02_my-family_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl05/unit02_my-family.png
+tags:
+  - "speaking"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.5"
+  - "3.1.3.7"
+  - "3.1.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

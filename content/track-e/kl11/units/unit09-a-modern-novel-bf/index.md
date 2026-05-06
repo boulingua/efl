@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl11/unit09_a-modern-novel-bf_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl11/unit09_a-modern-novel-bf.png
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.5.1"
+  - "3.5.3.2"
+  - "3.5.3.5"
+  - "3.5.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

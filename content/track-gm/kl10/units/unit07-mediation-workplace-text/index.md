@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/gm/kl10/unit07_mediation-workplace-text_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl10/unit07_mediation-workplace-text.png
+tags:
+  - "mediation"
+  - "writing"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.3.5"
+  - "3.3.3.6"
+  - "3.3.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

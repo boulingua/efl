@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl10/unit10_a-short-novel_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl10/unit10_a-short-novel.png
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.3.2"
+  - "3.3.3.5"
+  - "3.3.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

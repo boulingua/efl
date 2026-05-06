@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl08/unit02_school-life-elsewhere_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl08/unit02_school-life-elsewhere.png
+tags:
+  - "reading"
+  - "speaking"
+  - "intercultural"
+  - "3.2.1"
+  - "3.2.2"
+  - "3.2.3.2"
+  - "3.2.3.3"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

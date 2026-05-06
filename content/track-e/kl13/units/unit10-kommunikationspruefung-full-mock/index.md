@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl13/unit10_kommunikationspruefung-full-mock_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl13/unit10_kommunikationspruefung-full-mock.png
+tags:
+  - "speaking"
+  - "listening"
+  - "language_awareness"
+  - "3.4.1"
+  - "3.4.3.1"
+  - "3.4.3.3"
+  - "3.4.3.4"
+topic: themen
 ---
 
 {{< callout type="note" >}}

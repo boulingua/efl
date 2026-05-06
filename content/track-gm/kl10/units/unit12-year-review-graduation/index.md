@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/gm/kl10/unit12_year-review-graduation_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl10/unit12_year-review-graduation.png
+tags:
+  - "writing"
+  - "speaking"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.3.4"
+  - "3.3.3.5"
+  - "3.3.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

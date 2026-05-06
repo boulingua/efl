@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/e/kl07/unit11_plans-for-the-summer_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl07/unit11_plans-for-the-summer.png
+tags:
+  - "speaking"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.1"
+  - "3.2.3.3"
+  - "3.2.3.5"
+  - "3.2.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

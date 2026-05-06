@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl13/unit12_year-review-and-handover_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl13/unit12_year-review-and-handover.png
+tags:
+  - "writing"
+  - "speaking"
+  - "language_awareness"
+  - "3.4.1"
+  - "3.4.3.4"
+  - "3.4.3.5"
+  - "3.4.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

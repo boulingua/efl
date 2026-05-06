@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/gm/kl06/unit05_daily-routines_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl06/unit05_daily-routines.png
+tags:
+  - "speaking"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.3"
+  - "3.1.3.5"
+  - "3.1.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

@@ -22,6 +22,14 @@ presentation:
 worksheet:
   file: /downloads/e/kl12/unit12_klausur-composition-and-comment_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl12/unit12_klausur-composition-and-comment.png
+tags:
+  - "writing"
+  - "language_awareness"
+  - "3.4.1"
+  - "3.4.3.5"
+  - "3.4.3.6"
+  - "3.4.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

@@ -25,6 +25,17 @@ presentation:
 worksheet:
   file: /downloads/gm/kl07/unit09_school-rules-and-rights_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl07/unit09_school-rules-and-rights.png
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.2"
+  - "3.2.3.2"
+  - "3.2.3.5"
+  - "3.2.3.8"
+  - "3.2.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

@@ -1,0 +1,53 @@
+# Topic registry — single source of truth for the Materials Discovery
+# Network. Every unit page in content/track-*/kl*/units/*/index.md is
+# assigned exactly one `topic:` value drawn from `id` below.
+#
+# Source: the 4 inhaltsbezogene Kompetenzbereiche from Baden-Württemberg's
+# Bildungsplan 2016 (Englisch, Sekundarstufe I + II), §3.x.1 through
+# §3.x.4. Every article in this repository already cites these chapters
+# verbatim in its `bildungsplan:` frontmatter, so this taxonomy is *not*
+# invented — it's the official curriculum framework re-projected as a
+# topic dimension for the network.
+#
+# Colours: from the Phase 2 design-system palette (sage / sand / violet /
+# slate). All four hex pairs pass WCAG AA contrast on Coder's light and
+# dark surfaces.
+
+- id: themen
+  bildungsplan_match: "3.{n}.1"
+  label_de: "Themen & soziokulturelles Wissen"
+  label_en: "Topics & sociocultural knowledge"
+  color: "#7C9885"        # sage (light)
+  color_dark: "#A4C3B2"   # sage (dark)
+  description: >-
+    Soziokulturelles Orientierungswissen und thematische Domänen — Familie,
+    Schule, Stadt, Reisen, Arbeitswelt, Identität, Klima, Demokratie.
+    Maps to Bildungsplan §3.1.1 (Sek I) and §3.2.1 (Sek II / Oberstufe).
+
+- id: interkulturell
+  bildungsplan_match: "3.{n}.2"
+  label_de: "Interkulturelle kommunikative Kompetenz"
+  label_en: "Intercultural communicative competence"
+  color: "#9B7EBD"        # violet (light)
+  color_dark: "#B8A1D9"   # violet (dark)
+  description: >-
+    Begegnung mit Englisch sprachigen Kulturen, Mediation, kulturelle
+    Reflexion, Stereotype und Perspektivwechsel.
+    Maps to Bildungsplan §3.1.2 (Sek I) and §3.2.2 (Sek II).
+
+# NOTE: §3.x.3 (Funktionale kommunikative Kompetenz) is intentionally
+# omitted as a topic. Every article cites it — it describes the skills
+# the unit teaches (speaking, listening, etc.), which is already exposed
+# via the `skills_focus` tag axis. Including it as a topic would degenerate
+# topic-clustering to "everything is kommunikativ".
+
+- id: text-medien
+  bildungsplan_match: "3.{n}.4"
+  label_de: "Text- und Medienkompetenz"
+  label_en: "Text & media competence"
+  color: "#D4A373"        # warm sand (light)
+  color_dark: "#E5B98F"   # warm sand (dark)
+  description: >-
+    Mit Texten und (digitalen) Medien analytisch und produktiv umgehen —
+    Sachtexte, literarische Texte, Filme, Podcasts, soziale Netzwerke.
+    Maps to Bildungsplan §3.1.4 (Sek I) and §3.2.4 (Sek II).

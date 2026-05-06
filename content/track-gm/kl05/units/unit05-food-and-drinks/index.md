@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/gm/kl05/unit05_food-and-drinks_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl05/unit05_food-and-drinks.png
+tags:
+  - "reading"
+  - "speaking"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.2"
+  - "3.1.3.3"
+  - "3.1.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

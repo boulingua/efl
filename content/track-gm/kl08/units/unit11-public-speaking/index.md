@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/gm/kl08/unit11_public-speaking_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl08/unit11_public-speaking.png
+tags:
+  - "speaking"
+  - "listening"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.1"
+  - "3.2.3.4"
+  - "3.2.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

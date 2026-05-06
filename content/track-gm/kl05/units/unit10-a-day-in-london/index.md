@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/gm/kl05/unit10_a-day-in-london_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl05/unit10_a-day-in-london.png
+tags:
+  - "reading"
+  - "listening"
+  - "intercultural"
+  - "3.1.1"
+  - "3.1.2"
+  - "3.1.3.1"
+  - "3.1.3.2"
+  - "3.1.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

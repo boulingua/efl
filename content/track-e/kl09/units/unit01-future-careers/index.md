@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/e/kl09/unit01_future-careers_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl09/unit01_future-careers.png
+tags:
+  - "reading"
+  - "speaking"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.2"
+  - "3.2.3.3"
+  - "3.2.3.7"
+  - "3.2.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/e/kl12/unit08_post-colonial-voices-advanced_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl12/unit08_post-colonial-voices-advanced.png
+tags:
+  - "reading"
+  - "writing"
+  - "intercultural"
+  - "3.4.1"
+  - "3.4.2"
+  - "3.4.3.2"
+  - "3.4.3.5"
+  - "3.4.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/e/kl10/unit04_australia-and-new-zealand_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl10/unit04_australia-and-new-zealand.png
+tags:
+  - "reading"
+  - "listening"
+  - "intercultural"
+  - "3.3.1"
+  - "3.3.2"
+  - "3.3.3.1"
+  - "3.3.3.2"
+  - "3.3.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

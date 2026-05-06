@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/gm/kl10/unit05_media-and-truth_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl10/unit05_media-and-truth.png
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.3.2"
+  - "3.3.3.5"
+  - "3.3.3.7"
+  - "3.3.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

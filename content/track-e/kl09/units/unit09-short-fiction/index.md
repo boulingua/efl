@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/e/kl09/unit09_short-fiction_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl09/unit09_short-fiction.png
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.2"
+  - "3.2.3.5"
+  - "3.2.3.8"
+  - "3.2.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

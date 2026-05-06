@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/gm/kl10/unit10_project-and-presentation_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl10/unit10_project-and-presentation.png
+tags:
+  - "speaking"
+  - "writing"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.3.4"
+  - "3.3.3.5"
+  - "3.3.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

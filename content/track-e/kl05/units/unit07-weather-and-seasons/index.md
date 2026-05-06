@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl05/unit07_weather-and-seasons_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl05/unit07_weather-and-seasons.png
+tags:
+  - "listening"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.1"
+  - "3.1.3.5"
+  - "3.1.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

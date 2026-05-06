@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/gm/kl09/unit03_the-environment-locally_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl09/unit03_the-environment-locally.png
+tags:
+  - "reading"
+  - "writing"
+  - "intercultural"
+  - "3.2.1"
+  - "3.2.2"
+  - "3.2.3.2"
+  - "3.2.3.5"
+  - "3.2.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl11/unit07_mediation-as-a-skill_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl11/unit07_mediation-as-a-skill.png
+tags:
+  - "mediation"
+  - "writing"
+  - "language_awareness"
+  - "3.4.1"
+  - "3.4.3.5"
+  - "3.4.3.6"
+  - "3.4.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

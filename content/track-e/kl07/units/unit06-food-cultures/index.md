@@ -25,6 +25,17 @@ presentation:
 worksheet:
   file: /downloads/e/kl07/unit06_food-cultures_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl07/unit06_food-cultures.png
+tags:
+  - "reading"
+  - "speaking"
+  - "intercultural"
+  - "3.2.1"
+  - "3.2.2"
+  - "3.2.3.2"
+  - "3.2.3.3"
+  - "3.2.3.7"
+  - "3.2.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

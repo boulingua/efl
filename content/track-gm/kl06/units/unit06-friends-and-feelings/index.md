@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/gm/kl06/unit06_friends-and-feelings_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl06/unit06_friends-and-feelings.png
+tags:
+  - "speaking"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.3"
+  - "3.1.3.5"
+  - "3.1.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

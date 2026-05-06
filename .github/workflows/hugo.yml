@@ -56,6 +56,11 @@ jobs:
           python _scripts/make_placeholder_presentations.py
           python _scripts/make_placeholder_thumbnails.py
 
+      - name: Populate Materials Network frontmatter (tags + topic)
+        # Idempotent. Safe to run on every build; ensures tags/topic
+        # never drift from the bildungsplan + skills_focus source of truth.
+        run: python _scripts/populate_network_frontmatter.py
+
       - name: Verify Plausible snippet is wired
         run: |
           test -f layouts/_partials/head/extensions.html
@@ -87,6 +92,9 @@ jobs:
 
       - name: Verify zero broken internal links
         run: python _scripts/verify_internal_links.py
+
+      - name: Verify Materials Network gates (graph.json + topics)
+        run: python _scripts/verify_graph.py
 
       - name: Lychee external link check (informational)
         # Catches broken external links and HTTP redirects. Non-blocking

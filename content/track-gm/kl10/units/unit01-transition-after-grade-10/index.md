@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/gm/kl10/unit01_transition-after-grade-10_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl10/unit01_transition-after-grade-10.png
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.3.2"
+  - "3.3.3.5"
+  - "3.3.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl10/unit07_mediation-feature-article_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl10/unit07_mediation-feature-article.png
+tags:
+  - "mediation"
+  - "writing"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.3.5"
+  - "3.3.3.6"
+  - "3.3.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/gm/kl06/unit07_an-adventure-story_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl06/unit07_an-adventure-story.png
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.2"
+  - "3.1.3.5"
+  - "3.1.3.8"
+  - "3.1.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

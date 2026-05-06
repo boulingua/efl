@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/gm/kl08/unit08_music-and-belonging_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl08/unit08_music-and-belonging.png
+tags:
+  - "listening"
+  - "speaking"
+  - "intercultural"
+  - "3.2.1"
+  - "3.2.2"
+  - "3.2.3.1"
+  - "3.2.3.3"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl13/unit02_political-discourse-advanced_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl13/unit02_political-discourse-advanced.png
+tags:
+  - "reading"
+  - "listening"
+  - "language_awareness"
+  - "3.4.1"
+  - "3.4.3.1"
+  - "3.4.3.2"
+  - "3.4.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

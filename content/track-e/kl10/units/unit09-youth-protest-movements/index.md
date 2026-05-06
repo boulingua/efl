@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/e/kl10/unit09_youth-protest-movements_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl10/unit09_youth-protest-movements.png
+tags:
+  - "reading"
+  - "speaking"
+  - "intercultural"
+  - "3.3.1"
+  - "3.3.2"
+  - "3.3.3.2"
+  - "3.3.3.3"
+  - "3.3.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

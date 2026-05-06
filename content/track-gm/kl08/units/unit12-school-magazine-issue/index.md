@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/gm/kl08/unit12_school-magazine-issue_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl08/unit12_school-magazine-issue.png
+tags:
+  - "writing"
+  - "speaking"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.4"
+  - "3.2.3.5"
+  - "3.2.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

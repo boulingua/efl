@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/e/kl11/unit03_post-colonial-voices-intro_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl11/unit03_post-colonial-voices-intro.png
+tags:
+  - "reading"
+  - "writing"
+  - "intercultural"
+  - "3.4.1"
+  - "3.4.2"
+  - "3.4.3.2"
+  - "3.4.3.5"
+  - "3.4.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

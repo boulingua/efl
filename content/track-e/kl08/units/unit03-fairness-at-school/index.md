@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl08/unit03_fairness-at-school_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl08/unit03_fairness-at-school.png
+tags:
+  - "speaking"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.3"
+  - "3.2.3.5"
+  - "3.2.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/gm/kl05/unit04_school-day_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl05/unit04_school-day.png
+tags:
+  - "listening"
+  - "speaking"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.1"
+  - "3.1.3.3"
+  - "3.1.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/e/kl11/unit01_british-cultural-anchors_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl11/unit01_british-cultural-anchors.png
+tags:
+  - "reading"
+  - "writing"
+  - "intercultural"
+  - "3.4.1"
+  - "3.4.2"
+  - "3.4.3.2"
+  - "3.4.3.5"
+  - "3.4.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

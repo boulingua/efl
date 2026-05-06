@@ -25,6 +25,17 @@ presentation:
 worksheet:
   file: /downloads/e/kl07/unit01_first-day-back_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl07/unit01_first-day-back.png
+tags:
+  - "speaking"
+  - "listening"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.1"
+  - "3.2.3.3"
+  - "3.2.3.5"
+  - "3.2.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

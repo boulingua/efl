@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/gm/kl06/unit04_food-around-the-world_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl06/unit04_food-around-the-world.png
+tags:
+  - "reading"
+  - "writing"
+  - "intercultural"
+  - "3.1.1"
+  - "3.1.2"
+  - "3.1.3.2"
+  - "3.1.3.5"
+  - "3.1.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

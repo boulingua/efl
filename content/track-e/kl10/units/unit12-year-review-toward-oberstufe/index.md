@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl10/unit12_year-review-toward-oberstufe_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl10/unit12_year-review-toward-oberstufe.png
+tags:
+  - "writing"
+  - "speaking"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.3.4"
+  - "3.3.3.5"
+  - "3.3.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

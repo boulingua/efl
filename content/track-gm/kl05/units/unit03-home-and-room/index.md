@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/gm/kl05/unit03_home-and-room_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl05/unit03_home-and-room.png
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.2"
+  - "3.1.3.5"
+  - "3.1.3.7"
+  - "3.1.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

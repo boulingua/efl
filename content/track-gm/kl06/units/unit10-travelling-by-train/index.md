@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/gm/kl06/unit10_travelling-by-train_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl06/unit10_travelling-by-train.png
+tags:
+  - "listening"
+  - "reading"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.1"
+  - "3.1.3.2"
+  - "3.1.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

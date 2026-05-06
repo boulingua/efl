@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/e/kl10/unit03_digital-lives_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl10/unit03_digital-lives.png
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.3.2"
+  - "3.3.3.5"
+  - "3.3.3.8"
+  - "3.3.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

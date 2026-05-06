@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl10/unit11_public-speaking-and-debate_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl10/unit11_public-speaking-and-debate.png
+tags:
+  - "speaking"
+  - "listening"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.3.1"
+  - "3.3.3.3"
+  - "3.3.3.4"
+topic: themen
 ---
 
 {{< callout type="note" >}}

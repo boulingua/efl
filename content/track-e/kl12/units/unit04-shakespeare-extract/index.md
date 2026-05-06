@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl12/unit04_shakespeare-extract_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl12/unit04_shakespeare-extract.png
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.4.1"
+  - "3.4.3.2"
+  - "3.4.3.5"
+  - "3.4.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

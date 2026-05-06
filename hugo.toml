@@ -16,6 +16,15 @@ publishDir = "public"
 [markup.goldmark.renderer]
   unsafe = true
 
+# Phase 5 — Materials Discovery Network. Custom output format that
+# emits a JSON-Graph artefact at /materials/graph.json on every build.
+# The /materials/_index.md page sets `outputs: ["html", "network"]`.
+[outputFormats.network]
+  mediaType = "application/json"
+  baseName = "graph"
+  isPlainText = true
+  notAlternative = true
+
 [markup.tableOfContents]
   startLevel = 2
   endLevel = 3

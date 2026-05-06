@@ -1,0 +1,188 @@
+{{- /*
+  Build-time graph.json for the Materials Discovery Network.
+
+  Triggered by content/materials/_index.md's `outputs: ["html","network"]`.
+  Renders to /materials/graph.json. The browser fetches this once and
+  drives the entire interactive layer client-side.
+
+  Edge formation rules:
+    - same-article: structural; every presentation/worksheet -> its parent
+      article, weight 3. Always present.
+    - shared-tags: between any two nodes sharing >= 2 tags. Weight = shared
+      tag count, capped at 5 visually. No same-type-only edges (avoids
+      collapsing the graph to a clique within each type).
+*/ -}}
+{{- $units := where .Site.RegularPages "Section" "in" (slice "track-e" "track-gm") -}}
+{{- $units = where $units "Params.unit_nr" "ne" nil -}}
+{{- $units = where $units "Params.presentation" "ne" nil -}}
+
+{{- /* Build node list. Three nodes per unit page. */ -}}
+{{- $nodes := slice -}}
+{{- range $units -}}
+  {{- $articleId := printf "article-%s-%02d-%s" .Params.track (int .Params.klassenstufe) .Params.unit_slug -}}
+  {{- $presId    := printf "pres-%s-%02d-%s"    .Params.track (int .Params.klassenstufe) .Params.unit_slug -}}
+  {{- $wsId      := printf "ws-%s-%02d-%s"      .Params.track (int .Params.klassenstufe) .Params.unit_slug -}}
+  {{- $course    := printf "track-%s/kl%02d" .Params.track (int .Params.klassenstufe) -}}
+  {{- $tags      := .Params.tags | default slice -}}
+  {{- $topic     := .Params.topic -}}
+  {{- $p         := .Params.presentation -}}
+  {{- $w         := .Params.worksheet -}}
+
+  {{- $nodes = $nodes | append (dict
+        "id"           $articleId
+        "type"         "article"
+        "title"        .Title
+        "url"          .RelPermalink
+        "course"       $course
+        "topic"        $topic
+        "tags"         $tags
+        "niveau"       .Params.niveau
+        "klassenstufe" .Params.klassenstufe
+        "track"        .Params.track
+        "unit_nr"      .Params.unit_nr
+        "thumbnail"    nil
+        "related"      (slice $presId $wsId)
+      ) -}}
+  {{- $nodes = $nodes | append (dict
+        "id"             $presId
+        "type"           "presentation"
+        "title"          (printf "%s — Presentation" .Title)
+        "url"            (index $p "file")
+        "thumbnail"      (index $p "thumbnail")
+        "parent_article" $articleId
+        "course"         $course
+        "topic"          $topic
+        "tags"           $tags
+        "niveau"         .Params.niveau
+        "klassenstufe"   .Params.klassenstufe
+        "track"          .Params.track
+      ) -}}
+  {{- $nodes = $nodes | append (dict
+        "id"             $wsId
+        "type"           "worksheet"
+        "title"          (printf "%s — Worksheet" .Title)
+        "url"            (index $w "file")
+        "thumbnail"      (index $w "thumbnail")
+        "parent_article" $articleId
+        "course"         $course
+        "topic"          $topic
+        "tags"           $tags
+        "niveau"         .Params.niveau
+        "klassenstufe"   .Params.klassenstufe
+        "track"          .Params.track
+      ) -}}
+{{- end -}}
+
+{{- /* Edges. */ -}}
+{{- $edges := slice -}}
+{{- range $units -}}
+  {{- $articleId := printf "article-%s-%02d-%s" .Params.track (int .Params.klassenstufe) .Params.unit_slug -}}
+  {{- $presId    := printf "pres-%s-%02d-%s"    .Params.track (int .Params.klassenstufe) .Params.unit_slug -}}
+  {{- $wsId      := printf "ws-%s-%02d-%s"      .Params.track (int .Params.klassenstufe) .Params.unit_slug -}}
+  {{- $edges = $edges | append (dict "source" $presId "target" $articleId "weight" 3 "kind" "same-article") -}}
+  {{- $edges = $edges | append (dict "source" $wsId   "target" $articleId "weight" 3 "kind" "same-article") -}}
+{{- end -}}
+
+{{- /* Shared-tag edges between articles only — keeps the cross-article
+       structure visible without exploding the graph with N×3 versions
+       through pres/ws nodes.
+
+       EFL-specific edge filter: form edges only on Bildungsplan
+       chapter-code tags (e.g. "3.1.3.5"), NOT on skill tags (e.g.
+       "speaking"). The 7 skill tags are universal — every unit teaches
+       speaking/listening/etc. — so including them collapses the graph
+       to a near-clique. Chapter codes are curricular co-citations and
+       carry real topical signal. Skills remain on every node for the
+       facet UI, just not for edge formation. */ -}}
+{{- $articles := where $nodes "type" "article" -}}
+{{- range $i, $a := $articles -}}
+  {{- range $j, $b := $articles -}}
+    {{- if lt $i $j -}}
+      {{- $aCodes := slice -}}
+      {{- range $a.tags -}}
+        {{- if findRE `^\d+\.\d` . -}}{{ $aCodes = $aCodes | append . }}{{- end -}}
+      {{- end -}}
+      {{- $bCodes := slice -}}
+      {{- range $b.tags -}}
+        {{- if findRE `^\d+\.\d` . -}}{{ $bCodes = $bCodes | append . }}{{- end -}}
+      {{- end -}}
+      {{- $shared := intersect $aCodes $bCodes -}}
+      {{- /* Threshold = 4 shared chapter codes for an edge. Empirically
+             this produces ~7% article-graph density (≈1k edges across
+             180 articles) — visually readable clusters without the
+             clique-blob you get at lower thresholds in this curriculum. */ -}}
+      {{- if ge (len $shared) 4 -}}
+        {{- $w := len $shared -}}
+        {{- if gt $w 5 }}{{ $w = 5 }}{{ end -}}
+        {{- $edges = $edges | append (dict
+              "source" $a.id "target" $b.id "weight" $w "kind" "shared-tags") -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Facet roll-ups. */ -}}
+{{- $typeCounts   := dict "article" 0 "presentation" 0 "worksheet" 0 -}}
+{{- range $nodes -}}
+  {{- $typeCounts = merge $typeCounts (dict .type (add (index $typeCounts .type) 1)) -}}
+{{- end -}}
+
+{{- $courseCounts := dict -}}
+{{- range $nodes -}}
+  {{- $courseCounts = merge $courseCounts (dict .course (add (default 0 (index $courseCounts .course)) 1)) -}}
+{{- end -}}
+
+{{- $topicCounts  := dict -}}
+{{- range $nodes -}}
+  {{- if .topic -}}
+    {{- $topicCounts = merge $topicCounts (dict .topic (add (default 0 (index $topicCounts .topic)) 1)) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $tagCounts    := dict -}}
+{{- range $nodes -}}
+  {{- range .tags -}}
+    {{- $tagCounts = merge $tagCounts (dict . (add (default 0 (index $tagCounts .)) 1)) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $topicsList := slice -}}
+{{- range $.Site.Data.topics -}}
+  {{- $topicsList = $topicsList | append (dict
+        "id"        .id
+        "label_de"  .label_de
+        "label_en"  .label_en
+        "color"     .color
+        "color_dark" .color_dark
+        "count"     (default 0 (index $topicCounts .id))) -}}
+{{- end -}}
+
+{{- $typesList := slice -}}
+{{- range $k, $v := $typeCounts -}}
+  {{- $typesList = $typesList | append (dict "id" $k "count" $v) -}}
+{{- end -}}
+
+{{- $coursesList := slice -}}
+{{- range $k, $v := $courseCounts -}}
+  {{- $coursesList = $coursesList | append (dict "id" $k "count" $v) -}}
+{{- end -}}
+{{- $coursesList = sort $coursesList "id" -}}
+
+{{- $tagsList := slice -}}
+{{- range $k, $v := $tagCounts -}}
+  {{- $tagsList = $tagsList | append (dict "id" $k "count" $v) -}}
+{{- end -}}
+{{- $tagsList = sort $tagsList "count" "desc" -}}
+
+{{- /* Final document. */ -}}
+{{- dict
+      "generated_at" now
+      "site"         site.Title
+      "nodes"        $nodes
+      "edges"        $edges
+      "facets"       (dict
+                       "types"   $typesList
+                       "courses" $coursesList
+                       "topics"  $topicsList
+                       "tags"    $tagsList)
+    | jsonify (dict "indent" "  ") -}}

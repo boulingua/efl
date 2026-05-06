@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/gm/kl10/unit08_civic-english_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl10/unit08_civic-english.png
+tags:
+  - "reading"
+  - "speaking"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.2"
+  - "3.3.3.2"
+  - "3.3.3.3"
+  - "3.3.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

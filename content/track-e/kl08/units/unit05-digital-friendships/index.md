@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/e/kl08/unit05_digital-friendships_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl08/unit05_digital-friendships.png
+tags:
+  - "listening"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.1"
+  - "3.2.3.5"
+  - "3.2.3.7"
+  - "3.2.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

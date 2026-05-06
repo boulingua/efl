@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/e/kl08/unit01_identities_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl08/unit01_identities.png
+tags:
+  - "reading"
+  - "writing"
+  - "intercultural"
+  - "3.2.1"
+  - "3.2.2"
+  - "3.2.3.2"
+  - "3.2.3.5"
+  - "3.2.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

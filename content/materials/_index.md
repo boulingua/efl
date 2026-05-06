@@ -1,6 +1,9 @@
 ---
 title: "Materials"
 description: "Per-Unit slide decks and worksheets, downloadable for classroom use."
+outputs:
+  - html
+  - network
 ---
 
 This is the cross-Unit material library. Every Unit on the site ships

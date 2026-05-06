@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/gm/kl06/unit11_captain-codys-map_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl06/unit11_captain-codys-map.png
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.2"
+  - "3.1.3.5"
+  - "3.1.3.8"
+  - "3.1.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

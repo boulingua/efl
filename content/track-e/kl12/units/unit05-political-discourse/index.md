@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl12/unit05_political-discourse_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl12/unit05_political-discourse.png
+tags:
+  - "reading"
+  - "listening"
+  - "language_awareness"
+  - "3.4.1"
+  - "3.4.3.1"
+  - "3.4.3.2"
+  - "3.4.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

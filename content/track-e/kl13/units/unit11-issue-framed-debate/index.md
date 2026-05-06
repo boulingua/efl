@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl13/unit11_issue-framed-debate_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl13/unit11_issue-framed-debate.png
+tags:
+  - "speaking"
+  - "listening"
+  - "language_awareness"
+  - "3.4.1"
+  - "3.4.3.1"
+  - "3.4.3.3"
+  - "3.4.3.4"
+topic: themen
 ---
 
 {{< callout type="note" >}}

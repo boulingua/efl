@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl05/unit08_hobbies-and-sports_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl05/unit08_hobbies-and-sports.png
+tags:
+  - "speaking"
+  - "listening"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.1"
+  - "3.1.3.3"
+  - "3.1.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

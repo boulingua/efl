@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/e/kl08/unit06_opinion-writing_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl08/unit06_opinion-writing.png
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.2"
+  - "3.2.3.5"
+  - "3.2.3.8"
+  - "3.2.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

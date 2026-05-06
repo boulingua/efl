@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/e/kl05/unit06_animals-and-pets_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl05/unit06_animals-and-pets.png
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.2"
+  - "3.1.3.5"
+  - "3.1.3.7"
+  - "3.1.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl05/unit01_hello-world_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl05/unit01_hello-world.png
+tags:
+  - "speaking"
+  - "listening"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.3"
+  - "3.1.3.5"
+  - "3.1.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

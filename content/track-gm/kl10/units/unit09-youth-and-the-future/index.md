@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/gm/kl10/unit09_youth-and-the-future_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl10/unit09_youth-and-the-future.png
+tags:
+  - "reading"
+  - "writing"
+  - "intercultural"
+  - "3.3.1"
+  - "3.3.2"
+  - "3.3.3.2"
+  - "3.3.3.5"
+  - "3.3.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

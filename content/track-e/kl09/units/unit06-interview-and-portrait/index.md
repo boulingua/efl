@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl09/unit06_interview-and-portrait_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl09/unit06_interview-and-portrait.png
+tags:
+  - "speaking"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.3"
+  - "3.2.3.5"
+  - "3.2.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

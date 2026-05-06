@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/gm/kl05/unit12_review-and-show_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl05/unit12_review-and-show.png
+tags:
+  - "speaking"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.4"
+  - "3.1.3.5"
+  - "3.1.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

@@ -25,6 +25,17 @@ presentation:
 worksheet:
   file: /downloads/e/kl07/unit05_the-united-states-today_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl07/unit05_the-united-states-today.png
+tags:
+  - "reading"
+  - "writing"
+  - "intercultural"
+  - "3.2.1"
+  - "3.2.2"
+  - "3.2.3.2"
+  - "3.2.3.5"
+  - "3.2.3.8"
+  - "3.2.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

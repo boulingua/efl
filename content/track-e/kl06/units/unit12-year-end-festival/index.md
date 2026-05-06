@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl06/unit12_year-end-festival_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl06/unit12_year-end-festival.png
+tags:
+  - "speaking"
+  - "writing"
+  - "intercultural"
+  - "3.1.1"
+  - "3.1.3.4"
+  - "3.1.3.5"
+  - "3.1.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

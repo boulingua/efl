@@ -25,6 +25,17 @@ presentation:
 worksheet:
   file: /downloads/e/kl07/unit03_media-in-our-lives_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl07/unit03_media-in-our-lives.png
+tags:
+  - "listening"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.1"
+  - "3.2.3.5"
+  - "3.2.3.7"
+  - "3.2.3.8"
+  - "3.2.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

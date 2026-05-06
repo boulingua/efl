@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/gm/kl07/unit10_a-short-story_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl07/unit10_a-short-story.png
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.2"
+  - "3.2.3.5"
+  - "3.2.3.7"
+  - "3.2.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

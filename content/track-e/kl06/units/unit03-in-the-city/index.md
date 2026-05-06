@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/e/kl06/unit03_in-the-city_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl06/unit03_in-the-city.png
+tags:
+  - "reading"
+  - "speaking"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.2"
+  - "3.1.3.3"
+  - "3.1.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

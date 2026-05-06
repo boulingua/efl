@@ -23,6 +23,15 @@ presentation:
 worksheet:
   file: /downloads/gm/kl09/unit12_year-review-portfolio_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl09/unit12_year-review-portfolio.png
+tags:
+  - "writing"
+  - "speaking"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.4"
+  - "3.2.3.5"
+  - "3.2.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

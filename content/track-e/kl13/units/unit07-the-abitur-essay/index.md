@@ -21,6 +21,13 @@ presentation:
 worksheet:
   file: /downloads/e/kl13/unit07_the-abitur-essay_worksheet.pdf
   thumbnail: /materials/worksheets/e/kl13/unit07_the-abitur-essay.png
+tags:
+  - "writing"
+  - "language_awareness"
+  - "3.4.1"
+  - "3.4.3.5"
+  - "3.4.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

@@ -24,6 +24,16 @@ presentation:
 worksheet:
   file: /downloads/gm/kl10/unit02_the-world-of-work_worksheet.pdf
   thumbnail: /materials/worksheets/gm/kl10/unit02_the-world-of-work.png
+tags:
+  - "reading"
+  - "speaking"
+  - "intercultural"
+  - "3.3.1"
+  - "3.3.2"
+  - "3.3.3.2"
+  - "3.3.3.3"
+  - "3.3.3.7"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}
