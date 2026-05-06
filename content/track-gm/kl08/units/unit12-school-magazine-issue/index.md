@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl08/units/unit12_school-magazine-issue.html
 presentation:
-  file: /materials/presentations/gm/kl08/unit12_school-magazine-issue.pptx
-  thumbnail: /materials/presentations/gm/kl08/unit12_school-magazine-issue.png
+  file: "/efl/materials/presentations/track-gm_kl08_unit12-school-magazine-issue.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl08_unit12-school-magazine-issue.png"
 worksheet:
-  file: /downloads/gm/kl08/unit12_school-magazine-issue_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl08/unit12_school-magazine-issue.png
+  file: "/efl/materials/worksheets/track-gm_kl08_unit12-school-magazine-issue.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit12-school-magazine-issue.png"
 tags:
   - "writing"
   - "speaking"

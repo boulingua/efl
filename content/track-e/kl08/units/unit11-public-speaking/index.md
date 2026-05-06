@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl08/units/unit11_public-speaking.html
 presentation:
-  file: /materials/presentations/e/kl08/unit11_public-speaking.pptx
-  thumbnail: /materials/presentations/e/kl08/unit11_public-speaking.png
+  file: "/efl/materials/presentations/track-e_kl08_unit11-public-speaking.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl08_unit11-public-speaking.png"
 worksheet:
-  file: /downloads/e/kl08/unit11_public-speaking_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl08/unit11_public-speaking.png
+  file: "/efl/materials/worksheets/track-e_kl08_unit11-public-speaking.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl08_unit11-public-speaking.png"
 tags:
   - "speaking"
   - "listening"

@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl11/units/unit03_post-colonial-voices-intro.html
 presentation:
-  file: /materials/presentations/e/kl11/unit03_post-colonial-voices-intro.pptx
-  thumbnail: /materials/presentations/e/kl11/unit03_post-colonial-voices-intro.png
+  file: "/efl/materials/presentations/track-e_kl11_unit03-post-colonial-voices-intro.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl11_unit03-post-colonial-voices-intro.png"
 worksheet:
-  file: /downloads/e/kl11/unit03_post-colonial-voices-intro_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl11/unit03_post-colonial-voices-intro.png
+  file: "/efl/materials/worksheets/track-e_kl11_unit03-post-colonial-voices-intro.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl11_unit03-post-colonial-voices-intro.png"
 tags:
   - "reading"
   - "writing"

@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl10/units/unit10_a-short-novel.html
 presentation:
-  file: /materials/presentations/e/kl10/unit10_a-short-novel.pptx
-  thumbnail: /materials/presentations/e/kl10/unit10_a-short-novel.png
+  file: "/efl/materials/presentations/track-e_kl10_unit10-a-short-novel.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl10_unit10-a-short-novel.png"
 worksheet:
-  file: /downloads/e/kl10/unit10_a-short-novel_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl10/unit10_a-short-novel.png
+  file: "/efl/materials/worksheets/track-e_kl10_unit10-a-short-novel.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl10_unit10-a-short-novel.png"
 tags:
   - "reading"
   - "writing"

@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl08/units/unit03_fairness-at-school.html
 presentation:
-  file: /materials/presentations/e/kl08/unit03_fairness-at-school.pptx
-  thumbnail: /materials/presentations/e/kl08/unit03_fairness-at-school.png
+  file: "/efl/materials/presentations/track-e_kl08_unit03-fairness-at-school.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl08_unit03-fairness-at-school.png"
 worksheet:
-  file: /downloads/e/kl08/unit03_fairness-at-school_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl08/unit03_fairness-at-school.png
+  file: "/efl/materials/worksheets/track-e_kl08_unit03-fairness-at-school.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl08_unit03-fairness-at-school.png"
 tags:
   - "speaking"
   - "writing"

@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl12/units/unit03_science-and-ethics.html
 presentation:
-  file: /materials/presentations/e/kl12/unit03_science-and-ethics.pptx
-  thumbnail: /materials/presentations/e/kl12/unit03_science-and-ethics.png
+  file: "/efl/materials/presentations/track-e_kl12_unit03-science-and-ethics.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl12_unit03-science-and-ethics.png"
 worksheet:
-  file: /downloads/e/kl12/unit03_science-and-ethics_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl12/unit03_science-and-ethics.png
+  file: "/efl/materials/worksheets/track-e_kl12_unit03-science-and-ethics.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl12_unit03-science-and-ethics.png"
 tags:
   - "reading"
   - "writing"

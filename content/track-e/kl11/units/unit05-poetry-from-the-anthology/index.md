@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl11/units/unit05_poetry-from-the-anthology.html
 presentation:
-  file: /materials/presentations/e/kl11/unit05_poetry-from-the-anthology.pptx
-  thumbnail: /materials/presentations/e/kl11/unit05_poetry-from-the-anthology.png
+  file: "/efl/materials/presentations/track-e_kl11_unit05-poetry-from-the-anthology.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl11_unit05-poetry-from-the-anthology.png"
 worksheet:
-  file: /downloads/e/kl11/unit05_poetry-from-the-anthology_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl11/unit05_poetry-from-the-anthology.png
+  file: "/efl/materials/worksheets/track-e_kl11_unit05-poetry-from-the-anthology.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl11_unit05-poetry-from-the-anthology.png"
 tags:
   - "reading"
   - "writing"

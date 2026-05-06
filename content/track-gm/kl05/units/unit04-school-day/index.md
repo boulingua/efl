@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl05/units/unit04_school-day.html
 presentation:
-  file: /materials/presentations/gm/kl05/unit04_school-day.pptx
-  thumbnail: /materials/presentations/gm/kl05/unit04_school-day.png
+  file: "/efl/materials/presentations/track-gm_kl05_unit04-school-day.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl05_unit04-school-day.png"
 worksheet:
-  file: /downloads/gm/kl05/unit04_school-day_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl05/unit04_school-day.png
+  file: "/efl/materials/worksheets/track-gm_kl05_unit04-school-day.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit04-school-day.png"
 tags:
   - "listening"
   - "speaking"

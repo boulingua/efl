@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl05/units/unit07_weather-and-seasons.html
 presentation:
-  file: /materials/presentations/gm/kl05/unit07_weather-and-seasons.pptx
-  thumbnail: /materials/presentations/gm/kl05/unit07_weather-and-seasons.png
+  file: "/efl/materials/presentations/track-gm_kl05_unit07-weather-and-seasons.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl05_unit07-weather-and-seasons.png"
 worksheet:
-  file: /downloads/gm/kl05/unit07_weather-and-seasons_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl05/unit07_weather-and-seasons.png
+  file: "/efl/materials/worksheets/track-gm_kl05_unit07-weather-and-seasons.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit07-weather-and-seasons.png"
 tags:
   - "listening"
   - "writing"

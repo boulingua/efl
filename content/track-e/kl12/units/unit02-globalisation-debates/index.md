@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl12/units/unit02_globalisation-debates.html
 presentation:
-  file: /materials/presentations/e/kl12/unit02_globalisation-debates.pptx
-  thumbnail: /materials/presentations/e/kl12/unit02_globalisation-debates.png
+  file: "/efl/materials/presentations/track-e_kl12_unit02-globalisation-debates.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl12_unit02-globalisation-debates.png"
 worksheet:
-  file: /downloads/e/kl12/unit02_globalisation-debates_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl12/unit02_globalisation-debates.png
+  file: "/efl/materials/worksheets/track-e_kl12_unit02-globalisation-debates.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl12_unit02-globalisation-debates.png"
 tags:
   - "reading"
   - "writing"

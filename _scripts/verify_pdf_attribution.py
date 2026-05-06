@@ -17,7 +17,10 @@ from pathlib import Path
 from pypdf import PdfReader
 
 ROOT = Path(__file__).resolve().parents[1]
-ROOTS = (ROOT / "static" / "downloads",)
+ROOTS = (
+    ROOT / "static" / "materials" / "worksheets",  # post-FLE-port flat layout
+    ROOT / "static" / "downloads",                  # legacy nested layout (kept for safety net)
+)
 
 
 def main() -> int:

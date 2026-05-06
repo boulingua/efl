@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl07/units/unit07_being-a-friend.html
 presentation:
-  file: /materials/presentations/e/kl07/unit07_being-a-friend.pptx
-  thumbnail: /materials/presentations/e/kl07/unit07_being-a-friend.png
+  file: "/efl/materials/presentations/track-e_kl07_unit07-being-a-friend.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl07_unit07-being-a-friend.png"
 worksheet:
-  file: /downloads/e/kl07/unit07_being-a-friend_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl07/unit07_being-a-friend.png
+  file: "/efl/materials/worksheets/track-e_kl07_unit07-being-a-friend.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl07_unit07-being-a-friend.png"
 tags:
   - "speaking"
   - "writing"

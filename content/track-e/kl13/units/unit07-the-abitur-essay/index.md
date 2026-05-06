@@ -17,11 +17,11 @@ skills_focus:
 aliases:
   - /track_e_kl13/units/unit07_the-abitur-essay.html
 presentation:
-  file: /materials/presentations/e/kl13/unit07_the-abitur-essay.pptx
-  thumbnail: /materials/presentations/e/kl13/unit07_the-abitur-essay.png
+  file: "/efl/materials/presentations/track-e_kl13_unit07-the-abitur-essay.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl13_unit07-the-abitur-essay.png"
 worksheet:
-  file: /downloads/e/kl13/unit07_the-abitur-essay_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl13/unit07_the-abitur-essay.png
+  file: "/efl/materials/worksheets/track-e_kl13_unit07-the-abitur-essay.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl13_unit07-the-abitur-essay.png"
 tags:
   - "writing"
   - "language_awareness"

@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl09/units/unit03_the-environment-locally.html
 presentation:
-  file: /materials/presentations/gm/kl09/unit03_the-environment-locally.pptx
-  thumbnail: /materials/presentations/gm/kl09/unit03_the-environment-locally.png
+  file: "/efl/materials/presentations/track-gm_kl09_unit03-the-environment-locally.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl09_unit03-the-environment-locally.png"
 worksheet:
-  file: /downloads/gm/kl09/unit03_the-environment-locally_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl09/unit03_the-environment-locally.png
+  file: "/efl/materials/worksheets/track-gm_kl09_unit03-the-environment-locally.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit03-the-environment-locally.png"
 tags:
   - "reading"
   - "writing"

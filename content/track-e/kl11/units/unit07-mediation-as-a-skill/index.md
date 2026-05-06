@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl11/units/unit07_mediation-as-a-skill.html
 presentation:
-  file: /materials/presentations/e/kl11/unit07_mediation-as-a-skill.pptx
-  thumbnail: /materials/presentations/e/kl11/unit07_mediation-as-a-skill.png
+  file: "/efl/materials/presentations/track-e_kl11_unit07-mediation-as-a-skill.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl11_unit07-mediation-as-a-skill.png"
 worksheet:
-  file: /downloads/e/kl11/unit07_mediation-as-a-skill_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl11/unit07_mediation-as-a-skill.png
+  file: "/efl/materials/worksheets/track-e_kl11_unit07-mediation-as-a-skill.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl11_unit07-mediation-as-a-skill.png"
 tags:
   - "mediation"
   - "writing"

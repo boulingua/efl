@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl13/units/unit08_the-abitur-comprehension.html
 presentation:
-  file: /materials/presentations/e/kl13/unit08_the-abitur-comprehension.pptx
-  thumbnail: /materials/presentations/e/kl13/unit08_the-abitur-comprehension.png
+  file: "/efl/materials/presentations/track-e_kl13_unit08-the-abitur-comprehension.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl13_unit08-the-abitur-comprehension.png"
 worksheet:
-  file: /downloads/e/kl13/unit08_the-abitur-comprehension_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl13/unit08_the-abitur-comprehension.png
+  file: "/efl/materials/worksheets/track-e_kl13_unit08-the-abitur-comprehension.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl13_unit08-the-abitur-comprehension.png"
 tags:
   - "reading"
   - "writing"

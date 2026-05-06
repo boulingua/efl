@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl10/units/unit07_mediation-feature-article.html
 presentation:
-  file: /materials/presentations/e/kl10/unit07_mediation-feature-article.pptx
-  thumbnail: /materials/presentations/e/kl10/unit07_mediation-feature-article.png
+  file: "/efl/materials/presentations/track-e_kl10_unit07-mediation-feature-article.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl10_unit07-mediation-feature-article.png"
 worksheet:
-  file: /downloads/e/kl10/unit07_mediation-feature-article_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl10/unit07_mediation-feature-article.png
+  file: "/efl/materials/worksheets/track-e_kl10_unit07-mediation-feature-article.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl10_unit07-mediation-feature-article.png"
 tags:
   - "mediation"
   - "writing"

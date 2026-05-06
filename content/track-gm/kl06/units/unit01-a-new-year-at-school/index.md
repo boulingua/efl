@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl06/units/unit01_a-new-year-at-school.html
 presentation:
-  file: /materials/presentations/gm/kl06/unit01_a-new-year-at-school.pptx
-  thumbnail: /materials/presentations/gm/kl06/unit01_a-new-year-at-school.png
+  file: "/efl/materials/presentations/track-gm_kl06_unit01-a-new-year-at-school.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl06_unit01-a-new-year-at-school.png"
 worksheet:
-  file: /downloads/gm/kl06/unit01_a-new-year-at-school_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl06/unit01_a-new-year-at-school.png
+  file: "/efl/materials/worksheets/track-gm_kl06_unit01-a-new-year-at-school.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit01-a-new-year-at-school.png"
 tags:
   - "speaking"
   - "writing"

@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl12/units/unit10_kommunikationspruefung-mock.html
 presentation:
-  file: /materials/presentations/e/kl12/unit10_kommunikationspruefung-mock.pptx
-  thumbnail: /materials/presentations/e/kl12/unit10_kommunikationspruefung-mock.png
+  file: "/efl/materials/presentations/track-e_kl12_unit10-kommunikationspruefung-mock.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl12_unit10-kommunikationspruefung-mock.png"
 worksheet:
-  file: /downloads/e/kl12/unit10_kommunikationspruefung-mock_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl12/unit10_kommunikationspruefung-mock.png
+  file: "/efl/materials/worksheets/track-e_kl12_unit10-kommunikationspruefung-mock.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl12_unit10-kommunikationspruefung-mock.png"
 tags:
   - "speaking"
   - "listening"

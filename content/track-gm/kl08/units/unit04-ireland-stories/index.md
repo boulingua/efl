@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl08/units/unit04_ireland-stories.html
 presentation:
-  file: /materials/presentations/gm/kl08/unit04_ireland-stories.pptx
-  thumbnail: /materials/presentations/gm/kl08/unit04_ireland-stories.png
+  file: "/efl/materials/presentations/track-gm_kl08_unit04-ireland-stories.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl08_unit04-ireland-stories.png"
 worksheet:
-  file: /downloads/gm/kl08/unit04_ireland-stories_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl08/unit04_ireland-stories.png
+  file: "/efl/materials/worksheets/track-gm_kl08_unit04-ireland-stories.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit04-ireland-stories.png"
 tags:
   - "reading"
   - "writing"

@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl05/units/unit12_review-and-show.html
 presentation:
-  file: /materials/presentations/gm/kl05/unit12_review-and-show.pptx
-  thumbnail: /materials/presentations/gm/kl05/unit12_review-and-show.png
+  file: "/efl/materials/presentations/track-gm_kl05_unit12-review-and-show.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl05_unit12-review-and-show.png"
 worksheet:
-  file: /downloads/gm/kl05/unit12_review-and-show_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl05/unit12_review-and-show.png
+  file: "/efl/materials/worksheets/track-gm_kl05_unit12-review-and-show.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit12-review-and-show.png"
 tags:
   - "speaking"
   - "writing"

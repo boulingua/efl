@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl06/units/unit12_year-end-festival.html
 presentation:
-  file: /materials/presentations/e/kl06/unit12_year-end-festival.pptx
-  thumbnail: /materials/presentations/e/kl06/unit12_year-end-festival.png
+  file: "/efl/materials/presentations/track-e_kl06_unit12-year-end-festival.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl06_unit12-year-end-festival.png"
 worksheet:
-  file: /downloads/e/kl06/unit12_year-end-festival_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl06/unit12_year-end-festival.png
+  file: "/efl/materials/worksheets/track-e_kl06_unit12-year-end-festival.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl06_unit12-year-end-festival.png"
 tags:
   - "speaking"
   - "writing"

@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl06/units/unit04_food-around-the-world.html
 presentation:
-  file: /materials/presentations/e/kl06/unit04_food-around-the-world.pptx
-  thumbnail: /materials/presentations/e/kl06/unit04_food-around-the-world.png
+  file: "/efl/materials/presentations/track-e_kl06_unit04-food-around-the-world.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl06_unit04-food-around-the-world.png"
 worksheet:
-  file: /downloads/e/kl06/unit04_food-around-the-world_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl06/unit04_food-around-the-world.png
+  file: "/efl/materials/worksheets/track-e_kl06_unit04-food-around-the-world.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl06_unit04-food-around-the-world.png"
 tags:
   - "reading"
   - "writing"

@@ -18,11 +18,11 @@ skills_focus:
 aliases:
   - /track_e_kl12/units/unit12_klausur-composition-and-comment.html
 presentation:
-  file: /materials/presentations/e/kl12/unit12_klausur-composition-and-comment.pptx
-  thumbnail: /materials/presentations/e/kl12/unit12_klausur-composition-and-comment.png
+  file: "/efl/materials/presentations/track-e_kl12_unit12-klausur-composition-and-comment.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl12_unit12-klausur-composition-and-comment.png"
 worksheet:
-  file: /downloads/e/kl12/unit12_klausur-composition-and-comment_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl12/unit12_klausur-composition-and-comment.png
+  file: "/efl/materials/worksheets/track-e_kl12_unit12-klausur-composition-and-comment.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl12_unit12-klausur-composition-and-comment.png"
 tags:
   - "writing"
   - "language_awareness"

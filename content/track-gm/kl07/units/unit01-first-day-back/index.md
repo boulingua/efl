@@ -21,11 +21,11 @@ skills_focus:
 aliases:
   - /track_gm_kl07/units/unit01_first-day-back.html
 presentation:
-  file: /materials/presentations/gm/kl07/unit01_first-day-back.pptx
-  thumbnail: /materials/presentations/gm/kl07/unit01_first-day-back.png
+  file: "/efl/materials/presentations/track-gm_kl07_unit01-first-day-back.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl07_unit01-first-day-back.png"
 worksheet:
-  file: /downloads/gm/kl07/unit01_first-day-back_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl07/unit01_first-day-back.png
+  file: "/efl/materials/worksheets/track-gm_kl07_unit01-first-day-back.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit01-first-day-back.png"
 tags:
   - "speaking"
   - "listening"

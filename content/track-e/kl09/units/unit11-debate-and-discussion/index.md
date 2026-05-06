@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl09/units/unit11_debate-and-discussion.html
 presentation:
-  file: /materials/presentations/e/kl09/unit11_debate-and-discussion.pptx
-  thumbnail: /materials/presentations/e/kl09/unit11_debate-and-discussion.png
+  file: "/efl/materials/presentations/track-e_kl09_unit11-debate-and-discussion.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl09_unit11-debate-and-discussion.png"
 worksheet:
-  file: /downloads/e/kl09/unit11_debate-and-discussion_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl09/unit11_debate-and-discussion.png
+  file: "/efl/materials/worksheets/track-e_kl09_unit11-debate-and-discussion.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl09_unit11-debate-and-discussion.png"
 tags:
   - "speaking"
   - "listening"

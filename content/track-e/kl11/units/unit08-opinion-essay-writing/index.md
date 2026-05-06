@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl11/units/unit08_opinion-essay-writing.html
 presentation:
-  file: /materials/presentations/e/kl11/unit08_opinion-essay-writing.pptx
-  thumbnail: /materials/presentations/e/kl11/unit08_opinion-essay-writing.png
+  file: "/efl/materials/presentations/track-e_kl11_unit08-opinion-essay-writing.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl11_unit08-opinion-essay-writing.png"
 worksheet:
-  file: /downloads/e/kl11/unit08_opinion-essay-writing_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl11/unit08_opinion-essay-writing.png
+  file: "/efl/materials/worksheets/track-e_kl11_unit08-opinion-essay-writing.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl11_unit08-opinion-essay-writing.png"
 tags:
   - "reading"
   - "writing"

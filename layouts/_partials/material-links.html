@@ -1,27 +1,34 @@
-{{- /* Paired thumbnail-card block: presentation left, worksheet right.
-     Rendered near the top of every unit-article single page. */ -}}
-{{- $p := .Params.presentation -}}
-{{- $w := .Params.worksheet -}}
+{{- /* Paired download cards: presentation (left) + worksheet (right).
 
-<aside class="material-links" aria-label="Downloadable materials">
-  <div class="material-link material-link--presentation">
-    <a href="{{ index $p "file" }}" download
-       aria-label="Download presentation: {{ .Title }}">
-      <img class="material-link-thumb"
-           src="{{ index $p "thumbnail" }}"
-           alt="Presentation thumbnail for {{ .Title }}"
-           loading="lazy">
-      <span class="material-link-label">Presentation (.pptx)</span>
+  Modelled on `boulingua/fle`'s pattern. URLs are passed verbatim from
+  page front matter (already include the /efl/ baseURL prefix from
+  `make_materials.py`), so no Hugo URL massaging is needed.
+*/ -}}
+{{- $pres := .Params.presentation -}}
+{{- $work := .Params.worksheet -}}
+{{- if or $pres $work -}}
+<div class="material-links">
+  {{- with $pres }}
+  <div class="material-card">
+    {{- with .thumbnail }}
+    <a href="{{ $pres.file }}" download>
+      <img src="{{ . }}" alt="Presentation thumbnail for {{ $.Title }}" loading="lazy">
     </a>
+    {{- end }}
+    <div class="material-card-title">Presentation</div>
+    <a class="download-btn" href="{{ .file }}" download>Download .pptx</a>
   </div>
-  <div class="material-link material-link--worksheet">
-    <a href="{{ index $w "file" }}" download
-       aria-label="Download worksheet: {{ .Title }}">
-      <img class="material-link-thumb"
-           src="{{ index $w "thumbnail" }}"
-           alt="Worksheet thumbnail for {{ .Title }}"
-           loading="lazy">
-      <span class="material-link-label">Worksheet (.pdf)</span>
+  {{- end -}}
+  {{- with $work }}
+  <div class="material-card">
+    {{- with .thumbnail }}
+    <a href="{{ $work.file }}" download>
+      <img src="{{ . }}" alt="Worksheet thumbnail for {{ $.Title }}" loading="lazy">
     </a>
+    {{- end }}
+    <div class="material-card-title">Worksheet</div>
+    <a class="download-btn" href="{{ .file }}" download>Download .pdf</a>
   </div>
-</aside>
+  {{- end -}}
+</div>
+{{- end -}}

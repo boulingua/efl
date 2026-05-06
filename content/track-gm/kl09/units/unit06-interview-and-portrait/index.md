@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl09/units/unit06_interview-and-portrait.html
 presentation:
-  file: /materials/presentations/gm/kl09/unit06_interview-and-portrait.pptx
-  thumbnail: /materials/presentations/gm/kl09/unit06_interview-and-portrait.png
+  file: "/efl/materials/presentations/track-gm_kl09_unit06-interview-and-portrait.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl09_unit06-interview-and-portrait.png"
 worksheet:
-  file: /downloads/gm/kl09/unit06_interview-and-portrait_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl09/unit06_interview-and-portrait.png
+  file: "/efl/materials/worksheets/track-gm_kl09_unit06-interview-and-portrait.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit06-interview-and-portrait.png"
 tags:
   - "speaking"
   - "writing"

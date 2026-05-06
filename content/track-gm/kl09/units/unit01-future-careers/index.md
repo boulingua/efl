@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl09/units/unit01_future-careers.html
 presentation:
-  file: /materials/presentations/gm/kl09/unit01_future-careers.pptx
-  thumbnail: /materials/presentations/gm/kl09/unit01_future-careers.png
+  file: "/efl/materials/presentations/track-gm_kl09_unit01-future-careers.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl09_unit01-future-careers.png"
 worksheet:
-  file: /downloads/gm/kl09/unit01_future-careers_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl09/unit01_future-careers.png
+  file: "/efl/materials/worksheets/track-gm_kl09_unit01-future-careers.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit01-future-careers.png"
 tags:
   - "reading"
   - "speaking"

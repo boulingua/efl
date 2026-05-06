@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl13/units/unit03_dystopias-and-utopias.html
 presentation:
-  file: /materials/presentations/e/kl13/unit03_dystopias-and-utopias.pptx
-  thumbnail: /materials/presentations/e/kl13/unit03_dystopias-and-utopias.png
+  file: "/efl/materials/presentations/track-e_kl13_unit03-dystopias-and-utopias.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl13_unit03-dystopias-and-utopias.png"
 worksheet:
-  file: /downloads/e/kl13/unit03_dystopias-and-utopias_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl13/unit03_dystopias-and-utopias.png
+  file: "/efl/materials/worksheets/track-e_kl13_unit03-dystopias-and-utopias.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl13_unit03-dystopias-and-utopias.png"
 tags:
   - "reading"
   - "writing"

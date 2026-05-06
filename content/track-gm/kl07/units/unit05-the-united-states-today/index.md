@@ -21,11 +21,11 @@ skills_focus:
 aliases:
   - /track_gm_kl07/units/unit05_the-united-states-today.html
 presentation:
-  file: /materials/presentations/gm/kl07/unit05_the-united-states-today.pptx
-  thumbnail: /materials/presentations/gm/kl07/unit05_the-united-states-today.png
+  file: "/efl/materials/presentations/track-gm_kl07_unit05-the-united-states-today.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl07_unit05-the-united-states-today.png"
 worksheet:
-  file: /downloads/gm/kl07/unit05_the-united-states-today_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl07/unit05_the-united-states-today.png
+  file: "/efl/materials/worksheets/track-gm_kl07_unit05-the-united-states-today.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit05-the-united-states-today.png"
 tags:
   - "reading"
   - "writing"

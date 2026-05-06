@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl13/units/unit12_year-review-and-handover.html
 presentation:
-  file: /materials/presentations/e/kl13/unit12_year-review-and-handover.pptx
-  thumbnail: /materials/presentations/e/kl13/unit12_year-review-and-handover.png
+  file: "/efl/materials/presentations/track-e_kl13_unit12-year-review-and-handover.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl13_unit12-year-review-and-handover.png"
 worksheet:
-  file: /downloads/e/kl13/unit12_year-review-and-handover_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl13/unit12_year-review-and-handover.png
+  file: "/efl/materials/worksheets/track-e_kl13_unit12-year-review-and-handover.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl13_unit12-year-review-and-handover.png"
 tags:
   - "writing"
   - "speaking"

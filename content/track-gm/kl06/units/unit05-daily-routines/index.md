@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl06/units/unit05_daily-routines.html
 presentation:
-  file: /materials/presentations/gm/kl06/unit05_daily-routines.pptx
-  thumbnail: /materials/presentations/gm/kl06/unit05_daily-routines.png
+  file: "/efl/materials/presentations/track-gm_kl06_unit05-daily-routines.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl06_unit05-daily-routines.png"
 worksheet:
-  file: /downloads/gm/kl06/unit05_daily-routines_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl06/unit05_daily-routines.png
+  file: "/efl/materials/worksheets/track-gm_kl06_unit05-daily-routines.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit05-daily-routines.png"
 tags:
   - "speaking"
   - "writing"

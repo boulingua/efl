@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl10/units/unit06_contemporary-short-fiction.html
 presentation:
-  file: /materials/presentations/gm/kl10/unit06_contemporary-short-fiction.pptx
-  thumbnail: /materials/presentations/gm/kl10/unit06_contemporary-short-fiction.png
+  file: "/efl/materials/presentations/track-gm_kl10_unit06-contemporary-short-fiction.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl10_unit06-contemporary-short-fiction.png"
 worksheet:
-  file: /downloads/gm/kl10/unit06_contemporary-short-fiction_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl10/unit06_contemporary-short-fiction.png
+  file: "/efl/materials/worksheets/track-gm_kl10_unit06-contemporary-short-fiction.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit06-contemporary-short-fiction.png"
 tags:
   - "reading"
   - "writing"

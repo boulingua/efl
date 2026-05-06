@@ -1,15 +1,18 @@
-{{- /*
-  Override of hugo-coder's _partials/page.html.
+{{- /* Override of hugo-coder's _partials/page.html.
 
-  Adds a paired material-links block (presentation .pptx + worksheet .pdf
-  with thumbnails) at the top of any page whose front matter declares
-  both `presentation:` and `worksheet:` blocks — i.e. the 180 unit pages.
-  All other pages render unchanged.
+  Three additions over the theme default:
+    1. Visible "By <author>" byline + Schema.org Person microdata
+       (Phase 6.7 author-attribution gate).
+    2. Downloads section as the LAST article block — material-links
+       partial wrapped in a heading. Modelled on boulingua/fle.
+       The legacy {{< downloads >}} shortcode (left in body markdown
+       by the qmd → md migration) is a no-op now (see
+       layouts/shortcodes/downloads.html), so the cards render
+       exactly once, here at the end.
+    3. VG Wort Zählpixel partial — keyed off data/vgwort.yaml. Renders
+       only on pages that have a registered Zählmarke; emits nothing
+       for navigation pages.
 */ -}}
-{{- /* Resolve the canonical author for this page: explicit page-level
-       front-matter wins, site-level fallback otherwise. Both should
-       agree to "S. Le Boulanger" on this site, but the chain handles
-       any future override. */ -}}
 {{- $author := .Params.author | default site.Params.author -}}
 
 <section class="container page">
@@ -26,17 +29,18 @@
         <span itemprop="name">{{ $author }}</span>
       </p>
       {{- end }}
+      {{- with .Params.subtitle }}<p class="subtitle">{{ . }}</p>{{ end -}}
     </header>
-
-    {{- if and .Params.presentation .Params.worksheet -}}
-      {{ partial "material-links.html" . }}
-    {{- end -}}
 
     {{ .Content }}
 
-    {{- /* VG Wort Zählpixel — keyed off data/vgwort.yaml. Renders only
-           on pages that have a registered Zählmarke; emits nothing for
-           navigation pages (homepage, list pages, materials hub, etc.). */ -}}
+    {{- if or .Params.presentation .Params.worksheet -}}
+    <section class="article-downloads" aria-labelledby="downloads-heading">
+      <h2 id="downloads-heading">Downloads</h2>
+      {{- partial "material-links.html" . -}}
+    </section>
+    {{- end -}}
+
     {{ partial "vgwort.html" . }}
   </article>
 </section>

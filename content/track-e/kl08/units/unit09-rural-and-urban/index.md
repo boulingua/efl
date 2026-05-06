@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl08/units/unit09_rural-and-urban.html
 presentation:
-  file: /materials/presentations/e/kl08/unit09_rural-and-urban.pptx
-  thumbnail: /materials/presentations/e/kl08/unit09_rural-and-urban.png
+  file: "/efl/materials/presentations/track-e_kl08_unit09-rural-and-urban.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl08_unit09-rural-and-urban.png"
 worksheet:
-  file: /downloads/e/kl08/unit09_rural-and-urban_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl08/unit09_rural-and-urban.png
+  file: "/efl/materials/worksheets/track-e_kl08_unit09-rural-and-urban.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl08_unit09-rural-and-urban.png"
 tags:
   - "reading"
   - "writing"

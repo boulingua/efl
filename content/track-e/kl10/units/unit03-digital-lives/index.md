@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl10/units/unit03_digital-lives.html
 presentation:
-  file: /materials/presentations/e/kl10/unit03_digital-lives.pptx
-  thumbnail: /materials/presentations/e/kl10/unit03_digital-lives.png
+  file: "/efl/materials/presentations/track-e_kl10_unit03-digital-lives.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl10_unit03-digital-lives.png"
 worksheet:
-  file: /downloads/e/kl10/unit03_digital-lives_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl10/unit03_digital-lives.png
+  file: "/efl/materials/worksheets/track-e_kl10_unit03-digital-lives.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl10_unit03-digital-lives.png"
 tags:
   - "reading"
   - "writing"

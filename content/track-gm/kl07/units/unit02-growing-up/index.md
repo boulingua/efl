@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl07/units/unit02_growing-up.html
 presentation:
-  file: /materials/presentations/gm/kl07/unit02_growing-up.pptx
-  thumbnail: /materials/presentations/gm/kl07/unit02_growing-up.png
+  file: "/efl/materials/presentations/track-gm_kl07_unit02-growing-up.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl07_unit02-growing-up.png"
 worksheet:
-  file: /downloads/gm/kl07/unit02_growing-up_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl07/unit02_growing-up.png
+  file: "/efl/materials/worksheets/track-gm_kl07_unit02-growing-up.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit02-growing-up.png"
 tags:
   - "reading"
   - "writing"

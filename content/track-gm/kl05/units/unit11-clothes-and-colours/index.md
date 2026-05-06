@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl05/units/unit11_clothes-and-colours.html
 presentation:
-  file: /materials/presentations/gm/kl05/unit11_clothes-and-colours.pptx
-  thumbnail: /materials/presentations/gm/kl05/unit11_clothes-and-colours.png
+  file: "/efl/materials/presentations/track-gm_kl05_unit11-clothes-and-colours.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl05_unit11-clothes-and-colours.png"
 worksheet:
-  file: /downloads/gm/kl05/unit11_clothes-and-colours_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl05/unit11_clothes-and-colours.png
+  file: "/efl/materials/worksheets/track-gm_kl05_unit11-clothes-and-colours.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit11-clothes-and-colours.png"
 tags:
   - "speaking"
   - "writing"

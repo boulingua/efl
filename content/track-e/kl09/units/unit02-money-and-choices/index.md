@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl09/units/unit02_money-and-choices.html
 presentation:
-  file: /materials/presentations/e/kl09/unit02_money-and-choices.pptx
-  thumbnail: /materials/presentations/e/kl09/unit02_money-and-choices.png
+  file: "/efl/materials/presentations/track-e_kl09_unit02-money-and-choices.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl09_unit02-money-and-choices.png"
 worksheet:
-  file: /downloads/e/kl09/unit02_money-and-choices_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl09/unit02_money-and-choices.png
+  file: "/efl/materials/worksheets/track-e_kl09_unit02-money-and-choices.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl09_unit02-money-and-choices.png"
 tags:
   - "reading"
   - "writing"

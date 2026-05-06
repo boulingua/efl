@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl13/units/unit04_contemporary-poetry.html
 presentation:
-  file: /materials/presentations/e/kl13/unit04_contemporary-poetry.pptx
-  thumbnail: /materials/presentations/e/kl13/unit04_contemporary-poetry.png
+  file: "/efl/materials/presentations/track-e_kl13_unit04-contemporary-poetry.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl13_unit04-contemporary-poetry.png"
 worksheet:
-  file: /downloads/e/kl13/unit04_contemporary-poetry_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl13/unit04_contemporary-poetry.png
+  file: "/efl/materials/worksheets/track-e_kl13_unit04-contemporary-poetry.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl13_unit04-contemporary-poetry.png"
 tags:
   - "reading"
   - "writing"

@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl09/units/unit05_media-literacy.html
 presentation:
-  file: /materials/presentations/gm/kl09/unit05_media-literacy.pptx
-  thumbnail: /materials/presentations/gm/kl09/unit05_media-literacy.png
+  file: "/efl/materials/presentations/track-gm_kl09_unit05-media-literacy.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl09_unit05-media-literacy.png"
 worksheet:
-  file: /downloads/gm/kl09/unit05_media-literacy_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl09/unit05_media-literacy.png
+  file: "/efl/materials/worksheets/track-gm_kl09_unit05-media-literacy.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit05-media-literacy.png"
 tags:
   - "reading"
   - "listening"

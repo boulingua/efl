@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl06/units/unit11_captain-codys-map.html
 presentation:
-  file: /materials/presentations/e/kl06/unit11_captain-codys-map.pptx
-  thumbnail: /materials/presentations/e/kl06/unit11_captain-codys-map.png
+  file: "/efl/materials/presentations/track-e_kl06_unit11-captain-codys-map.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl06_unit11-captain-codys-map.png"
 worksheet:
-  file: /downloads/e/kl06/unit11_captain-codys-map_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl06/unit11_captain-codys-map.png
+  file: "/efl/materials/worksheets/track-e_kl06_unit11-captain-codys-map.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl06_unit11-captain-codys-map.png"
 tags:
   - "reading"
   - "writing"

@@ -21,11 +21,11 @@ skills_focus:
 aliases:
   - /track_gm_kl07/units/unit09_school-rules-and-rights.html
 presentation:
-  file: /materials/presentations/gm/kl07/unit09_school-rules-and-rights.pptx
-  thumbnail: /materials/presentations/gm/kl07/unit09_school-rules-and-rights.png
+  file: "/efl/materials/presentations/track-gm_kl07_unit09-school-rules-and-rights.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl07_unit09-school-rules-and-rights.png"
 worksheet:
-  file: /downloads/gm/kl07/unit09_school-rules-and-rights_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl07/unit09_school-rules-and-rights.png
+  file: "/efl/materials/worksheets/track-gm_kl07_unit09-school-rules-and-rights.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit09-school-rules-and-rights.png"
 tags:
   - "reading"
   - "writing"

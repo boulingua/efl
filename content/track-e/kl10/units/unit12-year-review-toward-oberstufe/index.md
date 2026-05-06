@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl10/units/unit12_year-review-toward-oberstufe.html
 presentation:
-  file: /materials/presentations/e/kl10/unit12_year-review-toward-oberstufe.pptx
-  thumbnail: /materials/presentations/e/kl10/unit12_year-review-toward-oberstufe.png
+  file: "/efl/materials/presentations/track-e_kl10_unit12-year-review-toward-oberstufe.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl10_unit12-year-review-toward-oberstufe.png"
 worksheet:
-  file: /downloads/e/kl10/unit12_year-review-toward-oberstufe_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl10/unit12_year-review-toward-oberstufe.png
+  file: "/efl/materials/worksheets/track-e_kl10_unit12-year-review-toward-oberstufe.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl10_unit12-year-review-toward-oberstufe.png"
 tags:
   - "writing"
   - "speaking"

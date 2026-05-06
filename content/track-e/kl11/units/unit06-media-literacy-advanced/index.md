@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl11/units/unit06_media-literacy-advanced.html
 presentation:
-  file: /materials/presentations/e/kl11/unit06_media-literacy-advanced.pptx
-  thumbnail: /materials/presentations/e/kl11/unit06_media-literacy-advanced.png
+  file: "/efl/materials/presentations/track-e_kl11_unit06-media-literacy-advanced.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl11_unit06-media-literacy-advanced.png"
 worksheet:
-  file: /downloads/e/kl11/unit06_media-literacy-advanced_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl11/unit06_media-literacy-advanced.png
+  file: "/efl/materials/worksheets/track-e_kl11_unit06-media-literacy-advanced.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl11_unit06-media-literacy-advanced.png"
 tags:
   - "reading"
   - "writing"

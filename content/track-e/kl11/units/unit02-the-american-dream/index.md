@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl11/units/unit02_the-american-dream.html
 presentation:
-  file: /materials/presentations/e/kl11/unit02_the-american-dream.pptx
-  thumbnail: /materials/presentations/e/kl11/unit02_the-american-dream.png
+  file: "/efl/materials/presentations/track-e_kl11_unit02-the-american-dream.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl11_unit02-the-american-dream.png"
 worksheet:
-  file: /downloads/e/kl11/unit02_the-american-dream_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl11/unit02_the-american-dream.png
+  file: "/efl/materials/worksheets/track-e_kl11_unit02-the-american-dream.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl11_unit02-the-american-dream.png"
 tags:
   - "reading"
   - "writing"

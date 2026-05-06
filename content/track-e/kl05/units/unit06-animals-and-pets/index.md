@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl05/units/unit06_animals-and-pets.html
 presentation:
-  file: /materials/presentations/e/kl05/unit06_animals-and-pets.pptx
-  thumbnail: /materials/presentations/e/kl05/unit06_animals-and-pets.png
+  file: "/efl/materials/presentations/track-e_kl05_unit06-animals-and-pets.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl05_unit06-animals-and-pets.png"
 worksheet:
-  file: /downloads/e/kl05/unit06_animals-and-pets_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl05/unit06_animals-and-pets.png
+  file: "/efl/materials/worksheets/track-e_kl05_unit06-animals-and-pets.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl05_unit06-animals-and-pets.png"
 tags:
   - "reading"
   - "writing"

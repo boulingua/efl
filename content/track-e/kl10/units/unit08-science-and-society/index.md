@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl10/units/unit08_science-and-society.html
 presentation:
-  file: /materials/presentations/e/kl10/unit08_science-and-society.pptx
-  thumbnail: /materials/presentations/e/kl10/unit08_science-and-society.png
+  file: "/efl/materials/presentations/track-e_kl10_unit08-science-and-society.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl10_unit08-science-and-society.png"
 worksheet:
-  file: /downloads/e/kl10/unit08_science-and-society_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl10/unit08_science-and-society.png
+  file: "/efl/materials/worksheets/track-e_kl10_unit08-science-and-society.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl10_unit08-science-and-society.png"
 tags:
   - "reading"
   - "writing"

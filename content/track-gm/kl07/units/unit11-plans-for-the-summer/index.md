@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl07/units/unit11_plans-for-the-summer.html
 presentation:
-  file: /materials/presentations/gm/kl07/unit11_plans-for-the-summer.pptx
-  thumbnail: /materials/presentations/gm/kl07/unit11_plans-for-the-summer.png
+  file: "/efl/materials/presentations/track-gm_kl07_unit11-plans-for-the-summer.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl07_unit11-plans-for-the-summer.png"
 worksheet:
-  file: /downloads/gm/kl07/unit11_plans-for-the-summer_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl07/unit11_plans-for-the-summer.png
+  file: "/efl/materials/worksheets/track-gm_kl07_unit11-plans-for-the-summer.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit11-plans-for-the-summer.png"
 tags:
   - "speaking"
   - "writing"

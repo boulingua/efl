@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl06/units/unit03_in-the-city.html
 presentation:
-  file: /materials/presentations/e/kl06/unit03_in-the-city.pptx
-  thumbnail: /materials/presentations/e/kl06/unit03_in-the-city.png
+  file: "/efl/materials/presentations/track-e_kl06_unit03-in-the-city.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl06_unit03-in-the-city.png"
 worksheet:
-  file: /downloads/e/kl06/unit03_in-the-city_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl06/unit03_in-the-city.png
+  file: "/efl/materials/worksheets/track-e_kl06_unit03-in-the-city.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl06_unit03-in-the-city.png"
 tags:
   - "reading"
   - "speaking"

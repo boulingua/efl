@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl09/units/unit08_inequality-and-voice.html
 presentation:
-  file: /materials/presentations/e/kl09/unit08_inequality-and-voice.pptx
-  thumbnail: /materials/presentations/e/kl09/unit08_inequality-and-voice.png
+  file: "/efl/materials/presentations/track-e_kl09_unit08-inequality-and-voice.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl09_unit08-inequality-and-voice.png"
 worksheet:
-  file: /downloads/e/kl09/unit08_inequality-and-voice_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl09/unit08_inequality-and-voice.png
+  file: "/efl/materials/worksheets/track-e_kl09_unit08-inequality-and-voice.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl09_unit08-inequality-and-voice.png"
 tags:
   - "reading"
   - "writing"

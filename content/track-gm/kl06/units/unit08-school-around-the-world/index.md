@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl06/units/unit08_school-around-the-world.html
 presentation:
-  file: /materials/presentations/gm/kl06/unit08_school-around-the-world.pptx
-  thumbnail: /materials/presentations/gm/kl06/unit08_school-around-the-world.png
+  file: "/efl/materials/presentations/track-gm_kl06_unit08-school-around-the-world.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl06_unit08-school-around-the-world.png"
 worksheet:
-  file: /downloads/gm/kl06/unit08_school-around-the-world_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl06/unit08_school-around-the-world.png
+  file: "/efl/materials/worksheets/track-gm_kl06_unit08-school-around-the-world.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit08-school-around-the-world.png"
 tags:
   - "reading"
   - "writing"

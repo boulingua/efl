@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl10/units/unit01_identity-in-a-global-world.html
 presentation:
-  file: /materials/presentations/e/kl10/unit01_identity-in-a-global-world.pptx
-  thumbnail: /materials/presentations/e/kl10/unit01_identity-in-a-global-world.png
+  file: "/efl/materials/presentations/track-e_kl10_unit01-identity-in-a-global-world.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl10_unit01-identity-in-a-global-world.png"
 worksheet:
-  file: /downloads/e/kl10/unit01_identity-in-a-global-world_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl10/unit01_identity-in-a-global-world.png
+  file: "/efl/materials/worksheets/track-e_kl10_unit01-identity-in-a-global-world.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl10_unit01-identity-in-a-global-world.png"
 tags:
   - "reading"
   - "writing"

@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl13/units/unit05_media-and-public-opinion.html
 presentation:
-  file: /materials/presentations/e/kl13/unit05_media-and-public-opinion.pptx
-  thumbnail: /materials/presentations/e/kl13/unit05_media-and-public-opinion.png
+  file: "/efl/materials/presentations/track-e_kl13_unit05-media-and-public-opinion.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl13_unit05-media-and-public-opinion.png"
 worksheet:
-  file: /downloads/e/kl13/unit05_media-and-public-opinion_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl13/unit05_media-and-public-opinion.png
+  file: "/efl/materials/worksheets/track-e_kl13_unit05-media-and-public-opinion.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl13_unit05-media-and-public-opinion.png"
 tags:
   - "reading"
   - "writing"

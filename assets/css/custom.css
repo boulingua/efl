@@ -394,34 +394,55 @@ html.colorscheme-dark, [data-theme="dark"] {
   border: 0;
 }
 
-/* ----- Material-links block (top of every unit page) ----- */
+/* ----- Per-article downloads section (last block of every unit page) ----- */
 
+.article-downloads {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--network-border-subtle);
+}
+.article-downloads h2 {
+  margin: 0 0 1rem;
+  font-size: 1.2rem;
+}
 .material-links {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 1rem;
-  margin: 0 0 2rem;
-  padding: 1rem;
-  background: rgba(0, 0, 0, 0.03);
+}
+.material-card {
+  background: var(--network-surface, #FAFAF7);
+  border: 1px solid var(--network-border-subtle);
   border-radius: 6px;
+  padding: 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
 }
-.material-link a {
-  display: block;
-  text-decoration: none;
-  color: inherit;
-}
-.material-link-thumb {
+.material-card img {
   display: block;
   width: 100%;
   height: auto;
-  border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 4px;
+  border: 1px solid var(--network-border-subtle);
 }
-.material-link-label {
-  display: block;
-  margin-top: 0.5rem;
+.material-card-title {
   font-weight: 600;
-  font-size: 0.95rem;
+  font-size: 1rem;
+}
+.material-card .download-btn {
+  display: inline-block;
+  text-align: center;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--network-border-strong);
+  border-radius: 4px;
+  font-size: 0.9rem;
+  text-decoration: none;
+  color: inherit;
+  transition: background var(--network-dur-fast, 120ms) ease-out;
+}
+.material-card .download-btn:hover {
+  background: var(--network-border-subtle);
 }
 
 /* ----- Materials hub (listing pages) ----- */

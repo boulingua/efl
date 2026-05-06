@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl12/units/unit06_the-non-fiction-essay.html
 presentation:
-  file: /materials/presentations/e/kl12/unit06_the-non-fiction-essay.pptx
-  thumbnail: /materials/presentations/e/kl12/unit06_the-non-fiction-essay.png
+  file: "/efl/materials/presentations/track-e_kl12_unit06-the-non-fiction-essay.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl12_unit06-the-non-fiction-essay.png"
 worksheet:
-  file: /downloads/e/kl12/unit06_the-non-fiction-essay_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl12/unit06_the-non-fiction-essay.png
+  file: "/efl/materials/worksheets/track-e_kl12_unit06-the-non-fiction-essay.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl12_unit06-the-non-fiction-essay.png"
 tags:
   - "reading"
   - "writing"

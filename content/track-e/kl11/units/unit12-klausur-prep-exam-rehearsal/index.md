@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl11/units/unit12_klausur-prep-exam-rehearsal.html
 presentation:
-  file: /materials/presentations/e/kl11/unit12_klausur-prep-exam-rehearsal.pptx
-  thumbnail: /materials/presentations/e/kl11/unit12_klausur-prep-exam-rehearsal.png
+  file: "/efl/materials/presentations/track-e_kl11_unit12-klausur-prep-exam-rehearsal.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl11_unit12-klausur-prep-exam-rehearsal.png"
 worksheet:
-  file: /downloads/e/kl11/unit12_klausur-prep-exam-rehearsal_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl11/unit12_klausur-prep-exam-rehearsal.png
+  file: "/efl/materials/worksheets/track-e_kl11_unit12-klausur-prep-exam-rehearsal.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl11_unit12-klausur-prep-exam-rehearsal.png"
 tags:
   - "reading"
   - "writing"

@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl05/units/unit08_hobbies-and-sports.html
 presentation:
-  file: /materials/presentations/gm/kl05/unit08_hobbies-and-sports.pptx
-  thumbnail: /materials/presentations/gm/kl05/unit08_hobbies-and-sports.png
+  file: "/efl/materials/presentations/track-gm_kl05_unit08-hobbies-and-sports.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl05_unit08-hobbies-and-sports.png"
 worksheet:
-  file: /downloads/gm/kl05/unit08_hobbies-and-sports_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl05/unit08_hobbies-and-sports.png
+  file: "/efl/materials/worksheets/track-gm_kl05_unit08-hobbies-and-sports.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit08-hobbies-and-sports.png"
 tags:
   - "speaking"
   - "listening"

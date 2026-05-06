@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl13/units/unit11_issue-framed-debate.html
 presentation:
-  file: /materials/presentations/e/kl13/unit11_issue-framed-debate.pptx
-  thumbnail: /materials/presentations/e/kl13/unit11_issue-framed-debate.png
+  file: "/efl/materials/presentations/track-e_kl13_unit11-issue-framed-debate.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl13_unit11-issue-framed-debate.png"
 worksheet:
-  file: /downloads/e/kl13/unit11_issue-framed-debate_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl13/unit11_issue-framed-debate.png
+  file: "/efl/materials/worksheets/track-e_kl13_unit11-issue-framed-debate.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl13_unit11-issue-framed-debate.png"
 tags:
   - "speaking"
   - "listening"

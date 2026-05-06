@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl12/units/unit04_shakespeare-extract.html
 presentation:
-  file: /materials/presentations/e/kl12/unit04_shakespeare-extract.pptx
-  thumbnail: /materials/presentations/e/kl12/unit04_shakespeare-extract.png
+  file: "/efl/materials/presentations/track-e_kl12_unit04-shakespeare-extract.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl12_unit04-shakespeare-extract.png"
 worksheet:
-  file: /downloads/e/kl12/unit04_shakespeare-extract_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl12/unit04_shakespeare-extract.png
+  file: "/efl/materials/worksheets/track-e_kl12_unit04-shakespeare-extract.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl12_unit04-shakespeare-extract.png"
 tags:
   - "reading"
   - "writing"

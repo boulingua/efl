@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl08/units/unit01_identities.html
 presentation:
-  file: /materials/presentations/e/kl08/unit01_identities.pptx
-  thumbnail: /materials/presentations/e/kl08/unit01_identities.png
+  file: "/efl/materials/presentations/track-e_kl08_unit01-identities.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl08_unit01-identities.png"
 worksheet:
-  file: /downloads/e/kl08/unit01_identities_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl08/unit01_identities.png
+  file: "/efl/materials/worksheets/track-e_kl08_unit01-identities.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl08_unit01-identities.png"
 tags:
   - "reading"
   - "writing"

@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl11/units/unit01_british-cultural-anchors.html
 presentation:
-  file: /materials/presentations/e/kl11/unit01_british-cultural-anchors.pptx
-  thumbnail: /materials/presentations/e/kl11/unit01_british-cultural-anchors.png
+  file: "/efl/materials/presentations/track-e_kl11_unit01-british-cultural-anchors.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl11_unit01-british-cultural-anchors.png"
 worksheet:
-  file: /downloads/e/kl11/unit01_british-cultural-anchors_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl11/unit01_british-cultural-anchors.png
+  file: "/efl/materials/worksheets/track-e_kl11_unit01-british-cultural-anchors.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl11_unit01-british-cultural-anchors.png"
 tags:
   - "reading"
   - "writing"

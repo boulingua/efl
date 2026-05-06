@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl09/units/unit09_short-fiction.html
 presentation:
-  file: /materials/presentations/gm/kl09/unit09_short-fiction.pptx
-  thumbnail: /materials/presentations/gm/kl09/unit09_short-fiction.png
+  file: "/efl/materials/presentations/track-gm_kl09_unit09-short-fiction.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl09_unit09-short-fiction.png"
 worksheet:
-  file: /downloads/gm/kl09/unit09_short-fiction_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl09/unit09_short-fiction.png
+  file: "/efl/materials/worksheets/track-gm_kl09_unit09-short-fiction.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit09-short-fiction.png"
 tags:
   - "reading"
   - "writing"

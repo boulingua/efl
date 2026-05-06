@@ -21,11 +21,11 @@ skills_focus:
 aliases:
   - /track_e_kl07/units/unit04_a-trip-to-scotland.html
 presentation:
-  file: /materials/presentations/e/kl07/unit04_a-trip-to-scotland.pptx
-  thumbnail: /materials/presentations/e/kl07/unit04_a-trip-to-scotland.png
+  file: "/efl/materials/presentations/track-e_kl07_unit04-a-trip-to-scotland.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl07_unit04-a-trip-to-scotland.png"
 worksheet:
-  file: /downloads/e/kl07/unit04_a-trip-to-scotland_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl07/unit04_a-trip-to-scotland.png
+  file: "/efl/materials/worksheets/track-e_kl07_unit04-a-trip-to-scotland.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl07_unit04-a-trip-to-scotland.png"
 tags:
   - "reading"
   - "listening"

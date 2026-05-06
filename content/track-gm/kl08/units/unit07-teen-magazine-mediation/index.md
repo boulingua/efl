@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl08/units/unit07_teen-magazine-mediation.html
 presentation:
-  file: /materials/presentations/gm/kl08/unit07_teen-magazine-mediation.pptx
-  thumbnail: /materials/presentations/gm/kl08/unit07_teen-magazine-mediation.png
+  file: "/efl/materials/presentations/track-gm_kl08_unit07-teen-magazine-mediation.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl08_unit07-teen-magazine-mediation.png"
 worksheet:
-  file: /downloads/gm/kl08/unit07_teen-magazine-mediation_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl08/unit07_teen-magazine-mediation.png
+  file: "/efl/materials/worksheets/track-gm_kl08_unit07-teen-magazine-mediation.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit07-teen-magazine-mediation.png"
 tags:
   - "mediation"
   - "writing"

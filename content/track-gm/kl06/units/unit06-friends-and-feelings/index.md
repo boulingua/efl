@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl06/units/unit06_friends-and-feelings.html
 presentation:
-  file: /materials/presentations/gm/kl06/unit06_friends-and-feelings.pptx
-  thumbnail: /materials/presentations/gm/kl06/unit06_friends-and-feelings.png
+  file: "/efl/materials/presentations/track-gm_kl06_unit06-friends-and-feelings.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl06_unit06-friends-and-feelings.png"
 worksheet:
-  file: /downloads/gm/kl06/unit06_friends-and-feelings_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl06/unit06_friends-and-feelings.png
+  file: "/efl/materials/worksheets/track-gm_kl06_unit06-friends-and-feelings.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit06-friends-and-feelings.png"
 tags:
   - "speaking"
   - "writing"

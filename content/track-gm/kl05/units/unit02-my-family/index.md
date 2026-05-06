@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl05/units/unit02_my-family.html
 presentation:
-  file: /materials/presentations/gm/kl05/unit02_my-family.pptx
-  thumbnail: /materials/presentations/gm/kl05/unit02_my-family.png
+  file: "/efl/materials/presentations/track-gm_kl05_unit02-my-family.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl05_unit02-my-family.png"
 worksheet:
-  file: /downloads/gm/kl05/unit02_my-family_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl05/unit02_my-family.png
+  file: "/efl/materials/worksheets/track-gm_kl05_unit02-my-family.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit02-my-family.png"
 tags:
   - "speaking"
   - "writing"

@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl07/units/unit12_year-review-and-podcast.html
 presentation:
-  file: /materials/presentations/gm/kl07/unit12_year-review-and-podcast.pptx
-  thumbnail: /materials/presentations/gm/kl07/unit12_year-review-and-podcast.png
+  file: "/efl/materials/presentations/track-gm_kl07_unit12-year-review-and-podcast.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl07_unit12-year-review-and-podcast.png"
 worksheet:
-  file: /downloads/gm/kl07/unit12_year-review-and-podcast_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl07/unit12_year-review-and-podcast.png
+  file: "/efl/materials/worksheets/track-gm_kl07_unit12-year-review-and-podcast.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit12-year-review-and-podcast.png"
 tags:
   - "speaking"
   - "listening"

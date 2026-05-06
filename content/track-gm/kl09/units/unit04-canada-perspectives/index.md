@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl09/units/unit04_canada-perspectives.html
 presentation:
-  file: /materials/presentations/gm/kl09/unit04_canada-perspectives.pptx
-  thumbnail: /materials/presentations/gm/kl09/unit04_canada-perspectives.png
+  file: "/efl/materials/presentations/track-gm_kl09_unit04-canada-perspectives.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl09_unit04-canada-perspectives.png"
 worksheet:
-  file: /downloads/gm/kl09/unit04_canada-perspectives_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl09/unit04_canada-perspectives.png
+  file: "/efl/materials/worksheets/track-gm_kl09_unit04-canada-perspectives.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit04-canada-perspectives.png"
 tags:
   - "reading"
   - "writing"

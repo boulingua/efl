@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl07/units/unit08_first-mediation.html
 presentation:
-  file: /materials/presentations/gm/kl07/unit08_first-mediation.pptx
-  thumbnail: /materials/presentations/gm/kl07/unit08_first-mediation.png
+  file: "/efl/materials/presentations/track-gm_kl07_unit08-first-mediation.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl07_unit08-first-mediation.png"
 worksheet:
-  file: /downloads/gm/kl07/unit08_first-mediation_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl07/unit08_first-mediation.png
+  file: "/efl/materials/worksheets/track-gm_kl07_unit08-first-mediation.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit08-first-mediation.png"
 tags:
   - "mediation"
   - "writing"

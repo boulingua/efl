@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl09/units/unit12_year-review-portfolio.html
 presentation:
-  file: /materials/presentations/e/kl09/unit12_year-review-portfolio.pptx
-  thumbnail: /materials/presentations/e/kl09/unit12_year-review-portfolio.png
+  file: "/efl/materials/presentations/track-e_kl09_unit12-year-review-portfolio.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl09_unit12-year-review-portfolio.png"
 worksheet:
-  file: /downloads/e/kl09/unit12_year-review-portfolio_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl09/unit12_year-review-portfolio.png
+  file: "/efl/materials/worksheets/track-e_kl09_unit12-year-review-portfolio.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl09_unit12-year-review-portfolio.png"
 tags:
   - "writing"
   - "speaking"

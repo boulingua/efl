@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl11/units/unit10_a-classic-text-lf.html
 presentation:
-  file: /materials/presentations/e/kl11/unit10_a-classic-text-lf.pptx
-  thumbnail: /materials/presentations/e/kl11/unit10_a-classic-text-lf.png
+  file: "/efl/materials/presentations/track-e_kl11_unit10-a-classic-text-lf.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl11_unit10-a-classic-text-lf.png"
 worksheet:
-  file: /downloads/e/kl11/unit10_a-classic-text-lf_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl11/unit10_a-classic-text-lf.png
+  file: "/efl/materials/worksheets/track-e_kl11_unit10-a-classic-text-lf.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl11_unit10-a-classic-text-lf.png"
 tags:
   - "reading"
   - "writing"

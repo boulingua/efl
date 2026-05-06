@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl10/units/unit02_the-world-of-work.html
 presentation:
-  file: /materials/presentations/e/kl10/unit02_the-world-of-work.pptx
-  thumbnail: /materials/presentations/e/kl10/unit02_the-world-of-work.png
+  file: "/efl/materials/presentations/track-e_kl10_unit02-the-world-of-work.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl10_unit02-the-world-of-work.png"
 worksheet:
-  file: /downloads/e/kl10/unit02_the-world-of-work_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl10/unit02_the-world-of-work.png
+  file: "/efl/materials/worksheets/track-e_kl10_unit02-the-world-of-work.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl10_unit02-the-world-of-work.png"
 tags:
   - "reading"
   - "speaking"

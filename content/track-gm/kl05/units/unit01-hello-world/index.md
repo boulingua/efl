@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl05/units/unit01_hello-world.html
 presentation:
-  file: /materials/presentations/gm/kl05/unit01_hello-world.pptx
-  thumbnail: /materials/presentations/gm/kl05/unit01_hello-world.png
+  file: "/efl/materials/presentations/track-gm_kl05_unit01-hello-world.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl05_unit01-hello-world.png"
 worksheet:
-  file: /downloads/gm/kl05/unit01_hello-world_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl05/unit01_hello-world.png
+  file: "/efl/materials/worksheets/track-gm_kl05_unit01-hello-world.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit01-hello-world.png"
 tags:
   - "speaking"
   - "listening"

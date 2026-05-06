@@ -71,11 +71,12 @@ jobs:
           hugo mod tidy
           hugo mod verify
 
-      - name: Generate placeholder worksheets, presentations + thumbnails
-        run: |
-          python _scripts/make_placeholder_worksheets.py --out static/downloads
-          python _scripts/make_placeholder_presentations.py
-          python _scripts/make_placeholder_thumbnails.py
+      - name: Generate per-unit Materials placeholders + frontmatter
+        # Single consolidated script (modelled on boulingua/fle):
+        # writes flat-named .pptx + .pdf under static/materials/ and
+        # rewrites presentation:/worksheet: front matter on each unit.
+        # --skip-existing default — manual replacements survive.
+        run: python _scripts/make_materials.py
 
       - name: Populate Materials Network frontmatter (tags + topic)
         # Idempotent. Safe to run on every build; ensures tags/topic

@@ -21,11 +21,11 @@ skills_focus:
 aliases:
   - /track_e_kl07/units/unit06_food-cultures.html
 presentation:
-  file: /materials/presentations/e/kl07/unit06_food-cultures.pptx
-  thumbnail: /materials/presentations/e/kl07/unit06_food-cultures.png
+  file: "/efl/materials/presentations/track-e_kl07_unit06-food-cultures.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl07_unit06-food-cultures.png"
 worksheet:
-  file: /downloads/e/kl07/unit06_food-cultures_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl07/unit06_food-cultures.png
+  file: "/efl/materials/worksheets/track-e_kl07_unit06-food-cultures.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl07_unit06-food-cultures.png"
 tags:
   - "reading"
   - "speaking"

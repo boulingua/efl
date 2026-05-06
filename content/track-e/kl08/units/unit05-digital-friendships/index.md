@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl08/units/unit05_digital-friendships.html
 presentation:
-  file: /materials/presentations/e/kl08/unit05_digital-friendships.pptx
-  thumbnail: /materials/presentations/e/kl08/unit05_digital-friendships.png
+  file: "/efl/materials/presentations/track-e_kl08_unit05-digital-friendships.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl08_unit05-digital-friendships.png"
 worksheet:
-  file: /downloads/e/kl08/unit05_digital-friendships_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl08/unit05_digital-friendships.png
+  file: "/efl/materials/worksheets/track-e_kl08_unit05-digital-friendships.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl08_unit05-digital-friendships.png"
 tags:
   - "listening"
   - "writing"

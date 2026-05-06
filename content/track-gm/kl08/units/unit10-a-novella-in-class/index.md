@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl08/units/unit10_a-novella-in-class.html
 presentation:
-  file: /materials/presentations/gm/kl08/unit10_a-novella-in-class.pptx
-  thumbnail: /materials/presentations/gm/kl08/unit10_a-novella-in-class.png
+  file: "/efl/materials/presentations/track-gm_kl08_unit10-a-novella-in-class.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl08_unit10-a-novella-in-class.png"
 worksheet:
-  file: /downloads/gm/kl08/unit10_a-novella-in-class_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl08/unit10_a-novella-in-class.png
+  file: "/efl/materials/worksheets/track-gm_kl08_unit10-a-novella-in-class.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit10-a-novella-in-class.png"
 tags:
   - "reading"
   - "writing"

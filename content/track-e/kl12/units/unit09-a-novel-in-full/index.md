@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl12/units/unit09_a-novel-in-full.html
 presentation:
-  file: /materials/presentations/e/kl12/unit09_a-novel-in-full.pptx
-  thumbnail: /materials/presentations/e/kl12/unit09_a-novel-in-full.png
+  file: "/efl/materials/presentations/track-e_kl12_unit09-a-novel-in-full.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl12_unit09-a-novel-in-full.png"
 worksheet:
-  file: /downloads/e/kl12/unit09_a-novel-in-full_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl12/unit09_a-novel-in-full.png
+  file: "/efl/materials/worksheets/track-e_kl12_unit09-a-novel-in-full.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl12_unit09-a-novel-in-full.png"
 tags:
   - "reading"
   - "writing"

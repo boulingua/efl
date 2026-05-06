@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl06/units/unit02_on-holiday.html
 presentation:
-  file: /materials/presentations/e/kl06/unit02_on-holiday.pptx
-  thumbnail: /materials/presentations/e/kl06/unit02_on-holiday.png
+  file: "/efl/materials/presentations/track-e_kl06_unit02-on-holiday.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl06_unit02-on-holiday.png"
 worksheet:
-  file: /downloads/e/kl06/unit02_on-holiday_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl06/unit02_on-holiday.png
+  file: "/efl/materials/worksheets/track-e_kl06_unit02-on-holiday.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl06_unit02-on-holiday.png"
 tags:
   - "listening"
   - "speaking"

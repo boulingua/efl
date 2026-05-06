@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl10/units/unit05_media-and-truth.html
 presentation:
-  file: /materials/presentations/gm/kl10/unit05_media-and-truth.pptx
-  thumbnail: /materials/presentations/gm/kl10/unit05_media-and-truth.png
+  file: "/efl/materials/presentations/track-gm_kl10_unit05-media-and-truth.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl10_unit05-media-and-truth.png"
 worksheet:
-  file: /downloads/gm/kl10/unit05_media-and-truth_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl10/unit05_media-and-truth.png
+  file: "/efl/materials/worksheets/track-gm_kl10_unit05-media-and-truth.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit05-media-and-truth.png"
 tags:
   - "reading"
   - "writing"

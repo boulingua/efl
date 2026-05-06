@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl06/units/unit10_travelling-by-train.html
 presentation:
-  file: /materials/presentations/e/kl06/unit10_travelling-by-train.pptx
-  thumbnail: /materials/presentations/e/kl06/unit10_travelling-by-train.png
+  file: "/efl/materials/presentations/track-e_kl06_unit10-travelling-by-train.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl06_unit10-travelling-by-train.png"
 worksheet:
-  file: /downloads/e/kl06/unit10_travelling-by-train_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl06/unit10_travelling-by-train.png
+  file: "/efl/materials/worksheets/track-e_kl06_unit10-travelling-by-train.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl06_unit10-travelling-by-train.png"
 tags:
   - "listening"
   - "reading"

@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl09/units/unit10_application-letter.html
 presentation:
-  file: /materials/presentations/gm/kl09/unit10_application-letter.pptx
-  thumbnail: /materials/presentations/gm/kl09/unit10_application-letter.png
+  file: "/efl/materials/presentations/track-gm_kl09_unit10-application-letter.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl09_unit10-application-letter.png"
 worksheet:
-  file: /downloads/gm/kl09/unit10_application-letter_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl09/unit10_application-letter.png
+  file: "/efl/materials/worksheets/track-gm_kl09_unit10-application-letter.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit10-application-letter.png"
 tags:
   - "reading"
   - "writing"

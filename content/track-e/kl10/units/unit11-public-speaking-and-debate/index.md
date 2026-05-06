@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl10/units/unit11_public-speaking-and-debate.html
 presentation:
-  file: /materials/presentations/e/kl10/unit11_public-speaking-and-debate.pptx
-  thumbnail: /materials/presentations/e/kl10/unit11_public-speaking-and-debate.png
+  file: "/efl/materials/presentations/track-e_kl10_unit11-public-speaking-and-debate.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl10_unit11-public-speaking-and-debate.png"
 worksheet:
-  file: /downloads/e/kl10/unit11_public-speaking-and-debate_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl10/unit11_public-speaking-and-debate.png
+  file: "/efl/materials/worksheets/track-e_kl10_unit11-public-speaking-and-debate.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl10_unit11-public-speaking-and-debate.png"
 tags:
   - "speaking"
   - "listening"

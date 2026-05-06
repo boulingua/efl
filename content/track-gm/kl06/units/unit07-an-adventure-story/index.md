@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl06/units/unit07_an-adventure-story.html
 presentation:
-  file: /materials/presentations/gm/kl06/unit07_an-adventure-story.pptx
-  thumbnail: /materials/presentations/gm/kl06/unit07_an-adventure-story.png
+  file: "/efl/materials/presentations/track-gm_kl06_unit07-an-adventure-story.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl06_unit07-an-adventure-story.png"
 worksheet:
-  file: /downloads/gm/kl06/unit07_an-adventure-story_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl06/unit07_an-adventure-story.png
+  file: "/efl/materials/worksheets/track-gm_kl06_unit07-an-adventure-story.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit07-an-adventure-story.png"
 tags:
   - "reading"
   - "writing"

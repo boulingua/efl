@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl10/units/unit10_project-and-presentation.html
 presentation:
-  file: /materials/presentations/gm/kl10/unit10_project-and-presentation.pptx
-  thumbnail: /materials/presentations/gm/kl10/unit10_project-and-presentation.png
+  file: "/efl/materials/presentations/track-gm_kl10_unit10-project-and-presentation.pptx"
+  thumbnail: "/efl/materials/presentations/track-gm_kl10_unit10-project-and-presentation.png"
 worksheet:
-  file: /downloads/gm/kl10/unit10_project-and-presentation_worksheet.pdf
-  thumbnail: /materials/worksheets/gm/kl10/unit10_project-and-presentation.png
+  file: "/efl/materials/worksheets/track-gm_kl10_unit10-project-and-presentation.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit10-project-and-presentation.png"
 tags:
   - "speaking"
   - "writing"

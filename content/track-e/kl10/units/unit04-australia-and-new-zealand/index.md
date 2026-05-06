@@ -20,11 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl10/units/unit04_australia-and-new-zealand.html
 presentation:
-  file: /materials/presentations/e/kl10/unit04_australia-and-new-zealand.pptx
-  thumbnail: /materials/presentations/e/kl10/unit04_australia-and-new-zealand.png
+  file: "/efl/materials/presentations/track-e_kl10_unit04-australia-and-new-zealand.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl10_unit04-australia-and-new-zealand.png"
 worksheet:
-  file: /downloads/e/kl10/unit04_australia-and-new-zealand_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl10/unit04_australia-and-new-zealand.png
+  file: "/efl/materials/worksheets/track-e_kl10_unit04-australia-and-new-zealand.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl10_unit04-australia-and-new-zealand.png"
 tags:
   - "reading"
   - "listening"

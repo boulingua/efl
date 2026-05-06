@@ -19,11 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl11/units/unit09_a-modern-novel-bf.html
 presentation:
-  file: /materials/presentations/e/kl11/unit09_a-modern-novel-bf.pptx
-  thumbnail: /materials/presentations/e/kl11/unit09_a-modern-novel-bf.png
+  file: "/efl/materials/presentations/track-e_kl11_unit09-a-modern-novel-bf.pptx"
+  thumbnail: "/efl/materials/presentations/track-e_kl11_unit09-a-modern-novel-bf.png"
 worksheet:
-  file: /downloads/e/kl11/unit09_a-modern-novel-bf_worksheet.pdf
-  thumbnail: /materials/worksheets/e/kl11/unit09_a-modern-novel-bf.png
+  file: "/efl/materials/worksheets/track-e_kl11_unit09-a-modern-novel-bf.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl11_unit09-a-modern-novel-bf.png"
 tags:
   - "reading"
   - "writing"
