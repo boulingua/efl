@@ -374,18 +374,25 @@ def convert_body(body: str, qmd: Path) -> str:
     # 4. Rewrite [..](foo.qmd) links — map .qmd path to Hugo URL form.
     def rewrite_qmd_link(m: re.Match[str]) -> str:
         prefix, target, suffix = m.group(1), m.group(2), m.group(3)
-        # Strip .qmd, hyphenate the basename, append trailing slash before any anchor.
         path_part = target.removesuffix(".qmd")
-        # Hyphenate only the basename (so `units/unit01_hello-world` -> `units/unit01-hello-world`).
-        if "/" in path_part:
-            head, _, base = path_part.rpartition("/")
-            path_part = f"{head}/{hugo_slug(base)}"
-        else:
-            path_part = hugo_slug(path_part)
-        # If basename was "index", the URL is the directory itself.
-        if path_part.endswith("/index"):
-            path_part = path_part[: -len("index")]
-        return f"{prefix}{path_part}/{suffix.lstrip(')')})"
+        comps = path_part.split("/")
+        # Apply the same track_<x>_kl<NN> -> track-<x>/kl<NN> split as in
+        # the file mapper, then hyphenate every component.
+        new: list[str] = []
+        for c in comps:
+            tm = re.fullmatch(r"track_(e|gm)_kl(\d{2})", c)
+            if tm:
+                new.extend([f"track-{tm.group(1)}", f"kl{tm.group(2)}"])
+            else:
+                new.append(hugo_slug(c))
+        # If the basename was "index", drop it — Hugo serves the dir.
+        if new and new[-1] == "index":
+            new.pop()
+        new_path = "/".join(new)
+        # Always end with a trailing slash for directory-style URLs.
+        if not new_path.endswith("/"):
+            new_path += "/"
+        return f"{prefix}{new_path}{suffix.lstrip(')')})"
 
     body = QMD_LINK_RE.sub(rewrite_qmd_link, body)
 
