@@ -377,3 +377,75 @@ matches manifest for the batch.
 (empty — no files crossed the 2% drift threshold.)
 
 **Awaiting approval before Phase 3.**
+
+### 2026-05-06 — Phase 3 complete
+
+- Materials hub at `/materials/` with two listings:
+  `/materials/presentations/` and `/materials/worksheets/`. Top-level
+  `/materials/` is a narrative landing page; the two children are
+  auto-generated card grids.
+- Per Phase 0 §8 recommended defaults:
+  - Per-unit material attachments restricted to **180 unit pages**
+    (exam wrappers, schedules, track indexes, top-level pages,
+    appendices: skipped). Hub filters via `Params.unit_nr` presence.
+  - Worksheets hub points at the **existing**
+    `_scripts/make_placeholder_worksheets.py` PDFs at
+    `/downloads/<track>/kl<NN>/unit<NN>_<slug>_worksheet.pdf`. Only
+    the `--out` base moved (now `static/downloads/`).
+  - Presentations hub is **net-new**: 180 placeholder `.pptx` files via
+    `_scripts/make_placeholder_presentations.py` (python-pptx,
+    one-slide 16:9 deck per unit, `S. Le Boulanger` in core
+    properties, "Placeholder — replace with final presentation."
+    caption).
+  - 180 worksheet + 180 presentation thumbnail PNGs via Pillow
+    (`_scripts/make_placeholder_thumbnails.py`). LibreOffice / pdf2image
+    skipped — fragile in CI, overkill for placeholders.
+- Front-matter augmentation: `_scripts/add_material_frontmatter.py`
+  walks every `content/track-*/kl*/units/*/index.md`, skips
+  `*-exam` wrappers, and inserts (or rewrites, idempotently) two
+  YAML blocks per unit page:
+  ```yaml
+  presentation:
+    file: /materials/presentations/<track>/kl<NN>/unit<NN>_<slug>.pptx
+    thumbnail: /materials/presentations/<track>/kl<NN>/unit<NN>_<slug>.png
+  worksheet:
+    file: /downloads/<track>/kl<NN>/unit<NN>_<slug>_worksheet.pdf
+    thumbnail: /materials/worksheets/<track>/kl<NN>/unit<NN>_<slug>.png
+  ```
+  Verified: 180 unit pages augmented, 180 exam wrappers skipped.
+- Hugo plumbing:
+  - `layouts/materials/list.html` — single template drives both
+    sub-listings (`material_kind: "presentation"` / `"worksheet"`
+    in the listing page's front matter selects which card variant
+    to render). Top-level `/materials/` falls through to a plain
+    content render.
+  - `layouts/_partials/page.html` overrides Coder's partial of the
+    same name, injecting `layouts/_partials/material-links.html`
+    (paired thumbnail-card block) above `.Content` when both
+    `presentation:` and `worksheet:` front-matter keys are present.
+  - Tag chips: `track-{e,gm}`, `klasse-NN`, `niveau-{e,m,g,…}` —
+    derived from existing front matter, **no invented topical tags**.
+  - Search: vanilla-JS title-substring filter + multi-select tag
+    filter. Pagefind was the prompt's recommended choice but its
+    CLI dependency would have added a non-trivial CI step for a
+    180-page index; the lighter approach is sufficient for now and
+    can be swapped in later without breaking the listing markup.
+- Generated artefact strategy: the 720 placeholder binaries
+  (180 PDFs + 180 PPTX + 360 PNGs) are **gitignored** and
+  regenerated in CI on every build. When real materials ship,
+  drop them at the same canonical paths and either relax the
+  ignore patterns file-by-file with `!` or remove them entirely.
+- CI workflow now installs `python-pptx` + `Pillow` alongside the
+  existing `reportlab` + `pypdf` + `pyyaml` deps and runs all three
+  placeholder generators before `hugo --minify`.
+- Build status: **440 pages, 731 static files, 430 aliases, zero
+  errors.**
+- VG Wort: still **399 of 399** pixels found in `public/`
+  (Materials hub pages do not get pixels — they're navigation, not
+  articles, per Phase 0 §8 decision 4).
+- Spot-checked: `<title>Presentations · EFL</title>` on the listing,
+  180 unique unit hrefs in the presentations grid, 180 in the
+  worksheets grid, and the `<aside class="material-links">` block
+  appears on every unit page.
+
+**Awaiting approval before Phase 4.**
