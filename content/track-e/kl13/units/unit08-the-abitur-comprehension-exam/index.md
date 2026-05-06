@@ -1,0 +1,71 @@
+---
+title: "Klausur (assessment) — Unit 8: The Abitur Comprehension Task"
+subtitle: "Track E · Klasse 13 · Niveau E · Abitur-prep"
+author: "S. Le Boulanger"
+niveau: "E"
+klassenstufe: 13
+track: "e"
+unit_nr: 8
+slug: "the-abitur-comprehension"
+aliases:
+  - /track_e_kl13/units/unit08_the-abitur-comprehension_exam.html
+---
+
+
+**Track E · Klasse 13 · Niveau E · Abitur-prep**
+
+{{< callout type="warning" title="Klausur (assessment) — Niveau E (Abitur-grade)" icon="false" >}}
+**This Unit's exam example follows the Abitur task pattern named
+in the Unit. Some Units focus on a single Abitur-task type
+(Comprehension / Analysis / Composition / Mediation /
+Kommunikationsprüfung); the full 90-BE Klausur is rehearsed in
+Klasse 12 Units 11-12 and continues in Klasse 13 Units 7-9.**\
+**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
+Leistungsfach (advanced course): 40/60.
+{{< /callout >}}
+
+### Comprehension
+
+**Comprehension prompt** (sample): *Read the 1,000-word source provided in class. Answer the following:*
+
+1. *In your own words, outline the writer's central claim about platform algorithms (5 BE).*
+2. *Explain the writer's distinction between *public opinion* and the *visible majority*. Refer to specific paragraphs (10 BE).*
+3. *Compare the writer's framing of platforms with Tim Wu's *attention merchants* genealogy as presented in the source. Identify both elements and the relation between them (9 BE).*
+
+### Analysis
+
+**Time budget.** Allocate the 60 minutes proportionally to 5 / 10 / 9 BE.
+
+### Composition / Mediation / Reflection
+
+**Reflection prompt:** *In 200 words, reflect on your Comprehension rehearsal. Which sub-question was hardest? What does this tell you about your weakest skill?*
+
+### Additional task
+
+**(No Composition / Mediation in this Unit.)**
+
+{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+**Comprehension.** Reward own-words paraphrase + named specifics + embedded fragments + structural match.
+**Analysis.** Suggested time: 12 / 25 / 23 (proportional to BE).
+**Composition.** Open.
+**Reflection.** Open.
+{{< /callout >}}
+
+{{< callout type="tip" title="grading scale (Notenschlüssel) — Abitur-grade Klausuren" collapse="true" >}}
+| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
+| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
+| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
+| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
+| 22–29 | 5  |  0–21 | 6   |       |    |
+
+(Single-section Klausuren in this year scale to the proportional
+BE-weight of the section in the full Klausur.)
+{{< /callout >}}
+
+<!-- VG Wort Zählmarke (slb) — public ID: 0f7596a6383a489f9f6daf721983d05b -->
+<img src="https://vg09.met.vgwort.de/na/0f7596a6383a489f9f6daf721983d05b"
+     width="1" height="1" alt=""
+     loading="eager"
+     fetchpriority="high"
+     decoding="async"
+     style="position:absolute;visibility:hidden;" />
