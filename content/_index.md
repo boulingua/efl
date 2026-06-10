@@ -39,7 +39,7 @@ and mittleres Niveau (G+M, leading to Hauptschul- and intermediate
 secondary certificate) and for the erweitertes Niveau heading toward
 Abitur (Basisfach and Leistungsfach). The materials are designed to
 be used as-is in class, adapted for differentiated groups, or remixed
-under CC-BY-SA 4.0.
+under CC-BY 4.0.
 
 ## The two tracks
 

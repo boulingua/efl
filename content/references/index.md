@@ -84,7 +84,7 @@ that revisions remain traceable.
   year         = {2026},
   howpublished = {\url{https://boulingua.github.io/efl/}},
   note         = {Open educational resource.
-                  Code: MIT; teaching content: CC-BY-SA 4.0}
+                  Code: MIT; teaching content: CC-BY 4.0}
 }
 ```
 

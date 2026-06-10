@@ -55,6 +55,6 @@ Grade 12 in the same week.
 ## Licence
 
 - Code and site scaffolding: **MIT**.
-- Teaching content (text, exercises, exams): **CC-BY-SA 4.0**.
+- Teaching content (text, exercises, exams): **CC-BY 4.0**.
 - See [Acknowledgements](/acknowledgements/) for sources and
   inspirations and [Impressum](/impressum/) for legal details.

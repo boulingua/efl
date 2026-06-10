@@ -58,6 +58,6 @@ something else": this site is what it is because of you.
 ## Licence
 
 - **Code and site scaffolding:** MIT.
-- **Teaching content** (texts, exercises, exams): CC-BY-SA 4.0.
+- **Teaching content** (texts, exercises, exams): CC-BY 4.0.
 - Quoted material in stimulus texts remains the property of its
   rightsholders and is cited at point of use.

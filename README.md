@@ -56,8 +56,8 @@ sequence and deploys the `docs/` output to GitHub Pages.
 
 ## Licence
 
-- Code and site scaffolding: **MIT** (see `LICENSE`).
-- Teaching content: **CC-BY-SA 4.0**.
+- Teaching content (prose): **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** (see `LICENSE`).
+- Code and site scaffolding: **[MIT](LICENSE-CODE.md)**.
 
 ## Citation
 
@@ -74,7 +74,7 @@ page for APA + BibTeX. Short form:
   year         = {2026},
   howpublished = {\url{https://boulingua.github.io/efl/}},
   note         = {Open educational resource.
-                  Code: MIT; teaching content: CC-BY-SA 4.0}
+                  Code: MIT; teaching content: CC-BY 4.0}
 }
 ```
 

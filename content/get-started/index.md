@@ -64,6 +64,6 @@ practice run before the actual school-leaving examination ("Abitur").
 
 ## Adapt for your school
 
-Materials are CC-BY-SA 4.0 — fork the repo, adapt the YAML curriculum
+Materials are CC-BY 4.0 — fork the repo, adapt the YAML curriculum
 outline, and re-render. The `_resources/` folder holds the structured
 Bildungsplan map; everything else flows from there.
