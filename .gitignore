@@ -46,3 +46,9 @@ node_modules/
 .RData
 
 **/*.quarto_ipynb
+*.tmp
+*.log
+*~
+*.bak
+*.orig
+dist/
