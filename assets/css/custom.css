@@ -56,6 +56,10 @@
   --network-rail-w:      280px;
   --network-graph-h:     60vh;
   --network-graph-h-min: 480px;
+
+  /* Signature accent (English) — flag-safe; drives links, borders, badges. */
+  --boulingua-accent:       #248D19;
+  --boulingua-accent-hover: #1A6612;
 }
 
 /* Dark-mode tokens.
@@ -86,6 +90,9 @@ html.colorscheme-dark,
 
   --network-highlight: #F0D060;
   --network-edge-structural: rgba(255, 255, 255, 0.30);
+
+  --boulingua-accent:       #89E77E;
+  --boulingua-accent-hover: #B0EFA9;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -707,5 +714,5 @@ body.colorscheme-dark .colorscheme-toggle .cs-icon--sun { display: inline-block;
 .audio-label { font-weight: 600; min-width: 7rem; }
 .audio-item audio { flex: 1 1 16rem; height: 2.3rem; }
 .audio-transcript { margin-top: 0.5rem; font-size: 0.9rem; }
-.audio-transcript summary { cursor: pointer; color: var(--boulingua-accent, #1a73e8); }
+.audio-transcript summary { cursor: pointer; color: var(--boulingua-accent, #248D19); }
 .audio-transcript p { margin: 0.5rem 0 0; line-height: 1.5; }

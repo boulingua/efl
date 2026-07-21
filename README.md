@@ -1,5 +1,7 @@
 # EFL
 
+<img src="brand/icon.png" alt="English icon" width="64" align="right">
+
 A two-track English curriculum for comprehensive school —
 **Track G+M (Grades 5–10)** for Hauptschul-/Realschulabschluss and
 **Track E (Grades 5–13)** through Abitur. Fifteen courses, twelve
@@ -84,6 +86,10 @@ Before going public, fill in the Impressum (`impressum.qmd`) and
 have the Datenschutzerklärung (`datenschutz.qmd`) reviewed by a
 Datenschutzbeauftragte or lawyer. See the `ACTION REQUIRED`
 callouts on those pages.
+
+## Signature colour & icon
+
+This project's signature accent is **`#248D19`** (light theme) / **`#89E77E`** (dark theme), paired with the **circle** mark (`brand/icon.svg`). The accent is *flag-safe* — the hue does not appear in the English flag — is distinct from every other boulingua language, and is kept clear of the boulingua hub blue. The whole colour system lives in the [boulingua hub](https://github.com/boulingua/website#per-language-accent-colours).
 
 ## Use of LLM tools
 
