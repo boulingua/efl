@@ -43,6 +43,9 @@ publishDir = "public"
   hideCredits = true
   since = 2025
   colorScheme = "auto"
+  # Disable the theme's floating colour-scheme toggle so the navbar
+  # #dark-mode-toggle button is the single, unique toggle element.
+  hideColorSchemeToggle = true
   customCSS = ["css/custom.css"]
   faviconSVG = ""
 
