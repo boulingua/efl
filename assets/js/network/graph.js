@@ -122,7 +122,10 @@ export class NetworkGraph {
       maxZoom: 4,
       layout: {
         name: "fcose",
-        quality: "default",
+        // 'draft' skips fcose's expensive incremental refinement passes,
+        // cutting the main-thread layout cost on load; the clustered result
+        // is more than legible enough for a discovery graph.
+        quality: "draft",
         // randomize:true is required when the graph has no pre-existing
         // positions — false collapses every node to (0,0) and the
         // layout pass stops, so the whole graph renders as one point /
