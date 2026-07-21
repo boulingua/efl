@@ -1,0 +1,12 @@
+[
+ {
+  "file": "/efl/materials/audio/unit11-clothes-and-colours/texte1.ogg",
+  "label": "Text 1",
+  "transcript": "\"Mia is wearing a yellow jumper, blue jeans, and white trainers. Theo is wearing a green T-shirt, black shorts, and brown sandals.\""
+ },
+ {
+  "file": "/efl/materials/audio/unit11-clothes-and-colours/texte2.ogg",
+  "label": "Text 2",
+  "transcript": "\"Today is a school trip day. We must wear comfortable shoes, a warm jumper, and a rain jacket. No skirts, no flip-flops.\""
+ }
+]

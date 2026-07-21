@@ -1,0 +1,12 @@
+[
+ {
+  "file": "/efl/materials/audio/unit09-body-and-health/texte1.ogg",
+  "label": "Text 1",
+  "transcript": "\"Sam doesn't feel well. He has got a sore throat and a slight fever. The doctor tells him to drink warm tea, take some medicine, and stay in bed for two days.\""
+ },
+ {
+  "file": "/efl/materials/audio/unit09-body-and-health/texte2.ogg",
+  "label": "Text 2",
+  "transcript": "\"Lina has a headache and feels dizzy. She thinks it is because she didn't sleep enough last night. Her mother tells her to lie down for an hour and drink some water.\""
+ }
+]

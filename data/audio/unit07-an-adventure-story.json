@@ -1,0 +1,12 @@
+[
+ {
+  "file": "/efl/materials/audio/unit07-an-adventure-story/texte1.ogg",
+  "label": "Text 1",
+  "transcript": "\"Sam was reading in the library when the lights suddenly went out. While he was waiting in the dark, he heard a quiet sound. Someone was opening the door very slowly.\""
+ },
+ {
+  "file": "/efl/materials/audio/unit07-an-adventure-story/texte2.ogg",
+  "label": "Text 2",
+  "transcript": "\"Lina found a small key in her grandmother's drawer. While she was studying it, the light caught the metal in a strange way. When she turned the key in her hand, she noticed letters carved on the side.\""
+ }
+]

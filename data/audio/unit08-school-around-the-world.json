@@ -1,0 +1,12 @@
+[
+ {
+  "file": "/efl/materials/audio/unit08-school-around-the-world/texte1.ogg",
+  "label": "Text 1",
+  "transcript": "\"In Tokyo, lessons start at 8:30. The day is longer than ours. Students clean their classrooms every day. The break is shorter, but lunch is served at school. The school year is also longer than ours.\""
+ },
+ {
+  "file": "/efl/materials/audio/unit08-school-around-the-world/texte2.ogg",
+  "label": "Text 2",
+  "transcript": "\"South African schools start their year in January. The summer holiday is in December. Many schools wear uniform. Lessons end earlier than in Germany, but afternoon clubs are common.\""
+ }
+]

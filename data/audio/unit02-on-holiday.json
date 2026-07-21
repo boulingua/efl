@@ -1,0 +1,12 @@
+[
+ {
+  "file": "/efl/materials/audio/unit02-on-holiday/texte1.ogg",
+  "label": "Text 1",
+  "transcript": "\"Last summer Lina went to Cornwall with her family. They stayed in a small hotel. The sea was cold but the sun was warm. They saw seals from the cliffs. They ate fish and chips on the beach.\""
+ },
+ {
+  "file": "/efl/materials/audio/unit02-on-holiday/texte2.ogg",
+  "label": "Text 2",
+  "transcript": "\"Sam stayed at home last summer. He cleaned his desk, read three books, and learned how to bake bread. He didn't go on a trip but he says it was the calmest summer of his life.\""
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "file": "/efl/materials/audio/unit08-hobbies-and-sports/texte1.ogg",
+  "label": "Text 1",
+  "transcript": "\"I can swim and I can ride a bike, but I can't play the guitar. My brother can play the guitar very well, but he can't swim.\""
+ },
+ {
+  "file": "/efl/materials/audio/unit08-hobbies-and-sports/texte2.ogg",
+  "label": "Text 2",
+  "transcript": "\"Mia loves reading and drawing. She can paint very well. She can't play any instrument. On Saturdays she goes cycling with her brother.\""
+ }
+]
