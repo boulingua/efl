@@ -65,10 +65,11 @@ Vorgang auf:
 Hosting der Website-Auslieferung erfolgt durch GitHub, Inc.
 (siehe Abschnitt 3 *Server-Log-Dateien*); damit ist eine
 Verarbeitung personenbezogener Daten in den USA möglich.
-Schriftarten werden über Google Fonts (siehe Abschnitt 5)
-ausgeliefert; auch hier ist eine Übermittlung in die USA möglich.
-Beide Übermittlungen erfolgen auf Grundlage des EU-US Data
+Diese Übermittlung erfolgt auf Grundlage des EU-US Data
 Privacy Framework bzw. der Standardvertragsklauseln.
+Schriftarten werden lokal von dieser Website ausgeliefert
+(siehe Abschnitt 5); dabei findet keine Übermittlung an Dritte
+statt.
 
 Eine darüber hinausgehende Übermittlung in Drittländer findet
 **nicht** statt. Die Reichweitenmessung mittels Plausible
@@ -254,25 +255,18 @@ Sicherheits- und Missbrauchszwecken.
 
 ## 5. Eingebettete Inhalte und Schriftarten
 
-### Google Fonts (CDN)
+### Schriftarten (lokal gehostet)
 
-Diese Website bindet die Schriften **Source Sans 3** und
-**JetBrains Mono** über die Google-Fonts-CDN
-(`fonts.googleapis.com`, `fonts.gstatic.com`) ein. Beim Aufruf
-der Seite überträgt Ihr Browser dabei Verbindungsdaten
-(insbesondere die IP-Adresse) an Google. Anbieter ist Google
-Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland;
-eine Übermittlung in die USA ist nicht ausgeschlossen.
+Diese Website verwendet die Schriften **Source Sans 3** und
+**JetBrains Mono**. Die Schriftdateien werden **lokal von dieser
+Website** ausgeliefert und nicht von einem externen Anbieter
+(etwa einer Google-Fonts-CDN) nachgeladen. Beim Aufruf der Seite
+werden daher **keine Verbindungsdaten (insbesondere keine
+IP-Adresse) an Google oder andere Dritte** übertragen.
 
 Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes
 Interesse an einer konsistenten, barrierearmen typografischen
-Darstellung unabhängig vom Endgerät). Wer das vermeiden möchte,
-kann über die Browser-Einstellungen Drittanbieter-Netzwerke
-blockieren; die Seite funktioniert dann mit System-Schriften
-weiter.
-
-Weitere Informationen:
-<https://policies.google.com/privacy>
+Darstellung unabhängig vom Endgerät).
 
 ### Externe Verlinkungen
 
