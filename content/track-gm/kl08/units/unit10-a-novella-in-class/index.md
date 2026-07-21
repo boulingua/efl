@@ -20,21 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl08/units/unit10_a-novella-in-class.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl08_unit10-a-novella-in-class.pptx"
+  file: "/efl/materials/presentations/track-gm_kl08_unit10-a-novella-in-class.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl08_unit10-a-novella-in-class.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl08_unit10-a-novella-in-class.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit10-a-novella-in-class.png"
-tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.2"
-  - "3.2.3.5"
-  - "3.2.3.8"
-  - "3.2.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

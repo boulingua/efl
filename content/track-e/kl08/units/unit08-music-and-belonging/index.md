@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl08/units/unit08_music-and-belonging.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl08_unit08-music-and-belonging.pptx"
+  file: "/efl/materials/presentations/track-e_kl08_unit08-music-and-belonging.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl08_unit08-music-and-belonging.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl08_unit08-music-and-belonging.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl08_unit08-music-and-belonging.png"
-tags:
-  - "listening"
-  - "speaking"
-  - "intercultural"
-  - "3.2.1"
-  - "3.2.2"
-  - "3.2.3.1"
-  - "3.2.3.3"
-topic: interkulturell
 ---
 
 {{< callout type="note" >}}

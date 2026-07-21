@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl05/units/unit08_hobbies-and-sports.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl05_unit08-hobbies-and-sports.pptx"
+  file: "/efl/materials/presentations/track-e_kl05_unit08-hobbies-and-sports.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl05_unit08-hobbies-and-sports.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit08-hobbies-and-sports.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit08-hobbies-and-sports.png"
-tags:
-  - "speaking"
-  - "listening"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.1"
-  - "3.1.3.3"
-  - "3.1.3.7"
-topic: themen
 ---
 
 {{< callout type="note" >}}

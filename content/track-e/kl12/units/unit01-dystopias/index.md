@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl12/units/unit01_dystopias.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl12_unit01-dystopias.pptx"
+  file: "/efl/materials/presentations/track-e_kl12_unit01-dystopias.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl12_unit01-dystopias.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl12_unit01-dystopias.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl12_unit01-dystopias.png"
-tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.4.1"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

@@ -20,21 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl06/units/unit08_school-around-the-world.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl06_unit08-school-around-the-world.pptx"
+  file: "/efl/materials/presentations/track-gm_kl06_unit08-school-around-the-world.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl06_unit08-school-around-the-world.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl06_unit08-school-around-the-world.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit08-school-around-the-world.png"
-tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.1.1"
-  - "3.1.2"
-  - "3.1.3.2"
-  - "3.1.3.5"
-  - "3.1.4"
-topic: interkulturell
 ---
 
 {{< callout type="note" >}}

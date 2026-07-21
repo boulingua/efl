@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl09/units/unit10_application-letter.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl09_unit10-application-letter.pptx"
+  file: "/efl/materials/presentations/track-e_kl09_unit10-application-letter.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl09_unit10-application-letter.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl09_unit10-application-letter.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl09_unit10-application-letter.png"
-tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.2"
-  - "3.2.3.5"
-  - "3.2.3.7"
-topic: themen
 ---
 
 {{< callout type="note" >}}

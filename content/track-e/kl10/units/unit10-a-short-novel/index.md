@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl10/units/unit10_a-short-novel.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl10_unit10-a-short-novel.pptx"
+  file: "/efl/materials/presentations/track-e_kl10_unit10-a-short-novel.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl10_unit10-a-short-novel.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl10_unit10-a-short-novel.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl10_unit10-a-short-novel.png"
-tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.3.1"
-  - "3.3.3.2"
-  - "3.3.3.5"
-  - "3.3.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

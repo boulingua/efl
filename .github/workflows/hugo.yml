@@ -52,31 +52,37 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install Python deps for placeholder generators + gates
-        run: pip install pyyaml reportlab pypdf python-pptx Pillow pypdfium2 certifi
+      - name: Install Python deps for material generation + gates
+        run: pip install pyyaml reportlab pypdf Pillow pypdfium2 pymupdf certifi
 
-      - name: Install LibreOffice (headless, for .pptx -> .pdf rendering)
-        # GitHub-hosted Ubuntu runners typically include LibreOffice;
-        # this guarantees it. -y flag, --no-install-recommends keeps
-        # the install lean (no Java GUI bits).
+      - name: Install TeX Live (XeLaTeX) for branded materials
+        # XeLaTeX + the packages the boulingua templates need (beamer,
+        # tcolorbox, tikz, changepage, enumitem, booktabs, fancyhdr, eso-pic,
+        # titlesec, hyperref, fontspec). Fonts are bundled in _materials/fonts,
+        # so no font packages are required.
         run: |
-          if ! command -v soffice >/dev/null; then
-            sudo apt-get update -qq
-            sudo apt-get install -y --no-install-recommends libreoffice-impress libreoffice-core
-          fi
-          soffice --version
+          sudo apt-get update -qq
+          sudo apt-get install -y --no-install-recommends \
+            texlive-xetex texlive-latex-extra texlive-latex-recommended \
+            texlive-pictures texlive-fonts-recommended
+          xelatex --version | head -1
 
       - name: Hugo Modules tidy + verify
         run: |
           hugo mod tidy
           hugo mod verify
 
-      - name: Generate per-unit Materials placeholders + frontmatter
-        # Single consolidated script (modelled on boulingua/fle):
-        # writes flat-named .pptx + .pdf under static/materials/ and
-        # rewrites presentation:/worksheet: front matter on each unit.
-        # --skip-existing default — manual replacements survive.
-        run: python _scripts/make_materials.py
+      - name: Materials — generate branded per-unit decks + worksheets
+        # From each unit's own content, in the boulingua design (English accent
+        # + pentagon mark + foot watermark): a slidegen deck + sheetgen
+        # worksheet, both open-format PDF. Templates + fonts live in _materials/;
+        # output goes under static/materials/ (git-ignored, built here).
+        run: python _scripts/build_materials_latex.py
+
+      - name: Populate Materials Network frontmatter (tags + topic)
+        # Idempotent. Safe to run on every build; ensures tags/topic
+        # never drift from the bildungsplan + skills_focus source of truth.
+        run: python _scripts/populate_network_frontmatter.py
 
       - name: Populate Materials Network frontmatter (tags + topic)
         # Idempotent. Safe to run on every build; ensures tags/topic

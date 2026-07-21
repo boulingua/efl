@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl13/units/unit08_the-abitur-comprehension.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl13_unit08-the-abitur-comprehension.pptx"
+  file: "/efl/materials/presentations/track-e_kl13_unit08-the-abitur-comprehension.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl13_unit08-the-abitur-comprehension.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl13_unit08-the-abitur-comprehension.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl13_unit08-the-abitur-comprehension.png"
-tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

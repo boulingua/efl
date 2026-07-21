@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl09/units/unit07_mediation-news-article.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl09_unit07-mediation-news-article.pptx"
+  file: "/efl/materials/presentations/track-e_kl09_unit07-mediation-news-article.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl09_unit07-mediation-news-article.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl09_unit07-mediation-news-article.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl09_unit07-mediation-news-article.png"
-tags:
-  - "mediation"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.5"
-  - "3.2.3.6"
-  - "3.2.3.7"
-topic: themen
 ---
 
 {{< callout type="note" >}}

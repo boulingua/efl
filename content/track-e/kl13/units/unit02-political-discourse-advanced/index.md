@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl13/units/unit02_political-discourse-advanced.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl13_unit02-political-discourse-advanced.pptx"
+  file: "/efl/materials/presentations/track-e_kl13_unit02-political-discourse-advanced.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl13_unit02-political-discourse-advanced.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl13_unit02-political-discourse-advanced.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl13_unit02-political-discourse-advanced.png"
-tags:
-  - "reading"
-  - "listening"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.1"
-  - "3.4.3.2"
-  - "3.4.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

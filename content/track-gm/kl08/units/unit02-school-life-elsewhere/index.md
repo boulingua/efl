@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl08/units/unit02_school-life-elsewhere.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl08_unit02-school-life-elsewhere.pptx"
+  file: "/efl/materials/presentations/track-gm_kl08_unit02-school-life-elsewhere.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl08_unit02-school-life-elsewhere.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl08_unit02-school-life-elsewhere.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit02-school-life-elsewhere.png"
-tags:
-  - "reading"
-  - "speaking"
-  - "intercultural"
-  - "3.2.1"
-  - "3.2.2"
-  - "3.2.3.2"
-  - "3.2.3.3"
-topic: interkulturell
 ---
 
 {{< callout type="note" >}}

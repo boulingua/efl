@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl06/units/unit03_in-the-city.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl06_unit03-in-the-city.pptx"
+  file: "/efl/materials/presentations/track-gm_kl06_unit03-in-the-city.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl06_unit03-in-the-city.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl06_unit03-in-the-city.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit03-in-the-city.png"
-tags:
-  - "reading"
-  - "speaking"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.2"
-  - "3.1.3.3"
-  - "3.1.3.7"
-topic: themen
 ---
 
 {{< callout type="note" >}}

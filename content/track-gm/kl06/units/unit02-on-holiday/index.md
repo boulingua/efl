@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl06/units/unit02_on-holiday.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl06_unit02-on-holiday.pptx"
+  file: "/efl/materials/presentations/track-gm_kl06_unit02-on-holiday.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl06_unit02-on-holiday.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl06_unit02-on-holiday.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit02-on-holiday.png"
-tags:
-  - "listening"
-  - "speaking"
-  - "intercultural"
-  - "3.1.1"
-  - "3.1.2"
-  - "3.1.3.1"
-  - "3.1.3.3"
-topic: interkulturell
 ---
 
 {{< callout type="note" >}}

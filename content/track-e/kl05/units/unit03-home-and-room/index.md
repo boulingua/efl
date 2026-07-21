@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl05/units/unit03_home-and-room.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl05_unit03-home-and-room.pptx"
+  file: "/efl/materials/presentations/track-e_kl05_unit03-home-and-room.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl05_unit03-home-and-room.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit03-home-and-room.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit03-home-and-room.png"
-tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.2"
-  - "3.1.3.5"
-  - "3.1.3.7"
-topic: themen
 ---
 
 {{< callout type="note" >}}

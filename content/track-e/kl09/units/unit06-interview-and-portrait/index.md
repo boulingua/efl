@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl09/units/unit06_interview-and-portrait.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl09_unit06-interview-and-portrait.pptx"
+  file: "/efl/materials/presentations/track-e_kl09_unit06-interview-and-portrait.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl09_unit06-interview-and-portrait.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl09_unit06-interview-and-portrait.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl09_unit06-interview-and-portrait.png"
-tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.3"
-  - "3.2.3.5"
-  - "3.2.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

@@ -20,21 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl10/units/unit06_contemporary-short-fiction.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl10_unit06-contemporary-short-fiction.pptx"
+  file: "/efl/materials/presentations/track-e_kl10_unit06-contemporary-short-fiction.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl10_unit06-contemporary-short-fiction.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl10_unit06-contemporary-short-fiction.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl10_unit06-contemporary-short-fiction.png"
-tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.3.1"
-  - "3.3.3.2"
-  - "3.3.3.5"
-  - "3.3.3.8"
-  - "3.3.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl05/units/unit12_review-and-show.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl05_unit12-review-and-show.pptx"
+  file: "/efl/materials/presentations/track-gm_kl05_unit12-review-and-show.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl05_unit12-review-and-show.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl05_unit12-review-and-show.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit12-review-and-show.png"
-tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.4"
-  - "3.1.3.5"
-  - "3.1.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

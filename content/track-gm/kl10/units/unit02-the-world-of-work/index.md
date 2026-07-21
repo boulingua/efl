@@ -20,21 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl10/units/unit02_the-world-of-work.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl10_unit02-the-world-of-work.pptx"
+  file: "/efl/materials/presentations/track-gm_kl10_unit02-the-world-of-work.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl10_unit02-the-world-of-work.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl10_unit02-the-world-of-work.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit02-the-world-of-work.png"
-tags:
-  - "reading"
-  - "speaking"
-  - "intercultural"
-  - "3.3.1"
-  - "3.3.2"
-  - "3.3.3.2"
-  - "3.3.3.3"
-  - "3.3.3.7"
-topic: interkulturell
 ---
 
 {{< callout type="note" >}}

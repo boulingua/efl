@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl08/units/unit12_school-magazine-issue.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl08_unit12-school-magazine-issue.pptx"
+  file: "/efl/materials/presentations/track-gm_kl08_unit12-school-magazine-issue.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl08_unit12-school-magazine-issue.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl08_unit12-school-magazine-issue.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit12-school-magazine-issue.png"
-tags:
-  - "writing"
-  - "speaking"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.4"
-  - "3.2.3.5"
-  - "3.2.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl05/units/unit02_my-family.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl05_unit02-my-family.pptx"
+  file: "/efl/materials/presentations/track-e_kl05_unit02-my-family.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl05_unit02-my-family.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit02-my-family.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit02-my-family.png"
-tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.5"
-  - "3.1.3.7"
-  - "3.1.3.8"
-topic: themen
 ---
 
 {{< callout type="note" >}}

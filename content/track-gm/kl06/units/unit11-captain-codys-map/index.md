@@ -20,21 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl06/units/unit11_captain-codys-map.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl06_unit11-captain-codys-map.pptx"
+  file: "/efl/materials/presentations/track-gm_kl06_unit11-captain-codys-map.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl06_unit11-captain-codys-map.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl06_unit11-captain-codys-map.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit11-captain-codys-map.png"
-tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.2"
-  - "3.1.3.5"
-  - "3.1.3.8"
-  - "3.1.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

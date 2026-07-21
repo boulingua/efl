@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl05/units/unit07_weather-and-seasons.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl05_unit07-weather-and-seasons.pptx"
+  file: "/efl/materials/presentations/track-e_kl05_unit07-weather-and-seasons.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl05_unit07-weather-and-seasons.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit07-weather-and-seasons.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit07-weather-and-seasons.png"
-tags:
-  - "listening"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.1"
-  - "3.1.3.5"
-  - "3.1.3.7"
-topic: themen
 ---
 
 {{< callout type="note" >}}

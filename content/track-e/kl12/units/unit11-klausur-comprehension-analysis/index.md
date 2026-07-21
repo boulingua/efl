@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl12/units/unit11_klausur-comprehension-analysis.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl12_unit11-klausur-comprehension-analysis.pptx"
+  file: "/efl/materials/presentations/track-e_kl12_unit11-klausur-comprehension-analysis.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl12_unit11-klausur-comprehension-analysis.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl12_unit11-klausur-comprehension-analysis.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl12_unit11-klausur-comprehension-analysis.png"
-tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

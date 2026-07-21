@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl10/units/unit10_project-and-presentation.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl10_unit10-project-and-presentation.pptx"
+  file: "/efl/materials/presentations/track-gm_kl10_unit10-project-and-presentation.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl10_unit10-project-and-presentation.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl10_unit10-project-and-presentation.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit10-project-and-presentation.png"
-tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.3.1"
-  - "3.3.3.4"
-  - "3.3.3.5"
-  - "3.3.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

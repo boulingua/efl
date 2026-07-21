@@ -20,21 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl08/units/unit06_opinion-writing.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl08_unit06-opinion-writing.pptx"
+  file: "/efl/materials/presentations/track-gm_kl08_unit06-opinion-writing.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl08_unit06-opinion-writing.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl08_unit06-opinion-writing.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit06-opinion-writing.png"
-tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.2"
-  - "3.2.3.5"
-  - "3.2.3.8"
-  - "3.2.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

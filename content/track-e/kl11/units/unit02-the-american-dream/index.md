@@ -20,21 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl11/units/unit02_the-american-dream.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl11_unit02-the-american-dream.pptx"
+  file: "/efl/materials/presentations/track-e_kl11_unit02-the-american-dream.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl11_unit02-the-american-dream.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl11_unit02-the-american-dream.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl11_unit02-the-american-dream.png"
-tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.4.1"
-  - "3.4.2"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
-topic: interkulturell
 ---
 
 {{< callout type="note" >}}

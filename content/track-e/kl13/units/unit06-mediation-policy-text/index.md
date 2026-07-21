@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl13/units/unit06_mediation-policy-text.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl13_unit06-mediation-policy-text.pptx"
+  file: "/efl/materials/presentations/track-e_kl13_unit06-mediation-policy-text.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl13_unit06-mediation-policy-text.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl13_unit06-mediation-policy-text.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl13_unit06-mediation-policy-text.png"
-tags:
-  - "mediation"
-  - "writing"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.5"
-  - "3.4.3.6"
-  - "3.4.3.7"
-topic: themen
 ---
 
 {{< callout type="note" >}}

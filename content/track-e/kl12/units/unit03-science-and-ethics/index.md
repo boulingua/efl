@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl12/units/unit03_science-and-ethics.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl12_unit03-science-and-ethics.pptx"
+  file: "/efl/materials/presentations/track-e_kl12_unit03-science-and-ethics.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl12_unit03-science-and-ethics.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl12_unit03-science-and-ethics.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl12_unit03-science-and-ethics.png"
-tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

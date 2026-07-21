@@ -21,22 +21,11 @@ skills_focus:
 aliases:
   - /track_e_kl07/units/unit06_food-cultures.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl07_unit06-food-cultures.pptx"
+  file: "/efl/materials/presentations/track-e_kl07_unit06-food-cultures.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl07_unit06-food-cultures.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl07_unit06-food-cultures.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl07_unit06-food-cultures.png"
-tags:
-  - "reading"
-  - "speaking"
-  - "intercultural"
-  - "3.2.1"
-  - "3.2.2"
-  - "3.2.3.2"
-  - "3.2.3.3"
-  - "3.2.3.7"
-  - "3.2.4"
-topic: interkulturell
 ---
 
 {{< callout type="note" >}}

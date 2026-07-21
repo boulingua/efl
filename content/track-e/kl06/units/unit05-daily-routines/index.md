@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl06/units/unit05_daily-routines.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl06_unit05-daily-routines.pptx"
+  file: "/efl/materials/presentations/track-e_kl06_unit05-daily-routines.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl06_unit05-daily-routines.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl06_unit05-daily-routines.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl06_unit05-daily-routines.png"
-tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.3"
-  - "3.1.3.5"
-  - "3.1.3.8"
-topic: themen
 ---
 
 {{< callout type="note" >}}

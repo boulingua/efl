@@ -20,21 +20,11 @@ skills_focus:
 aliases:
   - /track_gm_kl08/units/unit09_rural-and-urban.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl08_unit09-rural-and-urban.pptx"
+  file: "/efl/materials/presentations/track-gm_kl08_unit09-rural-and-urban.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl08_unit09-rural-and-urban.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl08_unit09-rural-and-urban.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit09-rural-and-urban.png"
-tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.2.1"
-  - "3.2.2"
-  - "3.2.3.2"
-  - "3.2.3.5"
-  - "3.2.4"
-topic: interkulturell
 ---
 
 {{< callout type="note" >}}

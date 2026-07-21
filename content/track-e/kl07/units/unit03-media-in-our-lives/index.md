@@ -21,22 +21,11 @@ skills_focus:
 aliases:
   - /track_e_kl07/units/unit03_media-in-our-lives.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl07_unit03-media-in-our-lives.pptx"
+  file: "/efl/materials/presentations/track-e_kl07_unit03-media-in-our-lives.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl07_unit03-media-in-our-lives.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl07_unit03-media-in-our-lives.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl07_unit03-media-in-our-lives.png"
-tags:
-  - "listening"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.1"
-  - "3.2.3.5"
-  - "3.2.3.7"
-  - "3.2.3.8"
-  - "3.2.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

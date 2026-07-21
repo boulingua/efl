@@ -20,21 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl07/units/unit12_year-review-and-podcast.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl07_unit12-year-review-and-podcast.pptx"
+  file: "/efl/materials/presentations/track-e_kl07_unit12-year-review-and-podcast.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl07_unit12-year-review-and-podcast.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl07_unit12-year-review-and-podcast.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl07_unit12-year-review-and-podcast.png"
-tags:
-  - "speaking"
-  - "listening"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.3"
-  - "3.2.3.4"
-  - "3.2.3.5"
-  - "3.2.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

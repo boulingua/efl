@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl11/units/unit10_a-classic-text-lf.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl11_unit10-a-classic-text-lf.pptx"
+  file: "/efl/materials/presentations/track-e_kl11_unit10-a-classic-text-lf.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl11_unit10-a-classic-text-lf.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl11_unit10-a-classic-text-lf.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl11_unit10-a-classic-text-lf.png"
-tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

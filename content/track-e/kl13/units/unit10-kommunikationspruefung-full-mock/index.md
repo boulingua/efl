@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl13/units/unit10_kommunikationspruefung-full-mock.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl13_unit10-kommunikationspruefung-full-mock.pptx"
+  file: "/efl/materials/presentations/track-e_kl13_unit10-kommunikationspruefung-full-mock.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl13_unit10-kommunikationspruefung-full-mock.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl13_unit10-kommunikationspruefung-full-mock.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl13_unit10-kommunikationspruefung-full-mock.png"
-tags:
-  - "speaking"
-  - "listening"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.1"
-  - "3.4.3.3"
-  - "3.4.3.4"
-topic: themen
 ---
 
 {{< callout type="note" >}}

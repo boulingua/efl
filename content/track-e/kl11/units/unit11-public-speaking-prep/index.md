@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl11/units/unit11_public-speaking-prep.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl11_unit11-public-speaking-prep.pptx"
+  file: "/efl/materials/presentations/track-e_kl11_unit11-public-speaking-prep.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl11_unit11-public-speaking-prep.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl11_unit11-public-speaking-prep.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl11_unit11-public-speaking-prep.png"
-tags:
-  - "speaking"
-  - "listening"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.1"
-  - "3.4.3.3"
-  - "3.4.3.4"
-topic: themen
 ---
 
 {{< callout type="note" >}}

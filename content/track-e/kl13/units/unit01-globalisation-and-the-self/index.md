@@ -20,21 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl13/units/unit01_globalisation-and-the-self.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl13_unit01-globalisation-and-the-self.pptx"
+  file: "/efl/materials/presentations/track-e_kl13_unit01-globalisation-and-the-self.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl13_unit01-globalisation-and-the-self.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl13_unit01-globalisation-and-the-self.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl13_unit01-globalisation-and-the-self.png"
-tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.4.1"
-  - "3.4.2"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
-topic: interkulturell
 ---
 
 {{< callout type="note" >}}

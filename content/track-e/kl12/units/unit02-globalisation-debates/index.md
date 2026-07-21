@@ -20,21 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl12/units/unit02_globalisation-debates.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl12_unit02-globalisation-debates.pptx"
+  file: "/efl/materials/presentations/track-e_kl12_unit02-globalisation-debates.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl12_unit02-globalisation-debates.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl12_unit02-globalisation-debates.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl12_unit02-globalisation-debates.png"
-tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.4.1"
-  - "3.4.2"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
-topic: interkulturell
 ---
 
 {{< callout type="note" >}}

@@ -21,22 +21,11 @@ skills_focus:
 aliases:
   - /track_gm_kl07/units/unit09_school-rules-and-rights.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl07_unit09-school-rules-and-rights.pptx"
+  file: "/efl/materials/presentations/track-gm_kl07_unit09-school-rules-and-rights.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl07_unit09-school-rules-and-rights.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl07_unit09-school-rules-and-rights.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit09-school-rules-and-rights.png"
-tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.2"
-  - "3.2.3.2"
-  - "3.2.3.5"
-  - "3.2.3.8"
-  - "3.2.4"
-topic: interkulturell
 ---
 
 {{< callout type="note" >}}

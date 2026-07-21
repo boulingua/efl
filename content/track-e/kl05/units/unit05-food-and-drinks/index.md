@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_e_kl05/units/unit05_food-and-drinks.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl05_unit05-food-and-drinks.pptx"
+  file: "/efl/materials/presentations/track-e_kl05_unit05-food-and-drinks.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl05_unit05-food-and-drinks.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit05-food-and-drinks.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit05-food-and-drinks.png"
-tags:
-  - "reading"
-  - "speaking"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.2"
-  - "3.1.3.3"
-  - "3.1.3.7"
-topic: themen
 ---
 
 {{< callout type="note" >}}

@@ -20,21 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl10/units/unit05_media-and-democracy.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl10_unit05-media-and-democracy.pptx"
+  file: "/efl/materials/presentations/track-e_kl10_unit05-media-and-democracy.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl10_unit05-media-and-democracy.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl10_unit05-media-and-democracy.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl10_unit05-media-and-democracy.png"
-tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.3.1"
-  - "3.3.3.2"
-  - "3.3.3.5"
-  - "3.3.3.7"
-  - "3.3.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}

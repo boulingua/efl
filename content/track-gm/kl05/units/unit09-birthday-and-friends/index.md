@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl05/units/unit09_birthday-and-friends.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl05_unit09-birthday-and-friends.pptx"
+  file: "/efl/materials/presentations/track-gm_kl05_unit09-birthday-and-friends.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl05_unit09-birthday-and-friends.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl05_unit09-birthday-and-friends.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit09-birthday-and-friends.png"
-tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.3"
-  - "3.1.3.5"
-  - "3.1.3.8"
-topic: themen
 ---
 
 {{< callout type="note" >}}

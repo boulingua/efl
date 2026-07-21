@@ -19,20 +19,11 @@ skills_focus:
 aliases:
   - /track_gm_kl06/units/unit09_body-and-health.html
 presentation:
-  file: "/efl/materials/presentations/track-gm_kl06_unit09-body-and-health.pptx"
+  file: "/efl/materials/presentations/track-gm_kl06_unit09-body-and-health.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl06_unit09-body-and-health.png"
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl06_unit09-body-and-health.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit09-body-and-health.png"
-tags:
-  - "listening"
-  - "speaking"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.1"
-  - "3.1.3.3"
-  - "3.1.3.7"
-topic: themen
 ---
 
 {{< callout type="note" >}}

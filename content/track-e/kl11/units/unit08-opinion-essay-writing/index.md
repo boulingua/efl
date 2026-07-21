@@ -20,21 +20,11 @@ skills_focus:
 aliases:
   - /track_e_kl11/units/unit08_opinion-essay-writing.html
 presentation:
-  file: "/efl/materials/presentations/track-e_kl11_unit08-opinion-essay-writing.pptx"
+  file: "/efl/materials/presentations/track-e_kl11_unit08-opinion-essay-writing.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl11_unit08-opinion-essay-writing.png"
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl11_unit08-opinion-essay-writing.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl11_unit08-opinion-essay-writing.png"
-tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.3.8"
-  - "3.4.4"
-topic: text-medien
 ---
 
 {{< callout type="note" >}}
