@@ -175,6 +175,7 @@ jobs:
             --max-concurrency 8
             --timeout 20
             --accept 200,204,206,301,302,308,403
+            --exclude '^https?://([a-z0-9-]+\.)*vgwort\.de'
             --exclude-path public/HANDOVER.html
             --exclude-path public/LEGAL.html
             'public/**/*.html'

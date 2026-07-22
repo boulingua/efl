@@ -2806,3 +2806,22 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_gm_kl10/units/unit12_year-review-graduation_exam.qmd
+# --- editorial prose pages registered 2026-07-22 ---
+- url: /about/
+  public_id: 1bfa32f4f472497c9d00e33805d27b97
+  pixel_url: https://vg09.met.vgwort.de/na/1bfa32f4f472497c9d00e33805d27b97
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: '2026-07-22'
+- url: /about/courses/
+  public_id: 1c1dd2ace2e54ab6aee391722b8897d1
+  pixel_url: https://vg09.met.vgwort.de/na/1c1dd2ace2e54ab6aee391722b8897d1
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: '2026-07-22'
+- url: /acknowledgements/
+  public_id: 1c2ab335257c4ac49fa98b46e8412b8f
+  pixel_url: https://vg09.met.vgwort.de/na/1c2ab335257c4ac49fa98b46e8412b8f
+  min_chars: 1800
+  author: S. Le Boulanger
+  registered_at: '2026-07-22'
