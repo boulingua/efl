@@ -176,11 +176,21 @@ BE-weight of the section in the full Klausur.)
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis. Some Klasse 13
-Units (e.g. Unit 9 Analysis) explicitly differentiate by
-candidate path.
+**Differentiation — support (below Niveau E).**
+
+Build your essay from these sentence starters (finish each in your own words, then link them):
+
+- The key distinction I want to explore is between public opinion and the visible majority, because ______.
+- What actually shapes the visible majority is not real preference but ______.
+- This matters politically because ______.
+- One objection is that ______; however, ______.
+
+Useful phrase bank: *it is important to note that*, *this suggests that*, *by contrast*, *as a result*, *ranking signals decide what we see*, *engagement is not the same as agreement*.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a comparative critical piece (roughly 550 words) that tests Tufekci's public-opinion / visible-majority distinction against a second explanatory frame of your choice — for example Wu's attention-merchant genealogy, or a public-sphere model such as Habermas's — and argue which frame better predicts how a regulator should measure platform influence. Sustain a two-sided argument, concede the strongest counter-position honestly, and close on a falsifiable claim about what evidence would settle the disagreement.
+
 </div>
 
 ## Common pitfalls

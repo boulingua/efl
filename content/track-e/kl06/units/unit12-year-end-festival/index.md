@@ -164,8 +164,21 @@ Write 100 words: your festival stall, one Klasse-6 achievement, and what you wil
 **Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a support
-card. Above Niveau E: extension question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete this stall pitch, then read it to a partner:
+
+- Welcome to the ___ stall!
+- Today we are going to ___ .
+- It is ___ than last year.
+- Would you like to ___ ?
+
+Useful words: *raffle, banner, volunteers, queue, homemade, tastier, cheaper, join in.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Take on the role of the festival's MC and script a 60-second opening address that welcomes the crowd, previews three stalls without simply listing them, and persuades visitors why this year's festival is more memorable than a typical school event. Weave in at least one rhetorical question and one deliberate contrast between "then" and "now," and be ready to justify each persuasive choice you made.
+
 </div>
 
 ## Common pitfalls

@@ -170,9 +170,19 @@ Write 120 words: an opinion paragraph on a school topic. Use the four-move struc
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete each move with your own idea, then join the four sentences into one paragraph:
+
+- **Claim:** In my view, our school should ______ .
+- **Reason:** Firstly, this would help because ______ .
+- **Counter:** On the other hand, some people say that ______ .
+- **Conclusion:** In conclusion, I still think ______ , because ______ .
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write two opinion paragraphs on the same school question — one that argues *for* and one that argues *against* — using the four-move structure in each, then add a short third paragraph explaining which of your own arguments you find stronger and why. Push your language further by using a concession signpost such as *admittedly* or *even so*, and end by weighing how a reader's own situation might change which side they find more convincing.
+
 </div>
 
 ## Common pitfalls

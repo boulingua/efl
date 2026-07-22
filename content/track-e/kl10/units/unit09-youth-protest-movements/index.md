@@ -168,9 +168,19 @@ Write 220 words: a comparison of two youth movements with one cleft + 2 hedges.
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
-into Oberstufe: extension prompt linking to Klasse 11
-(Basisfach / Leistungsfach choice).
+**Differentiation — support (below Niveau E).**
+
+Use these frames to build your 60-second opening (fill the gaps):
+
+- Opening (cleft): *What makes a youth movement effective is, above all, its ______.*
+- Hedge: *It seems to me that ______ matters more than ______.*
+- Example: *For instance, the ______ movement used ______ to win public attention.*
+- Follow-up to another speaker: *You mentioned ______ — but would that still work without ______?*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Argue against the unit's neat conclusion that "legibility wins attention, while specificity wins the policy." Deliver a two-minute rebuttal proposing that this framing rewards movements that are easy for the powerful to co-opt, and defend an alternative measure of effectiveness — such as lasting institutional change or shifts in public values — with one historical and one contemporary example. Your register should model the kind of analytical hedging and concession expected in an Oberstufe Leistungsfach essay.
+
 </div>
 
 ## Common pitfalls

@@ -181,9 +181,19 @@ Write 300 words: a stylistic-analysis essay on the *Hour Before* extract. Use 3 
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Use these openers to start each part of your 300-word essay. Fill the gaps and add one sentence of your own after each.
+
+- *The first stylistic move I notice is ___ , which the author uses to ___ .*
+- *This effect works because ___ ; for example, the object ___ is given a relative clause: "the ___, whose ___ ."*
+- *A second move is the narrator's ___ , where the voice both ___ and ___ .*
+- *Overall, the extract keeps the bigger event ___ , so that the reader has to ___ .*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 250-word comparative commentary setting *The Hour Before* against one other minimalist or "off-stage" storyteller you know (for example, Hemingway's iceberg technique or Raymond Carver's late style): argue which writer makes absence do more analytical work, and defend your judgement with precise reference to narrator distance and sentence rhythm rather than plot. Then add a two-sentence counter-argument against your own thesis, so that your reader sees the strongest objection before you close.
+
 </div>
 
 ## Common pitfalls

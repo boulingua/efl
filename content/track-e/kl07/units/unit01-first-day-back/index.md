@@ -371,9 +371,21 @@ weighting (Niveau M).
 - *Produce (10 min).* Writing time is silent. Collect.
 - *Reflect (2 min).* Self-tick on the three Can-do statements.
 
-**Differentiation.** For Niveau G: provide a printed verb list
-(go/went, see/saw, make/made). For learners above Niveau M: ask
-them to use *while* or *because* at least once in their writing.
+**Differentiation — support (below Niveau E).**
+
+Complete these four lines to build your text, then join them with *and*, *then*, or *after that*:
+
+- One day last summer, I went to __________ .
+- I was there with __________ .
+- We __________ (ate / made / saw / played) __________ .
+- I felt __________ because __________ .
+
+Useful past-simple verbs: *went, saw, made, ate, played, took, ran, found*.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write your summer day twice from the *same* facts: once as a cheerful postcard sent that week, and once as a reflective diary entry written a year later. Then add two or three sentences analysing how the change of form and the distance in time reshape the reader's impression of exactly the same events. Aim for varied connectives (*while*, *although*, *by then*) and at least one shift between past simple and past perfect.
+
 </div>
 
 ## Common pitfalls

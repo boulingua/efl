@@ -174,9 +174,19 @@ Write 200 words: a position paragraph on a digital-life topic. Use 4 subordinato
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
-into Oberstufe: extension prompt linking to Klasse 11
-(Basisfach / Leistungsfach choice).
+**Differentiation — support (below Niveau E).**
+
+Complete each starter to build your 200-word position paragraph. Each line gives you one required subordinator:
+
+- **Concession:** *Although I agree that the digital and the offline often overlap, I still think ___ .*
+- **Contrast:** *Whereas my friends live mostly online, ___ .*
+- **Addition:** *Moreover, the word "redundant" ignores that ___ .*
+- **Causal:** *Given that ___ , the more honest question is who this is true for and when.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rewrite your position as a 250-word critical response addressed to the author, arguing that the single word "redundant" does rhetorical work the evidence cannot support: show how it quietly turns an uneven, class- and age-specific pattern into a universal claim. Then compare the article's "seamless weave" picture with the more sceptical stance of a writer such as Cal Newport, and judge which framing better survives a counter-example of your own invention.
+
 </div>
 
 ## Common pitfalls

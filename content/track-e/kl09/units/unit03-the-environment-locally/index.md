@@ -170,8 +170,21 @@ Write 120 words: a proposal to the council on a local environment issue. Use 3 f
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card with the key
-structure. Above Niveau E: extension prompt linking to Klasse 10.
+**Differentiation — support (below Niveau E).**
+
+Complete this proposal frame. Fill each gap and keep the *if*-clause in the present simple:
+
+- Dear Local Council, our class has noticed ___ near our school.
+- If you ___, the problem will ___.
+- We would suggest that you ___, and we would also ask that ___.
+- If we count again in six months, we will ___.
+
+Useful phrases: *a fixable problem, add a bin, clear the drain, the litter will decrease, the air will be cleaner, we would recommend, we would ask that.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rewrite your proposal as a persuasive 180-word letter that anticipates the council's likely objection (cost, staffing, or "no budget this year") and dismantles it: concede one point, then argue that a small, measurable trial now prevents a larger expense later. Weave in at least one second conditional (*If the council invested more, fewer bins would overflow*) to contrast a realistic first step with an ideal outcome, and close by proposing a concrete way to evaluate whether the change actually worked.
+
 </div>
 
 ## Common pitfalls

@@ -174,9 +174,19 @@ Write 280 words: a poetic-analysis essay on a poem of your choice. Use 6 terms +
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Complete these sentence frames to draft your analysis, then join them into a paragraph:
+
+- *This poem has ___ lines in ___ stanzas, so its form is closest to a ___.*
+- *The persona — who is not the poet — sounds ___ , and I hear this in the line "___".*
+- *One figurative move I notice is ___ (e.g. a half-rhyme / an image / an enjambment); it makes the reader ___.*
+- *The most important moment is ___ , because ___.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Choose a second poem whose "turn" — its pronoun shift, its final image, or its closing rhyme — works very differently from the anthology poem, and write a 350-word comparative argument judging which poet makes the reader's final leap the more convincingly earned. Ground every claim in line-breaks, rhythm, and syntax rather than paraphrase, and close with a short reflective coda on whether restraint or open statement is the greater risk in contemporary lyric.
+
 </div>
 
 ## Common pitfalls

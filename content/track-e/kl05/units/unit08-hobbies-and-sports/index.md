@@ -174,9 +174,17 @@ Write 5–6 sentences about your hobbies. Use *can/can't* twice and *be good at 
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit's grammar.
+**Differentiation — support (below Niveau E).**
+
+- Ask: *Can you ___?* / *Are you good at ___?* (chess, baking, swimming, drawing)
+- Say yes: *Yes, I can! / Yes, I am.* → *Sign here, please.*
+- Say no: *No, sorry, I can't. / No, I'm not.*
+- Handy words: play chess, ride a bike, bake a cake, swim 50 metres, good at singing, good at running
+
+**Extension (above Niveau E / Oberstufe).**
+
+After collecting your signatures, turn your class into data: report in full sentences which ability was the most common and which was the rarest (*Most classmates can ..., but almost nobody is good at ...*). Then argue in three or four sentences whether team sports or solo hobbies bring people together more, giving at least one clear reason for your view.
+
 </div>
 
 ## Common pitfalls

@@ -176,8 +176,21 @@ Write 6 sentences about today's mood. Use 3 feelings, *because*, *so*, and *alth
 **Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a support
-card. Above Niveau E: extension question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Use these starters for *Today's Mood*:
+
+- Today I feel __________ and a little __________.
+- I feel __________ because __________.
+- I was tired, so __________.
+- Although __________, I am still __________.
+
+Feelings you can use: *proud, nervous, calm, grateful, jealous, frustrated, content, overwhelmed.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Interview two people of different ages (for example a classmate and an adult) about how they *show* a strong feeling such as anger or pride without ever naming it. Then write a short paragraph comparing the two: describe what body language, tone of voice, or word choice gave each feeling away, and argue why one and the same emotion can look completely different from one person to another.
+
 </div>
 
 ## Common pitfalls

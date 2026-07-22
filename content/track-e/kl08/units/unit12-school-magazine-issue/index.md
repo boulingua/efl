@@ -171,9 +171,19 @@ Write a 150-word class-magazine article on a topic of your choice. Use 4 grammar
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Fill in the frames to draft your 150-word article, then swap for editing:
+
+- **Lead:** From Monday, our school has __________, and many students have already __________.
+- **Fact + detail:** Every day, around __________ people __________ in the __________.
+- **Quote:** "__________," said one Klasse-8 student.
+- **Close:** If you __________, the next weeks are the time to __________.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 200-word "editor's note" that compares how a serious news outlet and a light-hearted student blog would each report the very same canteen change, analysing how tone, word choice and quote selection shape the reader's opinion. Conclude by arguing which register better serves a class-magazine audience, and justify your position with two precise reasons.
+
 </div>
 
 ## Common pitfalls

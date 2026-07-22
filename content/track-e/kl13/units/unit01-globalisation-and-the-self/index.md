@@ -181,11 +181,19 @@ BE-weight of the section in the full Klausur.)
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis. Some Klasse 13
-Units (e.g. Unit 9 Analysis) explicitly differentiate by
-candidate path.
+**Differentiation — support (below Niveau E).**
+
+Use these starters to build your position essay one move at a time:
+
+- "The framework I find most convincing for thinking about identity under globalisation is ___ (Sen / Appiah / Lahiri), because ___."
+- "In my own experience, a person can belong to two places at once; for example, ___."
+- "It is this refusal of a single belonging that shows why identity is not one sticker." *(cleft)*
+- "To sum up, my own position is that we should learn to hold two loyalties without ___."
+
+**Extension (above Niveau E / Oberstufe).**
+
+Stage a critical confrontation rather than a convergence: write a 300-word argument identifying the sharpest point where Sen's *plural identity* and Appiah's *rooted cosmopolitanism* would actually pull against each other under the pressure of a concrete political crisis you name. Defend which of the two frames better survives that pressure, raise the strongest objection to your own choice, and then rebut it, integrating one precise quotation from each writer.
+
 </div>
 
 ## Common pitfalls

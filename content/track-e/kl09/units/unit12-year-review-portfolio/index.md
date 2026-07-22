@@ -163,8 +163,21 @@ Write a 200-word year-review reflection. Use 4 grammar points from the year.
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card with the key
-structure. Above Niveau E: extension prompt linking to Klasse 10.
+**Differentiation — support (below Niveau E).**
+
+Complete this reflection frame with your own true details, then add two more sentences of your own:
+
+- One piece I chose is my ______, and I labelled it *______* because ______.
+- At the start of Klasse 9 I ______, but by now I can ______.
+- The piece that surprised me was ______, because ______.
+- For Klasse 10 I want to get better at ______.
+
+Useful phrases: *I am proud of …*, *this taught me that …*, *I noticed that …*, *next year I will …*, *what changed was …*, *what stayed the same was …*
+
+**Extension (above Niveau E / Oberstufe).**
+
+For your talk, take your *didn't-work* piece and your *proud* piece and argue which one actually taught you more this year, quoting one line from each of your own drafts to support your claim. Then predict, with reasons, which single skill from this portfolio you think you will still be relying on at the end of Klasse 10, and explain what would have to change for that prediction to turn out wrong.
+
 </div>
 
 ## Common pitfalls

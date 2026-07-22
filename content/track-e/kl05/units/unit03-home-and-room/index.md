@@ -183,9 +183,20 @@ Write 6 sentences about your room or home to a pen-pal. Use *there is/are* and p
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit's grammar.
+**Differentiation — support (below Niveau E).**
+
+Complete the letter with your own words. Fill each gap and add one sentence of your own.
+
+- Dear ______, this is my home.
+- There is a ______ in the ______.
+- There are two ______ in my room.
+- My bed is next to the ______, and there is a lamp on the ______.
+- There isn't a ______, but there is a ______ in the living room.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write your pen-pal letter as Frida the fox would — the polite guest who watches from the back door but never comes in. Describe the home only through what she can see, hear, and smell from outside, and let those *there is/are* details quietly suggest whether this is a warm home or a lonely one, without ever naming the feeling. Then add two sentences explaining which word choices you used to build that impression.
+
 </div>
 
 ## Common pitfalls

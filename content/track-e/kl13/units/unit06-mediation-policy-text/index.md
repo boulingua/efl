@@ -180,11 +180,20 @@ BE-weight of the section in the full Klausur.)
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis. Some Klasse 13
-Units (e.g. Unit 9 Analysis) explicitly differentiate by
-candidate path.
+**Differentiation — support (below Niveau E).**
+
+Build your mediation from these frames — fill each gap and reuse the reporting verbs so you reach the sentence count:
+
+- Opener: `Hi Eva, here is a short mediation of the report on educational equity for your OECD review.`
+- Finding + hedge: `The report examines ______ between 2010 and 2025, and the findings suggest that ______.`
+- Reporting verbs (pick a different one each time): *note · state · point out · stress · argue · concede · warn · confirm.* Example: `The authors stress that ______.`
+- Institutional note bracket: `in the ______ (city-states: Berlin, Hamburg, Bremen)` and `in the ______ (the larger federal states with rural areas).`
+- Central hedge to keep: `The authors add that a causal interpretation is not possible from the available data.`
+
+**Extension (above Niveau E / Oberstufe).**
+
+After completing your 18-sentence mediation, write a 150-word critical commentary in which you defend your three most contestable choices: one German term you kept untranslated, one hedge you preserved word-for-word, and one reporting verb you selected over a neutral alternative. Argue explicitly how each choice either safeguards or subtly shifts the report's original stance for an OECD reader, and identify the single point at which honest mediation and reader-friendliness came into genuine tension. Then propose how a British broadsheet science editor would have mediated that same point differently, and what that contrast reveals about register as an ethical, not merely stylistic, decision.
+
 </div>
 
 ## Common pitfalls

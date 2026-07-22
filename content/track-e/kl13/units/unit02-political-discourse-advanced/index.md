@@ -174,11 +174,18 @@ BE-weight of the section in the full Klausur.)
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis. Some Klasse 13
-Units (e.g. Unit 9 Analysis) explicitly differentiate by
-candidate path.
+**Differentiation — support (below Niveau E).**
+
+Complete these frames to build one analytical paragraph about your chosen speaker (aim for three, then link them):
+- *The questioner asked about ___, but the speaker's first move is ___, which shifts the exchange toward ___.*
+- *This counts as agenda-control because ___, not because the speaker openly refuses to answer.*
+- *One phrase worth examining is "___"; before calling it a dog whistle, I should ask whether ___.*
+- *Useful linkers to join your points: `More specifically, …`, `By contrast, …`, `In this regard, …`, `Accordingly, …`.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 500-word comparative analysis of two of the three speakers, arguing which one's agenda-control is more rhetorically effective *and* which is more ethically defensible — and show why those two judgements do not have to align. Then add a short methodological coda (roughly 80 words) defending the evidential standard you applied before labelling any phrase a dog whistle, in the spirit of Lakoff's framing analysis.
+
 </div>
 
 ## Common pitfalls

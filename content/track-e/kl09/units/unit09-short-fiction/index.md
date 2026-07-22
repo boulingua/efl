@@ -167,8 +167,19 @@ Write 180 words: a literary response to the *Found Letter* extract. Identify pro
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card with the key
-structure. Above Niveau E: extension prompt linking to Klasse 10.
+**Differentiation — support (below Niveau E).**
+
+Complete these starters to build your literary response. Each one already contains the past perfect you need — just add the details from the extract.
+
+- The protagonist is June, a young woman who, by the time the story opens, had already ______.
+- The central conflict is that she must decide whether to ______, even though she had ______.
+- I think the theme is ______, because the story keeps returning to what people leave behind.
+- The detail that does the most work is the ______; before I noticed it, I had not realised that ______.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rewrite the final third of *The Found Letter* from the grandmother's point of view, in the days before she stopped writing, so that your version silently answers the question the original refuses to close: what did the letter say, and why was it never sent? Then, in a short analytical note, argue whether resolving that silence strengthens or weakens the story, using the term "narrative withholding" and comparing your effect to the deliberate ambiguity of at least one published short-story writer (for example, Alice Munro or Raymond Carver).
+
 </div>
 
 ## Common pitfalls

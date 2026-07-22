@@ -171,9 +171,21 @@ Read the three excerpts above.
 6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Write a shorter 200-word analysis of one excerpt using these sentence starters to structure each move:
+
+- *In this excerpt, the speaker builds ethos by ...*
+- *The clearest rhetorical move here is the ..., which works because ...*
+- *The audience feels ... (pathos) when the speaker says "..."*
+- *This line matters at this exact moment because ... (kairos).*
+
+Phrase bank: *appeals to*, *reinforces*, *creates a contrast between*, *at a time when*, *stands out because*, *invites the listener to*.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Instead of analysing one excerpt, write a 500-word comparative argument on the ethics of rhetorical technique: does a technically brilliant move (such as Thatcher's institutional *the lady* framing) become less legitimate when it substitutes rhythm and allusion for logos? Defend a clear thesis, weigh at least two excerpts against each other, and close by proposing one criterion a critical listener could use to separate persuasion from manipulation.
+
 </div>
 
 ## Common pitfalls

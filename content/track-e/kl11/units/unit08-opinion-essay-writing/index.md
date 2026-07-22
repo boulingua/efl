@@ -181,9 +181,22 @@ Write 350 words: a five-paragraph opinion essay. Use lexical chain + 4 conjuncti
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Use these five frames to draft your essay, one per paragraph. Keep each to one or two sentences, then swap in your own topic (e.g. *the four-day school week* or *the cap on rent increases*).
+
+- **Intro:** In my view, ___ , because ___ .
+- **Body 1:** One clear advantage is that ___ . Moreover, ___ .
+- **Body 2:** ___ also seems to work well, since ___ .
+- **Counter:** Some people argue, however, that ___ . This point is ___ , but ___ .
+- **Conclusion:** Accordingly, I would say that ___ . On the whole, ___ .
+
+Hedge helpers (pick two): *it seems that…, this may…, arguably, in some cases, to a certain extent.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rewrite your 350-word essay as a 120-word op-ed on the same question, then annotate which single sentence you kept as your "best sentence" and justify, in two or three sentences, what the shorter form forced you to sacrifice. As a further step, argue whether the compression strengthened or weakened your position, drawing on the *Opinion at three lengths* claim that length determines what arguments a form can carry.
+
 </div>
 
 ## Common pitfalls

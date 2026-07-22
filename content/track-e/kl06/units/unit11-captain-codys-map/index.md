@@ -173,8 +173,21 @@ Write 100 words continuing the Cody story. Use one *going to* and one *will*.
 **Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a support
-card. Above Niveau E: extension question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Finish the story with these starters (aim for 6–8 sentences, about 80 words):
+
+- *When Sam and Lina reached the X, they were going to ______.*
+- *First, they will ______. Then they are going to ______.*
+- *"I think it will ______," said Lina.*
+- *As soon as the keeper nodded, they ______.*
+
+Useful words: *shovel, coastline, torch, tide, dig carefully, permission, treasure chest, at last*.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rewrite your continuation twice: once as Sam's confident diary entry (mostly *going to*, sure of the plan) and once as Lina's uneasy voice (mostly *will*, guessing and predicting). In three or four sentences afterwards, analyse how swapping between *will* and *going to* changes each narrator's certainty and how much the reader trusts them.
+
 </div>
 
 ## Common pitfalls

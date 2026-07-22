@@ -163,9 +163,19 @@ Write a 2-minute talk script (~150 words) using the three movements + one object
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Bring one object and finish these lines to build your 2-minute talk:
+
+- **Hook:** "I have brought a ___ with me today, and it means a lot to me."
+- **Body:** "Let me tell you three things about it. Firstly, ___. Secondly, ___. Lastly, ___."
+- **Close:** "So the next time you see a ___, please remember ___."
+- **Sign-off:** "Thank you for listening."
+
+**Extension (above Niveau E / Oberstufe).**
+
+Deliver your object talk twice: once building each of the three points on a personal story, and once building the same three points on a fact or number instead. Afterwards, speak for one minute analysing which version moved your audience more and why, and argue when a speaker should choose emotion over evidence — or the reverse.
+
 </div>
 
 ## Common pitfalls

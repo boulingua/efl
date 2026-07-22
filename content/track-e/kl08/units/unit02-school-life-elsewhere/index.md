@@ -175,9 +175,20 @@ Write 100 words comparing your school with one of the three pen-pal schools. Use
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Speaking-frame card to attempt the *Compare three schools* pairwork. Fill the gaps out loud with a partner, then swap:
+
+- In ______ , lunch is ______ (provided free / bought at a canteen / brought from home).
+- In ______ , lessons are taught in ______ .
+- Homework is given ______ (lightly / every day) in ______ .
+- I think ______ is more ______ than ______ , because ______ .
+- One thing I learned is that ______ .
+
+**Extension (above Niveau E / Oberstufe).**
+
+Imagine one everyday routine from all three schools (for example free lunch, hourly outdoor breaks, or split morning-and-afternoon days) were introduced at your own school tomorrow. Argue in six to eight sentences which single change would improve learning the most and which would cause the most resistance, using the present passive throughout and weighing at least one cost against one benefit. Then explain what a school's small daily rules quietly reveal about the values of the society around it.
+
 </div>
 
 ## Common pitfalls

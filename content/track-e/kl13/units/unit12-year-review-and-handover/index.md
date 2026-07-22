@@ -179,11 +179,19 @@ BE-weight of the section in the full Klausur.)
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis. Some Klasse 13
-Units (e.g. Unit 9 Analysis) explicitly differentiate by
-candidate path.
+**Differentiation — support (below Niveau E).**
+
+Complete these starters for your reflection — one specific piece or moment per line, no general claims like *I learned a lot*:
+
+- At the start of Klasse 11, my writing was ________, but the ________ piece showed me ________.
+- The piece I am proudest of is ________, because ________.
+- One thing that did not work was ________; it taught me that ________.
+- The habit I want to carry into life after the Abitur is ________.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Instead of writing to your future self, write a 350-word critical self-review of your own portfolio in the analytical register you would use for a set literary text: treat your Klasse 11 writing as a "primary source", trace one measurable line of stylistic development across the three years, and name the single blind spot your current voice has not yet overcome. Then close by comparing your trajectory to that of a reflective essayist you have read (e.g. Orwell, Didion, Baldwin), arguing in two sentences where your development converges with or diverges from theirs.
+
 </div>
 
 ## Common pitfalls

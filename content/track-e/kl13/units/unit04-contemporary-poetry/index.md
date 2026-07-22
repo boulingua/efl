@@ -178,11 +178,19 @@ BE-weight of the section in the full Klausur.)
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis. Some Klasse 13
-Units (e.g. Unit 9 Analysis) explicitly differentiate by
-candidate path.
+**Differentiation — support (below Niveau E).**
+
+Sentence frames for the essay — complete each with your own example:
+
+- In the [fragmentary lyric / document poem / polyvocal lyric], the speaker's *I* is compromised because ___.
+- One formal feature that ironises the *I* here is ___, which forces the reader to ___.
+- By contrast, a Romantic speaker would have claimed ___; this contemporary form refuses that by ___.
+- It is precisely this shared refusal — ___ — that separates post-2000 lyric from its 19th-century inheritance.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 250-word counter-essay arguing that the *ironised I* is not a genuine post-2000 innovation but a rediscovery of early-Modernist fracture (Eliot's collage, Pound's polyphony), so that contemporary lyric's claim to novelty is partly a critical and marketing stance. Ground your case in one precisely chosen formal feature from each of the three forms studied, and concede at least one point where the contemporary version does something Modernism did not.
+
 </div>
 
 ## Common pitfalls

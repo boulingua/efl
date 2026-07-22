@@ -169,8 +169,22 @@ Write 120 words to a pen-pal comparing your school day with theirs. Use 4 compar
 **Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a support
-card. Above Niveau E: extension question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete the letter to your pen-pal. Fill each gap and add one more comparative of your own.
+
+- Hi ___, thanks for your e-mail about your school!
+- My school day starts at ___ and finishes at ___.
+- Your day is __________ (long/short) than mine.
+- We don't ___, but you ___ every day, and I think that is __________ (interesting/good) than my routine.
+- Out of all my lessons, ___ is the best because ___.
+
+Useful phrases: *earlier than* · *later than* · *bigger than* · *more relaxed than* · *the most fun* · *at home / in the canteen*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a short opinion piece (roughly 150 words) arguing which of the three school systems — Stuttgart, Tokyo, or Cape Town — best prepares students for adult life, and explain what your own school could realistically borrow from the others. Support your view with at least two comparisons and one counter-argument that you then answer, using linking words such as *whereas*, *although*, and *on the other hand*.
+
 </div>
 
 ## Common pitfalls

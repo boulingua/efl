@@ -179,9 +179,19 @@ Write 5 sentences about yourself: name, age, town, one thing you have, one thing
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit's grammar.
+**Differentiation — support (below Niveau E).**
+
+Complete each line, then copy your four sentences onto the strip for the class wall:
+
+- Hello, my name is __________ .
+- I am __________ years old.
+- I live in __________ .
+- I have __________ . (a dog / a little brother / a red bike …)
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write two short self-introductions in Frida the fox's voice: one for meeting the school's head teacher, and one for meeting a new classmate on the playground. Then, in three sentences of your own, explain how your greeting, word choice, and tone shift with the audience, and why a speaker changes register depending on who is listening.
+
 </div>
 
 ## Common pitfalls

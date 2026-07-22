@@ -172,8 +172,19 @@ Write 150 words: take a position on a small fairness issue. Use 3 of: *despite, 
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card with the key
-structure. Above Niveau E: extension prompt linking to Klasse 10.
+**Differentiation — support (below Niveau E).**
+
+Complete these starters to build your reflection. Aim for one line each, then join them:
+
+- The small fairness issue I want to write about is ___.
+- Despite ___, this still makes some students feel left out.
+- Because of ___, the situation could be fairer for everyone.
+- Although some people call this a small thing, I believe ___, because ___.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 250-word analytical response comparing two "small" fairness measures — one that genuinely removes a visible marker of disadvantage (like the redesigned lunch cards) and one that only disguises a problem without changing who actually has access. Argue where the line lies between meaningful design and mere cosmetics, and weigh whose voice — students', teachers' or administrators' — should decide that line. Use hedged, evaluative language (*arguably, tends to, insofar as, at first glance*) rather than flat assertions.
+
 </div>
 
 ## Common pitfalls

@@ -168,9 +168,19 @@ Mediate: write 8 English sentences from the source for a public-administration s
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
-into Oberstufe: extension prompt linking to Klasse 11
-(Basisfach / Leistungsfach choice).
+**Differentiation — support (below Niveau E).**
+
+Complete these starters into your 8 sentences, swapping in the reporting verb that fits the mayor's stance:
+
+- Mayor Anna Vogel reopened her town's library, which had been closed for ___, on a very small budget.
+- Instead of waiting for large grants, she ___ a series of Sunday workshops where residents ___.
+- Vogel admitted that she ___, but she added that ___.
+- Critics argue that the model ___, yet the article notes that Vogel does not ___ .
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rewrite your mediation twice for two different English-speaking outlets — a skeptical policy newsletter and an admiring community magazine — then write a short paragraph analysing how your choice of reporting verbs, hedging, and register shifts the reader's judgement of Vogel without altering a single fact from the German source. Argue which version is the more responsible piece of mediation and why.
+
 </div>
 
 ## Common pitfalls

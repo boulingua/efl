@@ -164,9 +164,22 @@ Write 300 words: an Oberstufe-readiness reflection. Use 6 grammar points from Kl
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
-into Oberstufe: extension prompt linking to Klasse 11
-(Basisfach / Leistungsfach choice).
+**Differentiation — support (below Niveau E).**
+
+Build your reflection by finishing these five starters (one or two sentences each):
+
+- One skill I got better at this year is ___, and I noticed it when ___.
+- The piece in my folder I would still change is ___, because ___.
+- A moment when writing felt easier than before was ___.
+- Next year in the Oberstufe I want to work on ___.
+- If I could tell my Klasse 9 self one thing, it would be ___.
+
+*Word bank:* to make progress · to get stuck on · a turning point · to feel confident · to keep practising · a habit worth keeping · to look back on · to plan ahead
+
+**Extension (above Niveau E / Oberstufe).**
+
+Instead of only reflecting on your own year, write a 250-word comparative argument: choose two pieces from your folder written months apart and analyse exactly what changed in your thinking, not just your English — pinpoint one sentence in each that shows the shift, and explain why the later choice is more precise. Then close by predicting one specific way a Leistungsfach would push this development further than a Basisfach would, and defend that claim. Deliver it without notes and invite one challenging question from a classmate that you must answer on the spot.
+
 </div>
 
 ## Common pitfalls

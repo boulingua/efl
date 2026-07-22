@@ -193,9 +193,19 @@ Complete a full 90-BE Klausur rehearsal under timed conditions. Submit with a 20
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Use these starters for the 200-word self-reflection on time management that goes with your Klausur rehearsal. Finish each sentence with what actually happened to you:
+
+- My plan was to spend about ___ minutes on Mediation, but in reality I spent ___.
+- The part where I lost the most time was ___, because ___.
+- One thing that helped me stay on schedule was ___.
+- If I could re-sit this paper, the first change I would make is ___.
+
+**Extension (above Niveau E / Oberstufe).**
+
+After the collective debrief, write a 300-word evaluative memo to Mr. Yilmaz arguing whether the official time-management heuristic (25/40/40/50/50/15) genuinely reflects the 90-BE weighting, or whether it quietly under-serves the highest-value part. Support your case with your own timed data, and propose one alternative distribution, defending the trade-offs it forces on a candidate who is weaker in either Inhalt or Sprache.
+
 </div>
 
 ## Common pitfalls

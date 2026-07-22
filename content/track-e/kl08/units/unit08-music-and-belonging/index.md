@@ -166,9 +166,19 @@ Write 120 words about one song that means belonging to you. Use 3 modals of poss
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Fill in the gaps to talk about your song for 90 seconds. Use these starters with your partner:
+
+- The song I chose is called _____ and it is a kind of _____ (pop / folk / hip-hop).
+- You can hear _____ (a guitar / drums / a soft voice) in it.
+- It might be quite old, but for me it means _____.
+- This song means belonging because it reminds me of _____.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Choose two songs that both signal "belonging" but to different groups (for example, a national anthem and a fan chant), and prepare a 2-minute spoken comparison of how each one builds a sense of who is "in" and who is left "out." Argue which one draws its boundary more strongly, and use at least three modals of possibility to hedge your claims about the songwriters' likely intentions.
+
 </div>
 
 ## Common pitfalls

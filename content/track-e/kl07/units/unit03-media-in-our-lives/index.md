@@ -385,14 +385,19 @@ present simple/passive (4).
 - *Produce (8 min).* Silent writing.
 - *Reflect (3 min).* Tick + one sentence.
 
-**Differentiation.** For Niveau G: provide a printed for/since
-flashcard (a clock for *for*, an arrow + date for *since*). For
-learners above Niveau M: ask for one *because*-clause and one
-contrast (*although / however*).
+**Differentiation — support (below Niveau E).**
 
-**Critical-media note.** Avoid moralising. The point is not "phones
-are bad" but "I can choose to vary the habit and notice what
-changes."
+Complete these four starters to build your *One Week, One Change* text:
+
+- For one week, I would stop / limit **_______** (say when, e.g. *after dinner*).
+- Instead, I would **_______** and **_______**.
+- I have **_______** for a long time now, so this could help.
+- By the end of the week, I think I will **_______**.
+
+**Extension (above Niveau E / Oberstufe).**
+
+After finishing your own one-week plan, write a short critical response (about 150 words) to the idea, linked to Cal Newport's *Digital Minimalism*, that stepping back from screens makes life more meaningful: argue in your own words whether a single phone-free week actually changes a habit or just feels different for a few days, and say what would need to be true for the change to last. Use at least one concession (*although* / *however*) and one *because*-clause, and support your claim with a concrete example from your own media use.
+
 </div>
 
 ## Common pitfalls

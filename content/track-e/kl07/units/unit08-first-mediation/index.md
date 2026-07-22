@@ -341,15 +341,19 @@ top band.
   for one reporting verb.
 - *Reflect (2 min).*
 
-**Differentiation.** Niveau G: provide a printed
-"keep / paraphrase / drop" decision card. Above Niveau M: require
-two reporting verbs and one addressee-greeting choice (formal vs.
-informal) explained in one line at the bottom of the writing.
+**Differentiation — support (below Niveau E).**
 
-**Marking note.** A near-literal translation that keeps "Liebe
-Eltern, … Mit freundlichen Grüßen" is **not** strong mediation,
-even if grammatically correct. Reward addressee-fit and
-information selection, not word-for-word coverage.
+Complete the message to your friend, filling each gap from the forwarded e-mail:
+
+- Hi ___, my cousin forwarded a message from school and here's what you need to know.
+- The main thing is that ___ (say what changed — the date, time, or place).
+- The teacher asks everyone to ___, and she advises us to bring ___.
+- One important thing: if you ___, you can't come, so don't forget! See you soon — ___
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write your mediated message twice for two different addressees — once for a close friend who loves hiking and once for a friend's parent who is driving — then add three or four sentences comparing your choices: explain how the greeting, tone, level of detail, and which facts you foregrounded or dropped shifted with each reader, and argue which version was harder to mediate and why. Use precise metalanguage (register, addressee, foreground, omit, paraphrase) to justify your decisions.
+
 </div>
 
 ## Common pitfalls

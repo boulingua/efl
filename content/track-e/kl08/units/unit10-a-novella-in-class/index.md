@@ -171,9 +171,20 @@ Write 150 words: a reading-journal entry on Chapter 1 (quote, question, predicti
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete this journal-entry frame with your own words about Chapter 1:
+
+- **Quote:** One sentence from the chapter that I liked is: "____________."
+- **Question:** I still want to know why ____________.
+- **Prediction:** I think that later in the book, ____________.
+- **Reported speech:** June asked Mr. Owen if ____________ (change her question to statement order and backshift the tense).
+- **Connection:** This reminds me of a time when I ____________.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 250-word comparative journal entry in which you weigh June's habit of measuring small losses against her larger ones, and argue whether her notebook of "almost-found things" is a healthy way of coping or a form of avoidance. Support your claim with two pieces of textual evidence (one direct quotation and one reported version of a character's line), then contrast June's response to loss with that of a protagonist from another novella or film you know, explaining what the comparison reveals about how people hold on to what they cannot recover.
+
 </div>
 
 ## Common pitfalls

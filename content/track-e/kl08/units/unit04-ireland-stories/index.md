@@ -170,9 +170,19 @@ Write 120 words: a place-portrait letter. Use 4 relative clauses.
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete each starter so your letter has four relative clauses:
+
+- Hi ___, I want to tell you about a place **which** ___.
+- It is a town **where** ___.
+- The people **who** live there ___.
+- My favourite spot is the ___ **that** ___.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write your place-portrait twice: once in the voice of someone who has lived there all their life, and once in the voice of a first-time visitor. Then add a short paragraph analysing how the change of perspective decides which details feel important — and pinpoint one moment where either version risks sliding into a tourist-brochure cliché.
+
 </div>
 
 ## Common pitfalls

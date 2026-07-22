@@ -177,9 +177,19 @@ Write 120 words: one school rule you would change. Use 2 second conditionals + 2
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete these debate frames out loud, filling each gap with your own idea about the rule:
+
+- *If we kept the no-phones rule, __________ would __________ .*
+- *If we changed it to a no-loud-phones rule, I would __________ .*
+- *Although the rule __________ , it __________ .*
+- *On the other hand, __________ is not really fair, because __________ .*
+
+**Extension (above Niveau E / Oberstufe).**
+
+After the debate, write a short critical response (about 150 words) arguing that a rule can look fair on paper yet be unfair in practice: invent a school rule that treats every student identically but disadvantages one group, and explain the hidden bias. Then propose a fairer version and weigh one clear objection to it, using precise contrast connectives and at least two second conditionals to make your reasoning conditional rather than absolute.
+
 </div>
 
 ## Common pitfalls

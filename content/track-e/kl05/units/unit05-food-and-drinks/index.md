@@ -180,9 +180,19 @@ Write a 6-line cafe dialogue with two items ordered and polite phrases.
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit's grammar.
+**Differentiation — support (below Niveau E).**
+
+Fill the gaps to build your cafe role-play. Choose your own food and drink.
+
+- Waiter: *Good afternoon. What can I get you?*
+- Customer: *I'd like a ______ of ______, please.* (cup / glass / piece)
+- Waiter: *Anything else?*
+- Customer: *Yes, and some ______, please. Thank you.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rewrite your cafe scene twice for two very different customers — for example, a rushed traveller with only two minutes and a curious tourist who has never seen the menu before — and change the waiter's questions and the customer's tone to fit each one. Then add two or three sentences explaining which polite phrases you kept the same and which you changed, and why register shifts with the situation.
+
 </div>
 
 ## Common pitfalls

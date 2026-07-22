@@ -170,9 +170,19 @@ Read the *Twenty Years of Globalisation* extract.
 6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Use these frames to build your op-ed one move at a time — fill each blank with a globalisation-debate term:
+
+- One thing seems clearly true: globalisation ____ . But at the same time, ____ .
+- The evidence suggests that ____ , yet it is arguably too simple to say only that.
+- It is ____ that best explains why the debate stays so heated. *(cleft)*
+- Despite ____ , the more useful question is not "good or bad?" but "____?"
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rather than holding the two readings in tension, take a position: argue whether the "both sides are roughly correct" framing is an honest analytical move or a way of dodging the distributional question of *who*, within a country, actually captured the gains. Then test your claim against a real policy instrument — a carbon border adjustment or a reshoring subsidy — and show precisely where it would succeed and where it would merely export the costs somewhere new. Sustain the argument in roughly 400 words with integrated evidence and at least one concession you genuinely take seriously.
+
 </div>
 
 ## Common pitfalls

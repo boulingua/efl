@@ -167,9 +167,21 @@ Read the *Three Ethics Frames* paraphrase above.
 6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Complete these starters to build your essay's three moves on one case (CRISPR / LLMs / climate intervention):
+
+- **Consequentialist move:** *If we allow ___ , the likely outcome is ___ , and the people who carry the risk are ___ .*
+- **Deontological move:** *Regardless of the benefits, we are still required to ___ , because ___ .*
+- **Virtue-ethics move:** *A responsible research community would ___ , since the kind of scientists we want to be ___ .*
+- **Acknowledgement:** *Some would object that ___ ; however, ___ .*
+
+Useful discourse markers: *by contrast, accordingly, in this regard, on balance.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Instead of arguing one case, write a 400-word comparative analysis of two cases (for example CRISPR germline editing versus stratospheric aerosol injection) and argue which of the three ethics frames does the most decisive work in each — and why a frame that settles one debate fails to settle the other. Then defend a single procedural principle capable of governing both, anticipating and dismantling the strongest objection to it.
+
 </div>
 
 ## Common pitfalls

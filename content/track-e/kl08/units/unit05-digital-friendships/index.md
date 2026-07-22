@@ -174,9 +174,20 @@ Write 120 words about an online friendship (real or imagined). Use 4 present-per
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete these starters to build your 120-word text. Fill each gap and add a few words of your own.
+
+- I have known my online friend **__________** *for* __________ .
+- We have written to each other *since* __________ .
+- We have *never* __________ , but that is fine *because* __________ .
+- We haven't __________ *yet* , and I hope we will one day.
+- I like this friendship *because* __________ .
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a short opinion piece (about 180 words) arguing whether a friendship that lives only online can be as strong as one built face to face. Support your position with at least two clear reasons and one honest counter-argument you then answer, and weave in present-perfect structures naturally rather than counting them.
+
 </div>
 
 ## Common pitfalls

@@ -169,8 +169,19 @@ Write 6 sentences describing a path from your school to your favourite local pla
 **Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a support
-card. Above Niveau E: extension question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete these frames out loud during the *Lost Tourist* role-play, then swap roles:
+
+- *Excuse me, where is the __________?*
+- *Go straight on for __________ minutes.*
+- *At the lights, turn __________.*
+- *It's on your __________, opposite the __________.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Direct a tourist to the same place twice: once for a person who can see the streets, and once for someone who is blind and must rely on sounds, smells, and counting steps. Then write four sentences explaining which words you had to change and why clear directions depend on knowing your listener.
+
 </div>
 
 ## Common pitfalls

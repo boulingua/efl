@@ -166,9 +166,19 @@ Write 200 words: a career reflection. Use 2 perfect continuous + 1 third conditi
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
-into Oberstufe: extension prompt linking to Klasse 11
-(Basisfach / Leistungsfach choice).
+**Differentiation — support (below Niveau E).**
+
+Use these starters to build your interview answers. Finish each line with your own idea:
+
+- *I have been learning* ______ *for* ______ *(months / years).*
+- *The most useful thing I have been doing is* ______ .
+- *One mistake I made was* ______ , *and it taught me* ______ .
+- *Because of* ______ , *I would like to work in* ______ .
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rewrite your interview as the same candidate speaking to two very different employers — a fast-growing tech start-up and a long-established public library — and adapt tone, vocabulary and self-presentation to each. In a short spoken commentary afterwards, analyse which of your "soft skills" and "hard skills" each employer would value most, and argue which workplace culture would let you grow further and why.
+
 </div>
 
 ## Common pitfalls

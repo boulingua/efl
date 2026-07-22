@@ -169,8 +169,23 @@ Mediate: write 6 English sentences from the German source for a friend abroad. U
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card with the key
-structure. Above Niveau E: extension prompt linking to Klasse 10.
+**Differentiation — support (below Niveau E).**
+
+Complete these sentence starters to build your message for your Canadian friend (aim for six lines):
+
+- Hi ___, here is the main point of the article.
+- The city council has announced that ___ .
+- The article explains that two extra stops ___ .
+- It also mentions that the journey ___ .
+- Officials advise passengers to ___ .
+- So your bus stop ___ .
+
+Useful phrases: *the gist is …, starting on 1 September, in the eastern part of town, about five minutes longer, still reachable, check the online timetable.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write two versions of the same mediation from the German source: one short text message for your Canadian friend, and one formal note to an English-speaking exchange coordinator who must file a report. Then add three sentences analysing how your word choice, reporting verbs and level of detail shifted with the addressee, and explain which German facts you judged essential enough to keep in both.
+
 </div>
 
 ## Common pitfalls

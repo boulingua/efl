@@ -359,14 +359,19 @@ addressee-fit (2), correct grammar (4).
 - *Produce (8 min).* Silent writing.
 - *Reflect (2 min).*
 
-**Differentiation.** For Niveau G: provide a country-name
-flashcard with *the*/no-*the* split. For learners above Niveau M:
-require one *contrast* connective (*although, however, on the
-other hand*) and one specific source name in the writing.
+**Differentiation — support (below Niveau E).**
 
-**Stereotype-check.** This Unit is about a single American
-experience (Phoenix in summer), not "the USA in general". Use the
-text to push against the temptation to write a generic America.
+Complete these starters to build your text, then join them into a paragraph:
+
+- One place I would like to visit is _______, because _______.
+- I already know one fact about it: _______.
+- I imagine that daily life there is _______ (busy / quiet / slow / expensive …).
+- The thing I would want to find out for myself is whether _______.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Building on the unit's stereotype-check, write a 150-180 word analytical text that contrasts how one U.S. region is shown in a song, film or advertisement you know with the close-up, first-person picture a text like Maya's Phoenix account gives. Argue which version a careful reader should trust more, and use at least two contrast connectives (*although*, *however*, *whereas*, *on the other hand*) plus one named source.
+
 </div>
 
 ## Common pitfalls

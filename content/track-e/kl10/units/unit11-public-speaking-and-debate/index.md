@@ -169,9 +169,19 @@ Write a 4-minute debate-speech script (~250 words) for or against any motion. Us
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
-into Oberstufe: extension prompt linking to Klasse 11
-(Basisfach / Leistungsfach choice).
+**Differentiation — support (below Niveau E).**
+
+Speak your speech with these starters — fill each blank and say the whole line aloud:
+
+- **Frame:** *The motion is that we should ___ . I speak in favour of / against it because ___ .*
+- **First point:** *Firstly, ___ . One example of this is ___ .*
+- **Counter + rebuttal:** *Some people will say ___ . I accept that, but ___ .*
+- **Close:** *To sum up, ___ . I ask you to support / oppose the motion.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Deliver your 4-minute speech, then write a 150-word "opponent's brief": build the single strongest case against your own position, name the one concession that most weakens your argument, and explain in one sentence why you still hold your stance. Draw on a technique from a named speaker or debating tradition (e.g. Cicero's structure, or a Churchillian close) to sharpen your rebuttal, and be ready to defend the choice.
+
 </div>
 
 ## Common pitfalls

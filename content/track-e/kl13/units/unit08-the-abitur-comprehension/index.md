@@ -178,11 +178,19 @@ BE-weight of the section in the full Klausur.)
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis. Some Klasse 13
-Units (e.g. Unit 9 Analysis) explicitly differentiate by
-candidate path.
+**Differentiation — support (below Niveau E).**
+
+Answer-frames for the three sub-question types (fill the gaps, then add one specific from the text):
+
+- **Outline (5 BE):** *The writer's central claim is that ... . This is clearest where the text mentions ... .*
+- **Explain (10 BE):** *The writer separates ... from ... because ... . One paragraph shows this when it describes ... .*
+- **Compare (9 BE):** *Both the writer and Wu see ... , but they differ in that ... .*
+- Useful embedding phrases (drop a 3-5 word fragment inside your own sentence): *as the text puts it*, *what the writer calls*, *this idea of ...*
+
+**Extension (above Niveau E / Oberstufe).**
+
+After the rehearsal, write a 250-word critical response arguing whether the source's distinction between *public opinion* and the *visible majority* still holds when the "visible majority" is itself shaped by the very algorithms the writer criticises. Ground each claim in a specific move from the text, integrate at least one embedded fragment, and end by proposing a sharper distinction of your own.
+
 </div>
 
 ## Common pitfalls

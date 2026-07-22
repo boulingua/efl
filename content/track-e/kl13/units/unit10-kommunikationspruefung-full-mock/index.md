@@ -173,11 +173,19 @@ BE-weight of the section in the full Klausur.)
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis. Some Klasse 13
-Units (e.g. Unit 9 Analysis) explicitly differentiate by
-candidate path.
+**Differentiation — support (below Niveau E).**
+
+Speak your monologue from these four spoken-register frames (fill the gaps aloud, do not read word-for-word):
+
+- "This image immediately raises the question of _____, and I want to argue that _____."
+- "My first point is _____; you can see this in the way _____."
+- "Some might object that _____, and I partly accept that — however, _____."
+- "So, to bring my ideas together, my final position is _____, which leaves me asking the examiners: _____?"
+
+**Extension (above Niveau E / Oberstufe).**
+
+Reframe your stimulus for a hostile examiner: prepare a two-minute rebuttal in which you deliberately argue the position you personally find weakest, then dismantle it, so that under dialogue pressure you can pre-empt every counter-question. Weave in one comparison across at least two prior Units and one precise, idiomatic hedging structure (for example a conditional-perfect concession) to show controlled register-shifting rather than simple assertion.
+
 </div>
 
 ## Common pitfalls

@@ -173,8 +173,19 @@ Write 6 sentences about a real or imagined holiday.
 **Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a support
-card. Above Niveau E: extension question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Answer the interview with these starters — fill each gap out loud:
+
+- *I went to __________ with __________.*
+- *We travelled by __________, and the weather was __________.*
+- *The best moment was when we __________ (saw / ate / found) __________.*
+- *One thing that didn't work: we __________ (missed / lost / forgot) __________.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+After the interview, write a short "postcard vs. reality" pair: first the sunny version your partner would post online, then the honest version of the same day, using past simple throughout. In two or three sentences, explain which holiday memories people tend to keep and why the gap between the two versions matters.
+
 </div>
 
 ## Common pitfalls

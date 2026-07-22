@@ -169,9 +169,20 @@ Write 220 words: an op-ed on a media-democracy topic. Use 4 academic hedges.
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
-into Oberstufe: extension prompt linking to Klasse 11
-(Basisfach / Leistungsfach choice).
+**Differentiation — support (below Niveau E).**
+
+Op-ed starter frames — finish each line in your own words, then join them into one paragraph:
+
+- The available evidence suggests that ___ , because ___ .
+- It has been argued that ___ ; however, ___ .
+- The link is not necessarily causal, since ___ .
+- Although ___ , I would argue that ___ .
+- Caution is warranted, but ___ .
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 300-word comparative op-ed weighing two proposed remedies for local "press deserts" — for example, public grant funding for newsrooms versus relying on volunteer citizen journalism — and argue which better protects democratic scrutiny. Sustain a critical register throughout: distinguish correlation from causation explicitly, and concede at least one genuine weakness in your preferred remedy before defending it. Close by naming one condition under which your judgement would change.
+
 </div>
 
 ## Common pitfalls

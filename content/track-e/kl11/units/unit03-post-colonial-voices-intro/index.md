@@ -181,9 +181,19 @@ Write 280 words: a literary essay engaging the three post-colonial openings. Use
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Choose ONE opening and complete this partial model into a short paragraph (about 100 words):
+
+- I think ______'s opening does the most work because ______.
+- In the very first line, the narrator ______ (recalls / distances herself from / positions the reader as) ______.
+- The most important word or image is ______, because it ______.
+- This shows that the writer engages the colonial past by ______.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Set the three openings against a fourth post-colonial voice from a different region (for example Jean Rhys's Caribbean or Salman Rushdie's South-Asian fiction), and argue in roughly 350 words whether "doing the most work with the fewest sentences" is a fair way to judge writers whose traditions value density and accumulation over compression. Build a thesis that complicates the core task's premise rather than simply answering it, and sustain the argument with at least one integrated quotation of your own invention per source.
+
 </div>
 
 ## Common pitfalls

@@ -177,9 +177,19 @@ Write 5–6 sentences: today's weather, your favourite season, two things you do
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit's grammar.
+**Differentiation — support (below Niveau E).**
+
+Copy and finish one line each day for your weather diary. Fill every gap with a word from Unit 7:
+
+- **Today it is __________** (sunny / cloudy / rainy / cold / warm).
+- **The sky is __________** (grey / blue / bright).
+- **I am wearing my __________** (jacket / scarf / boots / cap).
+- **I am __________ because of the weather** (staying inside / carrying an umbrella / walking slowly).
+
+**Extension (above Niveau E / Oberstufe).**
+
+Keep your five-day weather diary, then add a short "weather reporter" paragraph comparing your real week with the forecast a website gave for the same days: where were the predictions right, where were they wrong, and how did the difference change your plans? Use present simple for the usual pattern and present continuous for what was happening, and finish with one sentence arguing whether a printed forecast or a look out of the window is more useful for a Stuttgart winter.
+
 </div>
 
 ## Common pitfalls

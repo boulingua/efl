@@ -165,9 +165,19 @@ Write 220 words: a science-and-society reflection on the trial. Use 4 scientific
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
-into Oberstufe: extension prompt linking to Klasse 11
-(Basisfach / Leistungsfach choice).
+**Differentiation — support (below Niveau E).**
+
+Write a shorter reflection (about 120 words) by completing these starters. Aim for two scientific-reasoning terms and one hedge (*perhaps*, *it seems*).
+
+- The trial ran for two years and included 14 schools plus a matched **control group** of 14 more.
+- One finding I trust is ____ , because ____ .
+- The main **limitation** is that ____ , and this matters because ____ .
+- For these reasons, I would / would not support a trial in my area, since ____ .
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 300-word evaluation that goes beyond a personal position: compare the Belgian four-day-week trial with one other evidence-based reform you research (for example, a later school-start-time study), and argue which offers stronger **generalisability** to a German Gesamtschule. Weigh sample size, control design, and equity effects, and end by proposing one specific condition a policymaker should require before scaling either reform up.
+
 </div>
 
 ## Common pitfalls

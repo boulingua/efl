@@ -166,9 +166,20 @@ Write 200 words: a comparative AU / NZ portrait. Use 2 comparatives + 1 Māori o
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
-into Oberstufe: extension prompt linking to Klasse 11
-(Basisfach / Leistungsfach choice).
+**Differentiation — support (below Niveau E).**
+
+Complete these five sentence frames to build your comparative portrait step by step:
+
+- Australia and New Zealand both share ______, but they differ in ______.
+- Australia has about ______ million people, whereas New Zealand has about ______ million.
+- In New Zealand, te reo Māori is more ______ than in Australia; for example, ______ is the everyday hello.
+- One place name that keeps an Indigenous language alive is ______, which means ______.
+- The biggest difference between the two countries is ______.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Beyond the streetscape, argue whether a widely audible everyday greeting like *kia ora* does more to keep an Indigenous language alive than dozens of preserved place names whose original meanings most speakers no longer recognise. In roughly 250 words, weigh visibility against genuine understanding, and propose one measurable sign that would tell you a language is truly reviving rather than merely surviving as decoration.
+
 </div>
 
 ## Common pitfalls

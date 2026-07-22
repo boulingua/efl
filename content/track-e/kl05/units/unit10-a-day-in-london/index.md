@@ -175,9 +175,20 @@ Write 6 sentences about a city trip you would like to take. Include 3 places + 1
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit's grammar.
+**Differentiation — support (below Niveau E).**
+
+Complete the itinerary. Fill each gap with a place, an activity, or a means of transport from the box.
+
+*Box: the London Eye · take the bus · the British Museum · see the mummies · walk along the river · the Tower of London · by underground · have lunch in the park*
+
+- 10:00 — We start at ______ . We ______ there.
+- 12:00 — Then we go to ______ . We travel ______ .
+- 14:00 — In the afternoon we visit ______ .
+
+**Extension (above Niveau E / Oberstufe).**
+
+Instead of a tourist itinerary, plan a "hidden London" day for a visitor who has already seen the famous landmarks: choose three lesser-known places and, for each, write two or three sentences arguing why it reveals the real city better than Big Ben or the London Eye. Then add a short closing paragraph comparing what a tourist sees with what a local experiences, using at least two comparative structures.
+
 </div>
 
 ## Common pitfalls

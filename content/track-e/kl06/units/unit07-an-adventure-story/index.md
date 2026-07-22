@@ -173,8 +173,19 @@ Write 100 words continuing the story 'Lina's key'. Use *while* and *when* once e
 **Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a support
-card. Above Niveau E: extension question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Finish these starters to build your continuation. Keep every verb in the past simple.
+
+- The next morning Sam __________ (decide) to look for the other half of the map.
+- While he __________ (walk) to the library, he __________ (feel) nervous and excited.
+- When he __________ (open) the heavy door, a woman at the desk __________ (look) up at him.
+- Word bank: a dusty shelf · a hidden drawer · a strange noise · to whisper · to search · suddenly · at last
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write your continuation twice: once as a tense, fast-paced action scene and once as a slow, mysterious one, changing only sentence length, rhythm and word choice, not the events. Then write three or four sentences explaining which techniques created each mood and why an author might choose one register over the other for an opening chapter.
+
 </div>
 
 ## Common pitfalls

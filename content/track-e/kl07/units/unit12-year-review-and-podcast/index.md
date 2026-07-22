@@ -318,14 +318,19 @@ addressee-fit (2), grammar (4).
   cap.
 - *Reflect (5 min).* Peer-feedback exchange.
 
-**Differentiation.** Niveau G: 60 seconds, printed template. Above
-Niveau M: require one *unless*-clause and one passive structure
-inside the monologue.
+**Differentiation — support (below Niveau E).**
 
-**Year-review note.** This Unit is also the implicit *celebration*
-Unit. Treat the recordings as a class artefact — keep them, share
-them with parents, archive them so Klasse 8 can hear how Klasse
-7 sounded.
+Complete these starters out loud before you record — one card per movement:
+
+- **Then:** "Back in September, I couldn't ___ without ___."
+- **Now:** "Since then, I have ___, so now I can ___."
+- **Forward:** "Next year, I'm going to ___ because ___."
+- **Your detail:** "One moment I still remember is when ___."
+
+**Extension (above Niveau E / Oberstufe).**
+
+Record your 90 seconds around a single controlling metaphor for your own learning (your English as a house you are rebuilding, a map you keep redrawing) and sustain that one image from the first line to the last instead of dropping it after the opening. Then add a 30-second "producer's note" analysing why you chose that image, what it captures well, and exactly where it starts to break down or oversimplify what really changed for you this year.
+
 </div>
 
 ## Common pitfalls

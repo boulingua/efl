@@ -174,11 +174,19 @@ BE-weight of the section in the full Klausur.)
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis. Some Klasse 13
-Units (e.g. Unit 9 Analysis) explicitly differentiate by
-candidate path.
+**Differentiation — support (below Niveau E).**
+
+Complete this paragraph frame on one move, keeping every quote embedded inside your own sentence:
+
+- To advance the argument, the writer first _______ .
+- This choice of _______ (diction / register / syntax) positions the reader to _______ .
+- The effect is reinforced when the text turns to _______ , which _______ .
+- Useful markers to link your points: *In doing so, ... · Building on this, ... · As a result, ... · More tellingly, ...*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Set your analysed source beside a second text on the same issue but written for a different audience or in a different form (for example an op-ed against a policy speech). In one tightly argued paragraph, evaluate which writer's argumentative strategy is the more resilient under scrutiny, showing how a shared move (a hedge, an antithesis, a shift in register) does contrasting work in each. Then name the one rhetorical concession each writer makes to their intended reader, and judge whether it strengthens or quietly undermines the case.
+
 </div>
 
 ## Common pitfalls

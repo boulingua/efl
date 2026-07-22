@@ -171,9 +171,19 @@ Mediate: write 5 English sentences from the German source for a peer. Use 3 repo
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete these starters to build your 6-sentence message. Fill each blank with a fact from the German source and use one reporting verb per line (say · recommend · advise · point out).
+
+- Hi ___, here is the gist of a German article I read.
+- It says that teenagers who ___ sleep about ___ minutes less than others.
+- Experts recommend ___.
+- Parents are advised to ___.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Mediate the same German source twice for two very different readers — a worried parent and a sceptical classmate who thinks the study is exaggerated — then add three sentences of your own explaining how your tone, word choice and choice of facts changed for each reader and why. Argue why a good mediation is never a neutral copy of the source, using precise language such as "audience", "register" and "emphasis".
+
 </div>
 
 ## Common pitfalls

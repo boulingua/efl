@@ -178,11 +178,19 @@ BE-weight of the section in the full Klausur.)
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis. Some Klasse 13
-Units (e.g. Unit 9 Analysis) explicitly differentiate by
-candidate path.
+**Differentiation — support (below Niveau E).**
+
+Sentence frames to build the comparison paragraph by paragraph — fill each gap and link them:
+
+- *Le Guin labels her imagined society a(n) ___ utopia, which means it openly shows its ___ .*
+- *In Anarres there is no ___ and no ___ , yet people are still controlled by ___ .*
+- *By contrast, Gilead uses the words of a utopia — such as ___ and ___ — but actually works as a ___ .*
+- *This shows that the two novels mirror each other, because ___ .*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Read a short passage from a contemporary "solarpunk" or ecological-utopia text of your choice (e.g. a Kim Stanley Robinson chapter) and argue whether it repeats Le Guin's honesty about disclosed costs or slides back into More's untroubled homogeneity. Then defend a thesis on whether a utopia can remain a utopia once it names its own price, integrating at least one quotation from each of the three unit authors and sustaining the distinction between a formal mirror and a merely thematic contrast.
+
 </div>
 
 ## Common pitfalls

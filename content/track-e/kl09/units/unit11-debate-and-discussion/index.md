@@ -166,8 +166,18 @@ Write a 150-word debate speech (for or against any motion). Use 4 debate signpos
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card with the key
-structure. Above Niveau E: extension prompt linking to Klasse 10.
+**Differentiation — support (below Niveau E).**
+
+Complete these frames to build a shorter 4-sentence speech on the motion:
+- I would like to speak (for / against) the motion, because ___.
+- Firstly, a project would let us ___, which a written test cannot.
+- My opponent might say ___, but I think ___.
+- To summarise, I urge you to (support / oppose) this motion.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Take the role of moderator and, after both teams have spoken, deliver a 90-second impartial summary that fairly restates the strongest argument on each side, names the single point where the two teams genuinely disagree, and proposes one compromise motion that neither team has yet suggested. Then explain in two sentences why a debate rewards the speaker who anticipates objections rather than the one who simply repeats their own claims most loudly.
+
 </div>
 
 ## Common pitfalls

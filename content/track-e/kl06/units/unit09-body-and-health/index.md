@@ -178,8 +178,19 @@ Write an 8-line doctor-patient dialogue.
 **Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a support
-card. Above Niveau E: extension question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete the role-play with this fill-in patient card, then swap roles:
+
+- *Good morning, doctor. I don't feel well.*
+- *I have got a __________ and a __________.*
+- *My __________ hurts and I feel a bit __________.*
+- *It started __________ (yesterday / last night / two days ago).*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rewrite your doctor-patient role-play twice for two very different patients — a nervous six-year-old and a busy adult who insists nothing is wrong — and explain in three or four sentences how the doctor's word choice, tone and questions change to fit each one. Then argue which version was harder to write in convincing English, and why.
+
 </div>
 
 ## Common pitfalls

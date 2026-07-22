@@ -164,9 +164,20 @@ Write 300 words: a literary essay on the *Slow Hour* extract. Use 2 quotes + 1 c
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
-into Oberstufe: extension prompt linking to Klasse 11
-(Basisfach / Leistungsfach choice).
+**Differentiation — support (below Niveau E).**
+
+Use these openers to build your essay one move at a time:
+
+- **Who is Anya?** *The protagonist of the extract is Anya, a commuter who ___.*
+- **The arc:** *At first she ___, but by the third week she ___.*
+- **A quote:** *This shift is clear when the narrator writes that ___.*
+- **The theme:** *The chapter suggests that ___, because ___.*
+- **A register marker to reuse:** *however, nevertheless, indeed.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a second, contrasting reading of the same chapter that a classmate could genuinely defend: argue that Anya is *not* the true protagonist, and that the missing sixth person is. Support your claim with one close-read detail and one point about narrative perspective, then explain in two sentences why an author might deliberately leave the more important character off the page.
+
 </div>
 
 ## Common pitfalls

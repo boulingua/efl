@@ -301,10 +301,19 @@ of trip."* Award for: gist (4), addressee-fit (2), grammar (4).
 - *Produce (12 min).* Pair speaking, then report-back.
 - *Reflect (2 min).*
 
-**Differentiation.** Niveau G: provide a future-form decision card
-(arrangement → present cont., intention → going to, spontaneous
-→ will). Above Niveau M: require one *unless*-clause inside the
-report-back.
+**Differentiation — support (below Niveau E).**
+
+Use these question and answer starters to interview your partner. Fill the gaps and swap roles:
+
+- *What are you doing __________ this summer?* → *I'm __________ with __________.* (arrangement)
+- *Are you going to __________ in the holidays?* → *Yes, I'm going to __________.* (intention)
+- *Do you think you'll __________?* → *I'll probably __________.* (prediction)
+- Reporting back: *My partner is __________, and she's going to __________.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+After the interview, write a short "plan-keeper's verdict" (about 80 words) on your partner's summer: judge which of their three plans is most likely to actually happen and which is most likely to fall through, and justify each choice by pointing to the future form they used and how firm it sounded. Then argue whether a booked arrangement or a freely chosen intention tends to make a summer more memorable, and defend your position.
+
 </div>
 
 ## Common pitfalls

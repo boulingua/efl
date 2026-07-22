@@ -178,9 +178,19 @@ Write 350 words: a Basisfach literary essay on *Klara and the Sun* ch. 1-4. Use 
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Complete these frames to build the spine of your essay before you add detail:
+
+- **Thesis:** *In the opening chapters, Ishiguro presents Klara as a narrator who notices ______ but does not yet understand ______, and this gap shapes how we read her.*
+- **Integrated quote:** *Ishiguro has Klara observe that ______, a plain report that quietly tells us ______.*
+- **Analysis + marker:** *Beneath the surface, this suggests that ______. In this way, Klara's limited view lets the reader see ______.*
+- **Markers you can reuse:** *by contrast · accordingly · in this regard · beneath the surface.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 500-word comparative essay (Leistungsfach register) arguing whether Klara's naive-but-trustworthy voice exposes the reader's blind spots more effectively than a knowing, self-justifying first-person narrator such as Stevens in Ishiguro's *The Remains of the Day*. Ground your claim in the mechanics of what each narrator can and cannot frame, and evaluate the ethical risk of a novel that asks readers to understand a character better than she understands herself.
+
 </div>
 
 ## Common pitfalls

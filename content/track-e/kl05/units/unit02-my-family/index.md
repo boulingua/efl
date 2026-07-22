@@ -170,9 +170,20 @@ Write 5–6 sentences about your family. Use at least two possessives.
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit's grammar.
+**Differentiation — support (below Niveau E).**
+
+Complete the poster with these sentence starters — fill each gap and copy it under your drawing:
+
+- This is my family. There are ___ people.
+- My mother's name is ___ .
+- My ___ 's name is ___ . (brother, sister, cat)
+- My grandparents' house is in ___ .
+- My ___ is ___ years old.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Instead of one poster, write a short paragraph (8–10 sentences) comparing two very different families — for example, a small household of two people and a large household with grandparents, cousins and pets living together. Explain which arrangement you would prefer and why, using at least three possessive forms and one comparative structure (e.g. *larger than*, *closer than*).
+
 </div>
 
 ## Common pitfalls

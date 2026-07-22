@@ -168,8 +168,19 @@ Write 120 words about an English-speaking region's history. Use 4 past-passive s
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card with the key
-structure. Above Niveau E: extension prompt linking to Klasse 10.
+**Differentiation — support (below Niveau E).**
+
+Complete these starters about your chosen region, then join them into your reflection:
+
+- The town of ______ was named after ______.
+- It was founded as ______.
+- The land was lived on by ______ long before Europeans arrived.
+- Today the languages of ______ are still taught in local schools.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rewrite your region reflection twice, choosing your passive verbs to shift responsibility: first tell the settlers' version of the region's founding, then retell the same events from the perspective of the First Nations who were already living there. In a closing sentence, explain how the passive voice let you leave out — or foreground — exactly who did what, and why a writer might make that choice on purpose.
+
 </div>
 
 ## Common pitfalls

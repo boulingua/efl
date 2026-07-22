@@ -166,8 +166,20 @@ Write 120 words about a money decision. Use *should / shouldn't / had better* (3
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card with the key
-structure. Above Niveau E: extension prompt linking to Klasse 10.
+**Differentiation — support (below Niveau E).**
+
+Complete these starters to build your 120-word money reflection (real or invented):
+
+- Last month I wanted to save for ___ .
+- To keep track of my money, I ___ .
+- Looking back, I think I should ___, and I shouldn't ___ .
+- If I ___, I would ___ .
+- My advice to a younger student: you'd better ___ .
+
+**Extension (above Niveau E / Oberstufe).**
+
+In about 200 words, argue which tool better builds real financial discipline in teenagers: a handwritten notebook like Eli's, or a budgeting app. Weigh at least two genuine strengths and one weakness of each, and close with a nuanced recommendation rather than a simple winner. Then add one sentence explaining how your view might change for someone saving for a large, long-term goal.
+
 </div>
 
 ## Common pitfalls

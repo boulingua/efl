@@ -174,9 +174,19 @@ Write 250 words: a literary essay on the *Late Bus, Cold Bench* extract. Use 3 p
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
-into Oberstufe: extension prompt linking to Klasse 11
-(Basisfach / Leistungsfach choice).
+**Differentiation — support (below Niveau E).**
+
+Complete these starters to build your essay one step at a time (aim for one participle clause and your quote):
+
+- **Narrator:** *In the opening lines, the narrator is a person who ___, because she notices ___.*
+- **Conflict:** *On the surface the conflict is small — ___ — but underneath it is really about ___.*
+- **Stylistic move (with quote):** *The move that does the most work is ___. We see this when the text says "___".*
+- **Whereas sentence:** *Whereas a more dramatic story would ___, this story instead ___.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 350-word comparative analysis setting *Late Bus, Cold Bench* beside one other contemporary story you know that also stages an act of wordless kindness (for example, something by Jhumpa Lahiri or George Saunders). Argue which writer trusts silence more, supporting your claim with a precise reading of each author's narrative technique — and close by evaluating whether "the cup is the argument" is a strength or an evasion in short fiction.
+
 </div>
 
 ## Common pitfalls

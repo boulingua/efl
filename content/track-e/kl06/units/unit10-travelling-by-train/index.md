@@ -180,8 +180,21 @@ Write an 8-line ticket-office dialogue.
 **Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a support
-card. Above Niveau E: extension question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete each line to make your ticket-office role-play. Say your version aloud with a partner before you write it.
+
+- Customer: Hello, a __________ to __________, please. Off-peak, if possible.
+- Clerk: That's £__________. Your train leaves from platform __________.
+- Customer: Thank you. Is the train __________?
+- Clerk: Yes, it's on time. The next one is in __________ minutes.
+
+Useful words: single, return, platform, on time, delayed, off-peak.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rewrite your ticket-office role-play twice for the same journey: once as a calm exchange when everything runs on time, and once when the customer has just missed a cancelled connection and needs a new route to Paris fast. Then add two or three sentences explaining how the clerk's word choice, tone and politeness shift under pressure, and which version sounds more natural to you as a real speaker.
+
 </div>
 
 ## Common pitfalls

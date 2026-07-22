@@ -172,9 +172,21 @@ Write 120 words: a balanced comparison of one rural place and one urban place yo
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete each starter with your own words to build your comparison:
+
+- My village is not as *busy* as ___, but it is as *green* as ___.
+- The internet in the countryside is not as *fast* as ___.
+- In the city, the ___ is *louder* than the ___ in the village.
+- The ___ is the *smallest* building I know, but I like it best.
+
+Useful phrases: *on a different scale · both places have · people actually · at night · far from · close to*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 150-word argumentative response to the claim that the gap between rural and urban life is disappearing now that remote work and fast streaming bring the city into the countryside. Use at least two concessive constructions (*although*, *even though*) and coin one paradox of your own, modelled on the way the farm extract turns silence into something "loud." Close by taking a clear position on whether the two ways of living are truly converging or only appear to.
+
 </div>
 
 ## Common pitfalls

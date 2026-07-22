@@ -175,9 +175,20 @@ Read the German abstract above.
 6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Complete these five frames to build a shorter, safe mediation of the abstract for your economist addressee. Keep the hedges exactly as written.
+
+- The paper examines ______ across ______ OECD countries for the ______ birth cohorts.
+- Methodologically, the authors use ______ together with a ______ estimator.
+- The main findings suggest that mobility in ______ is higher than in ______.
+- However, the authors note that the gap between the earlier and later cohorts has widened in ______.
+- They stress that limitations include ______, and they discuss policy implications with caution.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write the opening four sentences of your mediation twice — once for the PhD-track economist and once for a policy adviser with no econometrics training — then add a short analytical paragraph (four to five sentences) arguing how addressee awareness reshapes your choices: which hedges you preserve verbatim, which disciplinary terms (e.g. the Two-Sample IV estimator) you keep, gloss, or drop, and where you risk distorting the authors' claims by over-simplifying. Conclude by naming the one mediation decision you consider genuinely defensible under either reading, and justify it.
+
 </div>
 
 ## Common pitfalls

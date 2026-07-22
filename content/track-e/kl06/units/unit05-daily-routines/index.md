@@ -181,8 +181,18 @@ Write 6 sentences about your typical Saturday routine using 4 sequence words.
 **Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a support
-card. Above Niveau E: extension question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete the frames aloud with your partner, then use the last line to report back:
+- *First I get up at ___ . Then I ___ .*
+- *At school I ___ . After that I ___ .*
+- *In the evening I ___ . Finally I ___ .*
+- Report: *My partner gets up at ___ . I help him / her with ___ , and we meet them at ___ .*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Interview an adult about how one part of their weekday routine has changed since they were eleven, then write a short paragraph comparing the two versions. Argue which of these changes were free choices and which were forced by work or responsibility, and decide whether growing up gives a person more control over their own time or less.
+
 </div>
 
 ## Common pitfalls

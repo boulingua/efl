@@ -181,9 +181,21 @@ Describe what three classmates are wearing today. Use present continuous and one
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit's grammar.
+**Differentiation — support (below Niveau E).**
+
+Give describers a "guess-who" frame card to fill in before they speak. They copy the four lines and slot in words from the Input vocabulary:
+
+- *This person is wearing a __________ (colour) __________ (clothes item).*
+- *He / She is also wearing __________ and __________ .*
+- *His / Her shoes are __________ .*
+- *His / Her __________ is the same colour as his / her __________ .*  (your comparison)
+
+Tip: point at the word lists in section 2 if you get stuck, then read your four lines aloud to your partner.
+
+**Extension (above Niveau E / Oberstufe).**
+
+After the guessing game, become a "colour reporter": choose one classmate's outfit and write a short paragraph arguing which two colours work best together and why, using at least one comparison (*warmer than*, *darker than*, *goes better with*) and one reason clause (*because …*). Then extend it: explain how you would change one item to make the outfit suitable for a different situation — a job interview, a football match, or a winter hike — and justify each choice in full sentences.
+
 </div>
 
 ## Common pitfalls

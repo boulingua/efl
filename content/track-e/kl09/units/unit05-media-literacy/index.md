@@ -171,8 +171,19 @@ Write 120 words: a media-literacy review of a viral post. Use 3 hedged claims.
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card with the key
-structure. Above Niveau E: extension prompt linking to Klasse 10.
+**Differentiation — support (below Niveau E).**
+
+Complete this review of a viral post. Fill each gap and keep the underlined words:
+
+- The post I chose **seems to** claim that ______________________.
+- Its source is ______________, which I would/would not trust because ______________.
+- The post **appears to** show evidence, but ______________ (no study named / broken link / only one photo).
+- **What would change my mind:** ______________ and ______________.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Find two online posts making the *same* health or tech claim: one that hedges honestly and one that hides thin evidence behind confident wording. In a 150-word critical comparison, argue how word choice rather than the facts alone decides whether a reader trusts each post, and identify the point at which careful-sounding hedging itself becomes a manipulation tactic.
+
 </div>
 
 ## Common pitfalls

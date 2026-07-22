@@ -171,9 +171,19 @@ Read your set text. Identify three chapters where the *language-as-control* moti
 6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Build your motif-trace essay by completing these frames, one per paragraph:
+
+- The motif of ___ runs through the whole novel, and its strongest moment comes in the chapter where ___ .
+- Early on, the motif appears when ___ ; by the middle of the book, it changes because ___ .
+- Through this motif, the novel is arguing that ___ — not just showing it, but shaping it.
+- One reader might object that ___ ; however, I still think ___ , because ___ .
+
+**Extension (above Niveau E / Oberstufe).**
+
+Set your motif against the novel's framing device: argue in a tight 300-word paragraph how the closing frame (Atwood's *Historical Notes*, or Klara's own retrospective narration in Ishiguro) re-reads the motif you traced, and decide whether that frame confirms the structural argument or quietly undercuts it. Then push further by comparing your text with one other whole novel you know, showing how a differently positioned narrator would have made the same motif mean something else.
+
 </div>
 
 ## Common pitfalls

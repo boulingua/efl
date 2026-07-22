@@ -330,13 +330,21 @@ correct grammar (4).
 - *Produce (10 min).* Pair speaking; circulate and prompt.
 - *Reflect (3 min).*
 
-**Differentiation.** Niveau G: provide a printed if-clause frame
-(*If + you + ___, you + will + ___*). Above Niveau M: require one
-*unless*-clause in the speaking turn.
+**Differentiation — support (below Niveau E).**
 
-**Pastoral note.** Friendship problems can quickly become real.
-Keep prompts low-stakes; if a learner shares something heavier,
-take it offline.
+Use these advice-giver starters to build your turn. Finish each one out loud, then react to what your partner says.
+
+- *If you ask them what happened, you will probably ...*
+- *If you wait too long, the problem will ...*
+- *I think you are worried about ..., so if you ..., they will ...*
+- *Honestly, you are good at ..., so ...*
+
+Handy words: *afraid of, worried about, annoyed with, proud of, apologise, on purpose, misunderstanding.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Aisha's advice works because she is blunt — but blunt honesty is not always the kindest choice. Write a short "advice-column" reply (about 120 words) to one of the Produce prompts in which you deliberately give *gentler* advice than Aisha would, then add two sentences arguing when directness helps a friendship and when it damages it. Use at least one second-conditional (*If I were you, I would ...*) and one concessive link such as *although* or *whereas*.
+
 </div>
 
 ## Common pitfalls

@@ -175,9 +175,19 @@ Write 120 words: a self-portrait beyond surface labels.
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete these starters to build your self-portrait paragraph by paragraph:
+
+- I come from ______, but my family also has roots in ______.
+- At home I speak both ______ and ______, although I don't speak either language perfectly.
+- The person who shaped who I am is ______, because ______.
+- One thing I am still figuring out is whether ______ or ______.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Mr. Ade calls the class wall "a working draft." In a short paragraph, argue whether "working draft" or "roots" is the more honest metaphor for identity, and defend a position that holds parts of both rather than fully choosing one. Then rewrite one sentence of your self-portrait so that its form (a hesitation, a correction, an unfinished thought) mirrors the idea you are defending.
+
 </div>
 
 ## Common pitfalls

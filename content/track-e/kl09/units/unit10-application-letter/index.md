@@ -178,8 +178,19 @@ Write a 150-word application letter for a summer job (any). Use formal register 
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card with the key
-structure. Above Niveau E: extension prompt linking to Klasse 10.
+**Differentiation — support (below Niveau E).**
+
+Complete each starter so it fits the *Summer Helper* job, then join them into your letter:
+
+- *I am writing to apply for the ___ position at ___ .*
+- *I am ___ years old and have just finished ___ .*
+- *Last summer I ___ , where I learnt to ___ .*
+- *I would be grateful for the chance to ___ , and I look forward to hearing from you.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rewrite your application as an email to the same hotel from an applicant who has *no* relevant work experience, turning that apparent weakness into a persuasive case through transferable qualities and specific evidence. In a short note beneath it, analyse two register or wording choices you changed for the email format and explain why each strengthens the impression the reader forms of you.
+
 </div>
 
 ## Common pitfalls

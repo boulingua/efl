@@ -174,9 +174,20 @@ Read the three extracts above.
 6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Complete this scaffold to draft a shorter (roughly 200-word) version of the essay, using one term from the Vocabulary box in each gap:
+
+- Thesis: *Read side by side, the three extracts show that post-colonial writers keep the ______ (hybridity / double consciousness) visible rather than resolving it.*
+- Rushdie: *The two surnames on the library card work as a small image of ______, because ______.*
+- Dangarembga: *By contrast, the split between the educated voice and the home voice can be read as ______ in Du Bois's sense, since ______.*
+- Roy: *Accordingly, Roy's ironised *we* refuses a comfortable national voice; this matters because ______.*
+- Close: *What these writers share, therefore, is ______.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 450-word critical essay that turns the unit's central claim against itself: argue whether the "principled refusal of synthesis" is itself a privilege available mainly to canonised, metropolitan-published writers, and test this by weighing Spivak's question of who can access representation against at least two of the three extracts. Then, in a closing paragraph, name one contemporary world-Anglophone writer whose work either confirms or complicates your position, justifying the comparison with a precise reference to their method rather than their reputation.
+
 </div>
 
 ## Common pitfalls

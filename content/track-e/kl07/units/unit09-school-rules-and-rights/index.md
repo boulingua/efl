@@ -314,13 +314,19 @@ Award for: gist (4), addressee-fit (2), correct grammar (4).
 - *Produce (10 min).* Silent writing.
 - *Reflect (3 min).*
 
-**Differentiation.** Niveau G: provide a printed modal-card with
-one example each. Above Niveau M: require one *unless*-clause and
-one comparative.
+**Differentiation — support (below Niveau E).**
 
-**Civic note.** This Unit is about *language for participating in
-school decisions*, not about giving learners the false impression
-that schools are democracies. Keep the framing accurate.
+Complete these sentence frames to build your text. Fill each gap with a rule and a reason:
+
+- One rule I would keep is ______, because ______.
+- Pupils must ______, and ______ is checked by the teacher.
+- One rule I would change is ______, because I think it ______.
+- Pupils should be allowed to ______, although ______.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Instead of judging two rules, write a short "code of conduct" clause for one contested school rule (for example, phones or caps) that both a strict headteacher and a doubtful pupil could accept, then add a paragraph explaining exactly which conditions you built in to satisfy each side and why a compromise here is fairer than a simple ban. Argue in a formal register using modals of obligation, present passive, and at least one conditional (unless / provided that), and finish by comparing your clause with how the same issue might be handled at a school in another country.
+
 </div>
 
 ## Common pitfalls

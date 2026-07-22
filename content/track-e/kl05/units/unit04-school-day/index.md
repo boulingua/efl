@@ -186,9 +186,20 @@ Write 5–6 sentences about your school day: start, two subjects, one favourite,
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit's grammar.
+**Differentiation — support (below Niveau E).**
+
+Complete the frames out loud with your partner. Say each line, then swap:
+
+- *On Monday I start at ______ (time).*
+- *First I have ______, and then I have ______.*
+- *My favourite subject is ______ because ______.*
+- *I don't really like ______.*
+- *We have lunch at ______, and I finish at ______.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Redesign the school day: draft a short, persuasive proposal to your head teacher arguing for one change to the timetable (a later start, longer breaks, or two-subject "deep-focus" mornings). Support your case with at least two reasons and one likely objection you then answer, and use linking words such as *however*, *therefore*, and *on the other hand* to structure your argument.
+
 </div>
 
 ## Common pitfalls

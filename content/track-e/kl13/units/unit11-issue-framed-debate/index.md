@@ -177,11 +177,19 @@ BE-weight of the section in the full Klausur.)
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis. Some Klasse 13
-Units (e.g. Unit 9 Analysis) explicitly differentiate by
-candidate path.
+**Differentiation — support (below Niveau E).**
+
+Speech skeleton to fill in and read aloud (aim for one clear argument plus one named rebuttal):
+
+- "Madam Chair, I speak in favour of / against the motion, because ___."
+- "My first argument is that ___. For example, ___."
+- "Speaker 1 of the other side claimed that ___. I disagree, because ___."
+- "To sum up: the motion is ___, and so I urge this house to support / reject it."
+
+**Extension (above Niveau E / Oberstufe).**
+
+Deliver your 5-minute speech, then write a 250-word meta-analysis of the debate's central framing move: is treating platform algorithms as "public utilities" a fair structural comparison or a rhetorical sleight of hand? Test the analogy against at least one point where it breaks down (for example, whether an amplification feed is really as fungible as electricity), and propose a sharper alternative framing — such as "algorithms as broadcasters" or "as common carriers" — arguing which frame a skilled opposition should force onto the floor and why.
+
 </div>
 
 ## Common pitfalls

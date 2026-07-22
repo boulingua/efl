@@ -174,9 +174,19 @@ Write 300 words: a media-criticism essay on a long-form article. Use 5 advanced 
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Complete these frames about your chosen article to build the essay step by step:
+
+- The article frames the story as a question of _____ rather than _____.
+- The sourcing is uneven: the _____ source is named and on-the-record, while the _____ source stays anonymous because _____.
+- The attribution verbs do quiet work — the first source *says*, but the second source *claims* or *insists*.
+- The writer discloses one limitation only _____ (where in the piece), which is a small but honest admission.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Take one event reported by two different English-language outlets and write a comparative critique: show how each publication's default frame, sourcing hierarchy, and choice of attribution verbs steer the reader toward a different conclusion from the same facts. Then argue whether the divergence is best explained as individual editorial judgement or as structural desk-level habit, and close with a hedged verdict on which frame serves the reader better. Integrate at least seven advanced media-critique terms and sustain a single controlling thesis throughout.
+
 </div>
 
 ## Common pitfalls

@@ -170,8 +170,21 @@ Write 6 sentences about a dish you love (country, ingredients, occasion, one sen
 **Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a support
-card. Above Niveau E: extension question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Complete these six starters for your poster (one sentence each):
+
+- ______ is a dish from ______.
+- It is made with ______, ______, and ______.
+- First you ______, then you ______.
+- People often eat it ______ (when / on which day).
+- When it is ready, it smells / tastes like ______.
+- I love eating it because ______.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Choose one dish that has travelled between countries (for example falafel, curry, or noodles) and write a short paragraph explaining how it changed as it moved, and what its new versions reveal about the people who adopted it. Argue whether a dish can still be called "authentic" once every country cooks its own version, using at least three of the enjoy/prefer/hate + -ing structures to weigh the different tastes.
+
 </div>
 
 ## Common pitfalls

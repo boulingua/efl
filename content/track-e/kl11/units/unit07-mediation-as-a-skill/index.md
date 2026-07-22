@@ -178,9 +178,20 @@ Mediate: 12 English sentences from the source for a Canadian housing researcher.
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Sentence starters for your 12-sentence mediation — fill the gaps and reuse a different reporting verb each time:
+
+- The German *[German term]* (____ a short English explanation in brackets) was introduced in ____ to ____.
+- Supporters **argue** that ____, while critics **counter** that ____.
+- The article **points out** that ____, and it **stresses** that ____.
+- In May 2027 the *Bundesregierung* (____) decided to ____.
+- Overall, the piece **maintains** that the policy is ____, which matters for your research because ____.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Extend the mediation into a 200-word comparative memo for the same Canadian researcher: weigh the German rent-cap approach against one regulated-rent model you research independently (for example Vienna's municipal housing or a Canadian provincial rent-control scheme), and argue in precise, hedged English whether the source's "contested but durable" verdict would hold in that second context. Foreground where the comparison breaks down, and make your own analytical claim rather than restating either position.
+
 </div>
 
 ## Common pitfalls

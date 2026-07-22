@@ -389,10 +389,20 @@ weighting (Niveau M).
   the slide for Niveau G.
 - *Reflect (3 min).* Self-tick + one-sentence response.
 
-**Differentiation.** For Niveau G: provide a printed list of
-common irregular comparatives (*good/better, bad/worse*). For
-learners above Niveau M: ask for one *because*-clause inside the
-written piece (*"because we moved further from the bakery"*).
+**Differentiation — support (below Niveau E).**
+
+Complete these sentence frames to build your "Then and Now" text. Fill each gap with your own idea, then join them into a short paragraph:
+
+- In primary school, I used to __________ every day.
+- Back then, my __________ was __________, but now it is different.
+- I am __________ (taller / older / busier / better at …) now than I was in Klasse 5.
+- One thing that has changed is my __________ — it used to feel __________, and now it feels __________.
+- I have grown, but __________ is still the same.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rewrite one moment from *Ben's Jacket* (the jacket, the swapped shoes, or "we are not the same shape") from a different narrator's point of view — Ben's mother or Aisha — keeping the same events but changing whose feelings we see. Then, in two to three sentences, analyse how switching the narrator changes what the reader notices about growing up, and argue which version makes the change feel more real. Use precise, reflective language (for example *perspective*, *implies*, *understatement*, *nostalgia*).
+
 </div>
 
 ## Common pitfalls

@@ -173,8 +173,19 @@ Write a 150-word portrait of a real person you can imagine interviewing. Include
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card with the key
-structure. Above Niveau E: extension prompt linking to Klasse 10.
+**Differentiation — support (below Niveau E).**
+
+Complete these portrait frames using your interview notes:
+
+- *___ has worked as a ___ for ___ years.*
+- *She/He told me that ___.* (reported speech — no quotation marks)
+- *"___," she/he said.* (one direct quote — remember the inverted commas)
+- *The thing I will remember most about this interview is ___.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a second, 150-word portrait of the *same* interviewee, but shift the angle so the reader forms a noticeably different impression of the person — for example, warm and admiring versus distant and sceptical — by changing only which quote you foreground, your reported-speech verbs, and your ordering of detail. Then add three sentences explaining which specific word choices did the work, and argue whether a journalist selecting quotes this way is being fair or manipulative.
+
 </div>
 
 ## Common pitfalls

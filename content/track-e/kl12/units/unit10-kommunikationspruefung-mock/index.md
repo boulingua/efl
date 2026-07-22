@@ -171,9 +171,19 @@ Read the sample monologue above.
 6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Monologue scaffold — complete each move aloud from your stimulus card:
+
+- **Frame:** "Let me start with the stimulus — it shows ___ . I think it is really about ___ ."
+- **Argue:** "My first point is ___ . My second point is ___ ."
+- **Concede:** "I will admit one thing: ___ . But I still believe ___ ."
+- **Close:** "So the real question this stimulus raises is not ___ , but ___ ?"
+
+**Extension (above Niveau E / Oberstufe).**
+
+In the examiner-dialogue phase, defend a deliberately uncomfortable thesis: that the "spoken-academic register" itself quietly filters whose adaptation counts as knowledge, echoing the very cropping your stimulus critiques. Sustain it under three rebuttals, conceding one genuine limit without abandoning the claim, and close by naming what a fairer examiner grid would actually reward.
+
 </div>
 
 ## Common pitfalls

@@ -183,9 +183,19 @@ Write 450 words: a Leistungsfach literary essay tracing Macbeth's relationship t
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Complete each frame with your own idea about the soliloquy, then link the three into one paragraph:
+
+- In 1.7, Macbeth treats the murder as something that could be __, because __.
+- By contrast, in 2.1 the dagger no longer __; instead it __.
+- Finally, in 5.5 the future has become __, which shows that __.
+- Useful linking words: *by contrast, however, accordingly, in this regard, more precisely, therefore.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Beyond tracing the arc, evaluate one published critical reading of the 5.5 soliloquy (for example the nihilist interpretation) and argue whether it accounts for the verse-rhythm as fully as for the meaning. Then compare Macbeth's collapsing sense of time with the treatment of time in one other work you have read, and defend a claim about why Shakespeare locates moral failure in the tense-system rather than in a single act.
+
 </div>
 
 ## Common pitfalls

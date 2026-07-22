@@ -175,9 +175,19 @@ Write a 4-minute Komm-Prüfung-style monologue script (~300 words) on a stimulus
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Complete this monologue skeleton for your stimulus card before you rehearse — one line each, then say it aloud without reading:
+
+- **Frame:** My stimulus is ____, and my honest reaction is that it is ____.
+- **Argument 1:** One reason I take this view is ____, for example ____.
+- **Concession:** I will concede one point: ____ is genuinely true.
+- **Commit:** If I had to commit, I would say ____.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Deliver your 4-minute monologue twice from the same stimulus card, but pitched to two opposed audiences — first to a sceptical policymaker, then to an activist who already agrees with you — and hold the closing dialogue on this question: how did the audience change your choice of evidence, your concessions, and your register, and where does shifting the framing for effect stop being persuasion and start being manipulation? Defend your line with reference to at least one rhetorical technique you deployed differently each time.
+
 </div>
 
 ## Common pitfalls

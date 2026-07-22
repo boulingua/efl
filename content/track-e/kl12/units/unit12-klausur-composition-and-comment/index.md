@@ -167,9 +167,19 @@ Leistungsfach (advanced course): 40/60.
 6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Sentence frames to draft the Composition argument (fill the gaps, then keep writing):
+
+- Thesis: *In this text, the writer argues that our attention has become a resource that companies compete to capture, and on the whole I find this claim ___.*
+- Add evidence: *One reason this matters is that ___; the writer shows this when they point to ___.*
+- Concede, then push back (hedge): *It could be argued that ___; however, this seems to overlook the fact that ___.*
+- Conclusion: *Taken together, these points suggest that ___, which is why readers should ___.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 300-word critical comparison that sets the writer's account of the attention economy against one earlier warning about mass media (for example, Postman's argument that entertainment reshapes public thought, or Huxley's fear of a population distracted into passivity). Argue whether today's attention markets represent a genuinely new mechanism or merely an old anxiety in digital dress, and defend your position using at least two cleft sentences, precise concessive markers, and evaluative rather than descriptive language throughout.
+
 </div>
 
 ## Common pitfalls

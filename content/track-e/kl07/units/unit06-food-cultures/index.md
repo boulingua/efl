@@ -364,14 +364,19 @@ gist (4), addressee-fit (2), correct grammar (4).
   imperative + one quantifier per turn.
 - *Reflect (2 min).*
 
-**Differentiation.** For Niveau G: provide a printed
-some/any/much/many flowchart. For learners above Niveau M: ask
-for at least one comparative (*saltier than*, *less spicy than*)
-in the speaking turn.
+**Differentiation — support (below Niveau E).**
 
-**Cultural note.** Resist asking learners to "represent" a
-culture. Each learner speaks for themselves and their household,
-not for a country.
+Speaking frames to complete before your turn in *Family Plate*:
+
+- *One dish we make at home is __________. We usually eat it when __________.*
+- *You need a few __________ and a little __________.*
+- *__________ (a person) taught us. She/He always says, "Don't __________."*
+- *Follow-up you can ask your partner: "When did you first eat it?"*
+
+**Extension (above Niveau E / Oberstufe).**
+
+After the pair task, prepare a two-minute spoken argument responding to the claim that a family dish "belongs" only to the household that cooks it: weigh how migration, restaurants, and supermarkets both spread a dish and thin out its meaning, and reach a nuanced conclusion of your own. Use at least two comparative or concessive structures (*whereas*, *even though*, *far less personal than*) and one example you invent yourself.
+
 </div>
 
 ## Common pitfalls

@@ -170,9 +170,19 @@ Write 200 words: an identity reflection past flag-and-passport thinking. Use 2 m
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card. Above Niveau E /
-into Oberstufe: extension prompt linking to Klasse 11
-(Basisfach / Leistungsfach choice).
+**Differentiation — support (below Niveau E).**
+
+Complete these starters to build your reflection step by step:
+
+- For me, the question "where are you from?" is not simple, because __________.
+- If my family had __________, I would __________ now. *(mixed conditional)*
+- I am both __________ and __________, and the second part is not a missing piece.
+- The question I would rather answer is __________.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Research how the writer Taiye Selasi reframes belonging by arguing that people are best understood as "locals" of specific places (rituals, relationships, restrictions) rather than as products of a single nation-state. In roughly 150 words, evaluate whether her model makes traditional national identity obsolete or merely incomplete, and strengthen your position by raising one serious counter-argument and then rebutting it.
+
 </div>
 
 ## Common pitfalls

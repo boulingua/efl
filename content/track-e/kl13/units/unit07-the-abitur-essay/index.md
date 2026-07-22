@@ -171,11 +171,21 @@ BE-weight of the section in the full Klausur.)
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis. Some Klasse 13
-Units (e.g. Unit 9 Analysis) explicitly differentiate by
-candidate path.
+**Differentiation — support (below Niveau E).**
+
+Skeleton starters for the four moves of your argumentative comment — finish each sentence in your own words, then grow each into a full paragraph:
+
+- **Thesis:** *The writer argues that ___, and on balance I find this claim (convincing / one-sided) because ___.*
+- **Evidence:** *This concern is well founded: when ___, the result is often ___.*
+- **Counter:** *That said, critics could reasonably object that ___.*
+- **Conclusion:** *Weighing both sides, I conclude that ___.*
+
+Useful discourse markers to join your ideas: *admittedly, consequently, by contrast, more importantly.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rewrite your response as a "steel-man then dismantle" comment: first reconstruct the source's argument in its strongest possible form, then dismantle it, distinguishing precisely where measured platform behaviour genuinely does track public opinion from where the two merely appear to coincide. Frame your critique against a named theorist of the public sphere (for instance Habermas or Lippmann), integrating the reference without paraphrasing their prose, and sustain a formal, hedged academic register throughout.
+
 </div>
 
 ## Common pitfalls

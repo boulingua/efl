@@ -175,9 +175,20 @@ Write your own 60-second talk text (10–14 sentences). Use *Then / Now / Forwar
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit's grammar.
+**Differentiation — support (below Niveau E).**
+
+Fill the gaps, then read your bullets aloud — one line for each movement:
+
+- **Then:** *In September I couldn't ______ , but I could already ______ .*
+- **Now:** *Now I can ______ , and I have got ______ .*
+- **Now (right now):** *Today I am standing here and I am ______ing in English.*
+- **Forward:** *Next year I want to ______ because ______ .*
+- **Ending:** *Thank you for listening.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+After the show, pick two classmates' talks and write a short comparison (about 8 sentences): explain which one held your attention more and *why*, pointing to concrete choices — a vivid example, the order of ideas, or a well-placed *can* or possessive. Close by naming one technique you would borrow for your own next talk and justifying it.
+
 </div>
 
 ## Common pitfalls

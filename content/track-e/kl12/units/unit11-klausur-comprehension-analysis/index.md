@@ -172,9 +172,19 @@ Allocate the 90 minutes: ___ min reading; ___ min Comprehension; ___ min Analysi
 6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Use these starters to build your Analysis answer on the writer's argumentative strategy, slotting a short embedded phrase into each gap (aim for one integrated quote per move):
+
+- The writer's first move is to _____, describing readers as being "_____".
+- To strengthen this, the writer then _____, which frames attention as _____.
+- A further strategy is the shift to _____, signalled by the phrase "_____".
+- Taken together, these moves position the reader to _____.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rather than analysing the set essay alone, evaluate the limits of its own argument: identify one point at which the writer's case against attention economies could be turned against the essay itself (for instance, its rhetorical bid for your attention), and judge in a tight paragraph whether this weakens or sharpens the piece. Then contrast the writer's framing with how a second author you know — journalistic or literary — treats distraction, and argue which framing better withstands scrutiny, sustaining an academic register and integrating evidence from both without block-quoting.
+
 </div>
 
 ## Common pitfalls

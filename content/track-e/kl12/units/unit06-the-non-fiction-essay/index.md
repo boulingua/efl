@@ -165,9 +165,21 @@ Read the paraphrase above.
 6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Build your essay from these four sentence-starters — one per stage of the *anecdote-as-argument* move. Finish each in your own words:
+
+- **Open with the small scene:** *The first time I noticed ___, I was ___ and ___.*
+- **Turn the scene into an argument (by paragraph 3):** *At first this seemed like a private habit, but it actually shows that ___.*
+- **Reach the moral turn (by paragraph 5):** *What matters here is not ___ ; the real question is whether ___.*
+- **Return to the scene at the close:** *Looking back at that same moment now, it no longer feels like ___ — it feels like ___.*
+
+Useful linking words: *at first, accordingly, by contrast, in the end.* Hedge with: *perhaps, it seems that.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Choose two essayists from the further-reading list (for example Zadie Smith and James Baldwin) and write a 500-word comparative essay analysing *how each one manages the shift between the personal "I" and the political claim* — where does each let the reader feel the join, and where does each hide it? Sustain an explicit comparative thesis throughout, integrate at least one precisely paraphrased structural move from each writer (no direct quotation), and close by arguing which model of the essayist's *I* you find more defensible and why.
+
 </div>
 
 ## Common pitfalls

@@ -179,9 +179,21 @@ Write 6 sentences about a real or imagined pet (name, age, colour, food, habit, 
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit's grammar.
+**Differentiation — support (below Niveau E).**
+
+Complete these six starters for your pet portrait (one line each):
+
+- This is __________ .
+- He / She is __________ years old.
+- He / She has got __________ (colour) fur / feathers / scales.
+- Every day he / she eats __________ .
+- In the afternoon he / she __________ (one habit).
+- He / She doesn't like __________ .
+
+**Extension (above Niveau E / Oberstufe).**
+
+Choose a pet and its wild relative (for example a house rabbit and a wild fox) and write a short comparative text about a single day in each animal's life, using the present simple to contrast safety with freedom. Then argue in two or three sentences which animal you think has the better life, using linking words such as *however*, *whereas* and *because* to justify your view.
+
 </div>
 
 ## Common pitfalls

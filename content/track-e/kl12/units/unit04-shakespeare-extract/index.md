@@ -177,9 +177,19 @@ Read the four lines above.
 6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Complete these four starters to build a shorter close reading (aim for 150 words). Fill each blank with your own words:
+
+- The opening quatrain places _______ before _______, and this inversion makes the reader _______.
+- The most loaded image is _______; it works by synecdoche/metonymy because _______ stands for _______.
+- The poem turns at the closing couplet, where the speaker asks the beloved to _______ rather than _______.
+- Therefore, the form does what prose cannot: it _______.
+
+**Extension (above Niveau E / Oberstufe).**
+
+In 500 words, set the three-image acceleration of Sonnet 73 against the handling of time and mortality in one other Shakespeare sonnet of your choice, and argue which poem earns its volta more convincingly. Sustain integrated quotation, weigh at least two competing critical readings, and close by defending your judgement rather than merely summarising it.
+
 </div>
 
 ## Common pitfalls

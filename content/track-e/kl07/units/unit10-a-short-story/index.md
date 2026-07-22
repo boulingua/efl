@@ -332,14 +332,19 @@ gist (4), addressee-fit (2), correct grammar (4).
 - *Produce (10 min).* Silent writing. Strong-mover circulate.
 - *Reflect (3 min).*
 
-**Differentiation.** Niveau G: provide an adverb-list flashcard
-with five common adverbs. Above Niveau M: require one *because*-
-or *although*-clause inside the continuation.
+**Differentiation — support (below Niveau E).**
 
-**Literary note.** This is the first explicit literary-reading
-Unit. Future Units in Klasse 8–10 build on this — recognising
-mood, narrator, detail-as-tool. Avoid quizzing on author
-biography; stay with the text.
+Use these starters to build your continuation of *The Last Bus*. Finish each line, then join them into one paragraph in past simple:
+
+- Salim stood up **slowly** and started to walk toward ___ .
+- The night air smelled of ___ , and he could hear ___ .
+- He said ___ quietly to himself, just to feel less alone.
+- By the time he got home, he ___ , but he thought the old man had been right.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a two-paragraph continuation in which the mood shifts from quiet loneliness to guarded hope *without ever naming a feeling* — carry the change entirely through sensory detail, sentence rhythm, and one loaded line of dialogue. Then add a short analytical note (3–4 sentences) explaining which single detail does the most work and why, comparing your technique to how the source story uses the "coat that was too big" to suggest character before any emotion is stated.
+
 </div>
 
 ## Common pitfalls

@@ -185,9 +185,21 @@ Write 280 words: an essay paragraph holding two readings of the Dream in tension
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Complete these frames to build your paragraph. Fill each blank with your own idea, then join them into one text:
+
+- **Thesis (cleft):** *It is the ___ phrase, more than the ___ line, that most people mean by "the American Dream."*
+- **Contrast (marker):** *By contrast, the 2024 critique claims that ___.*
+- **Emphasis (inversion):** *Not until ___ did the Dream ___.*
+- **Both sides (marker):** *On the one hand ___; on the other hand ___.*
+
+Useful phrases: *a promise of a better life · rights versus outcomes · income mobility · a shared national story · to hold both readings · to survive as an idea.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 280-word paragraph that sets the American Dream against one comparable "national promise" from another country you know (for example a German notion of *Wohlstand für alle* or the French *égalité*), arguing whether the Dream travels or stays uniquely American. Then close with a short meta-comment: which of your own two readings your writing quietly favoured, and why an Oberstufe reader should distrust that preference.
+
 </div>
 
 ## Common pitfalls

@@ -370,15 +370,19 @@ detail; flag missing past-perfect attempts.
   one past-perfect line.
 - *Reflect (2 min).* Self-tick + one sentence.
 
-**Differentiation.** For Niveau G: print a past-participle list
-(go/gone, see/seen, eat/eaten). For learners above Niveau M:
-require two past-perfect uses in the role-play and one
-because-clause.
+**Differentiation — support (below Niveau E).**
 
-**Cultural note.** Avoid "Scotland = bagpipes + kilts" stereotypes.
-The text grounds Scotland in weather, hills, and travel
-practicalities. Save Highland Games etc. for a later Unit if at
-all.
+Use these starters to build your part of the Frances-and-stranger role-play. Complete each line with your own idea:
+
+- *One thing really surprised me here — I had expected __________, but instead __________.*
+- *There is still something I don't understand: __________?*
+- Stranger: *If I were you, I would __________, because __________.*
+- Useful words: **to expect**, **surprised**, **the weather changes fast**, **a loch**, **the Highlands**, **platform**, **to change trains**, **worth a visit**.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Turn the role-play into a short reflective monologue in Frances's voice, delivered a week after the conversation: weigh how far the "postcard Scotland" she had pictured matched the place she actually met, and argue whether an idealised image helps or hinders a first-time traveller. Sustain at least two contrasting viewpoints and use the past perfect to mark what she had believed before arriving.
+
 </div>
 
 ## Common pitfalls

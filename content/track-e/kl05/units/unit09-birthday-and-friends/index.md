@@ -177,9 +177,21 @@ Write a 6-line birthday invitation: greeting, reason, date, time, place, RSVP, s
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a
-support card with the key structure. Above Niveau E: extension
-question linking to the next Unit's grammar.
+**Differentiation — support (below Niveau E).**
+
+Fill in the gaps to build your 6-line card, then copy it neatly:
+
+- Dear ______, I would like to invite you to my ______ party.
+- It is on ______ , the ______ of ______ , at ______ p.m.
+- We will meet at ______ .
+- There will be ______ and ______ .
+- Please RSVP by ______ .
+- Best wishes, ______ .
+
+**Extension (above Niveau E / Oberstufe).**
+
+Design invitations for the same party aimed at two very different guests — for example a shy new classmate and a lively best friend — and write a short paragraph explaining how you changed your word choice, tone and level of politeness for each reader. Then argue whether a handwritten card or a quick phone message is the better way to invite someone, giving at least two reasons that weigh warmth against convenience.
+
 </div>
 
 ## Common pitfalls
