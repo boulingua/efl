@@ -169,9 +169,21 @@ Read the *Brave New World* paraphrase and answer:
 6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Use these sentence frames to build your comparative paragraph. Fill each gap and link the ideas:
+
+- **Thesis:** "The motif of ______ shapes all three regimes, but each uses it in a different way."
+- **Text 1:** "In Orwell's *1984*, the regime controls people by ______, which shows that ______."
+- **Text 2 (contrast):** "By contrast, in Huxley's *Brave New World*, control works through ______ rather than ______."
+- **Text 3 (add + cleft):** "In Atwood's *The Handmaid's Tale*, ______ becomes the main tool. It is this ______ that makes the regime hardest to resist."
+
+Useful linkers: *by contrast, similarly, more specifically, in this regard, finally.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Rather than tracing one motif across all three novels, argue which single control mechanism — surveillance, engineered pleasure, or ritualised language — most accurately describes power in one contemporary institution (a social platform, a workplace, a state) and defend your choice against the two you reject. Your 400-word essay must sustain a comparative thesis, integrate evidence from at least two of the dystopias as analytical lenses rather than illustrations, and close by naming one blind spot the canon itself cannot see.
+
 </div>
 
 ## Common pitfalls

@@ -170,8 +170,19 @@ Write 120 words about your career plans (real or imagined). Use 4 verb + to-infi
 **Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
 5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
 
-**Differentiation.** Below Niveau E: scaffold card with the key
-structure. Above Niveau E: extension prompt linking to Klasse 10.
+**Differentiation — support (below Niveau E).**
+
+Use these starters to build your two minutes. Say each line aloud, then add one detail of your own:
+
+- One job that interests me is ______, because ______.
+- I want to learn ______, and I hope to get better at ______.
+- One problem for me is ______ (for example, ______).
+- Next month I plan to ______, and I have decided to ______.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Turn your career plan into a short "letter to your future self" for the year 2036: describe the job you predicted, then argue whether the obstacle you named today is more likely to be solved by your own effort or by changes in the wider world of work (automation, remote jobs, new professions). Weave in at least three verb + to-infinitive structures and one conditional, and close by comparing how realistic Eli's marine-biologist ad looks against your own plan.
+
 </div>
 
 ## Common pitfalls

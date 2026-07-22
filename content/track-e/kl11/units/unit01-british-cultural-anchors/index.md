@@ -181,9 +181,19 @@ Write 250 words: a cultural-essay paragraph on a British anchor. Use 4 academic 
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
-**Differentiation.** Basisfach (basic course): tighter argument,
-clearer moves. Leistungsfach (advanced course): sustained
-analysis, integrated quotation, complex thesis.
+**Differentiation — support (below Niveau E).**
+
+Build your paragraph by completing these four frames in order — one claim, two pieces of evidence, one concession:
+
+- **Claim:** The ___ is often called the most British institution, but this label deserves a closer look.
+- **Evidence 1:** More specifically, it was ___ (a founding date, a law, a funding model), which shows that ___.
+- **Evidence 2:** In this regard, it also ___, and accordingly it shapes what "British" means because ___.
+- **Concession:** That said, by contrast, the label ignores ___, which matters just as much.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a comparative 300-word essay arguing which of two anchors — the BBC and the NHS — has done more to define "British" since 1945, and defend a genuine thesis rather than a balanced summary. Then add a short reflective coda naming one way your own cultural background makes you read one of these institutions differently than a British writer might, integrating at least six academic discourse markers across the whole piece.
+
 </div>
 
 ## Common pitfalls

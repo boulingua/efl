@@ -169,8 +169,19 @@ Write 6 sentences about your school week using 4 different frequency adverbs and
 **Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
 4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect 5 min.
 
-**Differentiation.** Below Niveau E (mixed group): provide a support
-card. Above Niveau E: extension question linking to the next Unit.
+**Differentiation — support (below Niveau E).**
+
+Use these starters to speak for 90 seconds about your week. Change the adverb each time.
+
+- *On Mondays I usually __________, and after the bell I often __________.*
+- *On Friday afternoons I sometimes __________, but I rarely __________.*
+- *One thing I never do at school is __________.*
+- *Before school I always __________, because __________.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Interview your partner about their week, then report back to the class in the third person — but end with an argument: which one habit should your school change, and why? Use at least three different frequency adverbs and one contrast word (*although*, *whereas*, *however*) to compare an ideal school week with the real one.
+
 </div>
 
 ## Common pitfalls
