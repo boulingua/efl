@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl06_unit06-friends-and-feelings.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit06-friends-and-feelings.png"
+tags:
+  - "speaking"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.3"
+  - "3.1.3.5"
+  - "3.1.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

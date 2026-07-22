@@ -25,6 +25,16 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl07_unit08-first-mediation.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit08-first-mediation.png"
+tags:
+  - "mediation"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.5"
+  - "3.2.3.6"
+  - "3.2.3.7"
+  - "3.2.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

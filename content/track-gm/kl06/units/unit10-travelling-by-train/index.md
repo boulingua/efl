@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl06_unit10-travelling-by-train.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit10-travelling-by-train.png"
+tags:
+  - "listening"
+  - "reading"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.1"
+  - "3.1.3.2"
+  - "3.1.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

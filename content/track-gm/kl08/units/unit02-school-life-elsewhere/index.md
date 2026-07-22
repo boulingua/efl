@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl08_unit02-school-life-elsewhere.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit02-school-life-elsewhere.png"
+tags:
+  - "reading"
+  - "speaking"
+  - "intercultural"
+  - "3.2.1"
+  - "3.2.2"
+  - "3.2.3.2"
+  - "3.2.3.3"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

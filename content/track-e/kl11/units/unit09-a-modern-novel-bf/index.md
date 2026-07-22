@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl11_unit09-a-modern-novel-bf.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl11_unit09-a-modern-novel-bf.png"
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.5.1"
+  - "3.5.3.2"
+  - "3.5.3.5"
+  - "3.5.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

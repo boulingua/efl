@@ -25,6 +25,16 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl08_unit04-ireland-stories.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl08_unit04-ireland-stories.png"
+tags:
+  - "reading"
+  - "writing"
+  - "intercultural"
+  - "3.2.1"
+  - "3.2.2"
+  - "3.2.3.2"
+  - "3.2.3.5"
+  - "3.2.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

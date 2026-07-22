@@ -25,6 +25,16 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit10-a-day-in-london.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit10-a-day-in-london.png"
+tags:
+  - "reading"
+  - "listening"
+  - "intercultural"
+  - "3.1.1"
+  - "3.1.2"
+  - "3.1.3.1"
+  - "3.1.3.2"
+  - "3.1.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

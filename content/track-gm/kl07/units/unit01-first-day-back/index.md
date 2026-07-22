@@ -26,6 +26,17 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl07_unit01-first-day-back.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit01-first-day-back.png"
+tags:
+  - "speaking"
+  - "listening"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.1"
+  - "3.2.3.3"
+  - "3.2.3.5"
+  - "3.2.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

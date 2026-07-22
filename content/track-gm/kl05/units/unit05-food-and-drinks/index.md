@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl05_unit05-food-and-drinks.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit05-food-and-drinks.png"
+tags:
+  - "reading"
+  - "speaking"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.2"
+  - "3.1.3.3"
+  - "3.1.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

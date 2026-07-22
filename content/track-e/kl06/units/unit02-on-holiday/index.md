@@ -25,6 +25,16 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl06_unit02-on-holiday.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl06_unit02-on-holiday.png"
+tags:
+  - "listening"
+  - "speaking"
+  - "intercultural"
+  - "3.1.1"
+  - "3.1.2"
+  - "3.1.3.1"
+  - "3.1.3.3"
+  - "3.1.3.8"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

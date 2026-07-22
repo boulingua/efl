@@ -26,6 +26,17 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl07_unit09-school-rules-and-rights.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit09-school-rules-and-rights.png"
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.2"
+  - "3.2.3.2"
+  - "3.2.3.5"
+  - "3.2.3.8"
+  - "3.2.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

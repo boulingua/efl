@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit09-birthday-and-friends.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit09-birthday-and-friends.png"
+tags:
+  - "speaking"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.3"
+  - "3.1.3.5"
+  - "3.1.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

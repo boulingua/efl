@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl10_unit07-mediation-feature-article.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl10_unit07-mediation-feature-article.png"
+tags:
+  - "mediation"
+  - "writing"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.3.5"
+  - "3.3.3.6"
+  - "3.3.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

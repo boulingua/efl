@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl08_unit07-teen-magazine-mediation.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl08_unit07-teen-magazine-mediation.png"
+tags:
+  - "mediation"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.5"
+  - "3.2.3.6"
+  - "3.2.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

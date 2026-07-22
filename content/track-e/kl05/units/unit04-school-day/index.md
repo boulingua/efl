@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit04-school-day.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit04-school-day.png"
+tags:
+  - "listening"
+  - "speaking"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.1"
+  - "3.1.3.3"
+  - "3.1.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

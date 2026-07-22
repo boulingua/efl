@@ -25,6 +25,16 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl09_unit08-inequality-and-voice.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl09_unit08-inequality-and-voice.png"
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.2"
+  - "3.2.3.2"
+  - "3.2.3.5"
+  - "3.2.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

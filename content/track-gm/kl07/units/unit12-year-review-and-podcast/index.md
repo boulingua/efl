@@ -25,6 +25,16 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl07_unit12-year-review-and-podcast.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit12-year-review-and-podcast.png"
+tags:
+  - "speaking"
+  - "listening"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.3"
+  - "3.2.3.4"
+  - "3.2.3.5"
+  - "3.2.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

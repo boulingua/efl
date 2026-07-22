@@ -26,6 +26,17 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl07_unit04-a-trip-to-scotland.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl07_unit04-a-trip-to-scotland.png"
+tags:
+  - "reading"
+  - "listening"
+  - "intercultural"
+  - "3.2.1"
+  - "3.2.2"
+  - "3.2.3.1"
+  - "3.2.3.2"
+  - "3.2.3.8"
+  - "3.2.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

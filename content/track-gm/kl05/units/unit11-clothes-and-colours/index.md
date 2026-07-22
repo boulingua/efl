@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl05_unit11-clothes-and-colours.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit11-clothes-and-colours.png"
+tags:
+  - "speaking"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.3"
+  - "3.1.3.5"
+  - "3.1.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

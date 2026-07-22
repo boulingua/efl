@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl10_unit01-transition-after-grade-10.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit01-transition-after-grade-10.png"
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.3.2"
+  - "3.3.3.5"
+  - "3.3.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

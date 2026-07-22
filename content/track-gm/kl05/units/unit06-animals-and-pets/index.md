@@ -25,6 +25,16 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl05_unit06-animals-and-pets.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit06-animals-and-pets.png"
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.2"
+  - "3.1.3.5"
+  - "3.1.3.7"
+  - "3.1.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

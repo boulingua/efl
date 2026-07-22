@@ -26,6 +26,17 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl07_unit03-media-in-our-lives.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl07_unit03-media-in-our-lives.png"
+tags:
+  - "listening"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.1"
+  - "3.2.3.5"
+  - "3.2.3.7"
+  - "3.2.3.8"
+  - "3.2.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

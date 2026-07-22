@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl09_unit10-application-letter.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit10-application-letter.png"
+tags:
+  - "reading"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.2"
+  - "3.2.3.5"
+  - "3.2.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

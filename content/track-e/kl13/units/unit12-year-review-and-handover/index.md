@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl13_unit12-year-review-and-handover.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl13_unit12-year-review-and-handover.png"
+tags:
+  - "writing"
+  - "speaking"
+  - "language_awareness"
+  - "3.4.1"
+  - "3.4.3.4"
+  - "3.4.3.5"
+  - "3.4.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

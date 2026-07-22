@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit07-weather-and-seasons.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit07-weather-and-seasons.png"
+tags:
+  - "listening"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.1"
+  - "3.1.3.5"
+  - "3.1.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

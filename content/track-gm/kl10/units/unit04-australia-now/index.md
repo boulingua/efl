@@ -25,6 +25,16 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl10_unit04-australia-now.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit04-australia-now.png"
+tags:
+  - "reading"
+  - "listening"
+  - "intercultural"
+  - "3.3.1"
+  - "3.3.2"
+  - "3.3.3.1"
+  - "3.3.3.2"
+  - "3.3.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

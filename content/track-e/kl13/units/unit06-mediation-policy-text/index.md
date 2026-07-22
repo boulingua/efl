@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl13_unit06-mediation-policy-text.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl13_unit06-mediation-policy-text.png"
+tags:
+  - "mediation"
+  - "writing"
+  - "language_awareness"
+  - "3.4.1"
+  - "3.4.3.5"
+  - "3.4.3.6"
+  - "3.4.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl09_unit11-debate-and-discussion.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl09_unit11-debate-and-discussion.png"
+tags:
+  - "speaking"
+  - "listening"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.1"
+  - "3.2.3.3"
+  - "3.2.3.4"
+topic: themen
 ---
 
 {{< callout type="note" >}}

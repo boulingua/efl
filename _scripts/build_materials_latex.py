@@ -1,12 +1,16 @@
 #!/usr/bin/env python3
-"""Generate branded per-unit materials for EFL from each unit's own content.
+"""Generate branded per-unit materials from each unit's own content.
 
-For every teaching unit it derives a slide deck (slidegen/Beamer) and a
-worksheet (sheetgen) — real content pulled from the unit markdown, no
-re-authoring — compiles them with XeLaTeX in the boulingua design language
-(English signature accent + pentagon mark + foot watermark), renders a
-thumbnail, writes the PDFs under static/materials/, and rewrites the unit's
-presentation:/worksheet: front matter to the open-format PDFs.
+Multi-site (efl/fle/daf): for every teaching unit it derives a slide deck
+(slidegen/Beamer) and a worksheet (sheetgen) — real content pulled from the
+unit markdown, no re-authoring — compiles them with XeLaTeX in the boulingua
+design language (the site's signature accent + pentagon mark + foot watermark),
+renders a thumbnail, writes the PDFs under static/materials/, and rewrites the
+unit's presentation:/worksheet: front matter to the open-format PDFs.
+
+The site (== repo directory name, e.g. efl/fle/daf) selects the LaTeX accent
+via \\blgsetlang and the /<site> URL prefix. Section names, answer-key formats
+and the flat slug are detected across English, French and German units.
 
 Usage:
   build_materials_latex.py [--only SLUG_SUBSTR] [--limit N] [--keep-tex]
@@ -17,10 +21,11 @@ import sys, os, re, subprocess, glob, argparse, shutil
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parent.parent
+SITE = REPO.name                 # efl | fle | daf -> \blgsetlang{SITE}, /SITE URLs
 MAT = REPO / "_materials"
 PRES = REPO / "static/materials/presentations"
 WORK = REPO / "static/materials/worksheets"
-URL = "/efl"
+URL = "/" + SITE
 
 # ---------- markdown → LaTeX ----------
 SPECIAL = {'\\': r'\textbackslash{}', '&': r'\&', '%': r'\%', '$': r'\$',
@@ -49,7 +54,9 @@ def inline(s):
            .replace(C,r'\texttt{').replace(Cc,'}'))
     # arrows/symbols the bundled text font lacks -> math equivalents
     for u,t in (('→',r'$\to$'),('←',r'$\gets$'),('↔',r'$\leftrightarrow$'),
-                ('⇒',r'$\Rightarrow$'),('⇐',r'$\Leftarrow$'),('×',r'$\times$'),('≥',r'$\geq$'),('≤',r'$\leq$')):
+                ('⇒',r'$\Rightarrow$'),('⇐',r'$\Leftarrow$'),('×',r'$\times$'),
+                ('≥',r'$\geq$'),('≤',r'$\leq$'),('≈',r'$\approx$'),('≠',r'$\neq$'),
+                ('±',r'$\pm$'),('÷',r'$\div$'),('∞',r'$\infty$')):
         s = s.replace(u, t)
     return s
 
@@ -72,9 +79,26 @@ def norm(t):
     return re.sub(r'^\d+\.?\s*', '', t).strip().lower()
 
 def strip_callouts(t):
-    """Remove {{< callout >}}…{{< /callout >}} blocks (answer keys, grading
-    scales) so section extraction doesn't pull answers into exercises."""
-    return re.sub(r'\{\{<\s*callout.*?\{\{<\s*/callout\s*>\}\}', '', t, flags=re.S)
+    """Remove {{< callout >}}…{{< /callout >}} and {{< details >}}…{{< /details >}}
+    blocks (answer keys, grading scales, hints) so section extraction doesn't
+    pull answers into exercises."""
+    t = re.sub(r'\{\{<\s*callout.*?\{\{<\s*/callout\s*>\}\}', '', t, flags=re.S)
+    t = re.sub(r'\{\{<\s*details.*?\{\{<\s*/details\s*>\}\}', '', t, flags=re.S)
+    return t
+
+# section-name synonyms across English / French / German units
+SEC = {
+    "objectives": ("learning objectives", "objectives", "lernziele", "objectifs"),
+    "leadin":     ("lead-in", "lead in", "einstieg", "situation de départ",
+                   "situation de depart", "situation"),
+    "input":      ("input", "apporter"),
+    "vocab":      ("vocabulary", "wortschatz", "vocabulaire", "wörter", "worter"),
+    "practise":   ("practise", "practice", "üben", "uben", "s'entraîner",
+                   "s'entrainer", "entraîner", "entrainer"),
+    "produce":    ("produce", "anwenden", "produire", "produktion"),
+    "reflect":    ("reflect", "reflexion", "réfléchir", "reflechir"),
+    "solutions":  ("solutions", "lösungen", "losungen", "corrigé", "corrige"),
+}
 
 def find_sec(secs, *names):
     for t, body in secs:
@@ -116,7 +140,7 @@ def vocab_terms(secs):
     """Vocabulary list: a short-item comma-separated italic line, or a table.
     Guards against picking up a long prose/source paragraph that merely happens
     to be italic and comma-rich (items must be genuinely word/phrase length)."""
-    text = find_sec(secs, 'input') + "\n" + find_sec(secs, 'vocabulary','wortschatz')
+    text = find_sec(secs, *SEC["input"]) + "\n" + find_sec(secs, *SEC["vocab"])
     for ln in text.split('\n'):
         s = ln.strip()
         mm = re.match(r'^\*([^*]+)\*\.?$', s)
@@ -141,7 +165,7 @@ def move_lines(secs):
     excluding headings, the long source paragraph and the vocab list."""
     voc = set(vocab_terms(secs))
     out = []
-    for ln in find_sec(secs, 'input').split('\n'):
+    for ln in find_sec(secs, *SEC["input"]).split('\n'):
         s = ln.strip()
         if not s or s.startswith(('#','>','|','{{<')): continue
         if re.match(r'^\s*(?:[-*]|\d+\.)\s', ln): continue
@@ -151,15 +175,41 @@ def move_lines(secs):
             out.append(s)
     return out[:4]
 
-def answer_keys(md):
-    """Content of every 'Answer key' callout, flattened to lines."""
+def answer_keys(md, secs):
+    """Answer keys, wherever the site keeps them: callout/details blocks titled
+    Answer key / Lösungen / Solutions / Corrigé (EFL, DaF), or a dedicated
+    ## Solutions / ## Lösungen / ## Corrigé section (FLE)."""
     out = []
-    for m in re.finditer(r'\{\{<\s*callout[^>]*title="Answer key"[^>]*>\}\}(.*?)\{\{<\s*/callout\s*>\}\}',
-                         md, re.S):
+    pat = (r'\{\{<\s*(?:callout|details)[^>]*title="(?:Answer key|L\wsungen?|'
+           r'Solutions?|Corrig\w)"[^>]*>\}\}(.*?)\{\{<\s*/(?:callout|details)\s*>\}\}')
+    for m in re.finditer(pat, md, re.S):
         for ln in m.group(1).strip().split('\n'):
             s = ln.strip()
             if s and not s.startswith('|'): out.append(s)
+    for ln in find_sec(secs, *SEC["solutions"]).split('\n'):
+        s = ln.strip()
+        if s and not s.startswith('|'): out.append(s)
     return out
+
+# ---------- localisation (labels follow the site's language) ----------
+LANG = {"efl": "en", "fle": "fr", "daf": "de"}.get(SITE, "en")
+L = {
+  "en": {"obj":"Learning objectives","lead":"Lead-in","vocab":"Vocabulary",
+         "key":"Key points","prac":"Practise","turn":"Your turn","refl":"Reflect",
+         "read":"Reading","write":"Write","term":"Term","note":"Your note",
+         "v_i":"Match each item to its meaning or use it in a sentence.",
+         "r_i":"Read the text, then answer in full sentences."},
+  "fr": {"obj":"Objectifs","lead":"Mise en situation","vocab":"Vocabulaire",
+         "key":"Points clés","prac":"S'entraîner","turn":"À toi de jouer","refl":"Réfléchir",
+         "read":"Lecture","write":"Produire","term":"Terme","note":"Votre note",
+         "v_i":"Associez chaque terme à son sens ou employez-le dans une phrase.",
+         "r_i":"Lisez le texte, puis répondez par des phrases complètes."},
+  "de": {"obj":"Lernziele","lead":"Einstieg","vocab":"Wortschatz",
+         "key":"Kernpunkte","prac":"Üben","turn":"Anwenden","refl":"Reflexion",
+         "read":"Lesen","write":"Schreiben","term":"Wort","note":"Ihre Notiz",
+         "v_i":"Ordnen Sie jedem Wort seine Bedeutung zu oder verwenden Sie es im Satz.",
+         "r_i":"Lesen Sie den Text und antworten Sie in ganzen Sätzen."},
+}[LANG]
 
 # ---------- LaTeX emit ----------
 def frame(title, body):
@@ -173,66 +223,66 @@ def itemize(items, small=False):
 def build_deck(fm, secs, title, subtitle):
     F = []
     F.append("\\begin{frame}[plain]\\titlepage\\end{frame}")
-    obj = bullets(find_sec(secs, 'learning objectives','objectives','lernziele'))
-    if obj: F.append(frame("Learning objectives", itemize(obj)))
-    lead = paragraphs(find_sec(secs, 'lead-in','lead in','einstieg'))
+    obj = bullets(find_sec(secs, *SEC["objectives"]))
+    if obj: F.append(frame(L["obj"], itemize(obj)))
+    lead = paragraphs(find_sec(secs, *SEC["leadin"]))
     if lead:
-        F.append(frame("Lead-in", f"\\large {inline(lead[0])}"))
+        F.append(frame(L["lead"], f"\\large {inline(lead[0])}"))
     terms = vocab_terms(secs)
     if terms:
         half = (len(terms)+1)//2
         col1 = itemize(terms[:half]); col2 = itemize(terms[half:])
-        F.append(frame("Vocabulary",
+        F.append(frame(L["vocab"],
             f"\\begin{{columns}}[T]\n\\column{{0.5\\linewidth}}\n{col1}\n"
             f"\\column{{0.5\\linewidth}}\n{col2}\n\\end{{columns}}"))
     moves = move_lines(secs)
     if moves:
-        F.append(frame("Key points", itemize(moves, small=True)))
-    prac = bullets(find_sec(secs, 'practise','practice','üben'))[:5]
-    if prac: F.append(frame("Practise", itemize(prac, small=True)))
-    prod = paragraphs(find_sec(secs, 'produce','produktion'))
+        F.append(frame(L["key"], itemize(moves, small=True)))
+    prac = bullets(find_sec(secs, *SEC["practise"]))[:5]
+    if prac: F.append(frame(L["prac"], itemize(prac, small=True)))
+    prod = paragraphs(find_sec(secs, *SEC["produce"]))
     if prod:
-        F.append(frame("Your turn", f"\\large {inline(prod[0])}"))
-    refl = bullets(find_sec(secs, 'reflect','reflexion'))
-    if refl: F.append(frame("Reflect", itemize(refl, small=True)))
-    return (TEX_DECK.replace("@@TITLE@@", esc(title)).replace("@@SUBTITLE@@", esc(subtitle))
-            .replace("@@FRAMES@@", "\n".join(F)))
+        F.append(frame(L["turn"], f"\\large {inline(prod[0])}"))
+    refl = bullets(find_sec(secs, *SEC["reflect"]))
+    if refl: F.append(frame(L["refl"], itemize(refl, small=True)))
+    return (TEX_DECK.replace("@@TITLE@@", inline(title)).replace("@@SUBTITLE@@", inline(subtitle))
+            .replace("@@LANG@@", SITE).replace("@@FRAMES@@", "\n".join(F)))
 
 def build_worksheet(fm, secs, md, title, subtitle, badge):
     S = []
     terms = vocab_terms(secs)
     if terms:
         rows = " \\\\[0.5em]\n".join(f"{inline(t)} & " for t in terms)
-        S.append("\\section{Vocabulary}\nMatch each item to its meaning or use it in a sentence.\n\n"
+        S.append(f"\\section{{{esc(L['vocab'])}}}\n{esc(L['v_i'])}\n\n"
             "\\begin{tabularx}{\\linewidth}{@{}p{5cm}X@{}}\n\\toprule\n"
-            "\\textbf{Term} & \\textbf{Your note} \\\\\n\\midrule\n"
+            f"\\textbf{{{esc(L['term'])}}} & \\textbf{{{esc(L['note'])}}} \\\\\n\\midrule\n"
             f"{rows} \\\\\n\\bottomrule\n\\end{{tabularx}}")
     src = ""
-    inp = find_sec(secs, 'input')
+    inp = find_sec(secs, *SEC["input"])
     for p in paragraphs(inp):
         if len(p) > 160: src = p; break
     if src:
-        S.append("\\section{Reading}\nRead the text, then answer in full sentences.\n\n"
+        S.append(f"\\section{{{esc(L['read'])}}}\n{esc(L['r_i'])}\n\n"
                  f"\\begingroup\\itshape {inline(src)}\\endgroup\n\\blglines[2]")
-    prac = bullets(find_sec(secs, 'practise','practice'))
+    prac = bullets(find_sec(secs, *SEC["practise"]))
     if prac:
         items = "\n".join(f"  \\item {inline(x)}" for x in prac)
-        S.append("\\section{Practise}\n\\begin{enumerate}\n"+items+"\n\\end{enumerate}\n\\blglines[3]")
-    prod = paragraphs(find_sec(secs, 'produce'))
+        S.append(f"\\section{{{esc(L['prac'])}}}\n\\begin{{enumerate}}\n"+items+"\n\\end{enumerate}\n\\blglines[3]")
+    prod = paragraphs(find_sec(secs, *SEC["produce"]))
     if prod:
-        S.append("\\section{Write}\n"+inline(prod[0])+"\n\\blglines[6]")
-    ans = answer_keys(md)
+        S.append(f"\\section{{{esc(L['write'])}}}\n"+inline(prod[0])+"\n\\blglines[6]")
+    ans = answer_keys(md, secs)
     ansbox = ""
     if ans:
         body = " \\\\\n".join(inline(a) for a in ans[:8])
         ansbox = "\\begin{blganswers}\n"+body+"\n\\end{blganswers}"
-    return (TEX_SHEET.replace("@@TITLE@@", esc(title)).replace("@@SUBTITLE@@", esc(subtitle))
-            .replace("@@BADGE@@", esc(badge)).replace("@@SECTIONS@@", "\n\n".join(S))
-            .replace("@@ANSWERS@@", ansbox))
+    return (TEX_SHEET.replace("@@TITLE@@", inline(title)).replace("@@SUBTITLE@@", inline(subtitle))
+            .replace("@@BADGE@@", esc(badge)).replace("@@LANG@@", SITE)
+            .replace("@@SECTIONS@@", "\n\n".join(S)).replace("@@ANSWERS@@", ansbox))
 
 TEX_DECK = r"""\documentclass[aspectratio=169,11pt]{beamer}
 \usetheme{boulingua}
-\blgsetlang{efl}
+\blgsetlang{@@LANG@@}
 \title{@@TITLE@@}
 \subtitle{@@SUBTITLE@@}
 \begin{document}
@@ -241,7 +291,7 @@ TEX_DECK = r"""\documentclass[aspectratio=169,11pt]{beamer}
 """
 TEX_SHEET = r"""\documentclass[11pt]{article}
 \usepackage{boulingua-sheet}
-\blgsetlang{efl}
+\blgsetlang{@@LANG@@}
 \begin{document}
 \worksheetheader{@@TITLE@@}{@@SUBTITLE@@}{@@BADGE@@}{blgcefrB}
 \begin{sheetbody}
@@ -276,23 +326,36 @@ def upsert_fm(md_path, slug):
     work = block("worksheet", f"{URL}/materials/worksheets/{slug}.pdf",
                  f"{URL}/materials/worksheets/{slug}.png")
     for key, rep in (("presentation", pres), ("worksheet", work)):
-        pat = re.compile(rf'(?ms)^{key}:\n(?:[ \t]+.*\n?)*')
+        pat = re.compile(rf'(?m)^{key}:\n(?:[ \t]+.*\n?)*')
         fm2 = pat.sub(rep+"\n", fm) if re.search(pat, fm) else fm.rstrip()+"\n"+rep
         fm = fm2
     md_path.write_text(f"---\n{fm.rstrip()}\n---\n{body}")
 
+def unit_slug(md_path, md):
+    """Reuse the site's established flat slug: take it from the existing
+    presentation:/worksheet: URL if present (keeps every download link stable
+    across the .odp/.pptx -> .pdf migration); otherwise derive it."""
+    m = re.search(r'/materials/(?:presentations|worksheets)/([^/"\s.]+)\.(?:pdf|odp|pptx)', md)
+    if m: return m.group(1)
+    if md_path.name == "index.md":            # EFL leaf bundle
+        return md_path.parent.name
+    return md_path.stem                        # FLE/DaF single-file unit
+
+def unit_badge(fm, md_path):
+    niv = fm.get("niveau") or fm.get("cefr") or fm.get("niveau_cefr")
+    if niv: return f"Niveau {niv}"
+    m = re.search(r'kurs_([abc][12])', str(md_path), re.I)   # DaF: kurs_a1 -> A1
+    return m.group(1).upper() if m else ""
+
 def process(md_path, keep_tex=False):
-    fm, secs = parse(md_path.read_text())
     md = md_path.read_text()
-    title = fm.get("title", md_path.parent.name)
+    fm, secs = parse(md)
+    name = md_path.parent.name if md_path.name == "index.md" else md_path.stem
+    title = fm.get("title", name)
     subtitle = fm.get("subtitle", "")
-    badge = f"Niveau {fm.get('niveau','')}".strip()
-    slug = f"track-{fm.get('track','x')}_kl{fm.get('klassenstufe','')}_{md_path.parent.name.split('unit')[-1] if 'unit' in md_path.parent.name else md_path.parent.name}"
-    # flat slug consistent with existing scheme: <folder-with-unitNN>
-    slug = md_path.parent.name
-    trackkl = f"track-{fm.get('track','x')}_kl{str(fm.get('klassenstufe','')).zfill(2)}"
-    slug = f"{trackkl}_{md_path.parent.name}"
-    ok = {"unit": md_path.parent.name, "deck": False, "sheet": False}
+    badge = unit_badge(fm, md_path)
+    slug = unit_slug(md_path, md)
+    ok = {"unit": name, "deck": False, "sheet": False}
     PRES.mkdir(parents=True, exist_ok=True); WORK.mkdir(parents=True, exist_ok=True)
     # deck
     dtex = MAT / f"{slug}-deck.tex"; dtex.write_text(build_deck(fm, secs, title, subtitle))
@@ -322,9 +385,12 @@ def main():
     ap.add_argument("--only", default=""); ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--keep-tex", action="store_true")
     a = ap.parse_args()
-    units = sorted(REPO.glob("content/**/units/*/index.md"))
+    # EFL units are leaf bundles (units/<slug>/index.md); FLE/DaF are single
+    # files (units/<slug>.md). Take any markdown under a units/ folder that
+    # carries a presentation: block (i.e. a real material-bearing teaching unit).
+    units = sorted(p for p in REPO.glob("content/**/*.md")
+                   if "/units/" in p.as_posix() and p.name != "_index.md")
     units = [u for u in units if a.only in str(u)]
-    # skip pure exam units (no teaching sections) — they carry no presentation FM
     units = [u for u in units if 'presentation:' in u.read_text()]
     if a.limit: units = units[:a.limit]
     okc = deckc = sheetc = 0

@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl06_unit12-year-end-festival.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit12-year-end-festival.png"
+tags:
+  - "speaking"
+  - "writing"
+  - "intercultural"
+  - "3.1.1"
+  - "3.1.3.4"
+  - "3.1.3.5"
+  - "3.1.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

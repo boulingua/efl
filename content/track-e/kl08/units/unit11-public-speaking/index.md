@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl08_unit11-public-speaking.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl08_unit11-public-speaking.png"
+tags:
+  - "speaking"
+  - "listening"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.1"
+  - "3.2.3.4"
+  - "3.2.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

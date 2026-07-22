@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl10_unit11-public-speaking-and-debate.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl10_unit11-public-speaking-and-debate.png"
+tags:
+  - "speaking"
+  - "listening"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.3.1"
+  - "3.3.3.3"
+  - "3.3.3.4"
+topic: themen
 ---
 
 {{< callout type="note" >}}

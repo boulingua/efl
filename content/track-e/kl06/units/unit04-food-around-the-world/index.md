@@ -25,6 +25,16 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl06_unit04-food-around-the-world.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl06_unit04-food-around-the-world.png"
+tags:
+  - "reading"
+  - "writing"
+  - "intercultural"
+  - "3.1.1"
+  - "3.1.2"
+  - "3.1.3.2"
+  - "3.1.3.5"
+  - "3.1.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

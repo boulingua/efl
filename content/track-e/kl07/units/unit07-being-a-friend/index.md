@@ -25,6 +25,16 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl07_unit07-being-a-friend.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl07_unit07-being-a-friend.png"
+tags:
+  - "speaking"
+  - "writing"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.1"
+  - "3.2.3.3"
+  - "3.2.3.5"
+  - "3.2.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

@@ -25,6 +25,16 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl10_unit02-the-world-of-work.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit02-the-world-of-work.png"
+tags:
+  - "reading"
+  - "speaking"
+  - "intercultural"
+  - "3.3.1"
+  - "3.3.2"
+  - "3.3.3.2"
+  - "3.3.3.3"
+  - "3.3.3.7"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

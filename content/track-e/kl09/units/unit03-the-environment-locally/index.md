@@ -25,6 +25,16 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl09_unit03-the-environment-locally.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl09_unit03-the-environment-locally.png"
+tags:
+  - "reading"
+  - "writing"
+  - "intercultural"
+  - "3.2.1"
+  - "3.2.2"
+  - "3.2.3.2"
+  - "3.2.3.5"
+  - "3.2.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl06_unit01-a-new-year-at-school.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit01-a-new-year-at-school.png"
+tags:
+  - "speaking"
+  - "writing"
+  - "language_awareness"
+  - "3.1.1"
+  - "3.1.3.3"
+  - "3.1.3.5"
+  - "3.1.3.8"
+topic: themen
 ---
 
 {{< callout type="note" >}}

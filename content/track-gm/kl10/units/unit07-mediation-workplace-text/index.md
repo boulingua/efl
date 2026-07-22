@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl10_unit07-mediation-workplace-text.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit07-mediation-workplace-text.png"
+tags:
+  - "mediation"
+  - "writing"
+  - "language_awareness"
+  - "3.3.1"
+  - "3.3.3.5"
+  - "3.3.3.6"
+  - "3.3.3.7"
+topic: themen
 ---
 
 {{< callout type="note" >}}

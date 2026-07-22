@@ -25,6 +25,16 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-e_kl13_unit01-globalisation-and-the-self.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl13_unit01-globalisation-and-the-self.png"
+tags:
+  - "reading"
+  - "writing"
+  - "intercultural"
+  - "3.4.1"
+  - "3.4.2"
+  - "3.4.3.2"
+  - "3.4.3.5"
+  - "3.4.4"
+topic: interkulturell
 ---
 
 {{< callout type="note" >}}

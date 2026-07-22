@@ -25,6 +25,16 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl09_unit05-media-literacy.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit05-media-literacy.png"
+tags:
+  - "reading"
+  - "listening"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.1"
+  - "3.2.3.2"
+  - "3.2.3.7"
+  - "3.2.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}

@@ -24,6 +24,15 @@ presentation:
 worksheet:
   file: "/efl/materials/worksheets/track-gm_kl09_unit12-year-review-portfolio.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit12-year-review-portfolio.png"
+tags:
+  - "writing"
+  - "speaking"
+  - "language_awareness"
+  - "3.2.1"
+  - "3.2.3.4"
+  - "3.2.3.5"
+  - "3.2.4"
+topic: text-medien
 ---
 
 {{< callout type="note" >}}
