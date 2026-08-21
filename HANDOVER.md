@@ -68,9 +68,11 @@ realizations:
     where: /track-e/kl05/units/unit01-hello-world/
   - …
 ```
-Each `implements_id` **must resolve** to a statement in `curriculum/levels/*.md`. The framework's `curriculum/scripts/id-audit.sh` validates the *framework's own* level files (format, uniqueness, registry resolution) — it does **not** yet ingest a consumer's `conformance.yml`. So EFL needs a **consumer-side resolver check** (see Phase 5, Task 5.4) that loads `conformance.yml`, loads the framework's minted IDs, and fails if any `implements_id` is unknown — the same guarantee `examples/de-a1` relies on.
+Each `implements_id` **must resolve** to a statement in `curriculum/levels/*.md`. The framework's level-file audit script validates the *framework's own* level files (format, uniqueness, registry resolution) — it takes no manifest argument and globs `levels/*.md` under its own repo root, so it can **never** ingest a consumer's `conformance.yml`. Pointed at `efl/` it audits the framework's 1170 statements and exits 0 whatever EFL contains. So EFL needs a **consumer-side resolver check** (see Phase 5, Task 5.4) that loads `conformance.yml`, loads the framework's minted IDs, and fails if any `implements_id` is unknown — the same guarantee `examples/de-a1` relies on.
 
-**Does EFL pass `id-audit.sh`?** Not applicable directly (that script audits `curriculum/levels/`, not `efl/`). The equivalent consumer gate does not exist in EFL yet and must be authored.
+**Which gate proves the claim?** The reusable workflow `boulingua/.github/.github/workflows/course-build.yml@v1` runs
+`python .curriculum/scripts/conformance_audit.py resolve --manifest conformance.yml --content content`.
+The framework's own level-file audit script cannot validate this repo — it audits the framework's level files and nothing else, so wiring it here would produce a green gate that has read none of EFL. Do not wire it here; Task 5.4 authors the consumer side of the same check.
 
 **Mapping task (the substantive work).** For each unit, translate its learning-objective can-dos ("*I can introduce myself…*") into curriculum IDs by looking up the matching `(DOMAIN, scale, level)` in `curriculum/levels/`. This is authoring, not a transform: the CV descriptor for a given (scale, level) must actually cover the unit's claim. Bildungsplan codes and CEFR IDs will coexist in the polymorphic `curriculum:` block (`framework: bildungsplan-bw` keeps BW `codes:`; an added `implements:` list carries the CEFR IDs), so no data is lost.
 
