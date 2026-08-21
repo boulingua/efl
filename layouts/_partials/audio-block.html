@@ -3,7 +3,7 @@
        accessible "Listen" section: one player per segment with its transcript.
        Renders nothing when no audio exists for the unit yet. */ -}}
 {{- $key := .File.ContentBaseName -}}
-{{- with (index site.Data.audio $key) -}}
+{{- with (index hugo.Data.audio $key) -}}
 <section class="audio-section" id="audio">
   <h2>Listen</h2>
   <p class="audio-intro">The vocabulary, dialogues and reading texts of this unit
