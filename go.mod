@@ -3,6 +3,6 @@ module github.com/boulingua/efl
 go 1.26.1
 
 require (
-	github.com/boulingua/kit v1.6.0 // indirect
+	github.com/boulingua/kit v1.8.1 // indirect
 	github.com/luizdepra/hugo-coder v0.0.0-20260305123245-3d3bbd75d7bb // indirect
 )

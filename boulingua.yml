@@ -1,0 +1,41 @@
+# boulingua.yml — the per-course configuration the gate battery reads.
+#
+# One file. The specifications had this split across a materials-profile.yml, a
+# gates: block in the workflow, and half a dozen hugo.toml params, which meant
+# three places to look and three places to disagree.
+
+code: efl
+kind: course
+content_model: leaf-bundle
+
+# ── The slug declaration: THREE AXES, NOT ONE ──────────────────────────────
+#
+# FROZEN permanently (ADR-0003). Measured on this repo, not assumed:
+#   0 of 360 pages carry a front-matter slug: override
+#   section path is hyphenated — /track-e/kl09/
+#   the leaf slug IS the bundle directory name
+#   the unit ordinal is IN the URL — unit06-interview-and-portrait
+slug:
+  section_separator: hyphen
+  leaf_source: dirname
+  leaf_style: hyphen
+  unit_number_in_slug: true
+
+script_tier: core
+target_language: en             # what {{< tl >}} tags its runs with
+chrome_language: de             # German instructions around English content —
+                                # two different languages on every page, which
+                                # is why these are two fields.
+
+band_default: II
+milestone: M0                   # no page carries implements yet; A2 warns
+
+gates:
+  network_graph: true           # materials-network graph + JS budget
+  pagefind: false               # this course ships no search index
+  bildungsplan: true            # 180 pages carry a bildungsplan block
+  curriculum: warn
+
+vgwort:
+  registry: data/vgwort.yaml
+  url_lock: vgwort/url-lock-provisional.csv
