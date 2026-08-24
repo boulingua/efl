@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Grade 11 English — Cultural entry, literary voice (Oberstufe)"
 author: "S. Le Boulanger"
 aliases:

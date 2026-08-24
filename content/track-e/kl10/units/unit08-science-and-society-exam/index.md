@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 8: Science and Society'
 subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 8
-unit_slug: "science-and-society"
+material_slug: "track-e_kl10_unit08-science-and-society-exam"
 aliases:
   - /track_e_kl10/units/unit08_science-and-society_exam.html
 ---

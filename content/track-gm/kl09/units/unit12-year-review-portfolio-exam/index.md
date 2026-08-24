@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 12: Year Review: Portfolio"
 subtitle: "Track G+M · Klasse 9 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 12
-unit_slug: "year-review-portfolio"
+material_slug: "track-gm_kl09_unit12-year-review-portfolio-exam"
 aliases:
   - /track_gm_kl09/units/unit12_year-review-portfolio_exam.html
 ---

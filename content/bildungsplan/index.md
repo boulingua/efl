@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: "Curriculum framework"
 author: "S. Le Boulanger"
 aliases:

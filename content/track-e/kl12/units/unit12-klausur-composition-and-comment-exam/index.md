@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 12: Klausur: Composition and Comment"
 subtitle: "Track E · Klasse 12 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 12
-unit_slug: "klausur-composition-and-comment"
+material_slug: "track-e_kl12_unit12-klausur-composition-and-comment-exam"
 aliases:
   - /track_e_kl12/units/unit12_klausur-composition-and-comment_exam.html
 ---

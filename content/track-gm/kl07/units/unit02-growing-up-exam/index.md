@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 2: Growing Up"
 subtitle: "Track G+M · Klasse 7 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 2
-unit_slug: "growing-up"
+material_slug: "track-gm_kl07_unit02-growing-up-exam"
 aliases:
   - /track_gm_kl07/units/unit02_growing-up_exam.html
 ---

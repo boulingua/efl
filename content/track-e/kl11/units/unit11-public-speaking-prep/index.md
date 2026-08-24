@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 11 — Public Speaking: Toward the Komm-Prüfung"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 11 · Niveau E (Basisfach / Leistungsfach)"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 11
-unit_slug: "public-speaking-prep"
+material_slug: "track-e_kl11_unit11-public-speaking-prep"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl11_unit11-public-speaking-prep.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl11_unit11-public-speaking-prep.png"
 tags:
-  - "speaking"
-  - "listening"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.1"
-  - "3.4.3.3"
-  - "3.4.3.4"
+- speaking
+- listening
+- language_awareness
 topic: themen
 ---
 

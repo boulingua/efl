@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 11: Public Speaking: Toward the Komm-Prüfung"
 subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 11
-unit_slug: "public-speaking-prep"
+material_slug: "track-e_kl11_unit11-public-speaking-prep-exam"
 aliases:
   - /track_e_kl11/units/unit11_public-speaking-prep_exam.html
 ---

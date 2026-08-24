@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Grade 10 English — Transition, work, media"
 author: "S. Le Boulanger"
 aliases:

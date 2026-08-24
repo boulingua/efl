@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 5: Digital Friendships"
 subtitle: "Track G+M · Klasse 8 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 5
-unit_slug: "digital-friendships"
+material_slug: "track-gm_kl08_unit05-digital-friendships-exam"
 aliases:
   - /track_gm_kl08/units/unit05_digital-friendships_exam.html
 ---

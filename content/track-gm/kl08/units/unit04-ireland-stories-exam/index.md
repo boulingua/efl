@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 4: Ireland: Stories from the Island"
 subtitle: "Track G+M · Klasse 8 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 4
-unit_slug: "ireland-stories"
+material_slug: "track-gm_kl08_unit04-ireland-stories-exam"
 aliases:
   - /track_gm_kl08/units/unit04_ireland-stories_exam.html
 ---

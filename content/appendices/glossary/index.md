@@ -1,4 +1,5 @@
 ---
+page_type: appendix
 title: "Glossary"
 author: "S. Le Boulanger"
 aliases:

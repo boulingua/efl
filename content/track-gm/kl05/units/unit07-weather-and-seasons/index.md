@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 7 — Weather and Seasons"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 5 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 7
-unit_slug: "weather-and-seasons"
+material_slug: "track-gm_kl05_unit07-weather-and-seasons"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.1 Hör-/Hörsehverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl05_unit07-weather-and-seasons.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit07-weather-and-seasons.png"
 tags:
-  - "listening"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.1"
-  - "3.1.3.5"
-  - "3.1.3.7"
+- listening
+- writing
+- language_awareness
 topic: themen
 ---
 

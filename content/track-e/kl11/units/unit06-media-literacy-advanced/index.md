@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 6 — Media Literacy, Advanced"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 11 · Niveau E (Basisfach / Leistungsfach)"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 6
-unit_slug: "media-literacy-advanced"
+material_slug: "track-e_kl11_unit06-media-literacy-advanced"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.2 / 3.5.3.2 Leseverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl11_unit06-media-literacy-advanced.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl11_unit06-media-literacy-advanced.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

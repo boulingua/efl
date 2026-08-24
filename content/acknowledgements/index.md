@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: "Acknowledgements"
 author: "S. Le Boulanger"
 aliases:

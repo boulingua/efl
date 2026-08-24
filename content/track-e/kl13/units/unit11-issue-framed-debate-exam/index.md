@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 11: Issue-Framed Debate"
 subtitle: "Track E · Klasse 13 · Niveau E · Abitur-prep"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 11
-unit_slug: "issue-framed-debate"
+material_slug: "track-e_kl13_unit11-issue-framed-debate-exam"
 aliases:
   - /track_e_kl13/units/unit11_issue-framed-debate_exam.html
 ---

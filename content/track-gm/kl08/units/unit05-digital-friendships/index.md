@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 5 — Digital Friendships"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 8 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 5
-unit_slug: "digital-friendships"
+material_slug: "track-gm_kl08_unit05-digital-friendships"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.1 Hör-/Hörsehverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl08_unit05-digital-friendships.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit05-digital-friendships.png"
 tags:
-  - "listening"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.1"
-  - "3.2.3.5"
-  - "3.2.3.7"
-  - "3.2.3.8"
+- listening
+- writing
+- language_awareness
 topic: themen
 ---
 

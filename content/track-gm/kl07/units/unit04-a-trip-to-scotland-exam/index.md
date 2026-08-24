@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 4: A Trip to Scotland"
 subtitle: "Track G+M · Klasse 7 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 4
-unit_slug: "a-trip-to-scotland"
+material_slug: "track-gm_kl07_unit04-a-trip-to-scotland-exam"
 aliases:
   - /track_gm_kl07/units/unit04_a-trip-to-scotland_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 8 — Civic English: Rights and Voices"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 10 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 8
-unit_slug: "civic-english"
+material_slug: "track-gm_kl10_unit08-civic-english"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.2 Interkulturelle kommunikative Kompetenz"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl10_unit08-civic-english.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit08-civic-english.png"
 tags:
-  - "reading"
-  - "speaking"
-  - "language_awareness"
-  - "3.3.1"
-  - "3.3.2"
-  - "3.3.3.2"
-  - "3.3.3.3"
-  - "3.3.4"
+- reading
+- speaking
+- language_awareness
 topic: interkulturell
 ---
 

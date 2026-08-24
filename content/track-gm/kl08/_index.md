@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Grade 8 English — Belonging and fairness"
 author: "S. Le Boulanger"
 aliases:

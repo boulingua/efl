@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 2: On Holiday"
 subtitle: "Track G+M · Klasse 6 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 2
-unit_slug: "on-holiday"
+material_slug: "track-gm_kl06_unit02-on-holiday-exam"
 aliases:
   - /track_gm_kl06/units/unit02_on-holiday_exam.html
 ---

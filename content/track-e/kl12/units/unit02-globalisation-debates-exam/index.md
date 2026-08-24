@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 2: Globalisation Debates"
 subtitle: "Track E · Klasse 12 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 2
-unit_slug: "globalisation-debates"
+material_slug: "track-e_kl12_unit02-globalisation-debates-exam"
 aliases:
   - /track_e_kl12/units/unit02_globalisation-debates_exam.html
 ---

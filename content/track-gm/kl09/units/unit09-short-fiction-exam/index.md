@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 9: Short Fiction in the Classroom"
 subtitle: "Track G+M · Klasse 9 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 9
-unit_slug: "short-fiction"
+material_slug: "track-gm_kl09_unit09-short-fiction-exam"
 aliases:
   - /track_gm_kl09/units/unit09_short-fiction_exam.html
 ---

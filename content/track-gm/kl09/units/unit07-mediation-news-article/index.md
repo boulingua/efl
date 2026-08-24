@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 7 — Mediation: A German News Article"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 9 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 7
-unit_slug: "mediation-news-article"
+material_slug: "track-gm_kl09_unit07-mediation-news-article"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.5 Schreiben"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl09_unit07-mediation-news-article.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit07-mediation-news-article.png"
 tags:
-  - "mediation"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.5"
-  - "3.2.3.6"
-  - "3.2.3.7"
+- mediation
+- writing
+- language_awareness
 topic: themen
 ---
 

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 12: Class Magazine Issue"
 subtitle: "Track G+M · Klasse 8 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 12
-unit_slug: "school-magazine-issue"
+material_slug: "track-gm_kl08_unit12-school-magazine-issue-exam"
 aliases:
   - /track_gm_kl08/units/unit12_school-magazine-issue_exam.html
 ---

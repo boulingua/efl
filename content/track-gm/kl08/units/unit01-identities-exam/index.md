@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 1: Identities"
 subtitle: "Track G+M · Klasse 8 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 1
-unit_slug: "identities"
+material_slug: "track-gm_kl08_unit01-identities-exam"
 aliases:
   - /track_gm_kl08/units/unit01_identities_exam.html
 ---

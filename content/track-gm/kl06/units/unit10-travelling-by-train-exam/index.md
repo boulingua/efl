@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 10: Travelling by Train"
 subtitle: "Track G+M · Klasse 6 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 10
-unit_slug: "travelling-by-train"
+material_slug: "track-gm_kl06_unit10-travelling-by-train-exam"
 aliases:
   - /track_gm_kl06/units/unit10_travelling-by-train_exam.html
 ---

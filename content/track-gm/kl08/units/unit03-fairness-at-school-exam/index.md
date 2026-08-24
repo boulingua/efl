@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 3: Fairness at School"
 subtitle: "Track G+M · Klasse 8 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 3
-unit_slug: "fairness-at-school"
+material_slug: "track-gm_kl08_unit03-fairness-at-school-exam"
 aliases:
   - /track_gm_kl08/units/unit03_fairness-at-school_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 8: School Around the World"
 subtitle: "Track E · Klasse 6 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 8
-unit_slug: "school-around-the-world"
+material_slug: "track-e_kl06_unit08-school-around-the-world-exam"
 aliases:
   - /track_e_kl06/units/unit08_school-around-the-world_exam.html
 ---

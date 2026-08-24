@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 9 — Youth Protest Movements"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 10 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 9
-unit_slug: "youth-protest-movements"
+material_slug: "track-e_kl10_unit09-youth-protest-movements"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.2 Interkulturelle kommunikative Kompetenz"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl10_unit09-youth-protest-movements.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl10_unit09-youth-protest-movements.png"
 tags:
-  - "reading"
-  - "speaking"
-  - "intercultural"
-  - "3.3.1"
-  - "3.3.2"
-  - "3.3.3.2"
-  - "3.3.3.3"
-  - "3.3.4"
+- reading
+- speaking
+- intercultural
 topic: interkulturell
 ---
 

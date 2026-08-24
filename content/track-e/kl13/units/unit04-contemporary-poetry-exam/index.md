@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 4: Contemporary Poetry"
 subtitle: "Track E · Klasse 13 · Niveau E · Abitur-prep"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 4
-unit_slug: "contemporary-poetry"
+material_slug: "track-e_kl13_unit04-contemporary-poetry-exam"
 aliases:
   - /track_e_kl13/units/unit04_contemporary-poetry_exam.html
 ---

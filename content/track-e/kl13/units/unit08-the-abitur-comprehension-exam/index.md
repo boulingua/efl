@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 8: The Abitur Comprehension Task"
 subtitle: "Track E · Klasse 13 · Niveau E · Abitur-prep"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 8
-unit_slug: "the-abitur-comprehension"
+material_slug: "track-e_kl13_unit08-the-abitur-comprehension-exam"
 aliases:
   - /track_e_kl13/units/unit08_the-abitur-comprehension_exam.html
 ---

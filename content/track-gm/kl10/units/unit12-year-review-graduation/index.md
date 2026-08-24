@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 12 — Year Review: Graduation Exam Prep"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 10 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 12
-unit_slug: "year-review-graduation"
+material_slug: "track-gm_kl10_unit12-year-review-graduation"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl10_unit12-year-review-graduation.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit12-year-review-graduation.png"
 tags:
-  - "writing"
-  - "speaking"
-  - "language_awareness"
-  - "3.3.1"
-  - "3.3.3.4"
-  - "3.3.3.5"
-  - "3.3.4"
+- writing
+- speaking
+- language_awareness
 topic: text-medien
 ---
 

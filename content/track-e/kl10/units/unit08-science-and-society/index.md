@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 8 — Science and Society"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 10 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 8
-unit_slug: "science-and-society"
+material_slug: "track-e_kl10_unit08-science-and-society"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.2 Leseverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl10_unit08-science-and-society.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl10_unit08-science-and-society.png"
 tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.3.1"
-  - "3.3.3.2"
-  - "3.3.3.5"
-  - "3.3.3.7"
-  - "3.3.4"
+- reading
+- writing
+- intercultural
 topic: text-medien
 ---
 

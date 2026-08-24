@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Grade 9 English — Choices and society"
 author: "S. Le Boulanger"
 aliases:

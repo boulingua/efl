@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 5 — Food and Drinks"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 5 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 5
-unit_slug: "food-and-drinks"
+material_slug: "track-e_kl05_unit05-food-and-drinks"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.2 Leseverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit05-food-and-drinks.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit05-food-and-drinks.png"
 tags:
-  - "reading"
-  - "speaking"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.2"
-  - "3.1.3.3"
-  - "3.1.3.7"
+- reading
+- speaking
+- language_awareness
 topic: themen
 ---
 

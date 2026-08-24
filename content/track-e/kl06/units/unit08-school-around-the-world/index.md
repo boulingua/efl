@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 8 — School Around the World"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 6 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 8
-unit_slug: "school-around-the-world"
+material_slug: "track-e_kl06_unit08-school-around-the-world"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.2 Interkulturelle kommunikative Kompetenz"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl06_unit08-school-around-the-world.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl06_unit08-school-around-the-world.png"
 tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.1.1"
-  - "3.1.2"
-  - "3.1.3.2"
-  - "3.1.3.5"
-  - "3.1.4"
+- reading
+- writing
+- intercultural
 topic: interkulturell
 ---
 

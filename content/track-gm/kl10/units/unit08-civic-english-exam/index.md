@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 8: Civic English: Rights and Voices'
 subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 8
-unit_slug: "civic-english"
+material_slug: "track-gm_kl10_unit08-civic-english-exam"
 aliases:
   - /track_gm_kl10/units/unit08_civic-english_exam.html
 ---

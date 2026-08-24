@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 9: Youth and the Future'
 subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 9
-unit_slug: "youth-and-the-future"
+material_slug: "track-gm_kl10_unit09-youth-and-the-future-exam"
 aliases:
   - /track_gm_kl10/units/unit09_youth-and-the-future_exam.html
 ---

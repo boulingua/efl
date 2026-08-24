@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 5: Poetry from the Anthology"
 subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 5
-unit_slug: "poetry-from-the-anthology"
+material_slug: "track-e_kl11_unit05-poetry-from-the-anthology-exam"
 aliases:
   - /track_e_kl11/units/unit05_poetry-from-the-anthology_exam.html
 ---

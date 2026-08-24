@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 8: Erste Mediation: A German E-mail"
 subtitle: "Track E · Klasse 7 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 8
-unit_slug: "first-mediation"
+material_slug: "track-e_kl07_unit08-first-mediation-exam"
 aliases:
   - /track_e_kl07/units/unit08_first-mediation_exam.html
 ---

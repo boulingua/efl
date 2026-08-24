@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 10: Writing an Application Letter'
 subtitle: "Track E · Klasse 9 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 10
-unit_slug: "application-letter"
+material_slug: "track-e_kl09_unit10-application-letter-exam"
 aliases:
   - /track_e_kl09/units/unit10_application-letter_exam.html
 ---

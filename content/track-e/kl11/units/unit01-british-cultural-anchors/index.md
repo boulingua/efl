@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 1 — British Cultural Anchors"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 11 · Niveau E (Basisfach / Leistungsfach)"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 1
-unit_slug: "british-cultural-anchors"
+material_slug: "track-e_kl11_unit01-british-cultural-anchors"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.2 / 3.5.2 Interkulturelle kommunikative Kompetenz"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl11_unit01-british-cultural-anchors.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl11_unit01-british-cultural-anchors.png"
 tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.4.1"
-  - "3.4.2"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
+- reading
+- writing
+- intercultural
 topic: interkulturell
 ---
 

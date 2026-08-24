@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Track E"
 author: "S. Le Boulanger"
 description: "Erweitertes Niveau (E) — Klasse 5 bis Abitur in Klasse 13."

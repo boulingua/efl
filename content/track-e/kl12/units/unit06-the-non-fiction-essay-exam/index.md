@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 6: The Non-Fiction Essay"
 subtitle: "Track E · Klasse 12 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 6
-unit_slug: "the-non-fiction-essay"
+material_slug: "track-e_kl12_unit06-the-non-fiction-essay-exam"
 aliases:
   - /track_e_kl12/units/unit06_the-non-fiction-essay_exam.html
 ---

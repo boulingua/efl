@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 12: Klausur Prep: Exam Rehearsal"
 subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 12
-unit_slug: "klausur-prep-exam-rehearsal"
+material_slug: "track-e_kl11_unit12-klausur-prep-exam-rehearsal-exam"
 aliases:
   - /track_e_kl11/units/unit12_klausur-prep-exam-rehearsal_exam.html
 ---

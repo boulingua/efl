@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 5 — Media Literacy"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 9 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 5
-unit_slug: "media-literacy"
+material_slug: "track-e_kl09_unit05-media-literacy"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.1 Hör-/Hörsehverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl09_unit05-media-literacy.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl09_unit05-media-literacy.png"
 tags:
-  - "reading"
-  - "listening"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.1"
-  - "3.2.3.2"
-  - "3.2.3.7"
-  - "3.2.4"
+- reading
+- listening
+- language_awareness
 topic: text-medien
 ---
 

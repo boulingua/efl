@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 11: Debate and Discussion'
 subtitle: "Track E · Klasse 9 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 11
-unit_slug: "debate-and-discussion"
+material_slug: "track-e_kl09_unit11-debate-and-discussion-exam"
 aliases:
   - /track_e_kl09/units/unit11_debate-and-discussion_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 2: School Life Elsewhere"
 subtitle: "Track G+M · Klasse 8 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 2
-unit_slug: "school-life-elsewhere"
+material_slug: "track-gm_kl08_unit02-school-life-elsewhere-exam"
 aliases:
   - /track_gm_kl08/units/unit02_school-life-elsewhere_exam.html
 ---

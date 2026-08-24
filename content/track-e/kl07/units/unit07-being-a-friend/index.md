@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 7 — Being a Friend"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 7 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 7
-unit_slug: "being-a-friend"
+material_slug: "track-e_kl07_unit07-being-a-friend"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.1 Hör-/Hörsehverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl07_unit07-being-a-friend.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl07_unit07-being-a-friend.png"
 tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.1"
-  - "3.2.3.3"
-  - "3.2.3.5"
-  - "3.2.3.8"
+- speaking
+- writing
+- language_awareness
 topic: themen
 ---
 

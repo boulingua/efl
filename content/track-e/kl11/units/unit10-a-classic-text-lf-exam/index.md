@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 10: A Classic Text (Leistungsfach focus)"
 subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 10
-unit_slug: "a-classic-text-lf"
+material_slug: "track-e_kl11_unit10-a-classic-text-lf-exam"
 aliases:
   - /track_e_kl11/units/unit10_a-classic-text-lf_exam.html
 ---

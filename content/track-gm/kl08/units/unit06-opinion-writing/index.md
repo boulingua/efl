@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 6 — Writing an Opinion"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 8 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 6
-unit_slug: "opinion-writing"
+material_slug: "track-gm_kl08_unit06-opinion-writing"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.2 Leseverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl08_unit06-opinion-writing.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit06-opinion-writing.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.2"
-  - "3.2.3.5"
-  - "3.2.3.8"
-  - "3.2.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

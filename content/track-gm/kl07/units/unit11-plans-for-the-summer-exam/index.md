@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 11: Plans for the Summer"
 subtitle: "Track G+M · Klasse 7 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 11
-unit_slug: "plans-for-the-summer"
+material_slug: "track-gm_kl07_unit11-plans-for-the-summer-exam"
 aliases:
   - /track_gm_kl07/units/unit11_plans-for-the-summer_exam.html
 ---

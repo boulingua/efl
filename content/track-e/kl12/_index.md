@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Grade 12 English — Discourse and analysis (Oberstufe)"
 author: "S. Le Boulanger"
 aliases:

@@ -8,18 +8,16 @@
 /resources/
 .hugo_build.lock
 
-# Phase 3 placeholder binaries — regenerated in CI by
-# _scripts/make_placeholder_{worksheets,presentations,thumbnails}.py.
-# To replace a placeholder with a real material:
-#   1. Drop the real .pptx / .pdf at the canonical path under static/.
-#   2. `git add -f <path>` to commit it past this ignore.
-# The placeholder generators run with --skip-existing by default, so a
-# real material committed at the canonical path survives every CI re-run.
-# The thumbnail generator always re-renders from whatever binary exists
-# at the path, so a swapped real file gets a fresh thumbnail next deploy.
+# Materials are COMMITTED, as in every other course. They were ignored here
+# and regenerated in CI as placeholders, which is the arrangement ADR-0009
+# forbids: CI verifies materials, it does not generate them. A TeX point
+# release must not silently reflow 360 documents between two deploys, and a
+# workflow that writes binaries into the repo is one dispatch away from
+# replacing real branded worksheets with placeholders.
+#
+# Nothing generates these in CI any more, so ignoring them would leave every
+# download link on the site pointing at a file that does not exist.
 /static/downloads/
-/static/materials/presentations/
-/static/materials/worksheets/
 
 # Materials Discovery Network — npm deps for Cytoscape bundling.
 /node_modules/

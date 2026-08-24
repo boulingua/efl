@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 1 — Globalisation and the Self"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 13 · Niveau E (Basisfach / Leistungsfach) · Abitur year"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 1
-unit_slug: "globalisation-and-the-self"
+material_slug: "track-e_kl13_unit01-globalisation-and-the-self"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.2 / 3.5.2 Interkulturelle kommunikative Kompetenz"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl13_unit01-globalisation-and-the-self.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl13_unit01-globalisation-and-the-self.png"
 tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.4.1"
-  - "3.4.2"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
+- reading
+- writing
+- intercultural
 topic: interkulturell
 ---
 

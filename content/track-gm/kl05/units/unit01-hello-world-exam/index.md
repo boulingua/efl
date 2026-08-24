@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 1: Hello World"
 subtitle: "Track G+M · Klasse 5 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 1
-unit_slug: "hello-world"
+material_slug: "track-gm_kl05_unit01-hello-world-exam"
 aliases:
   - /track_gm_kl05/units/unit01_hello-world_exam.html
 ---

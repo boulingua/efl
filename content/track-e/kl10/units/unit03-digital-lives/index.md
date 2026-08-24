@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 3 — Digital Lives"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 10 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 3
-unit_slug: "digital-lives"
+material_slug: "track-e_kl10_unit03-digital-lives"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.2 Leseverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl10_unit03-digital-lives.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl10_unit03-digital-lives.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.3.1"
-  - "3.3.3.2"
-  - "3.3.3.5"
-  - "3.3.3.8"
-  - "3.3.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

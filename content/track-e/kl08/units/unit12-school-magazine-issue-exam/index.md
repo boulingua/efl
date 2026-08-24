@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 12: Class Magazine Issue"
 subtitle: "Track E · Klasse 8 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 12
-unit_slug: "school-magazine-issue"
+material_slug: "track-e_kl08_unit12-school-magazine-issue-exam"
 aliases:
   - /track_e_kl08/units/unit12_school-magazine-issue_exam.html
 ---

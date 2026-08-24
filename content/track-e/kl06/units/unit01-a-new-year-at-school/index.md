@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 1 — A New Year at School"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 6 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 1
-unit_slug: "a-new-year-at-school"
+material_slug: "track-e_kl06_unit01-a-new-year-at-school"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl06_unit01-a-new-year-at-school.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl06_unit01-a-new-year-at-school.png"
 tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.3"
-  - "3.1.3.5"
-  - "3.1.3.8"
+- speaking
+- writing
+- language_awareness
 topic: themen
 ---
 

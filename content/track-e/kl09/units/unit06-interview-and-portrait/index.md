@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 6 — Interview and Portrait"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 9 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 6
-unit_slug: "interview-and-portrait"
+material_slug: "track-e_kl09_unit06-interview-and-portrait"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl09_unit06-interview-and-portrait.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl09_unit06-interview-and-portrait.png"
 tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.3"
-  - "3.2.3.5"
-  - "3.2.4"
+- speaking
+- writing
+- language_awareness
 topic: text-medien
 ---
 

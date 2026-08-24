@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 2: My Family"
 subtitle: "Track E · Klasse 5 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 2
-unit_slug: "my-family"
+material_slug: "track-e_kl05_unit02-my-family-exam"
 aliases:
   - /track_e_kl05/units/unit02_my-family_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 6: Friends and Feelings"
 subtitle: "Track E · Klasse 6 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 6
-unit_slug: "friends-and-feelings"
+material_slug: "track-e_kl06_unit06-friends-and-feelings-exam"
 aliases:
   - /track_e_kl06/units/unit06_friends-and-feelings_exam.html
 ---

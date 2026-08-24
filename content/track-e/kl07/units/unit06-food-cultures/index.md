@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 6 — Food Cultures"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 7 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 6
-unit_slug: "food-cultures"
+material_slug: "track-e_kl07_unit06-food-cultures"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"
@@ -27,15 +28,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl07_unit06-food-cultures.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl07_unit06-food-cultures.png"
 tags:
-  - "reading"
-  - "speaking"
-  - "intercultural"
-  - "3.2.1"
-  - "3.2.2"
-  - "3.2.3.2"
-  - "3.2.3.3"
-  - "3.2.3.7"
-  - "3.2.4"
+- reading
+- speaking
+- intercultural
 topic: interkulturell
 ---
 

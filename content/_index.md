@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "English for Comprehensive School, Grades 5 to 13"
 author: "S. Le Boulanger"
 toc: false

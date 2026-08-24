@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 9: Short Fiction in the Classroom'
 subtitle: "Track E · Klasse 9 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 9
-unit_slug: "short-fiction"
+material_slug: "track-e_kl09_unit09-short-fiction-exam"
 aliases:
   - /track_e_kl09/units/unit09_short-fiction_exam.html
 ---

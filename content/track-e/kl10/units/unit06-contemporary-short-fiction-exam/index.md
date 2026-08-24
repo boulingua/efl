@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 6: Contemporary Short Fiction'
 subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 6
-unit_slug: "contemporary-short-fiction"
+material_slug: "track-e_kl10_unit06-contemporary-short-fiction-exam"
 aliases:
   - /track_e_kl10/units/unit06_contemporary-short-fiction_exam.html
 ---

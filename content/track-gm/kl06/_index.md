@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Grade 6 English — Adventures and routines — episodic with light cultural anchors"
 author: "S. Le Boulanger"
 aliases:

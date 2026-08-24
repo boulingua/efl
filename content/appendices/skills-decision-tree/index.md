@@ -1,4 +1,5 @@
 ---
+page_type: appendix
 title: "Skills decision tree"
 author: "S. Le Boulanger"
 aliases:

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 11 — Public Speaking and Debate"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 10 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 11
-unit_slug: "public-speaking-and-debate"
+material_slug: "track-e_kl10_unit11-public-speaking-and-debate"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.1 Hör-/Hörsehverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl10_unit11-public-speaking-and-debate.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl10_unit11-public-speaking-and-debate.png"
 tags:
-  - "speaking"
-  - "listening"
-  - "language_awareness"
-  - "3.3.1"
-  - "3.3.3.1"
-  - "3.3.3.3"
-  - "3.3.3.4"
+- speaking
+- listening
+- language_awareness
 topic: themen
 ---
 

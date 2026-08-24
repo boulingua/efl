@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 10 — Writing an Application Letter"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 9 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 10
-unit_slug: "application-letter"
+material_slug: "track-e_kl09_unit10-application-letter"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.2 Leseverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl09_unit10-application-letter.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl09_unit10-application-letter.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.2"
-  - "3.2.3.5"
-  - "3.2.3.7"
+- reading
+- writing
+- language_awareness
 topic: themen
 ---
 

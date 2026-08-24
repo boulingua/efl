@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 2 — On Holiday"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 6 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 2
-unit_slug: "on-holiday"
+material_slug: "track-e_kl06_unit02-on-holiday"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.2 Interkulturelle kommunikative Kompetenz"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl06_unit02-on-holiday.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl06_unit02-on-holiday.png"
 tags:
-  - "listening"
-  - "speaking"
-  - "intercultural"
-  - "3.1.1"
-  - "3.1.2"
-  - "3.1.3.1"
-  - "3.1.3.3"
-  - "3.1.3.8"
+- listening
+- speaking
+- intercultural
 topic: interkulturell
 ---
 

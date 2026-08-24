@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 3 — In the City"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 6 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 3
-unit_slug: "in-the-city"
+material_slug: "track-e_kl06_unit03-in-the-city"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.2 Leseverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl06_unit03-in-the-city.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl06_unit03-in-the-city.png"
 tags:
-  - "reading"
-  - "speaking"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.2"
-  - "3.1.3.3"
-  - "3.1.3.7"
+- reading
+- speaking
+- language_awareness
 topic: themen
 ---
 

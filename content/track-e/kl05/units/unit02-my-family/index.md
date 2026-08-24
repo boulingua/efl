@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 2 — My Family"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 5 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 2
-unit_slug: "my-family"
+material_slug: "track-e_kl05_unit02-my-family"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.5 Schreiben"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit02-my-family.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit02-my-family.png"
 tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.5"
-  - "3.1.3.7"
-  - "3.1.3.8"
+- speaking
+- writing
+- language_awareness
 topic: themen
 ---
 

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 8: Opinion Essay Writing"
 subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 8
-unit_slug: "opinion-essay-writing"
+material_slug: "track-e_kl11_unit08-opinion-essay-writing-exam"
 aliases:
   - /track_e_kl11/units/unit08_opinion-essay-writing_exam.html
 ---

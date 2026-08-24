@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: "Schedule"
 author: "S. Le Boulanger"
 toc: true

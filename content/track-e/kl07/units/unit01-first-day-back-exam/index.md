@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 1: First Day Back"
 subtitle: "Track E · Klasse 7 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 1
-unit_slug: "first-day-back"
+material_slug: "track-e_kl07_unit01-first-day-back-exam"
 aliases:
   - /track_e_kl07/units/unit01_first-day-back_exam.html
 ---

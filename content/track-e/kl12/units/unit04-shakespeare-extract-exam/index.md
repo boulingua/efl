@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 4: Shakespeare in Extract"
 subtitle: "Track E · Klasse 12 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 4
-unit_slug: "shakespeare-extract"
+material_slug: "track-e_kl12_unit04-shakespeare-extract-exam"
 aliases:
   - /track_e_kl12/units/unit04_shakespeare-extract_exam.html
 ---

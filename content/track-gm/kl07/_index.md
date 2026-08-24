@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Grade 7 English — Identity and the wider world"
 author: "S. Le Boulanger"
 aliases:

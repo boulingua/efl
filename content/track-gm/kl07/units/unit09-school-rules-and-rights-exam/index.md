@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 9: School Rules and Rights"
 subtitle: "Track G+M · Klasse 7 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 9
-unit_slug: "school-rules-and-rights"
+material_slug: "track-gm_kl07_unit09-school-rules-and-rights-exam"
 aliases:
   - /track_gm_kl07/units/unit09_school-rules-and-rights_exam.html
 ---

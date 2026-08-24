@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 7: Mediation as a Skill"
 subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 7
-unit_slug: "mediation-as-a-skill"
+material_slug: "track-e_kl11_unit07-mediation-as-a-skill-exam"
 aliases:
   - /track_e_kl11/units/unit07_mediation-as-a-skill_exam.html
 ---

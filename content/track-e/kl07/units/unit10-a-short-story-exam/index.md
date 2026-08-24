@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 10: Reading a Short Story"
 subtitle: "Track E · Klasse 7 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 10
-unit_slug: "a-short-story"
+material_slug: "track-e_kl07_unit10-a-short-story-exam"
 aliases:
   - /track_e_kl07/units/unit10_a-short-story_exam.html
 ---

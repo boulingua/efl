@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 9: Youth Protest Movements'
 subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 9
-unit_slug: "youth-protest-movements"
+material_slug: "track-e_kl10_unit09-youth-protest-movements-exam"
 aliases:
   - /track_e_kl10/units/unit09_youth-protest-movements_exam.html
 ---

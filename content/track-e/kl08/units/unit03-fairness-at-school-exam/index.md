@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 3: Fairness at School"
 subtitle: "Track E · Klasse 8 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 3
-unit_slug: "fairness-at-school"
+material_slug: "track-e_kl08_unit03-fairness-at-school-exam"
 aliases:
   - /track_e_kl08/units/unit03_fairness-at-school_exam.html
 ---

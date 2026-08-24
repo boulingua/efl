@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 5: The United States Today"
 subtitle: "Track G+M · Klasse 7 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 5
-unit_slug: "the-united-states-today"
+material_slug: "track-gm_kl07_unit05-the-united-states-today-exam"
 aliases:
   - /track_gm_kl07/units/unit05_the-united-states-today_exam.html
 ---

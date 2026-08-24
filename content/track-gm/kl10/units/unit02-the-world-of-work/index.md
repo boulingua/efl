@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 2 — The World of Work"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 10 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 2
-unit_slug: "the-world-of-work"
+material_slug: "track-gm_kl10_unit02-the-world-of-work"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.2 Interkulturelle kommunikative Kompetenz"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl10_unit02-the-world-of-work.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit02-the-world-of-work.png"
 tags:
-  - "reading"
-  - "speaking"
-  - "intercultural"
-  - "3.3.1"
-  - "3.3.2"
-  - "3.3.3.2"
-  - "3.3.3.3"
-  - "3.3.3.7"
+- reading
+- speaking
+- intercultural
 topic: interkulturell
 ---
 

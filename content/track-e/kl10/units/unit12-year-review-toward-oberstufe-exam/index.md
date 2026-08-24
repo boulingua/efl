@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 12: Year Review: Toward Oberstufe'
 subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 12
-unit_slug: "year-review-toward-oberstufe"
+material_slug: "track-e_kl10_unit12-year-review-toward-oberstufe-exam"
 aliases:
   - /track_e_kl10/units/unit12_year-review-toward-oberstufe_exam.html
 ---

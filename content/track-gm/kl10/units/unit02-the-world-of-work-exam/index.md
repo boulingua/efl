@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 2: The World of Work'
 subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 2
-unit_slug: "the-world-of-work"
+material_slug: "track-gm_kl10_unit02-the-world-of-work-exam"
 aliases:
   - /track_gm_kl10/units/unit02_the-world-of-work_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 1 — First Day Back"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 7 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 1
-unit_slug: "first-day-back"
+material_slug: "track-gm_kl07_unit01-first-day-back"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.1 Hör-/Hörsehverstehen"
@@ -27,15 +28,10 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl07_unit01-first-day-back.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit01-first-day-back.png"
 tags:
-  - "speaking"
-  - "listening"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.1"
-  - "3.2.3.3"
-  - "3.2.3.5"
-  - "3.2.4"
+- speaking
+- listening
+- writing
+- language_awareness
 topic: text-medien
 ---
 

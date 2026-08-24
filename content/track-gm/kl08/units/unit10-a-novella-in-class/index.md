@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 10 — A Novella in Class"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 8 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 10
-unit_slug: "a-novella-in-class"
+material_slug: "track-gm_kl08_unit10-a-novella-in-class"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.2 Leseverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl08_unit10-a-novella-in-class.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit10-a-novella-in-class.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.2"
-  - "3.2.3.5"
-  - "3.2.3.8"
-  - "3.2.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

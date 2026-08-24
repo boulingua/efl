@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 12 — Year Review: Toward Oberstufe"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 10 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 12
-unit_slug: "year-review-toward-oberstufe"
+material_slug: "track-e_kl10_unit12-year-review-toward-oberstufe"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl10_unit12-year-review-toward-oberstufe.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl10_unit12-year-review-toward-oberstufe.png"
 tags:
-  - "writing"
-  - "speaking"
-  - "language_awareness"
-  - "3.3.1"
-  - "3.3.3.4"
-  - "3.3.3.5"
-  - "3.3.4"
+- writing
+- speaking
+- language_awareness
 topic: text-medien
 ---
 

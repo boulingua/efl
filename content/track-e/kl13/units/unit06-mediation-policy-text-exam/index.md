@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 6: Mediation: A German Policy Text"
 subtitle: "Track E · Klasse 13 · Niveau E · Abitur-prep"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 6
-unit_slug: "mediation-policy-text"
+material_slug: "track-e_kl13_unit06-mediation-policy-text-exam"
 aliases:
   - /track_e_kl13/units/unit06_mediation-policy-text_exam.html
 ---

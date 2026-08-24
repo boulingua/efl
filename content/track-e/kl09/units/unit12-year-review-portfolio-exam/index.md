@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 12: Year Review: Portfolio'
 subtitle: "Track E · Klasse 9 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 12
-unit_slug: "year-review-portfolio"
+material_slug: "track-e_kl09_unit12-year-review-portfolio-exam"
 aliases:
   - /track_e_kl09/units/unit12_year-review-portfolio_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 7: Mediation: A Teen Magazine"
 subtitle: "Track E · Klasse 8 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 7
-unit_slug: "teen-magazine-mediation"
+material_slug: "track-e_kl08_unit07-teen-magazine-mediation-exam"
 aliases:
   - /track_e_kl08/units/unit07_teen-magazine-mediation_exam.html
 ---

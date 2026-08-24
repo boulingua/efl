@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 10: Kommunikationsprüfung: Full Mock"
 subtitle: "Track E · Klasse 13 · Niveau E · Abitur-prep"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 10
-unit_slug: "kommunikationspruefung-full-mock"
+material_slug: "track-e_kl13_unit10-kommunikationspruefung-full-mock-exam"
 aliases:
   - /track_e_kl13/units/unit10_kommunikationspruefung-full-mock_exam.html
 ---

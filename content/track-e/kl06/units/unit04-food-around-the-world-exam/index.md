@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 4: Food Around the World"
 subtitle: "Track E · Klasse 6 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 4
-unit_slug: "food-around-the-world"
+material_slug: "track-e_kl06_unit04-food-around-the-world-exam"
 aliases:
   - /track_e_kl06/units/unit04_food-around-the-world_exam.html
 ---

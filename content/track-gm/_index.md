@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Track G+M"
 author: "S. Le Boulanger"
 description: "Grundlegendes (G) und mittleres (M) Niveau, Klassen 5 bis 10."

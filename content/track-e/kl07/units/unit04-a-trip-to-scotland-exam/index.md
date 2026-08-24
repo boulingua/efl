@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 4: A Trip to Scotland"
 subtitle: "Track E · Klasse 7 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 4
-unit_slug: "a-trip-to-scotland"
+material_slug: "track-e_kl07_unit04-a-trip-to-scotland-exam"
 aliases:
   - /track_e_kl07/units/unit04_a-trip-to-scotland_exam.html
 ---

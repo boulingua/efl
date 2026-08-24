@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 9: Birthday and Friends"
 subtitle: "Track E · Klasse 5 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 9
-unit_slug: "birthday-and-friends"
+material_slug: "track-e_kl05_unit09-birthday-and-friends-exam"
 aliases:
   - /track_e_kl05/units/unit09_birthday-and-friends_exam.html
 ---

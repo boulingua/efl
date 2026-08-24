@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 6: Writing an Opinion"
 subtitle: "Track G+M · Klasse 8 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 6
-unit_slug: "opinion-writing"
+material_slug: "track-gm_kl08_unit06-opinion-writing-exam"
 aliases:
   - /track_gm_kl08/units/unit06_opinion-writing_exam.html
 ---

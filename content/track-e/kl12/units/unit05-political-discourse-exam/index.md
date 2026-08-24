@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 5: Political Discourse"
 subtitle: "Track E · Klasse 12 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 5
-unit_slug: "political-discourse"
+material_slug: "track-e_kl12_unit05-political-discourse-exam"
 aliases:
   - /track_e_kl12/units/unit05_political-discourse_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 3: The Environment, Locally'
 subtitle: "Track E · Klasse 9 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 3
-unit_slug: "the-environment-locally"
+material_slug: "track-e_kl09_unit03-the-environment-locally-exam"
 aliases:
   - /track_e_kl09/units/unit03_the-environment-locally_exam.html
 ---

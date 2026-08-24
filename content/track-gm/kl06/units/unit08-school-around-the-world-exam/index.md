@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 8: School Around the World"
 subtitle: "Track G+M · Klasse 6 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 8
-unit_slug: "school-around-the-world"
+material_slug: "track-gm_kl06_unit08-school-around-the-world-exam"
 aliases:
   - /track_gm_kl06/units/unit08_school-around-the-world_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 9 — Body and Health"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 6 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 9
-unit_slug: "body-and-health"
+material_slug: "track-e_kl06_unit09-body-and-health"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.1 Hör-/Hörsehverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl06_unit09-body-and-health.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl06_unit09-body-and-health.png"
 tags:
-  - "listening"
-  - "speaking"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.1"
-  - "3.1.3.3"
-  - "3.1.3.7"
+- listening
+- speaking
+- language_awareness
 topic: themen
 ---
 

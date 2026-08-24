@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 4: Australia Now'
 subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 4
-unit_slug: "australia-now"
+material_slug: "track-gm_kl10_unit04-australia-now-exam"
 aliases:
   - /track_gm_kl10/units/unit04_australia-now_exam.html
 ---

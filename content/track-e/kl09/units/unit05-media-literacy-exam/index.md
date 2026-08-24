@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 5: Media Literacy'
 subtitle: "Track E · Klasse 9 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 5
-unit_slug: "media-literacy"
+material_slug: "track-e_kl09_unit05-media-literacy-exam"
 aliases:
   - /track_e_kl09/units/unit05_media-literacy_exam.html
 ---

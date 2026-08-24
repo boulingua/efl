@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 11: Clothes and Colours"
 subtitle: "Track G+M · Klasse 5 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 11
-unit_slug: "clothes-and-colours"
+material_slug: "track-gm_kl05_unit11-clothes-and-colours-exam"
 aliases:
   - /track_gm_kl05/units/unit11_clothes-and-colours_exam.html
 ---

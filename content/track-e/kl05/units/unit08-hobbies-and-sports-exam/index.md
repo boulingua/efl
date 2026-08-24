@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 8: Hobbies and Sports"
 subtitle: "Track E · Klasse 5 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 8
-unit_slug: "hobbies-and-sports"
+material_slug: "track-e_kl05_unit08-hobbies-and-sports-exam"
 aliases:
   - /track_e_kl05/units/unit08_hobbies-and-sports_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 5: Media and Democracy'
 subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 5
-unit_slug: "media-and-democracy"
+material_slug: "track-e_kl10_unit05-media-and-democracy-exam"
 aliases:
   - /track_e_kl10/units/unit05_media-and-democracy_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 8: Hobbies and Sports"
 subtitle: "Track G+M · Klasse 5 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 8
-unit_slug: "hobbies-and-sports"
+material_slug: "track-gm_kl05_unit08-hobbies-and-sports-exam"
 aliases:
   - /track_gm_kl05/units/unit08_hobbies-and-sports_exam.html
 ---

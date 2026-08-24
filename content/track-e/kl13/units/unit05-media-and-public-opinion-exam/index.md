@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 5: Media and Public Opinion"
 subtitle: "Track E · Klasse 13 · Niveau E · Abitur-prep"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 5
-unit_slug: "media-and-public-opinion"
+material_slug: "track-e_kl13_unit05-media-and-public-opinion-exam"
 aliases:
   - /track_e_kl13/units/unit05_media-and-public-opinion_exam.html
 ---

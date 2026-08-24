@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 1: Future Careers"
 subtitle: "Track G+M · Klasse 9 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 1
-unit_slug: "future-careers"
+material_slug: "track-gm_kl09_unit01-future-careers-exam"
 aliases:
   - /track_gm_kl09/units/unit01_future-careers_exam.html
 ---

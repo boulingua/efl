@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 6: Media Literacy, Advanced"
 subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 6
-unit_slug: "media-literacy-advanced"
+material_slug: "track-e_kl11_unit06-media-literacy-advanced-exam"
 aliases:
   - /track_e_kl11/units/unit06_media-literacy-advanced_exam.html
 ---

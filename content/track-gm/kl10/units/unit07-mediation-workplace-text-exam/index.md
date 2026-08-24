@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 7: Mediation: A Workplace Text'
 subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 7
-unit_slug: "mediation-workplace-text"
+material_slug: "track-gm_kl10_unit07-mediation-workplace-text-exam"
 aliases:
   - /track_gm_kl10/units/unit07_mediation-workplace-text_exam.html
 ---

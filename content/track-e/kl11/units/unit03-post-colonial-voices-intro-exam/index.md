@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 3: Post-Colonial Voices: An Introduction"
 subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 3
-unit_slug: "post-colonial-voices-intro"
+material_slug: "track-e_kl11_unit03-post-colonial-voices-intro-exam"
 aliases:
   - /track_e_kl11/units/unit03_post-colonial-voices-intro_exam.html
 ---

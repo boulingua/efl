@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 7: Mediation: A German Feature Article'
 subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 7
-unit_slug: "mediation-feature-article"
+material_slug: "track-e_kl10_unit07-mediation-feature-article-exam"
 aliases:
   - /track_e_kl10/units/unit07_mediation-feature-article_exam.html
 ---

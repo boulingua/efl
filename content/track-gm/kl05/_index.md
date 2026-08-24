@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Grade 5 English — Family, school, friends — concrete and playful"
 author: "S. Le Boulanger"
 aliases:

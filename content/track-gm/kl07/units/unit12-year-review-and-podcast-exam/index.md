@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 12: Year Review: A Class Podcast"
 subtitle: "Track G+M · Klasse 7 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 12
-unit_slug: "year-review-and-podcast"
+material_slug: "track-gm_kl07_unit12-year-review-and-podcast-exam"
 aliases:
   - /track_gm_kl07/units/unit12_year-review-and-podcast_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 7 — Mediation: A Workplace Text"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 10 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 7
-unit_slug: "mediation-workplace-text"
+material_slug: "track-gm_kl10_unit07-mediation-workplace-text"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.5 Schreiben"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl10_unit07-mediation-workplace-text.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit07-mediation-workplace-text.png"
 tags:
-  - "mediation"
-  - "writing"
-  - "language_awareness"
-  - "3.3.1"
-  - "3.3.3.5"
-  - "3.3.3.6"
-  - "3.3.3.7"
+- mediation
+- writing
+- language_awareness
 topic: themen
 ---
 

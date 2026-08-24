@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 6: Interview and Portrait"
 subtitle: "Track G+M · Klasse 9 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 6
-unit_slug: "interview-and-portrait"
+material_slug: "track-gm_kl09_unit06-interview-and-portrait-exam"
 aliases:
   - /track_gm_kl09/units/unit06_interview-and-portrait_exam.html
 ---

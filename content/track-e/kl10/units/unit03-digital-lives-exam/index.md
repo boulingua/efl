@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 3: Digital Lives'
 subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 3
-unit_slug: "digital-lives"
+material_slug: "track-e_kl10_unit03-digital-lives-exam"
 aliases:
   - /track_e_kl10/units/unit03_digital-lives_exam.html
 ---

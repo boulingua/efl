@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 12: Year Review: Graduation Exam Prep'
 subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 12
-unit_slug: "year-review-graduation"
+material_slug: "track-gm_kl10_unit12-year-review-graduation-exam"
 aliases:
   - /track_gm_kl10/units/unit12_year-review-graduation_exam.html
 ---

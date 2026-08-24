@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 7: The Abitur Essay"
 subtitle: "Track E · Klasse 13 · Niveau E · Abitur-prep"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 7
-unit_slug: "the-abitur-essay"
+material_slug: "track-e_kl13_unit07-the-abitur-essay-exam"
 aliases:
   - /track_e_kl13/units/unit07_the-abitur-essay_exam.html
 ---

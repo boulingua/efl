@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 3: Media in Our Lives"
 subtitle: "Track E · Klasse 7 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 3
-unit_slug: "media-in-our-lives"
+material_slug: "track-e_kl07_unit03-media-in-our-lives-exam"
 aliases:
   - /track_e_kl07/units/unit03_media-in-our-lives_exam.html
 ---

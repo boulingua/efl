@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 4: Short Stories and Style"
 subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 4
-unit_slug: "short-stories-and-style"
+material_slug: "track-e_kl11_unit04-short-stories-and-style-exam"
 aliases:
   - /track_e_kl11/units/unit04_short-stories-and-style_exam.html
 ---

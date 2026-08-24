@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 7: Mediation: A Teen Magazine"
 subtitle: "Track G+M · Klasse 8 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 7
-unit_slug: "teen-magazine-mediation"
+material_slug: "track-gm_kl08_unit07-teen-magazine-mediation-exam"
 aliases:
   - /track_gm_kl08/units/unit07_teen-magazine-mediation_exam.html
 ---

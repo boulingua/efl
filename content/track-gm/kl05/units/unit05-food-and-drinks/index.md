@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 5 — Food and Drinks"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 5 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 5
-unit_slug: "food-and-drinks"
+material_slug: "track-gm_kl05_unit05-food-and-drinks"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.2 Leseverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl05_unit05-food-and-drinks.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit05-food-and-drinks.png"
 tags:
-  - "reading"
-  - "speaking"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.2"
-  - "3.1.3.3"
-  - "3.1.3.7"
+- reading
+- speaking
+- language_awareness
 topic: themen
 ---
 

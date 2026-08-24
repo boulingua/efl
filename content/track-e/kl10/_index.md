@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Grade 10 English — Transition and the world (Oberstufe-ready)"
 author: "S. Le Boulanger"
 aliases:

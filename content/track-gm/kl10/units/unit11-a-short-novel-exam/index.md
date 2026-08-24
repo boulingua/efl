@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 11: A Short Novel'
 subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 11
-unit_slug: "a-short-novel"
+material_slug: "track-gm_kl10_unit11-a-short-novel-exam"
 aliases:
   - /track_gm_kl10/units/unit11_a-short-novel_exam.html
 ---

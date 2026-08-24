@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 10 — A Short Novel"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 10 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 10
-unit_slug: "a-short-novel"
+material_slug: "track-e_kl10_unit10-a-short-novel"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.2 Leseverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl10_unit10-a-short-novel.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl10_unit10-a-short-novel.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.3.1"
-  - "3.3.3.2"
-  - "3.3.3.5"
-  - "3.3.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

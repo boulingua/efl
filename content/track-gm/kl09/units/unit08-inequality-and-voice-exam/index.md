@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 8: Inequality and Voice"
 subtitle: "Track G+M · Klasse 9 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 8
-unit_slug: "inequality-and-voice"
+material_slug: "track-gm_kl09_unit08-inequality-and-voice-exam"
 aliases:
   - /track_gm_kl09/units/unit08_inequality-and-voice_exam.html
 ---

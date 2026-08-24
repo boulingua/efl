@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 7: Mediation: An Academic Text"
 subtitle: "Track E · Klasse 12 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 7
-unit_slug: "mediation-academic-text"
+material_slug: "track-e_kl12_unit07-mediation-academic-text-exam"
 aliases:
   - /track_e_kl12/units/unit07_mediation-academic-text_exam.html
 ---

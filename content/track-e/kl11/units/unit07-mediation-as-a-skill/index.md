@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 7 — Mediation as a Skill"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 11 · Niveau E (Basisfach / Leistungsfach)"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 7
-unit_slug: "mediation-as-a-skill"
+material_slug: "track-e_kl11_unit07-mediation-as-a-skill"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.5 / 3.5.3.5 Schreiben"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl11_unit07-mediation-as-a-skill.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl11_unit07-mediation-as-a-skill.png"
 tags:
-  - "mediation"
-  - "writing"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.5"
-  - "3.4.3.6"
-  - "3.4.3.7"
+- mediation
+- writing
+- language_awareness
 topic: themen
 ---
 

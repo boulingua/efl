@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 1 — Future Careers"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 9 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 1
-unit_slug: "future-careers"
+material_slug: "track-gm_kl09_unit01-future-careers"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.2 Leseverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl09_unit01-future-careers.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit01-future-careers.png"
 tags:
-  - "reading"
-  - "speaking"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.2"
-  - "3.2.3.3"
-  - "3.2.3.7"
-  - "3.2.3.8"
+- reading
+- speaking
+- language_awareness
 topic: themen
 ---
 

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 5: Media Literacy"
 subtitle: "Track G+M · Klasse 9 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 5
-unit_slug: "media-literacy"
+material_slug: "track-gm_kl09_unit05-media-literacy-exam"
 aliases:
   - /track_gm_kl09/units/unit05_media-literacy_exam.html
 ---

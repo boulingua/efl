@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 12 — Year-End Festival"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 6 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 12
-unit_slug: "year-end-festival"
+material_slug: "track-gm_kl06_unit12-year-end-festival"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl06_unit12-year-end-festival.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit12-year-end-festival.png"
 tags:
-  - "speaking"
-  - "writing"
-  - "intercultural"
-  - "3.1.1"
-  - "3.1.3.4"
-  - "3.1.3.5"
-  - "3.1.4"
+- speaking
+- writing
+- intercultural
 topic: text-medien
 ---
 

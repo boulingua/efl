@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 7: Weather and Seasons"
 subtitle: "Track G+M · Klasse 5 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 7
-unit_slug: "weather-and-seasons"
+material_slug: "track-gm_kl05_unit07-weather-and-seasons-exam"
 aliases:
   - /track_gm_kl05/units/unit07_weather-and-seasons_exam.html
 ---

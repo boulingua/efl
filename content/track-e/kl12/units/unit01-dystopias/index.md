@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 1 — Dystopias"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 12 · Niveau E (Basisfach / Leistungsfach)"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 1
-unit_slug: "dystopias"
+material_slug: "track-e_kl12_unit01-dystopias"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.2 / 3.5.3.2 Leseverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl12_unit01-dystopias.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl12_unit01-dystopias.png"
 tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.4.1"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
+- reading
+- writing
+- intercultural
 topic: text-medien
 ---
 

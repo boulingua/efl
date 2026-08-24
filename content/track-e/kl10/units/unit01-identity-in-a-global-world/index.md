@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 1 — Identity in a Global World"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 10 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 1
-unit_slug: "identity-in-a-global-world"
+material_slug: "track-e_kl10_unit01-identity-in-a-global-world"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.2 Interkulturelle kommunikative Kompetenz"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl10_unit01-identity-in-a-global-world.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl10_unit01-identity-in-a-global-world.png"
 tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.3.1"
-  - "3.3.2"
-  - "3.3.3.2"
-  - "3.3.3.5"
-  - "3.3.4"
+- reading
+- writing
+- intercultural
 topic: interkulturell
 ---
 

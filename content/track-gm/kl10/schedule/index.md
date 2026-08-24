@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: "Schedule — Grade 10 · Track G+M"
 author: "S. Le Boulanger"
 aliases:

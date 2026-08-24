@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: "References"
 author: "S. Le Boulanger"
 aliases:

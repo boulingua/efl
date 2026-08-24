@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 9 — Birthday and Friends"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 5 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 9
-unit_slug: "birthday-and-friends"
+material_slug: "track-e_kl05_unit09-birthday-and-friends"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit09-birthday-and-friends.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit09-birthday-and-friends.png"
 tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.3"
-  - "3.1.3.5"
-  - "3.1.3.8"
+- speaking
+- writing
+- language_awareness
 topic: themen
 ---
 

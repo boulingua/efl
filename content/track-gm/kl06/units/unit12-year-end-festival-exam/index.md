@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 12: Year-End Festival"
 subtitle: "Track G+M · Klasse 6 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 12
-unit_slug: "year-end-festival"
+material_slug: "track-gm_kl06_unit12-year-end-festival-exam"
 aliases:
   - /track_gm_kl06/units/unit12_year-end-festival_exam.html
 ---

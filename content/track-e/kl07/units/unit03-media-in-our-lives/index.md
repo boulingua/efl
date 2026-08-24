@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 3 — Media in Our Lives"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 7 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 3
-unit_slug: "media-in-our-lives"
+material_slug: "track-e_kl07_unit03-media-in-our-lives"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.1 Hör-/Hörsehverstehen"
@@ -27,15 +28,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl07_unit03-media-in-our-lives.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl07_unit03-media-in-our-lives.png"
 tags:
-  - "listening"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.1"
-  - "3.2.3.5"
-  - "3.2.3.7"
-  - "3.2.3.8"
-  - "3.2.4"
+- listening
+- writing
+- language_awareness
 topic: text-medien
 ---
 

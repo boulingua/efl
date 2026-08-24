@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 3: Home and My Room"
 subtitle: "Track G+M · Klasse 5 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 3
-unit_slug: "home-and-room"
+material_slug: "track-gm_kl05_unit03-home-and-room-exam"
 aliases:
   - /track_gm_kl05/units/unit03_home-and-room_exam.html
 ---

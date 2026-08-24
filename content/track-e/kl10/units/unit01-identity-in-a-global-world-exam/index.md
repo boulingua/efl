@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 1: Identity in a Global World'
 subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 1
-unit_slug: "identity-in-a-global-world"
+material_slug: "track-e_kl10_unit01-identity-in-a-global-world-exam"
 aliases:
   - /track_e_kl10/units/unit01_identity-in-a-global-world_exam.html
 ---

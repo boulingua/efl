@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 5 — The United States Today"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 7 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 5
-unit_slug: "the-united-states-today"
+material_slug: "track-e_kl07_unit05-the-united-states-today"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"
@@ -27,15 +28,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl07_unit05-the-united-states-today.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl07_unit05-the-united-states-today.png"
 tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.2.1"
-  - "3.2.2"
-  - "3.2.3.2"
-  - "3.2.3.5"
-  - "3.2.3.8"
-  - "3.2.4"
+- reading
+- writing
+- intercultural
 topic: interkulturell
 ---
 

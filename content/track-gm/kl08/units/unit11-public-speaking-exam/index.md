@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 11: Public Speaking: A Short Talk"
 subtitle: "Track G+M · Klasse 8 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 11
-unit_slug: "public-speaking"
+material_slug: "track-gm_kl08_unit11-public-speaking-exam"
 aliases:
   - /track_gm_kl08/units/unit11_public-speaking_exam.html
 ---

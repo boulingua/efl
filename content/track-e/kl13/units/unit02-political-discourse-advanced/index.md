@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 2 — Political Discourse, Advanced"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 13 · Niveau E (Basisfach / Leistungsfach) · Abitur year"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 2
-unit_slug: "political-discourse-advanced"
+material_slug: "track-e_kl13_unit02-political-discourse-advanced"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl13_unit02-political-discourse-advanced.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl13_unit02-political-discourse-advanced.png"
 tags:
-  - "reading"
-  - "listening"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.1"
-  - "3.4.3.2"
-  - "3.4.4"
+- reading
+- listening
+- language_awareness
 topic: text-medien
 ---
 

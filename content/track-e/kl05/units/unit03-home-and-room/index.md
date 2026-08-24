@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 3 — Home and My Room"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 5 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 3
-unit_slug: "home-and-room"
+material_slug: "track-e_kl05_unit03-home-and-room"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.2 Leseverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit03-home-and-room.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit03-home-and-room.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.2"
-  - "3.1.3.5"
-  - "3.1.3.7"
+- reading
+- writing
+- language_awareness
 topic: themen
 ---
 

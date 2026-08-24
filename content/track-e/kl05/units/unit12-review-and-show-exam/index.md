@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 12: Review and Show"
 subtitle: "Track E · Klasse 5 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 12
-unit_slug: "review-and-show"
+material_slug: "track-e_kl05_unit12-review-and-show-exam"
 aliases:
   - /track_e_kl05/units/unit12_review-and-show_exam.html
 ---

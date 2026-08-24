@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 11 — Public Speaking: A Short Talk"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 8 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 11
-unit_slug: "public-speaking"
+material_slug: "track-e_kl08_unit11-public-speaking"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.1 Hör-/Hörsehverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl08_unit11-public-speaking.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl08_unit11-public-speaking.png"
 tags:
-  - "speaking"
-  - "listening"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.1"
-  - "3.2.3.4"
-  - "3.2.3.7"
+- speaking
+- listening
+- language_awareness
 topic: themen
 ---
 

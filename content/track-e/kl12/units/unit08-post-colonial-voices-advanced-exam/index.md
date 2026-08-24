@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 8: Post-Colonial Voices, Advanced"
 subtitle: "Track E · Klasse 12 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 8
-unit_slug: "post-colonial-voices-advanced"
+material_slug: "track-e_kl12_unit08-post-colonial-voices-advanced-exam"
 aliases:
   - /track_e_kl12/units/unit08_post-colonial-voices-advanced_exam.html
 ---

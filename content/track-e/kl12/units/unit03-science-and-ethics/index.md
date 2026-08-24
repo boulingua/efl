@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 3 — Science and Ethics"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 12 · Niveau E (Basisfach / Leistungsfach)"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 3
-unit_slug: "science-and-ethics"
+material_slug: "track-e_kl12_unit03-science-and-ethics"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.2 / 3.5.3.2 Leseverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl12_unit03-science-and-ethics.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl12_unit03-science-and-ethics.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

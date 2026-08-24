@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 9 — A Novel in Full"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 12 · Niveau E (Basisfach / Leistungsfach)"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 9
-unit_slug: "a-novel-in-full"
+material_slug: "track-e_kl12_unit09-a-novel-in-full"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.2 / 3.5.3.2 Leseverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl12_unit09-a-novel-in-full.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl12_unit09-a-novel-in-full.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 1: British Cultural Anchors"
 subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 1
-unit_slug: "british-cultural-anchors"
+material_slug: "track-e_kl11_unit01-british-cultural-anchors-exam"
 aliases:
   - /track_e_kl11/units/unit01_british-cultural-anchors_exam.html
 ---

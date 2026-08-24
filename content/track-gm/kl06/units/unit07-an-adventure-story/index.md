@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 7 — An Adventure Story"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 6 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 7
-unit_slug: "an-adventure-story"
+material_slug: "track-gm_kl06_unit07-an-adventure-story"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.2 Leseverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl06_unit07-an-adventure-story.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl06_unit07-an-adventure-story.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.2"
-  - "3.1.3.5"
-  - "3.1.3.8"
-  - "3.1.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

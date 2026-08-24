@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 12 — Review and Show"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 5 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 12
-unit_slug: "review-and-show"
+material_slug: "track-gm_kl05_unit12-review-and-show"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl05_unit12-review-and-show.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit12-review-and-show.png"
 tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.4"
-  - "3.1.3.5"
-  - "3.1.4"
+- speaking
+- writing
+- language_awareness
 topic: text-medien
 ---
 

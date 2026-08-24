@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 1: Globalisation and the Self"
 subtitle: "Track E · Klasse 13 · Niveau E · Abitur-prep"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 1
-unit_slug: "globalisation-and-the-self"
+material_slug: "track-e_kl13_unit01-globalisation-and-the-self-exam"
 aliases:
   - /track_e_kl13/units/unit01_globalisation-and-the-self_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 4 — Ireland: Stories from the Island"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 8 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 4
-unit_slug: "ireland-stories"
+material_slug: "track-e_kl08_unit04-ireland-stories"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl08_unit04-ireland-stories.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl08_unit04-ireland-stories.png"
 tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.2.1"
-  - "3.2.2"
-  - "3.2.3.2"
-  - "3.2.3.5"
-  - "3.2.4"
+- reading
+- writing
+- intercultural
 topic: interkulturell
 ---
 

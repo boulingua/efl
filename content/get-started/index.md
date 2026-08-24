@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: "Get Started"
 author: "S. Le Boulanger"
 aliases:

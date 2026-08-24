@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 10: Project and Presentation'
 subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 10
-unit_slug: "project-and-presentation"
+material_slug: "track-gm_kl10_unit10-project-and-presentation-exam"
 aliases:
   - /track_gm_kl10/units/unit10_project-and-presentation_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: appendix
 title: "Common errors"
 author: "S. Le Boulanger"
 aliases:

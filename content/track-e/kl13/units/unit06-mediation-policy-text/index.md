@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 6 — Mediation: A German Policy Text"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 13 · Niveau E (Basisfach / Leistungsfach) · Abitur year"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 6
-unit_slug: "mediation-policy-text"
+material_slug: "track-e_kl13_unit06-mediation-policy-text"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.5 / 3.5.3.5 Schreiben"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl13_unit06-mediation-policy-text.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl13_unit06-mediation-policy-text.png"
 tags:
-  - "mediation"
-  - "writing"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.5"
-  - "3.4.3.6"
-  - "3.4.3.7"
+- mediation
+- writing
+- language_awareness
 topic: themen
 ---
 

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 2: Political Discourse, Advanced"
 subtitle: "Track E · Klasse 13 · Niveau E · Abitur-prep"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 2
-unit_slug: "political-discourse-advanced"
+material_slug: "track-e_kl13_unit02-political-discourse-advanced-exam"
 aliases:
   - /track_e_kl13/units/unit02_political-discourse-advanced_exam.html
 ---

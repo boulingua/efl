@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 9: School Rules and Rights"
 subtitle: "Track E · Klasse 7 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 9
-unit_slug: "school-rules-and-rights"
+material_slug: "track-e_kl07_unit09-school-rules-and-rights-exam"
 aliases:
   - /track_e_kl07/units/unit09_school-rules-and-rights_exam.html
 ---

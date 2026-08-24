@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 6 — Friends and Feelings"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 6 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 6
-unit_slug: "friends-and-feelings"
+material_slug: "track-e_kl06_unit06-friends-and-feelings"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl06_unit06-friends-and-feelings.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl06_unit06-friends-and-feelings.png"
 tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.3"
-  - "3.1.3.5"
-  - "3.1.3.7"
+- speaking
+- writing
+- language_awareness
 topic: themen
 ---
 

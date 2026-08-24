@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "About"
 author: "S. Le Boulanger"
 aliases:

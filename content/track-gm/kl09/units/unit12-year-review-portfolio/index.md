@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 12 — Year Review: Portfolio"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 9 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 12
-unit_slug: "year-review-portfolio"
+material_slug: "track-gm_kl09_unit12-year-review-portfolio"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl09_unit12-year-review-portfolio.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit12-year-review-portfolio.png"
 tags:
-  - "writing"
-  - "speaking"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.4"
-  - "3.2.3.5"
-  - "3.2.4"
+- writing
+- speaking
+- language_awareness
 topic: text-medien
 ---
 

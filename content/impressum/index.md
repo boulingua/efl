@@ -1,4 +1,5 @@
 ---
+page_type: legal
 title: "Impressum"
 author: "S. Le Boulanger"
 aliases:

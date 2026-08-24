@@ -1,4 +1,5 @@
 ---
+page_type: appendix
 title: "Teaching workflow"
 author: "S. Le Boulanger"
 aliases:

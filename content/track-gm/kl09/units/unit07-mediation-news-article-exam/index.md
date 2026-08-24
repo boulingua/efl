@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 7: Mediation: A German News Article"
 subtitle: "Track G+M · Klasse 9 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 7
-unit_slug: "mediation-news-article"
+material_slug: "track-gm_kl09_unit07-mediation-news-article-exam"
 aliases:
   - /track_gm_kl09/units/unit07_mediation-news-article_exam.html
 ---

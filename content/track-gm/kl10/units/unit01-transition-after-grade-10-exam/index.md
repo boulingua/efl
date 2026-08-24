@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 1: Transition After Grade 10'
 subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 1
-unit_slug: "transition-after-grade-10"
+material_slug: "track-gm_kl10_unit01-transition-after-grade-10-exam"
 aliases:
   - /track_gm_kl10/units/unit01_transition-after-grade-10_exam.html
 ---

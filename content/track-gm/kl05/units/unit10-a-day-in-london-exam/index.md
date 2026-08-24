@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 10: A Day in London"
 subtitle: "Track G+M · Klasse 5 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 10
-unit_slug: "a-day-in-london"
+material_slug: "track-gm_kl05_unit10-a-day-in-london-exam"
 aliases:
   - /track_gm_kl05/units/unit10_a-day-in-london_exam.html
 ---

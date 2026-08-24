@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 6 — Animals and Pets"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 5 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 6
-unit_slug: "animals-and-pets"
+material_slug: "track-gm_kl05_unit06-animals-and-pets"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.2 Leseverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl05_unit06-animals-and-pets.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit06-animals-and-pets.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.2"
-  - "3.1.3.5"
-  - "3.1.3.7"
-  - "3.1.3.8"
+- reading
+- writing
+- language_awareness
 topic: themen
 ---
 

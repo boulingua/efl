@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 2: Money and Choices"
 subtitle: "Track G+M · Klasse 9 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 2
-unit_slug: "money-and-choices"
+material_slug: "track-gm_kl09_unit02-money-and-choices-exam"
 aliases:
   - /track_gm_kl09/units/unit02_money-and-choices_exam.html
 ---

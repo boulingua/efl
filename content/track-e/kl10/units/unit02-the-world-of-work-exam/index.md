@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 2: The World of Work'
 subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 2
-unit_slug: "the-world-of-work"
+material_slug: "track-e_kl10_unit02-the-world-of-work-exam"
 aliases:
   - /track_e_kl10/units/unit02_the-world-of-work_exam.html
 ---

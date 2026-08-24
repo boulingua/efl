@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 7 — Mediation: A Teen Magazine"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 8 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 7
-unit_slug: "teen-magazine-mediation"
+material_slug: "track-e_kl08_unit07-teen-magazine-mediation"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.5 Schreiben"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl08_unit07-teen-magazine-mediation.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl08_unit07-teen-magazine-mediation.png"
 tags:
-  - "mediation"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.5"
-  - "3.2.3.6"
-  - "3.2.3.7"
+- mediation
+- writing
+- language_awareness
 topic: themen
 ---
 

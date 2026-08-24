@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 4: Canada: Perspectives'
 subtitle: "Track E · Klasse 9 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 4
-unit_slug: "canada-perspectives"
+material_slug: "track-e_kl09_unit04-canada-perspectives-exam"
 aliases:
   - /track_e_kl09/units/unit04_canada-perspectives_exam.html
 ---

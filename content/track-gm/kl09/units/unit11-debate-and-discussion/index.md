@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 11 — Debate and Discussion"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 9 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 11
-unit_slug: "debate-and-discussion"
+material_slug: "track-gm_kl09_unit11-debate-and-discussion"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.1 Hör-/Hörsehverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl09_unit11-debate-and-discussion.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit11-debate-and-discussion.png"
 tags:
-  - "speaking"
-  - "listening"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.1"
-  - "3.2.3.3"
-  - "3.2.3.4"
+- speaking
+- listening
+- language_awareness
 topic: themen
 ---
 

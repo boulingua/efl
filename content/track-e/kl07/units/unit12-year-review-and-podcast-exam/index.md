@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 12: Year Review: A Class Podcast"
 subtitle: "Track E · Klasse 7 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 12
-unit_slug: "year-review-and-podcast"
+material_slug: "track-e_kl07_unit12-year-review-and-podcast-exam"
 aliases:
   - /track_e_kl07/units/unit12_year-review-and-podcast_exam.html
 ---

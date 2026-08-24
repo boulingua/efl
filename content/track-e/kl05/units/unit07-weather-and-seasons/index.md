@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 7 — Weather and Seasons"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 5 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 7
-unit_slug: "weather-and-seasons"
+material_slug: "track-e_kl05_unit07-weather-and-seasons"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.1 Hör-/Hörsehverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit07-weather-and-seasons.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit07-weather-and-seasons.png"
 tags:
-  - "listening"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.1"
-  - "3.1.3.5"
-  - "3.1.3.7"
+- listening
+- writing
+- language_awareness
 topic: themen
 ---
 

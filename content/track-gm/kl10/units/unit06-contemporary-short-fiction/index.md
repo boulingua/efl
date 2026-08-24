@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 6 — Contemporary Short Fiction"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 10 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 6
-unit_slug: "contemporary-short-fiction"
+material_slug: "track-gm_kl10_unit06-contemporary-short-fiction"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.2 Leseverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl10_unit06-contemporary-short-fiction.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit06-contemporary-short-fiction.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.3.1"
-  - "3.3.3.2"
-  - "3.3.3.5"
-  - "3.3.3.8"
-  - "3.3.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

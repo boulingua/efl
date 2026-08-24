@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 10: Writing an Application Letter"
 subtitle: "Track G+M · Klasse 9 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 10
-unit_slug: "application-letter"
+material_slug: "track-gm_kl09_unit10-application-letter-exam"
 aliases:
   - /track_gm_kl09/units/unit10_application-letter_exam.html
 ---

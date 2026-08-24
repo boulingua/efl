@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 2: The American Dream"
 subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 2
-unit_slug: "the-american-dream"
+material_slug: "track-e_kl11_unit02-the-american-dream-exam"
 aliases:
   - /track_e_kl11/units/unit02_the-american-dream_exam.html
 ---

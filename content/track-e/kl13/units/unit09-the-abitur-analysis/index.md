@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 9 — The Abitur Analysis Task"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 13 · Niveau E (Basisfach / Leistungsfach) · Abitur year"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 9
-unit_slug: "the-abitur-analysis"
+material_slug: "track-e_kl13_unit09-the-abitur-analysis"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.2 / 3.5.3.2 Leseverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl13_unit09-the-abitur-analysis.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl13_unit09-the-abitur-analysis.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

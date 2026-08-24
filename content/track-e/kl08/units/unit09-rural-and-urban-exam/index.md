@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 9: Rural and Urban Lives"
 subtitle: "Track E · Klasse 8 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 8
 track: "e"
 unit_nr: 9
-unit_slug: "rural-and-urban"
+material_slug: "track-e_kl08_unit09-rural-and-urban-exam"
 aliases:
   - /track_e_kl08/units/unit09_rural-and-urban_exam.html
 ---

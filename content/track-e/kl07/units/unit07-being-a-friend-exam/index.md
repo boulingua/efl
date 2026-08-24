@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 7: Being a Friend"
 subtitle: "Track E · Klasse 7 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 7
-unit_slug: "being-a-friend"
+material_slug: "track-e_kl07_unit07-being-a-friend-exam"
 aliases:
   - /track_e_kl07/units/unit07_being-a-friend_exam.html
 ---

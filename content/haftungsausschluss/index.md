@@ -1,4 +1,5 @@
 ---
+page_type: legal
 title: "Haftungsausschluss"
 author: "S. Le Boulanger"
 aliases:

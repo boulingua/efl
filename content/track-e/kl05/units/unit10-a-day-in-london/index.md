@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 10 — A Day in London"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 5 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 10
-unit_slug: "a-day-in-london"
+material_slug: "track-e_kl05_unit10-a-day-in-london"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.2 Interkulturelle kommunikative Kompetenz"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit10-a-day-in-london.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit10-a-day-in-london.png"
 tags:
-  - "reading"
-  - "listening"
-  - "intercultural"
-  - "3.1.1"
-  - "3.1.2"
-  - "3.1.3.1"
-  - "3.1.3.2"
-  - "3.1.4"
+- reading
+- listening
+- intercultural
 topic: interkulturell
 ---
 

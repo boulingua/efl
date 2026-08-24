@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 5 — Media and Truth"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 10 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 5
-unit_slug: "media-and-truth"
+material_slug: "track-gm_kl10_unit05-media-and-truth"
 bildungsplan:
   - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.3.3.2 Leseverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl10_unit05-media-and-truth.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl10_unit05-media-and-truth.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.3.1"
-  - "3.3.3.2"
-  - "3.3.3.5"
-  - "3.3.3.7"
-  - "3.3.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

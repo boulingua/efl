@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 2: My Family"
 subtitle: "Track G+M · Klasse 5 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 2
-unit_slug: "my-family"
+material_slug: "track-gm_kl05_unit02-my-family-exam"
 aliases:
   - /track_gm_kl05/units/unit02_my-family_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: appendix
 title: "Writing rubrics"
 author: "S. Le Boulanger"
 aliases:

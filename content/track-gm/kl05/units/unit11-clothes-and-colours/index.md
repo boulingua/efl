@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 11 — Clothes and Colours"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 5 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 11
-unit_slug: "clothes-and-colours"
+material_slug: "track-gm_kl05_unit11-clothes-and-colours"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl05_unit11-clothes-and-colours.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit11-clothes-and-colours.png"
 tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.3"
-  - "3.1.3.5"
-  - "3.1.3.7"
+- speaking
+- writing
+- language_awareness
 topic: themen
 ---
 

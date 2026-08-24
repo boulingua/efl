@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 9: A Modern Novel (Basisfach focus)"
 subtitle: "Track E · Klasse 11 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 9
-unit_slug: "a-modern-novel-bf"
+material_slug: "track-e_kl11_unit09-a-modern-novel-bf-exam"
 aliases:
   - /track_e_kl11/units/unit09_a-modern-novel-bf_exam.html
 ---

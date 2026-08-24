@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 4: Food Around the World"
 subtitle: "Track G+M · Klasse 6 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 4
-unit_slug: "food-around-the-world"
+material_slug: "track-gm_kl06_unit04-food-around-the-world-exam"
 aliases:
   - /track_gm_kl06/units/unit04_food-around-the-world_exam.html
 ---

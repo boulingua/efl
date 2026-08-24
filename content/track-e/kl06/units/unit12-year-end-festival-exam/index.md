@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 12: Year-End Festival"
 subtitle: "Track E · Klasse 6 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 12
-unit_slug: "year-end-festival"
+material_slug: "track-e_kl06_unit12-year-end-festival-exam"
 aliases:
   - /track_e_kl06/units/unit12_year-end-festival_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 10: A Novella in Class"
 subtitle: "Track G+M · Klasse 8 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 10
-unit_slug: "a-novella-in-class"
+material_slug: "track-gm_kl08_unit10-a-novella-in-class-exam"
 aliases:
   - /track_gm_kl08/units/unit10_a-novella-in-class_exam.html
 ---

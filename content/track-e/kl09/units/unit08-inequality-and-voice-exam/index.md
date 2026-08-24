@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 8: Inequality and Voice'
 subtitle: "Track E · Klasse 9 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 8
-unit_slug: "inequality-and-voice"
+material_slug: "track-e_kl09_unit08-inequality-and-voice-exam"
 aliases:
   - /track_e_kl09/units/unit08_inequality-and-voice_exam.html
 ---

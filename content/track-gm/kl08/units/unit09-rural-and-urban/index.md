@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 9 — Rural and Urban Lives"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 8 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 9
-unit_slug: "rural-and-urban"
+material_slug: "track-gm_kl08_unit09-rural-and-urban"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl08_unit09-rural-and-urban.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit09-rural-and-urban.png"
 tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.2.1"
-  - "3.2.2"
-  - "3.2.3.2"
-  - "3.2.3.5"
-  - "3.2.4"
+- reading
+- writing
+- intercultural
 topic: interkulturell
 ---
 

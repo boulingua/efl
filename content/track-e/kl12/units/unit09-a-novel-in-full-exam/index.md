@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 9: A Novel in Full"
 subtitle: "Track E · Klasse 12 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 9
-unit_slug: "a-novel-in-full"
+material_slug: "track-e_kl12_unit09-a-novel-in-full-exam"
 aliases:
   - /track_e_kl12/units/unit09_a-novel-in-full_exam.html
 ---

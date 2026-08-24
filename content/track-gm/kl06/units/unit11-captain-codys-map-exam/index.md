@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 11: Captain Cody's Map"
 subtitle: "Track G+M · Klasse 6 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 11
-unit_slug: "captain-codys-map"
+material_slug: "track-gm_kl06_unit11-captain-codys-map-exam"
 aliases:
   - /track_gm_kl06/units/unit11_captain-codys-map_exam.html
 ---

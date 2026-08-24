@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 1: First Day Back"
 subtitle: "Track G+M · Klasse 7 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 1
-unit_slug: "first-day-back"
+material_slug: "track-gm_kl07_unit01-first-day-back-exam"
 aliases:
   - /track_gm_kl07/units/unit01_first-day-back_exam.html
 ---

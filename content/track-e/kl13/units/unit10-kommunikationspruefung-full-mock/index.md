@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 10 — Kommunikationsprüfung: Full Mock"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 13 · Niveau E (Basisfach / Leistungsfach) · Abitur year"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 10
-unit_slug: "kommunikationspruefung-full-mock"
+material_slug: "track-e_kl13_unit10-kommunikationspruefung-full-mock"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl13_unit10-kommunikationspruefung-full-mock.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl13_unit10-kommunikationspruefung-full-mock.png"
 tags:
-  - "speaking"
-  - "listening"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.1"
-  - "3.4.3.3"
-  - "3.4.3.4"
+- speaking
+- listening
+- language_awareness
 topic: themen
 ---
 

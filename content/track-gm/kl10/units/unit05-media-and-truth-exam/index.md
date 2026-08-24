@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 5: Media and Truth'
 subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 5
-unit_slug: "media-and-truth"
+material_slug: "track-gm_kl10_unit05-media-and-truth-exam"
 aliases:
   - /track_gm_kl10/units/unit05_media-and-truth_exam.html
 ---

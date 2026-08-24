@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 2 — Growing Up"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 7 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 2
-unit_slug: "growing-up"
+material_slug: "track-e_kl07_unit02-growing-up"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.2 Leseverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl07_unit02-growing-up.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl07_unit02-growing-up.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.2"
-  - "3.2.3.5"
-  - "3.2.3.8"
-  - "3.2.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

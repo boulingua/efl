@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 3: Science and Ethics"
 subtitle: "Track E · Klasse 12 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 3
-unit_slug: "science-and-ethics"
+material_slug: "track-e_kl12_unit03-science-and-ethics-exam"
 aliases:
   - /track_e_kl12/units/unit03_science-and-ethics_exam.html
 ---

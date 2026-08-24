@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 10: A Short Novel'
 subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 10
-unit_slug: "a-short-novel"
+material_slug: "track-e_kl10_unit10-a-short-novel-exam"
 aliases:
   - /track_e_kl10/units/unit10_a-short-novel_exam.html
 ---

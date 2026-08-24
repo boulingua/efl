@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Grade 13 English — Exam-grade and issue-framed (Abitur year)"
 author: "S. Le Boulanger"
 aliases:

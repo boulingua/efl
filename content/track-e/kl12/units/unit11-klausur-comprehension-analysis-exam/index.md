@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 11: Klausur: Comprehension and Analysis"
 subtitle: "Track E · Klasse 12 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 11
-unit_slug: "klausur-comprehension-analysis"
+material_slug: "track-e_kl12_unit11-klausur-comprehension-analysis-exam"
 aliases:
   - /track_e_kl12/units/unit11_klausur-comprehension-analysis_exam.html
 ---

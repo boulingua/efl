@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 1 — Hello World"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 5 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 1
-unit_slug: "hello-world"
+material_slug: "track-e_kl05_unit01-hello-world"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit01-hello-world.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit01-hello-world.png"
 tags:
-  - "speaking"
-  - "listening"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.3"
-  - "3.1.3.5"
-  - "3.1.3.8"
+- speaking
+- listening
+- language_awareness
 topic: themen
 ---
 

@@ -1,4 +1,5 @@
 ---
+page_type: reference
 title: "Schedule — Grade 11 · Track E"
 author: "S. Le Boulanger"
 aliases:

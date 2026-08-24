@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 11 — Plans for the Summer"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 7 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 11
-unit_slug: "plans-for-the-summer"
+material_slug: "track-gm_kl07_unit11-plans-for-the-summer"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.1 Hör-/Hörsehverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl07_unit11-plans-for-the-summer.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit11-plans-for-the-summer.png"
 tags:
-  - "speaking"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.1"
-  - "3.2.3.3"
-  - "3.2.3.5"
-  - "3.2.3.8"
+- speaking
+- writing
+- language_awareness
 topic: themen
 ---
 

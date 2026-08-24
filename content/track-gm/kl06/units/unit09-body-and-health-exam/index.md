@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 9: Body and Health"
 subtitle: "Track G+M · Klasse 6 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 9
-unit_slug: "body-and-health"
+material_slug: "track-gm_kl06_unit09-body-and-health-exam"
 aliases:
   - /track_gm_kl06/units/unit09_body-and-health_exam.html
 ---

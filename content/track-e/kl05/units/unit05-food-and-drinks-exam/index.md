@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 5: Food and Drinks"
 subtitle: "Track E · Klasse 5 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 5
-unit_slug: "food-and-drinks"
+material_slug: "track-e_kl05_unit05-food-and-drinks-exam"
 aliases:
   - /track_e_kl05/units/unit05_food-and-drinks_exam.html
 ---

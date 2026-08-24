@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 4 — A Trip to Scotland"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 7 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 4
-unit_slug: "a-trip-to-scotland"
+material_slug: "track-gm_kl07_unit04-a-trip-to-scotland"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"
@@ -27,15 +28,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl07_unit04-a-trip-to-scotland.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit04-a-trip-to-scotland.png"
 tags:
-  - "reading"
-  - "listening"
-  - "intercultural"
-  - "3.2.1"
-  - "3.2.2"
-  - "3.2.3.1"
-  - "3.2.3.2"
-  - "3.2.3.8"
-  - "3.2.4"
+- reading
+- listening
+- intercultural
 topic: interkulturell
 ---
 

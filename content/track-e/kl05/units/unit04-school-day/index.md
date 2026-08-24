@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 4 — A School Day"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 5 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 4
-unit_slug: "school-day"
+material_slug: "track-e_kl05_unit04-school-day"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.1 Hör-/Hörsehverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl05_unit04-school-day.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl05_unit04-school-day.png"
 tags:
-  - "listening"
-  - "speaking"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.1"
-  - "3.1.3.3"
-  - "3.1.3.8"
+- listening
+- speaking
+- language_awareness
 topic: themen
 ---
 

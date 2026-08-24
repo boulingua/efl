@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 10 — Travelling by Train"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 6 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 10
-unit_slug: "travelling-by-train"
+material_slug: "track-e_kl06_unit10-travelling-by-train"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.1 Hör-/Hörsehverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl06_unit10-travelling-by-train.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl06_unit10-travelling-by-train.png"
 tags:
-  - "listening"
-  - "reading"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.1"
-  - "3.1.3.2"
-  - "3.1.3.7"
+- listening
+- reading
+- language_awareness
 topic: themen
 ---
 

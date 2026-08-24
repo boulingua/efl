@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 11: Public Speaking and Debate'
 subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 11
-unit_slug: "public-speaking-and-debate"
+material_slug: "track-e_kl10_unit11-public-speaking-and-debate-exam"
 aliases:
   - /track_e_kl10/units/unit11_public-speaking-and-debate_exam.html
 ---

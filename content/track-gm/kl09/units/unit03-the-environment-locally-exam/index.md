@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 3: The Environment, Locally"
 subtitle: "Track G+M · Klasse 9 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 3
-unit_slug: "the-environment-locally"
+material_slug: "track-gm_kl09_unit03-the-environment-locally-exam"
 aliases:
   - /track_gm_kl09/units/unit03_the-environment-locally_exam.html
 ---

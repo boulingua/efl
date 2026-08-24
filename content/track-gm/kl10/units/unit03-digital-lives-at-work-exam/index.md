@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 3: Digital Lives at Work'
 subtitle: "Track G+M · Klasse 10 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 10
 track: "gm"
 unit_nr: 3
-unit_slug: "digital-lives-at-work"
+material_slug: "track-gm_kl10_unit03-digital-lives-at-work-exam"
 aliases:
   - /track_gm_kl10/units/unit03_digital-lives-at-work_exam.html
 ---

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 8 — Hobbies and Sports"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 5 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 8
-unit_slug: "hobbies-and-sports"
+material_slug: "track-gm_kl05_unit08-hobbies-and-sports"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.1 Hör-/Hörsehverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl05_unit08-hobbies-and-sports.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit08-hobbies-and-sports.png"
 tags:
-  - "speaking"
-  - "listening"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.1"
-  - "3.1.3.3"
-  - "3.1.3.7"
+- speaking
+- listening
+- language_awareness
 topic: themen
 ---
 

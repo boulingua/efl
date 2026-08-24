@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 4: Australia and New Zealand'
 subtitle: "Track E · Klasse 10 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 10
 track: "e"
 unit_nr: 4
-unit_slug: "australia-and-new-zealand"
+material_slug: "track-e_kl10_unit04-australia-and-new-zealand-exam"
 aliases:
   - /track_e_kl10/units/unit04_australia-and-new-zealand_exam.html
 ---

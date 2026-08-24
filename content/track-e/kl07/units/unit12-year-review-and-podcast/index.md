@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 12 — Year Review: A Class Podcast"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 7 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 12
-unit_slug: "year-review-and-podcast"
+material_slug: "track-e_kl07_unit12-year-review-and-podcast"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl07_unit12-year-review-and-podcast.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl07_unit12-year-review-and-podcast.png"
 tags:
-  - "speaking"
-  - "listening"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.3"
-  - "3.2.3.4"
-  - "3.2.3.5"
-  - "3.2.4"
+- speaking
+- listening
+- language_awareness
 topic: text-medien
 ---
 

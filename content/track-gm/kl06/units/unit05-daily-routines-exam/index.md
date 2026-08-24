@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 5: Daily Routines"
 subtitle: "Track G+M · Klasse 6 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 5
-unit_slug: "daily-routines"
+material_slug: "track-gm_kl06_unit05-daily-routines-exam"
 aliases:
   - /track_gm_kl06/units/unit05_daily-routines_exam.html
 ---

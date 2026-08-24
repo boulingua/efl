@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 11 — Captain Cody's Map"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 6 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 11
-unit_slug: "captain-codys-map"
+material_slug: "track-e_kl06_unit11-captain-codys-map"
 bildungsplan:
   - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.1.3.2 Leseverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl06_unit11-captain-codys-map.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl06_unit11-captain-codys-map.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.1.1"
-  - "3.1.3.2"
-  - "3.1.3.5"
-  - "3.1.3.8"
-  - "3.1.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

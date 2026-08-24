@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 6: Food Cultures"
 subtitle: "Track G+M · Klasse 7 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 7
 track: "gm"
 unit_nr: 6
-unit_slug: "food-cultures"
+material_slug: "track-gm_kl07_unit06-food-cultures-exam"
 aliases:
   - /track_gm_kl07/units/unit06_food-cultures_exam.html
 ---

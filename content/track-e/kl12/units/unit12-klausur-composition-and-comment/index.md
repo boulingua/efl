@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 12 — Klausur: Composition and Comment"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 12 · Niveau E (Basisfach / Leistungsfach)"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 12
-unit_slug: "klausur-composition-and-comment"
+material_slug: "track-e_kl12_unit12-klausur-composition-and-comment"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.5 / 3.5.3.5 Schreiben"
@@ -24,12 +25,8 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl12_unit12-klausur-composition-and-comment.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl12_unit12-klausur-composition-and-comment.png"
 tags:
-  - "writing"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.5"
-  - "3.4.3.6"
-  - "3.4.4"
+- writing
+- language_awareness
 topic: text-medien
 ---
 

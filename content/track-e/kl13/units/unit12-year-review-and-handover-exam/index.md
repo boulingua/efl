@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 12: Year Review and Handover"
 subtitle: "Track E · Klasse 13 · Niveau E · Abitur-prep"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 12
-unit_slug: "year-review-and-handover"
+material_slug: "track-e_kl13_unit12-year-review-and-handover-exam"
 aliases:
   - /track_e_kl13/units/unit12_year-review-and-handover_exam.html
 ---

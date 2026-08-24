@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 1: A New Year at School"
 subtitle: "Track E · Klasse 6 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 6
 track: "e"
 unit_nr: 1
-unit_slug: "a-new-year-at-school"
+material_slug: "track-e_kl06_unit01-a-new-year-at-school-exam"
 aliases:
   - /track_e_kl06/units/unit01_a-new-year-at-school_exam.html
 ---

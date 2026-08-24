@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 12 — Year Review and Handover"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 13 · Niveau E (Basisfach / Leistungsfach) · Abitur year"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 13
 track: "e"
 unit_nr: 12
-unit_slug: "year-review-and-handover"
+material_slug: "track-e_kl13_unit12-year-review-and-handover"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.4 / 3.5.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl13_unit12-year-review-and-handover.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl13_unit12-year-review-and-handover.png"
 tags:
-  - "writing"
-  - "speaking"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.4"
-  - "3.4.3.5"
-  - "3.4.4"
+- writing
+- speaking
+- language_awareness
 topic: text-medien
 ---
 

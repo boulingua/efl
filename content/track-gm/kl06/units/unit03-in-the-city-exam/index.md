@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 3: In the City"
 subtitle: "Track G+M · Klasse 6 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 6
 track: "gm"
 unit_nr: 3
-unit_slug: "in-the-city"
+material_slug: "track-gm_kl06_unit03-in-the-city-exam"
 aliases:
   - /track_gm_kl06/units/unit03_in-the-city_exam.html
 ---

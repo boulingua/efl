@@ -1,4 +1,5 @@
 ---
+page_type: section
 title: "Course overview"
 author: "S. Le Boulanger"
 description: "Single-page index of all 15 courses across Track G+M and Track E."

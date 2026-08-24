@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 2 — School Life Elsewhere"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 8 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 2
-unit_slug: "school-life-elsewhere"
+material_slug: "track-gm_kl08_unit02-school-life-elsewhere"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl08_unit02-school-life-elsewhere.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl08_unit02-school-life-elsewhere.png"
 tags:
-  - "reading"
-  - "speaking"
-  - "intercultural"
-  - "3.2.1"
-  - "3.2.2"
-  - "3.2.3.2"
-  - "3.2.3.3"
+- reading
+- speaking
+- intercultural
 topic: interkulturell
 ---
 

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 4: A School Day"
 subtitle: "Track G+M · Klasse 5 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 5
 track: "gm"
 unit_nr: 4
-unit_slug: "school-day"
+material_slug: "track-gm_kl05_unit04-school-day-exam"
 aliases:
   - /track_gm_kl05/units/unit04_school-day_exam.html
 ---

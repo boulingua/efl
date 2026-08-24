@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 6: Interview and Portrait'
 subtitle: "Track E · Klasse 9 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 6
-unit_slug: "interview-and-portrait"
+material_slug: "track-e_kl09_unit06-interview-and-portrait-exam"
 aliases:
   - /track_e_kl09/units/unit06_interview-and-portrait_exam.html
 ---

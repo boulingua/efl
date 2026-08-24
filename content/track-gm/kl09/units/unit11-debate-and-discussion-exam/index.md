@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 11: Debate and Discussion"
 subtitle: "Track G+M · Klasse 9 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 11
-unit_slug: "debate-and-discussion"
+material_slug: "track-gm_kl09_unit11-debate-and-discussion-exam"
 aliases:
   - /track_gm_kl09/units/unit11_debate-and-discussion_exam.html
 ---

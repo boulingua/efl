@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 5 — Poetry from the Anthology"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 11 · Niveau E (Basisfach / Leistungsfach)"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 11
 track: "e"
 unit_nr: 5
-unit_slug: "poetry-from-the-anthology"
+material_slug: "track-e_kl11_unit05-poetry-from-the-anthology"
 bildungsplan:
   - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.4.3.2 / 3.5.3.2 Leseverstehen"
@@ -25,13 +26,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl11_unit05-poetry-from-the-anthology.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl11_unit05-poetry-from-the-anthology.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.4.1"
-  - "3.4.3.2"
-  - "3.4.3.5"
-  - "3.4.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

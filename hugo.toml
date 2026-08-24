@@ -31,6 +31,12 @@ publishDir = "public"
   ordered = false
 
 [params]
+  code = "efl"
+  license = "CC BY-SA 4.0"
+  font_preload = [
+    "fonts/source-sans-3-v19-latin_latin-ext-regular.woff2",
+    "fonts/jetbrains-mono-v24-latin_latin-ext-regular.woff2",
+  ]
   author = "S. Le Boulanger"
   description = "A two-track English curriculum for comprehensive school, grades 5 to 13, aligned to a regional curriculum framework."
   keywords = "EFL,English,curriculum,Bildungsplan,Baden-Württemberg,OER,CEFR,Gesamtschule"
@@ -46,7 +52,9 @@ publishDir = "public"
   # Disable the theme's floating colour-scheme toggle so the navbar
   # #dark-mode-toggle button is the single, unique toggle element.
   hideColorSchemeToggle = true
-  customCSS = ["css/custom.css"]
+  # tokens.css and custom.css arrive from the kit; course.css holds only
+  # what is efl's own and layers on top.
+  customCSS = ["css/tokens.css", "css/custom.css", "css/course.css"]
   faviconSVG = ""
 
 # Plausible Analytics — self-hosted instance (server in Germany,
@@ -291,5 +299,12 @@ publishDir = "public"
 # ----- Hugo Modules: pin hugo-coder identical to reference repo -----
 
 [module]
+  # First match wins in listed order, so the kit must precede hugo-coder to
+  # override it. Listed after, the theme's own body/extensions.html and
+  # head/extensions.html stubs win, the kit is never reached, and every VG Wort
+  # pixel leaves the site on a green build.
+  [[module.imports]]
+    path = "github.com/boulingua/kit"
   [[module.imports]]
     path = "github.com/luizdepra/hugo-coder"
+

@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 4 — Canada: Perspectives"
 author: "S. Le Boulanger"
 subtitle: "Track E · Klasse 9 · Niveau E"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 4
-unit_slug: "canada-perspectives"
+material_slug: "track-e_kl09_unit04-canada-perspectives"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.2 Interkulturelle kommunikative Kompetenz"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-e_kl09_unit04-canada-perspectives.pdf"
   thumbnail: "/efl/materials/worksheets/track-e_kl09_unit04-canada-perspectives.png"
 tags:
-  - "reading"
-  - "writing"
-  - "intercultural"
-  - "3.2.1"
-  - "3.2.2"
-  - "3.2.3.2"
-  - "3.2.3.5"
-  - "3.2.4"
+- reading
+- writing
+- intercultural
 topic: interkulturell
 ---
 

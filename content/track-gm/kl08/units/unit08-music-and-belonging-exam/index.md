@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 8: Music and Belonging"
 subtitle: "Track G+M · Klasse 8 · Niveau M · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "M"
 klassenstufe: 8
 track: "gm"
 unit_nr: 8
-unit_slug: "music-and-belonging"
+material_slug: "track-gm_kl08_unit08-music-and-belonging-exam"
 aliases:
   - /track_gm_kl08/units/unit08_music-and-belonging_exam.html
 ---

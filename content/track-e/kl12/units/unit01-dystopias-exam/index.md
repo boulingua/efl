@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klausur (assessment) — Unit 1: Dystopias"
 subtitle: "Track E · Klasse 12 · Niveau E · 4 Stunden"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 12
 track: "e"
 unit_nr: 1
-unit_slug: "dystopias"
+material_slug: "track-e_kl12_unit01-dystopias-exam"
 aliases:
   - /track_e_kl12/units/unit01_dystopias_exam.html
 ---

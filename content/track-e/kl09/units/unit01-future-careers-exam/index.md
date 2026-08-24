@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: 'class test ("Klassenarbeit") — Unit 1: Future Careers'
 subtitle: "Track E · Klasse 9 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 9
 track: "e"
 unit_nr: 1
-unit_slug: "future-careers"
+material_slug: "track-e_kl09_unit01-future-careers-exam"
 aliases:
   - /track_e_kl09/units/unit01_future-careers_exam.html
 ---

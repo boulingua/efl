@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 2: Growing Up"
 subtitle: "Track E · Klasse 7 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 7
 track: "e"
 unit_nr: 2
-unit_slug: "growing-up"
+material_slug: "track-e_kl07_unit02-growing-up-exam"
 aliases:
   - /track_e_kl07/units/unit02_growing-up_exam.html
 ---

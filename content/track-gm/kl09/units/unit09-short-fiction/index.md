@@ -1,4 +1,5 @@
 ---
+page_type: unit
 title: "Unit 9 — Short Fiction in the Classroom"
 author: "S. Le Boulanger"
 subtitle: "Track G+M · Klasse 9 · Niveau G/M"
@@ -6,7 +7,7 @@ niveau: "G+M"
 klassenstufe: 9
 track: "gm"
 unit_nr: 9
-unit_slug: "short-fiction"
+material_slug: "track-gm_kl09_unit09-short-fiction"
 bildungsplan:
   - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
   - "3.2.3.2 Leseverstehen"
@@ -26,14 +27,9 @@ worksheet:
   file: "/efl/materials/worksheets/track-gm_kl09_unit09-short-fiction.pdf"
   thumbnail: "/efl/materials/worksheets/track-gm_kl09_unit09-short-fiction.png"
 tags:
-  - "reading"
-  - "writing"
-  - "language_awareness"
-  - "3.2.1"
-  - "3.2.3.2"
-  - "3.2.3.5"
-  - "3.2.3.8"
-  - "3.2.4"
+- reading
+- writing
+- language_awareness
 topic: text-medien
 ---
 

@@ -1,4 +1,5 @@
 ---
+page_type: exam
 title: "Klassenarbeit — Unit 6: Animals and Pets"
 subtitle: "Track E · Klasse 5 · Niveau E · 45 Minuten"
 author: "S. Le Boulanger"
@@ -6,7 +7,7 @@ niveau: "E"
 klassenstufe: 5
 track: "e"
 unit_nr: 6
-unit_slug: "animals-and-pets"
+material_slug: "track-e_kl05_unit06-animals-and-pets-exam"
 aliases:
   - /track_e_kl05/units/unit06_animals-and-pets_exam.html
 ---
