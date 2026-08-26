@@ -10,6 +10,18 @@ unit_nr: 10
 material_slug: "track-gm_kl06_unit10-travelling-by-train-exam"
 aliases:
   - /track_gm_kl06/units/unit10_travelling-by-train_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.information-exchange.02
+    - A1.INT.notes-messages-and-forms.02
+    - A1.REC.reading-correspondence.02
+    - A1.REC.reading-for-orientation.04
+    - A1.MED.encouraging-conceptual-talk.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

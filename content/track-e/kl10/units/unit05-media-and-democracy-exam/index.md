@@ -10,6 +10,18 @@ unit_nr: 5
 material_slug: "track-e_kl10_unit05-media-and-democracy-exam"
 aliases:
   - /track_e_kl10/units/unit05_media-and-democracy_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.notes-messages-and-forms.01
+    - B1.MED.amplifying-a-dense-text.01
+    - B1.MED.overall-mediation.02
+    - B1.INT.overall-written-interaction.02
+    - B1.LING.general-linguistic-range.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

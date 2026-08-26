@@ -31,6 +31,18 @@ tags:
 - writing
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.overall-oral-interaction.01
+    - A2.LING.general-linguistic-range.02
+    - A2.PROD.sustained-monologue-giving-information.01
+    - A2.INT.conversation.08
+    - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

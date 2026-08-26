@@ -10,6 +10,18 @@ unit_nr: 11
 material_slug: "track-gm_kl07_unit11-plans-for-the-summer-exam"
 aliases:
   - /track_gm_kl07/units/unit11_plans-for-the-summer_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.REC.reading-correspondence.01
+    - A2.INT.correspondence.04
+    - A2.INT.using-telecommunications.01
+    - A2.MED.overall-mediation.02
+    - A2.MED.processing-text.06
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

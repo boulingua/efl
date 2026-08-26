@@ -30,6 +30,18 @@ tags:
 - listening
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.correspondence.03
+    - B2.LING.general-linguistic-range.01
+    - B2.PROD.compensating.01
+    - B2.REC.overall-reading-comprehension.01
+    - B2.MED.managing-interaction.03
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

@@ -10,6 +10,18 @@ unit_nr: 8
 material_slug: "track-e_kl13_unit08-the-abitur-comprehension-exam"
 aliases:
   - /track_e_kl13/units/unit08_the-abitur-comprehension_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.online-conversation-and-discussion.02
+    - B2.LING.general-linguistic-range.01
+    - B2.REC.reading-as-a-leisure-activity.02
+    - B2.LING.phonological-control.03
+    - B2.MED.acting-as-an-intermediary-in-informal-situations.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

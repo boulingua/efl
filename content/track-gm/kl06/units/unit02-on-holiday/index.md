@@ -30,6 +30,18 @@ tags:
 - speaking
 - intercultural
 topic: interkulturell
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.information-exchange.02
+    - A1.PROD.sustained-monologue-describing-experience.02
+    - A1.REC.overall-reading-comprehension.01
+    - A1.SOC.sociolinguistic-appropriateness.01
+    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

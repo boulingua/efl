@@ -10,6 +10,18 @@ unit_nr: 12
 material_slug: "track-gm_kl06_unit12-year-end-festival-exam"
 aliases:
   - /track_gm_kl06/units/unit12_year-end-festival_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.MED.translating-a-written-text.02
+    - A1.INT.information-exchange.02
+    - A1.MED.relaying-specific-information.02
+    - A1.PLUR.plurilingual-comprehension.01
+    - A1.REC.overall-reading-comprehension.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

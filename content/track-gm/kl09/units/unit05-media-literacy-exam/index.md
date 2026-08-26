@@ -10,6 +10,18 @@ unit_nr: 5
 material_slug: "track-gm_kl09_unit05-media-literacy-exam"
 aliases:
   - /track_gm_kl09/units/unit05_media-literacy_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.overall-mediation.02
+    - A2.LING.orthographic-control.01
+    - A2.MED.relaying-specific-information.01
+    - A2.PRAG.coherence-and-cohesion.02
+    - A2.INT.asking-for-clarification.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

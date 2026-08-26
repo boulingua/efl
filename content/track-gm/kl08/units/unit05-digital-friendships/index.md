@@ -31,6 +31,18 @@ tags:
 - writing
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.LING.orthographic-control.01
+    - A2.PROD.sustained-monologue-giving-information.01
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.PROD.sustained-monologue-putting-a-case.01
+    - A2.INT.using-telecommunications.02
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

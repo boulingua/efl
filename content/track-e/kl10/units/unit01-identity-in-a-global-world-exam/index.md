@@ -10,6 +10,18 @@ unit_nr: 1
 material_slug: "track-e_kl10_unit01-identity-in-a-global-world-exam"
 aliases:
   - /track_e_kl10/units/unit01_identity-in-a-global-world_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.online-conversation-and-discussion.01
+    - B1.MED.explaining-data.03
+    - B1.MED.overall-mediation.02
+    - B1.PLUR.plurilingual-comprehension.02
+    - B1.REC.reading-for-information-and-argument.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

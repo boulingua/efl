@@ -31,6 +31,18 @@ tags:
 - writing
 - intercultural
 topic: interkulturell
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.monitoring-and-repair.01
+    - B2.REC.overall-reading-comprehension.01
+    - B2.SOC.sociolinguistic-appropriateness.04
+    - B2.INT.formal-discussion.01
+    - B2.REC.reading-as-a-leisure-activity.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

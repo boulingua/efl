@@ -10,6 +10,18 @@ unit_nr: 1
 material_slug: "track-e_kl12_unit01-dystopias-exam"
 aliases:
   - /track_e_kl12/units/unit01_dystopias_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.MED.facilitating-pluricultural-space.05
+    - B2.INT.formal-discussion.01
+    - B2.MED.acting-as-an-intermediary-in-informal-situations.03
+    - B2.REC.reading-as-a-leisure-activity.02
+    - B2.REC.reading-for-orientation.03
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

@@ -10,6 +10,18 @@ unit_nr: 6
 material_slug: "track-gm_kl05_unit06-animals-and-pets-exam"
 aliases:
   - /track_gm_kl05/units/unit06_animals-and-pets_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.03
+    - A1.INT.information-exchange.04
+    - A1.LING.orthographic-control.01
+    - A1.PROD.creative-writing.01
+    - A1.PROD.overall-written-production.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

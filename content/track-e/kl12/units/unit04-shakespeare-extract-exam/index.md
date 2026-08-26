@@ -10,6 +10,18 @@ unit_nr: 4
 material_slug: "track-e_kl12_unit04-shakespeare-extract-exam"
 aliases:
   - /track_e_kl12/units/unit04_shakespeare-extract_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.REC.overall-oral-comprehension.03
+    - B2.REC.reading-as-a-leisure-activity.02
+    - B2.INT.conversation.03
+    - B2.LING.phonological-control.03
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

@@ -10,6 +10,18 @@ unit_nr: 1
 material_slug: "track-gm_kl07_unit01-first-day-back-exam"
 aliases:
   - /track_gm_kl07/units/unit01_first-day-back_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.overall-oral-interaction.01
+    - A2.PRAG.coherence-and-cohesion.01
+    - A2.INT.online-conversation-and-discussion.01
+    - A2.LING.orthographic-control.01
+    - A2.MED.overall-mediation.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

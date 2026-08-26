@@ -10,6 +10,18 @@ unit_nr: 12
 material_slug: "track-e_kl05_unit12-review-and-show-exam"
 aliases:
   - /track_e_kl05/units/unit12_review-and-show_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.03
+    - A1.INT.online-conversation-and-discussion.01
+    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+    - A1.PLUR.plurilingual-comprehension.01
+    - A1.REC.identifying-cues-and-inferring.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

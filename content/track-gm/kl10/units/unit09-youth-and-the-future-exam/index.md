@@ -10,6 +10,18 @@ unit_nr: 9
 material_slug: "track-gm_kl10_unit09-youth-and-the-future-exam"
 aliases:
   - /track_gm_kl10/units/unit09_youth-and-the-future_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.LING.orthographic-control.01
+    - B1.REC.identifying-cues-and-inferring.06
+    - B1.INT.conversation.01
+    - B1.INT.goal-oriented-co-operation.01
+    - B1.LING.general-linguistic-range.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

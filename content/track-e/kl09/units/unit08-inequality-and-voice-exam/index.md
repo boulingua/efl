@@ -10,6 +10,18 @@ unit_nr: 8
 material_slug: "track-e_kl09_unit08-inequality-and-voice-exam"
 aliases:
   - /track_e_kl09/units/unit08_inequality-and-voice_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.04
+    - A2.INT.information-exchange.03
+    - A2.LING.orthographic-control.01
+    - A2.LING.phonological-control.04
+    - A2.MED.adapting-language.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

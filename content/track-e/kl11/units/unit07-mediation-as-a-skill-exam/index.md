@@ -10,6 +10,18 @@ unit_nr: 7
 material_slug: "track-e_kl11_unit07-mediation-as-a-skill-exam"
 aliases:
   - /track_e_kl11/units/unit07_mediation-as-a-skill_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - B2.INT.conversation.03
+    - B2.INT.formal-discussion.01
+    - B2.MED.facilitating-collaborative-interaction-with-peers.02
+    - B2.PLUR.building-on-pluricultural-repertoire.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

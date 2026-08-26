@@ -10,6 +10,18 @@ unit_nr: 1
 material_slug: "track-gm_kl06_unit01-a-new-year-at-school-exam"
 aliases:
   - /track_gm_kl06/units/unit01_a-new-year-at-school_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.information-exchange.02
+    - A1.INT.correspondence.01
+    - A1.LING.general-linguistic-range.02
+    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+    - A1.MED.translating-a-written-text.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

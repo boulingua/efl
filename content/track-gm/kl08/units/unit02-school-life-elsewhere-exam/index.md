@@ -10,6 +10,18 @@ unit_nr: 2
 material_slug: "track-gm_kl08_unit02-school-life-elsewhere-exam"
 aliases:
   - /track_gm_kl08/units/unit02_school-life-elsewhere_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.overall-mediation.02
+    - A2.INT.notes-messages-and-forms.02
+    - A2.LING.orthographic-control.01
+    - A2.MED.relaying-specific-information.01
+    - A2.REC.reading-for-information-and-argument.09
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

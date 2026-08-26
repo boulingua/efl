@@ -32,6 +32,18 @@ tags:
 - writing
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.LING.general-linguistic-range.02
+    - A2.PROD.creative-writing.02
+    - A2.REC.overall-reading-comprehension.02
+    - A2.MED.overall-mediation.02
+    - A2.MED.processing-text.07
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

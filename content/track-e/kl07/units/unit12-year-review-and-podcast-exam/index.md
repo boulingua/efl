@@ -10,6 +10,18 @@ unit_nr: 12
 material_slug: "track-e_kl07_unit12-year-review-and-podcast-exam"
 aliases:
   - /track_e_kl07/units/unit12_year-review-and-podcast_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.overall-oral-interaction.01
+    - A2.LING.orthographic-control.01
+    - A2.MED.adapting-language.01
+    - A2.MED.overall-mediation.01
+    - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

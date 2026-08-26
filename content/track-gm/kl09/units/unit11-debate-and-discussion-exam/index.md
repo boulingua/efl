@@ -10,6 +10,18 @@ unit_nr: 11
 material_slug: "track-gm_kl09_unit11-debate-and-discussion-exam"
 aliases:
   - /track_gm_kl09/units/unit11_debate-and-discussion_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.04
+    - A2.INT.formal-discussion.01
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+    - A2.PROD.compensating.01
+    - A2.PROD.sustained-monologue-giving-information.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

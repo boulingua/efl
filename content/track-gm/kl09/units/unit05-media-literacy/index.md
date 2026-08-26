@@ -31,6 +31,18 @@ tags:
 - listening
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.LING.orthographic-control.01
+    - A2.REC.identifying-cues-and-inferring.03
+    - A2.MED.overall-mediation.02
+    - A2.REC.overall-reading-comprehension.02
+    - A2.LING.general-linguistic-range.02
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

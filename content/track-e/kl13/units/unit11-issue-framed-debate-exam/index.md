@@ -10,6 +10,18 @@ unit_nr: 11
 material_slug: "track-e_kl13_unit11-issue-framed-debate-exam"
 aliases:
   - /track_e_kl13/units/unit11_issue-framed-debate_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.LING.phonological-control.03
+    - B2.MED.collaborating-to-construct-meaning.06
+    - B2.REC.understanding-as-a-member-of-a-live-audience.02
+    - B2.INT.informal-discussion.02
+    - B2.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

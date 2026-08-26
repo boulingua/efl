@@ -28,6 +28,18 @@ tags:
 - writing
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.LING.phonological-control.03
+    - B2.PROD.compensating.01
+    - B2.LING.general-linguistic-range.01
+    - B2.PROD.creative-writing.01
+    - B2.PRAG.coherence-and-cohesion.04
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

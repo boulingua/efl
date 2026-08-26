@@ -31,6 +31,18 @@ tags:
 - listening
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.04
+    - A2.LING.grammatical-accuracy.01
+    - A2.PROD.sustained-monologue-giving-information.01
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.MED.translating-a-written-text.03
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

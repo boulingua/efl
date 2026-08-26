@@ -30,6 +30,18 @@ tags:
 - writing
 - intercultural
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.03
+    - A1.PROD.creative-writing.03
+    - A1.SOC.sociolinguistic-appropriateness.01
+    - A1.INT.notes-messages-and-forms.02
+    - A1.PLUR.plurilingual-comprehension.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

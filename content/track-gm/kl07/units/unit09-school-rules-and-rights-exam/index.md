@@ -10,6 +10,18 @@ unit_nr: 9
 material_slug: "track-gm_kl07_unit09-school-rules-and-rights-exam"
 aliases:
   - /track_gm_kl07/units/unit09_school-rules-and-rights_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.01
+    - A2.INT.formal-discussion.01
+    - A2.LING.orthographic-control.01
+    - A2.MED.managing-interaction.01
+    - A2.MED.processing-text.06
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

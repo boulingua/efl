@@ -31,6 +31,18 @@ tags:
 - listening
 - intercultural
 topic: interkulturell
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.REC.reading-instructions.01
+    - A1.SOC.sociolinguistic-appropriateness.01
+    - A1.REC.overall-reading-comprehension.01
+    - A1.INT.correspondence.03
+    - A1.PLUR.plurilingual-comprehension.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

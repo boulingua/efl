@@ -30,6 +30,18 @@ tags:
 - writing
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.LING.orthographic-control.01
+    - A2.PROD.creative-writing.06
+    - A2.REC.overall-reading-comprehension.02
+    - A2.PROD.reports-and-essays.01
+    - A2.MED.overall-mediation.02
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

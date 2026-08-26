@@ -10,6 +10,18 @@ unit_nr: 6
 material_slug: "track-gm_kl08_unit06-opinion-writing-exam"
 aliases:
   - /track_gm_kl08/units/unit06_opinion-writing_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.MED.adapting-language.01
+    - A2.INT.information-exchange.03
+    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - A2.PROD.sustained-monologue-giving-information.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

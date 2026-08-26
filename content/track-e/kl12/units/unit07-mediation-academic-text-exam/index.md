@@ -10,6 +10,18 @@ unit_nr: 7
 material_slug: "track-e_kl12_unit07-mediation-academic-text-exam"
 aliases:
   - /track_e_kl12/units/unit07_mediation-academic-text_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.MED.overall-mediation.01
+    - B2.MED.processing-text.03
+    - B2.REC.overall-oral-comprehension.02
+    - B2.INT.correspondence.03
+    - B2.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

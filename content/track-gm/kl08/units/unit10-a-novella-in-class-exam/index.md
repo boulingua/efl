@@ -10,6 +10,18 @@ unit_nr: 10
 material_slug: "track-gm_kl08_unit10-a-novella-in-class-exam"
 aliases:
   - /track_gm_kl08/units/unit10_a-novella-in-class_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - A2.INT.notes-messages-and-forms.02
+    - A2.LING.phonological-control.04
+    - A2.PROD.creative-writing.07
+    - A2.REC.reading-correspondence.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

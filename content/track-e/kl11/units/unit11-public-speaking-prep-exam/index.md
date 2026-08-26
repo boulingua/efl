@@ -10,6 +10,18 @@ unit_nr: 11
 material_slug: "track-e_kl11_unit11-public-speaking-prep-exam"
 aliases:
   - /track_e_kl11/units/unit11_public-speaking-prep_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.INT.online-conversation-and-discussion.02
+    - B2.LING.general-linguistic-range.01
+    - B2.LING.phonological-control.03
+    - B2.MED.expressing-a-personal-response-to-creative-texts.04
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

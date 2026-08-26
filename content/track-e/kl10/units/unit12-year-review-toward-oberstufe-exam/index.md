@@ -10,6 +10,18 @@ unit_nr: 12
 material_slug: "track-e_kl10_unit12-year-review-toward-oberstufe-exam"
 aliases:
   - /track_e_kl10/units/unit12_year-review-toward-oberstufe_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.MED.adapting-language.01
+    - B1.PROD.planning.01
+    - B1.INT.conversation.05
+    - B1.INT.goal-oriented-online-transactions-and-collaboration.01
+    - B1.LING.orthographic-control.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

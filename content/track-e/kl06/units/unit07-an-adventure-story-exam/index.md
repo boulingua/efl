@@ -10,6 +10,18 @@ unit_nr: 7
 material_slug: "track-e_kl06_unit07-an-adventure-story-exam"
 aliases:
   - /track_e_kl06/units/unit07_an-adventure-story_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.LING.phonological-control.01
+    - A1.MED.relaying-specific-information.02
+    - A1.REC.overall-reading-comprehension.01
+    - A1.REC.understanding-conversation-between-other-people.02
+    - A1.INT.correspondence.03
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

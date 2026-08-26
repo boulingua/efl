@@ -10,6 +10,18 @@ unit_nr: 4
 material_slug: "track-gm_kl09_unit04-canada-perspectives-exam"
 aliases:
   - /track_gm_kl09/units/unit04_canada-perspectives_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.LING.orthographic-control.01
+    - A2.LING.phonological-control.01
+    - A2.INT.correspondence.04
+    - A2.INT.formal-discussion.01
+    - A2.MED.facilitating-collaborative-interaction-with-peers.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

@@ -10,6 +10,18 @@ unit_nr: 6
 material_slug: "track-gm_kl09_unit06-interview-and-portrait-exam"
 aliases:
   - /track_gm_kl09/units/unit06_interview-and-portrait_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.04
+    - A2.INT.goal-oriented-online-transactions-and-collaboration.05
+    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - A2.MED.encouraging-conceptual-talk.01
+    - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

@@ -10,6 +10,18 @@ unit_nr: 5
 material_slug: "track-gm_kl06_unit05-daily-routines-exam"
 aliases:
   - /track_gm_kl06/units/unit05_daily-routines_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.conversation.02
+    - A1.INT.notes-messages-and-forms.02
+    - A1.PROD.creative-writing.01
+    - A1.REC.reading-correspondence.02
+    - A1.REC.understanding-announcements-and-instructions.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

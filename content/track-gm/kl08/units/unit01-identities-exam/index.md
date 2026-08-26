@@ -10,6 +10,18 @@ unit_nr: 1
 material_slug: "track-gm_kl08_unit01-identities-exam"
 aliases:
   - /track_gm_kl08/units/unit01_identities_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.LING.phonological-control.01
+    - A2.MED.processing-text.05
+    - A2.INT.formal-discussion.01
+    - A2.MED.overall-mediation.02
+    - A2.PLUR.building-on-plurilingual-repertoire.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

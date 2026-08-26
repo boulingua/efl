@@ -10,6 +10,18 @@ unit_nr: 10
 material_slug: "track-e_kl11_unit10-a-classic-text-lf-exam"
 aliases:
   - /track_e_kl11/units/unit10_a-classic-text-lf_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PRAG.coherence-and-cohesion.02
+    - B2.INT.formal-discussion.01
+    - B2.MED.adapting-language.03
+    - B2.REC.reading-correspondence.01
+    - B2.REC.reading-for-orientation.03
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

@@ -10,6 +10,18 @@ unit_nr: 8
 material_slug: "track-gm_kl10_unit08-civic-english-exam"
 aliases:
   - /track_gm_kl10/units/unit08_civic-english_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.conversation.05
+    - B1.INT.correspondence.02
+    - B1.LING.orthographic-control.01
+    - B1.LING.vocabulary-range.02
+    - B1.PRAG.thematic-development.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

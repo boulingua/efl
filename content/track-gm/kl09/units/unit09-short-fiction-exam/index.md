@@ -10,6 +10,18 @@ unit_nr: 9
 material_slug: "track-gm_kl09_unit09-short-fiction-exam"
 aliases:
   - /track_gm_kl09/units/unit09_short-fiction_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.overall-mediation.02
+    - A2.INT.correspondence.04
+    - A2.INT.notes-messages-and-forms.01
+    - A2.LING.orthographic-control.01
+    - A2.MED.analysis-and-criticism-of-creative-texts.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

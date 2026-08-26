@@ -31,6 +31,18 @@ tags:
 - writing
 - intercultural
 topic: interkulturell
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.compensating.02
+    - B1.REC.reading-as-a-leisure-activity.04
+    - B1.SOC.sociolinguistic-appropriateness.01
+    - B1.PROD.planning.03
+    - B1.INT.online-conversation-and-discussion.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

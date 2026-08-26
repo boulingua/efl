@@ -10,6 +10,18 @@ unit_nr: 4
 material_slug: "track-e_kl11_unit04-short-stories-and-style-exam"
 aliases:
   - /track_e_kl11/units/unit04_short-stories-and-style_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.monitoring-and-repair.03
+    - B2.PROD.reports-and-essays.01
+    - B2.REC.reading-as-a-leisure-activity.01
+    - B2.INT.asking-for-clarification.02
+    - B2.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

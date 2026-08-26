@@ -30,6 +30,18 @@ tags:
 - writing
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.LING.phonological-control.03
+    - B2.MED.overall-mediation.01
+    - B2.PROD.overall-written-production.01
+    - B2.MED.processing-text.03
+    - B2.REC.reading-as-a-leisure-activity.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

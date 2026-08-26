@@ -10,6 +10,18 @@ unit_nr: 3
 material_slug: "track-gm_kl10_unit03-digital-lives-at-work-exam"
 aliases:
   - /track_gm_kl10/units/unit03_digital-lives-at-work_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.LING.general-linguistic-range.02
+    - B1.LING.orthographic-control.01
+    - B1.MED.adapting-language.01
+    - B1.MED.explaining-data.03
+    - B1.INT.correspondence.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

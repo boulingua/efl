@@ -31,6 +31,18 @@ tags:
 - writing
 - intercultural
 topic: interkulturell
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.overall-oral-production.01
+    - A2.REC.overall-oral-comprehension.02
+    - A2.SOC.sociolinguistic-appropriateness.03
+    - A2.LING.orthographic-control.01
+    - A2.PROD.creative-writing.02
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

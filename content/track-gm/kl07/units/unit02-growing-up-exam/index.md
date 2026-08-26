@@ -10,6 +10,18 @@ unit_nr: 2
 material_slug: "track-gm_kl07_unit02-growing-up-exam"
 aliases:
   - /track_gm_kl07/units/unit02_growing-up_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.overall-mediation.02
+    - A2.PROD.reports-and-essays.01
+    - A2.LING.orthographic-control.01
+    - A2.MED.adapting-language.01
+    - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

@@ -10,6 +10,18 @@ unit_nr: 3
 material_slug: "track-e_kl07_unit03-media-in-our-lives-exam"
 aliases:
   - /track_e_kl07/units/unit03_media-in-our-lives_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.04
+    - A2.MED.facilitating-pluricultural-space.01
+    - A2.MED.overall-mediation.02
+    - A2.PROD.reports-and-essays.01
+    - A2.PROD.sustained-monologue-giving-information.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

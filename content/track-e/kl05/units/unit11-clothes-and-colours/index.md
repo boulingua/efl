@@ -31,6 +31,18 @@ tags:
 - writing
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.01
+    - A1.LING.orthographic-control.01
+    - A1.PROD.creative-writing.03
+    - A1.LING.phonological-control.01
+    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

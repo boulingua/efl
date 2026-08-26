@@ -10,6 +10,18 @@ unit_nr: 10
 material_slug: "track-gm_kl10_unit10-project-and-presentation-exam"
 aliases:
   - /track_gm_kl10/units/unit10_project-and-presentation_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.LING.general-linguistic-range.02
+    - B1.MED.collaborating-to-construct-meaning.01
+    - B1.MED.explaining-data.03
+    - B1.INT.conversation.04
+    - B1.INT.correspondence.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

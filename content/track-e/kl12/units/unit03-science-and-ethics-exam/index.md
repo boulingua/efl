@@ -10,6 +10,18 @@ unit_nr: 3
 material_slug: "track-e_kl12_unit03-science-and-ethics-exam"
 aliases:
   - /track_e_kl12/units/unit03_science-and-ethics_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.REC.reading-as-a-leisure-activity.02
+    - B2.INT.formal-discussion.01
+    - B2.INT.online-conversation-and-discussion.02
+    - B2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - B2.MED.relaying-specific-information.04
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

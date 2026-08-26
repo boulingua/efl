@@ -10,6 +10,18 @@ unit_nr: 10
 material_slug: "track-e_kl09_unit10-application-letter-exam"
 aliases:
   - /track_e_kl09/units/unit10_application-letter_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PLUR.building-on-plurilingual-repertoire.02
+    - A2.INT.correspondence.04
+    - A2.INT.goal-oriented-online-transactions-and-collaboration.05
+    - A2.MED.note-taking.01
+    - A2.LING.grammatical-accuracy.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

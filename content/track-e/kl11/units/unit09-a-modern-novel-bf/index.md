@@ -30,6 +30,18 @@ tags:
 - writing
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.LING.phonological-control.03
+    - B2.PROD.overall-written-production.01
+    - B2.REC.reading-for-orientation.01
+    - B2.LING.general-linguistic-range.01
+    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.03
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

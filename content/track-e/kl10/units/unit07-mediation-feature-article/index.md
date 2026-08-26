@@ -30,6 +30,18 @@ tags:
 - writing
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.LING.orthographic-control.01
+    - B1.MED.analysis-and-criticism-of-creative-texts.01
+    - B1.PROD.compensating.02
+    - B1.LING.phonological-control.01
+    - B1.PLUR.plurilingual-comprehension.02
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

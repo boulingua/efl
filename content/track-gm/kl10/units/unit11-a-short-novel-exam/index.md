@@ -10,6 +10,18 @@ unit_nr: 11
 material_slug: "track-gm_kl10_unit11-a-short-novel-exam"
 aliases:
   - /track_gm_kl10/units/unit11_a-short-novel_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.LING.general-linguistic-range.02
+    - B1.REC.reading-for-information-and-argument.02
+    - B1.MED.adapting-language.01
+    - B1.MED.explaining-data.03
+    - B1.PLUR.plurilingual-comprehension.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

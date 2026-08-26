@@ -10,6 +10,18 @@ unit_nr: 6
 material_slug: "track-e_kl13_unit06-mediation-policy-text-exam"
 aliases:
   - /track_e_kl13/units/unit06_mediation-policy-text_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.correspondence.04
+    - B2.LING.orthographic-control.01
+    - B2.MED.expressing-a-personal-response-to-creative-texts.04
+    - B2.MED.facilitating-collaborative-interaction-with-peers.02
+    - B2.PLUR.building-on-pluricultural-repertoire.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

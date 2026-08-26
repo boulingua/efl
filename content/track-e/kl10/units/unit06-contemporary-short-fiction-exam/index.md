@@ -10,6 +10,18 @@ unit_nr: 6
 material_slug: "track-e_kl10_unit06-contemporary-short-fiction-exam"
 aliases:
   - /track_e_kl10/units/unit06_contemporary-short-fiction_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.goal-oriented-co-operation.03
+    - B1.INT.informal-discussion.04
+    - B1.MED.adapting-language.01
+    - B1.MED.explaining-data.03
+    - B1.PROD.monitoring-and-repair.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

@@ -10,6 +10,18 @@ unit_nr: 8
 material_slug: "track-gm_kl08_unit08-music-and-belonging-exam"
 aliases:
   - /track_gm_kl08/units/unit08_music-and-belonging_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.overall-mediation.02
+    - A2.MED.adapting-language.01
+    - A2.INT.conversation.05
+    - A2.INT.correspondence.05
+    - A2.LING.orthographic-control.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

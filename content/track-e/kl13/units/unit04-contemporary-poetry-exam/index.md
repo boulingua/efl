@@ -10,6 +10,18 @@ unit_nr: 4
 material_slug: "track-e_kl13_unit04-contemporary-poetry-exam"
 aliases:
   - /track_e_kl13/units/unit04_contemporary-poetry_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.LING.general-linguistic-range.01
+    - B2.SOC.sociolinguistic-appropriateness.04
+    - B2.INT.informal-discussion.02
+    - B2.LING.phonological-control.03
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

@@ -30,6 +30,18 @@ tags:
 - speaking
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.online-conversation-and-discussion.01
+    - B1.LING.orthographic-control.01
+    - B1.PROD.creative-writing.02
+    - B1.INT.formal-discussion.01
+    - B1.MED.overall-mediation.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

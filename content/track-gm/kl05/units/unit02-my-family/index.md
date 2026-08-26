@@ -30,6 +30,18 @@ tags:
 - writing
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.conversation.02
+    - A1.LING.orthographic-control.01
+    - A1.PROD.sustained-monologue-describing-experience.02
+    - A1.INT.correspondence.01
+    - A1.MED.encouraging-conceptual-talk.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

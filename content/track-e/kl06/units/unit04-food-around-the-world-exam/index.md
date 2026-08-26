@@ -10,6 +10,18 @@ unit_nr: 4
 material_slug: "track-e_kl06_unit04-food-around-the-world-exam"
 aliases:
   - /track_e_kl06/units/unit04_food-around-the-world_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.03
+    - A1.INT.notes-messages-and-forms.01
+    - A1.LING.general-linguistic-range.02
+    - A1.PROD.creative-writing.01
+    - A1.PROD.overall-written-production.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

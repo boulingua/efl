@@ -10,6 +10,18 @@ unit_nr: 4
 material_slug: "track-e_kl07_unit04-a-trip-to-scotland-exam"
 aliases:
   - /track_e_kl07/units/unit04_a-trip-to-scotland_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.sustained-monologue-giving-information.01
+    - A2.LING.orthographic-control.01
+    - A2.MED.overall-mediation.01
+    - A2.INT.correspondence.04
+    - A2.MED.processing-text.05
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

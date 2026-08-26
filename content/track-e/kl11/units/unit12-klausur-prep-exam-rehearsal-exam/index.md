@@ -10,6 +10,18 @@ unit_nr: 12
 material_slug: "track-e_kl11_unit12-klausur-prep-exam-rehearsal-exam"
 aliases:
   - /track_e_kl11/units/unit12_klausur-prep-exam-rehearsal_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.INT.informal-discussion.01
+    - B2.MED.facilitating-collaborative-interaction-with-peers.01
+    - B2.REC.reading-as-a-leisure-activity.02
+    - B2.REC.reading-for-orientation.03
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

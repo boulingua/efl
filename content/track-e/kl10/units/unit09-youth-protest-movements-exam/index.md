@@ -10,6 +10,18 @@ unit_nr: 9
 material_slug: "track-e_kl10_unit09-youth-protest-movements-exam"
 aliases:
   - /track_e_kl10/units/unit09_youth-protest-movements_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.MED.processing-text.05
+    - B1.PRAG.thematic-development.02
+    - B1.INT.formal-discussion.01
+    - B1.INT.notes-messages-and-forms.01
+    - B1.MED.explaining-data.03
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

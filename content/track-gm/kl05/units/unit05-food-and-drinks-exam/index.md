@@ -10,6 +10,18 @@ unit_nr: 5
 material_slug: "track-gm_kl05_unit05-food-and-drinks-exam"
 aliases:
   - /track_gm_kl05/units/unit05_food-and-drinks_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.02
+    - A1.LING.phonological-control.01
+    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+    - A1.REC.overall-reading-comprehension.01
+    - A1.SOC.sociolinguistic-appropriateness.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

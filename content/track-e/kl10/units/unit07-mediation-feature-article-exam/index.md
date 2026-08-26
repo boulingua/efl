@@ -10,6 +10,18 @@ unit_nr: 7
 material_slug: "track-e_kl10_unit07-mediation-feature-article-exam"
 aliases:
   - /track_e_kl10/units/unit07_mediation-feature-article_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.REC.reading-for-information-and-argument.02
+    - B1.INT.notes-messages-and-forms.01
+    - B1.MED.facilitating-collaborative-interaction-with-peers.01
+    - B1.MED.processing-text.08
+    - B1.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

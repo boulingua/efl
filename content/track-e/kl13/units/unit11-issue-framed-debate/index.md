@@ -30,6 +30,18 @@ tags:
 - listening
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.asking-for-clarification.02
+    - B2.LING.general-linguistic-range.01
+    - B2.PROD.overall-written-production.01
+    - B2.REC.reading-as-a-leisure-activity.01
+    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

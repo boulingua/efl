@@ -32,6 +32,18 @@ tags:
 - listening
 - intercultural
 topic: interkulturell
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.SOC.sociolinguistic-appropriateness.03
+    - A2.MED.overall-mediation.01
+    - A2.REC.overall-reading-comprehension.01
+    - A2.PROD.sustained-monologue-giving-information.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

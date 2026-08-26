@@ -10,6 +10,18 @@ unit_nr: 8
 material_slug: "track-e_kl11_unit08-opinion-essay-writing-exam"
 aliases:
   - /track_e_kl11/units/unit08_opinion-essay-writing_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.REC.reading-as-a-leisure-activity.01
+    - B2.INT.correspondence.03
+    - B2.LING.general-linguistic-range.01
+    - B2.MED.facilitating-collaborative-interaction-with-peers.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

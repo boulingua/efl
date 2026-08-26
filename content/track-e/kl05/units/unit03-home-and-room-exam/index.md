@@ -10,6 +10,18 @@ unit_nr: 3
 material_slug: "track-e_kl05_unit03-home-and-room-exam"
 aliases:
   - /track_e_kl05/units/unit03_home-and-room_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.online-conversation-and-discussion.02
+    - A1.PROD.creative-writing.01
+    - A1.PROD.overall-written-production.02
+    - A1.INT.conversation.02
+    - A1.LING.general-linguistic-range.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

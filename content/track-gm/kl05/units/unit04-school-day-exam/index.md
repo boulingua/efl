@@ -10,6 +10,18 @@ unit_nr: 4
 material_slug: "track-gm_kl05_unit04-school-day-exam"
 aliases:
   - /track_gm_kl05/units/unit04_school-day_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.notes-messages-and-forms.02
+    - A1.PROD.creative-writing.01
+    - A1.REC.reading-for-information-and-argument.02
+    - A1.INT.correspondence.03
+    - A1.PLUR.building-on-pluricultural-repertoire.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

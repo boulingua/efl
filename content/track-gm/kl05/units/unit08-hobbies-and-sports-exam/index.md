@@ -10,6 +10,18 @@ unit_nr: 8
 material_slug: "track-gm_kl05_unit08-hobbies-and-sports-exam"
 aliases:
   - /track_gm_kl05/units/unit08_hobbies-and-sports_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.01
+    - A1.INT.online-conversation-and-discussion.01
+    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+    - A1.MED.relaying-specific-information.02
+    - A1.PLUR.plurilingual-comprehension.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

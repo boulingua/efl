@@ -30,6 +30,18 @@ tags:
 - writing
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.formal-discussion.01
+    - B1.LING.general-linguistic-range.02
+    - B1.PROD.planning.02
+    - B1.INT.goal-oriented-online-transactions-and-collaboration.02
+    - B1.MED.overall-mediation.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

@@ -10,6 +10,18 @@ unit_nr: 3
 material_slug: "track-e_kl11_unit03-post-colonial-voices-intro-exam"
 aliases:
   - /track_e_kl11/units/unit03_post-colonial-voices-intro_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.MED.adapting-language.03
+    - B2.PRAG.turntaking.04
+    - B2.PROD.reports-and-essays.01
+    - B2.REC.reading-for-information-and-argument.05
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

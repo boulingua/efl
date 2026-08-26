@@ -30,6 +30,18 @@ tags:
 - reading
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.LING.phonological-control.01
+    - A1.REC.overall-reading-comprehension.01
+    - A1.REC.understanding-conversation-between-other-people.02
+    - A1.LING.vocabulary-range.01
+    - A1.SOC.sociolinguistic-appropriateness.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

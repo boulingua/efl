@@ -30,6 +30,18 @@ tags:
 - speaking
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.information-exchange.02
+    - A1.LING.orthographic-control.01
+    - A1.PROD.overall-written-production.01
+    - A1.REC.reading-for-information-and-argument.02
+    - A1.PLUR.plurilingual-comprehension.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

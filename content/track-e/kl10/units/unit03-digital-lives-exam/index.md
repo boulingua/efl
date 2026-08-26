@@ -10,6 +10,18 @@ unit_nr: 3
 material_slug: "track-e_kl10_unit03-digital-lives-exam"
 aliases:
   - /track_e_kl10/units/unit03_digital-lives_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.MED.relaying-specific-information.06
+    - B1.PROD.sustained-monologue-giving-information.03
+    - B1.INT.conversation.05
+    - B1.INT.notes-messages-and-forms.01
+    - B1.LING.orthographic-control.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

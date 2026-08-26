@@ -10,6 +10,18 @@ unit_nr: 4
 material_slug: "track-gm_kl10_unit04-australia-now-exam"
 aliases:
   - /track_gm_kl10/units/unit04_australia-now_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.informal-discussion.06
+    - B1.INT.notes-messages-and-forms.01
+    - B1.PROD.reports-and-essays.04
+    - B1.REC.overall-oral-comprehension.02
+    - B1.LING.orthographic-control.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

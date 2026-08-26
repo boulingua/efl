@@ -10,6 +10,18 @@ unit_nr: 11
 material_slug: "track-e_kl10_unit11-public-speaking-and-debate-exam"
 aliases:
   - /track_e_kl10/units/unit11_public-speaking-and-debate_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.REC.overall-oral-comprehension.02
+    - B1.LING.general-linguistic-range.02
+    - B1.LING.orthographic-control.01
+    - B1.MED.explaining-data.03
+    - B1.PROD.creative-writing.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

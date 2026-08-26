@@ -10,6 +10,18 @@ unit_nr: 8
 material_slug: "track-e_kl05_unit08-hobbies-and-sports-exam"
 aliases:
   - /track_e_kl05/units/unit08_hobbies-and-sports_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.01
+    - A1.INT.information-exchange.02
+    - A1.LING.phonological-control.04
+    - A1.MED.acting-as-an-intermediary-in-informal-situations.01
+    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

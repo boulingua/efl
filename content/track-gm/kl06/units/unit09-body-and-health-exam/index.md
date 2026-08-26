@@ -10,6 +10,18 @@ unit_nr: 9
 material_slug: "track-gm_kl06_unit09-body-and-health-exam"
 aliases:
   - /track_gm_kl06/units/unit09_body-and-health_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.interviewing-and-being-interviewed.02
+    - A1.REC.understanding-announcements-and-instructions.02
+    - A1.INT.conversation.01
+    - A1.LING.general-linguistic-range.01
+    - A1.LING.phonological-control.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

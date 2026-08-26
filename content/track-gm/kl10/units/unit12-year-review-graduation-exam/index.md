@@ -10,6 +10,18 @@ unit_nr: 12
 material_slug: "track-gm_kl10_unit12-year-review-graduation-exam"
 aliases:
   - /track_gm_kl10/units/unit12_year-review-graduation_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.information-exchange.09
+    - B1.INT.notes-messages-and-forms.01
+    - B1.MED.acting-as-an-intermediary-in-informal-situations.02
+    - B1.MED.adapting-language.01
+    - B1.PLUR.building-on-pluricultural-repertoire.06
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

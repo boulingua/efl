@@ -30,6 +30,18 @@ tags:
 - writing
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.LING.phonological-control.01
+    - B1.PROD.compensating.02
+    - B1.REC.identifying-cues-and-inferring.07
+    - B1.PROD.planning.03
+    - B1.PLUR.plurilingual-comprehension.02
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

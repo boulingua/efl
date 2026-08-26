@@ -10,6 +10,18 @@ unit_nr: 9
 material_slug: "track-gm_kl08_unit09-rural-and-urban-exam"
 aliases:
   - /track_gm_kl08/units/unit09_rural-and-urban_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.LING.orthographic-control.01
+    - A2.INT.using-telecommunications.02
+    - A2.LING.vocabulary-control.01
+    - A2.MED.overall-mediation.02
+    - A2.PRAG.propositional-precision.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

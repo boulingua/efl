@@ -10,6 +10,18 @@ unit_nr: 6
 material_slug: "track-gm_kl06_unit06-friends-and-feelings-exam"
 aliases:
   - /track_gm_kl06/units/unit06_friends-and-feelings_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.conversation.02
+    - A1.INT.correspondence.03
+    - A1.MED.translating-a-written-text.02
+    - A1.PROD.creative-writing.01
+    - A1.PROD.overall-written-production.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

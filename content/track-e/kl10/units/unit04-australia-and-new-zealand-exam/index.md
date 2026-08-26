@@ -10,6 +10,18 @@ unit_nr: 4
 material_slug: "track-e_kl10_unit04-australia-and-new-zealand-exam"
 aliases:
   - /track_e_kl10/units/unit04_australia-and-new-zealand_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.informal-discussion.06
+    - B1.INT.online-conversation-and-discussion.01
+    - B1.MED.explaining-data.03
+    - B1.MED.facilitating-collaborative-interaction-with-peers.01
+    - B1.REC.reading-as-a-leisure-activity.04
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

@@ -10,6 +10,18 @@ unit_nr: 10
 material_slug: "track-e_kl12_unit10-kommunikationspruefung-mock-exam"
 aliases:
   - /track_e_kl12/units/unit10_kommunikationspruefung-mock_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.LING.general-linguistic-range.01
+    - B2.INT.formal-discussion.01
+    - B2.REC.reading-as-a-leisure-activity.02
+    - B2.REC.understanding-as-a-member-of-a-live-audience.02
+    - B2.INT.correspondence.05
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

@@ -10,6 +10,18 @@ unit_nr: 10
 material_slug: "track-e_kl05_unit10-a-day-in-london-exam"
 aliases:
   - /track_e_kl05/units/unit10_a-day-in-london_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.03
+    - A1.PROD.creative-writing.01
+    - A1.INT.notes-messages-and-forms.02
+    - A1.MED.relaying-specific-information.01
+    - A1.PLUR.plurilingual-comprehension.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

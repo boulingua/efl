@@ -31,6 +31,18 @@ tags:
 - writing
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.LING.grammatical-accuracy.01
+    - B1.PROD.compensating.02
+    - B1.REC.identifying-cues-and-inferring.07
+    - B1.PROD.sustained-monologue-giving-information.03
+    - B1.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

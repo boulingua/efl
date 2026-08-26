@@ -31,6 +31,18 @@ tags:
 - speaking
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.conversation.06
+    - A2.LING.orthographic-control.01
+    - A2.PROD.sustained-monologue-giving-information.01
+    - A2.REC.identifying-cues-and-inferring.02
+    - A2.MED.overall-mediation.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

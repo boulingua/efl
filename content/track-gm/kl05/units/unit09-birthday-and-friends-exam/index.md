@@ -10,6 +10,18 @@ unit_nr: 9
 material_slug: "track-gm_kl05_unit09-birthday-and-friends-exam"
 aliases:
   - /track_gm_kl05/units/unit09_birthday-and-friends_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.REC.reading-correspondence.02
+    - A1.INT.information-exchange.07
+    - A1.INT.notes-messages-and-forms.01
+    - A1.REC.identifying-cues-and-inferring.01
+    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

@@ -10,6 +10,18 @@ unit_nr: 10
 material_slug: "track-e_kl13_unit10-kommunikationspruefung-full-mock-exam"
 aliases:
   - /track_e_kl13/units/unit10_kommunikationspruefung-full-mock_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.correspondence.03
+    - B2.INT.informal-discussion.02
+    - B2.LING.phonological-control.03
+    - B2.PRAG.thematic-development.01
+    - B2.PROD.monitoring-and-repair.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

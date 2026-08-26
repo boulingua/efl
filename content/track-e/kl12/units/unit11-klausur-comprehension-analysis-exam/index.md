@@ -10,6 +10,18 @@ unit_nr: 11
 material_slug: "track-e_kl12_unit11-klausur-comprehension-analysis-exam"
 aliases:
   - /track_e_kl12/units/unit11_klausur-comprehension-analysis_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.INT.informal-discussion.01
+    - B2.REC.overall-reading-comprehension.01
+    - B2.REC.reading-as-a-leisure-activity.02
+    - B2.LING.phonological-control.03
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

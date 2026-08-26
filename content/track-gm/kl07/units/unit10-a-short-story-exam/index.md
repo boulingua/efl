@@ -10,6 +10,18 @@ unit_nr: 10
 material_slug: "track-gm_kl07_unit10-a-short-story-exam"
 aliases:
   - /track_gm_kl07/units/unit10_a-short-story_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.overall-mediation.02
+    - A2.PROD.sustained-monologue-giving-information.01
+    - A2.INT.overall-oral-interaction.01
+    - A2.INT.understanding-an-interlocutor.03
+    - A2.MED.processing-text.05
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

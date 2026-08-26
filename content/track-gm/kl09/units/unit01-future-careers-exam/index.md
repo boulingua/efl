@@ -10,6 +10,18 @@ unit_nr: 1
 material_slug: "track-gm_kl09_unit01-future-careers-exam"
 aliases:
   - /track_gm_kl09/units/unit01_future-careers_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.overall-oral-interaction.02
+    - A2.MED.expressing-a-personal-response-to-creative-texts.03
+    - A2.INT.turntaking.02
+    - A2.REC.identifying-cues-and-inferring.02
+    - A2.REC.understanding-audio-media-and-recordings.05
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

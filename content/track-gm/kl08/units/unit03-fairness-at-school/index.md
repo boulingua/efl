@@ -30,6 +30,18 @@ tags:
 - writing
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.04
+    - A2.LING.grammatical-accuracy.01
+    - A2.PROD.sustained-monologue-putting-a-case.01
+    - A2.LING.orthographic-control.01
+    - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

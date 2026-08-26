@@ -31,6 +31,18 @@ tags:
 - writing
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.LING.general-linguistic-range.01
+    - B2.PROD.reports-and-essays.04
+    - B2.REC.reading-as-a-leisure-activity.01
+    - B2.REC.overall-reading-comprehension.01
+    - B2.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

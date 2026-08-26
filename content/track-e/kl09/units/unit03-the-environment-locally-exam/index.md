@@ -10,6 +10,18 @@ unit_nr: 3
 material_slug: "track-e_kl09_unit03-the-environment-locally-exam"
 aliases:
   - /track_e_kl09/units/unit03_the-environment-locally_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.sustained-monologue-giving-information.01
+    - A2.LING.orthographic-control.01
+    - A2.INT.correspondence.04
+    - A2.INT.goal-oriented-co-operation.04
+    - A2.LING.phonological-control.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

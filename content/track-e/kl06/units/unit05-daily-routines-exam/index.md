@@ -10,6 +10,18 @@ unit_nr: 5
 material_slug: "track-e_kl06_unit05-daily-routines-exam"
 aliases:
   - /track_e_kl06/units/unit05_daily-routines_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.PROD.sustained-monologue-giving-information.01
+    - A1.INT.conversation.02
+    - A1.PROD.overall-written-production.01
+    - A1.INT.correspondence.01
+    - A1.LING.general-linguistic-range.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

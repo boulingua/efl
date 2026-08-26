@@ -10,6 +10,18 @@ unit_nr: 10
 material_slug: "track-e_kl10_unit10-a-short-novel-exam"
 aliases:
   - /track_e_kl10/units/unit10_a-short-novel_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.REC.reading-for-information-and-argument.02
+    - B1.INT.conversation.05
+    - B1.INT.online-conversation-and-discussion.01
+    - B1.LING.general-linguistic-range.02
+    - B1.LING.phonological-control.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

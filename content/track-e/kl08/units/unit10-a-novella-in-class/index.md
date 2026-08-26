@@ -31,6 +31,18 @@ tags:
 - writing
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.LING.orthographic-control.01
+    - A2.PROD.creative-writing.07
+    - A2.REC.identifying-cues-and-inferring.02
+    - A2.PROD.sustained-monologue-giving-information.01
+    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

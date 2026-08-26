@@ -10,6 +10,18 @@ unit_nr: 5
 material_slug: "track-e_kl13_unit05-media-and-public-opinion-exam"
 aliases:
   - /track_e_kl13/units/unit05_media-and-public-opinion_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.LING.general-linguistic-range.01
+    - B2.PRAG.coherence-and-cohesion.04
+    - B2.INT.online-conversation-and-discussion.02
+    - B2.LING.orthographic-control.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

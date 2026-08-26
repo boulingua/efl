@@ -30,6 +30,18 @@ tags:
 - writing
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.LING.general-linguistic-range.02
+    - B1.MED.note-taking.03
+    - B1.PROD.planning.03
+    - B1.LING.phonological-control.01
+    - B1.PLUR.plurilingual-comprehension.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

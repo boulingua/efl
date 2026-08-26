@@ -10,6 +10,18 @@ unit_nr: 5
 material_slug: "track-e_kl07_unit05-the-united-states-today-exam"
 aliases:
   - /track_e_kl07/units/unit05_the-united-states-today_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.sustained-monologue-giving-information.01
+    - A2.LING.orthographic-control.01
+    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - A2.REC.reading-for-information-and-argument.03
+    - A2.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

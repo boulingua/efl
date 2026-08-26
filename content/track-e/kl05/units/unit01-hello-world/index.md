@@ -30,6 +30,18 @@ tags:
 - listening
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.03
+    - A1.LING.orthographic-control.01
+    - A1.PROD.creative-writing.01
+    - A1.REC.understanding-conversation-between-other-people.02
+    - A1.SOC.sociolinguistic-appropriateness.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

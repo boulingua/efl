@@ -10,6 +10,18 @@ unit_nr: 1
 material_slug: "track-e_kl05_unit01-hello-world-exam"
 aliases:
   - /track_e_kl05/units/unit01_hello-world_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.correspondence.03
+    - A1.PROD.creative-writing.01
+    - A1.INT.information-exchange.01
+    - A1.LING.vocabulary-range.01
+    - A1.MED.relaying-specific-information.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

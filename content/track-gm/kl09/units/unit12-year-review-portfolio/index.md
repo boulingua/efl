@@ -30,6 +30,18 @@ tags:
 - speaking
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.04
+    - A2.LING.orthographic-control.01
+    - A2.PROD.sustained-monologue-giving-information.01
+    - A2.INT.notes-messages-and-forms.01
+    - A2.REC.overall-reading-comprehension.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

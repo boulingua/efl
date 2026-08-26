@@ -10,6 +10,18 @@ unit_nr: 3
 material_slug: "track-gm_kl05_unit03-home-and-room-exam"
 aliases:
   - /track_gm_kl05/units/unit03_home-and-room_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.information-exchange.02
+    - A1.LING.grammatical-accuracy.01
+    - A1.MED.overall-mediation.01
+    - A1.MED.relaying-specific-information.02
+    - A1.PROD.creative-writing.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

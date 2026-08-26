@@ -30,6 +30,18 @@ tags:
 - speaking
 - intercultural
 topic: interkulturell
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.04
+    - A2.PROD.overall-oral-production.01
+    - A2.REC.reading-for-information-and-argument.04
+    - A2.SOC.sociolinguistic-appropriateness.03
+    - A2.MED.overall-mediation.02
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

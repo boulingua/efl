@@ -10,6 +10,18 @@ unit_nr: 12
 material_slug: "track-gm_kl09_unit12-year-review-portfolio-exam"
 aliases:
   - /track_gm_kl09/units/unit12_year-review-portfolio_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.04
+    - A2.INT.information-exchange.03
+    - A2.LING.orthographic-control.01
+    - A2.MED.overall-mediation.01
+    - A2.MED.processing-text.06
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

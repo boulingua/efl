@@ -10,6 +10,18 @@ unit_nr: 7
 material_slug: "track-e_kl07_unit07-being-a-friend-exam"
 aliases:
   - /track_e_kl07/units/unit07_being-a-friend_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.overall-mediation.02
+    - A2.INT.correspondence.04
+    - A2.INT.formal-discussion.01
+    - A2.LING.orthographic-control.01
+    - A2.MED.facilitating-pluricultural-space.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

@@ -30,6 +30,18 @@ tags:
 - listening
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.LING.phonological-control.03
+    - B2.REC.overall-oral-comprehension.03
+    - B2.REC.overall-reading-comprehension.01
+    - B2.INT.interviewing-and-being-interviewed.01
+    - B2.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

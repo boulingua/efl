@@ -30,6 +30,18 @@ tags:
 - writing
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.05
+    - A2.LING.orthographic-control.01
+    - A2.PROD.sustained-monologue-describing-experience.01
+    - A2.INT.overall-oral-interaction.01
+    - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

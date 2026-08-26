@@ -10,6 +10,18 @@ unit_nr: 12
 material_slug: "track-e_kl12_unit12-klausur-composition-and-comment-exam"
 aliases:
   - /track_e_kl12/units/unit12_klausur-composition-and-comment_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.PROD.compensating.02
+    - B2.INT.conversation.03
+    - B2.INT.correspondence.03
+    - B2.LING.phonological-control.03
+    - B2.LING.vocabulary-range.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

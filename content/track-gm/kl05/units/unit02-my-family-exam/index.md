@@ -10,6 +10,18 @@ unit_nr: 2
 material_slug: "track-gm_kl05_unit02-my-family-exam"
 aliases:
   - /track_gm_kl05/units/unit02_my-family_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.MED.relaying-specific-information.02
+    - A1.PROD.creative-writing.01
+    - A1.REC.overall-reading-comprehension.01
+    - A1.REC.understanding-conversation-between-other-people.02
+    - A1.INT.conversation.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

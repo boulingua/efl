@@ -10,6 +10,18 @@ unit_nr: 2
 material_slug: "track-e_kl12_unit02-globalisation-debates-exam"
 aliases:
   - /track_e_kl12/units/unit02_globalisation-debates_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.MED.facilitating-collaborative-interaction-with-peers.01
+    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+    - B2.REC.reading-as-a-leisure-activity.02
+    - B2.INT.conversation.03
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

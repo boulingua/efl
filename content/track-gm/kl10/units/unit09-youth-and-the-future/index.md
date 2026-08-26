@@ -31,6 +31,18 @@ tags:
 - writing
 - intercultural
 topic: interkulturell
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.PROD.planning.03
+    - B1.REC.identifying-cues-and-inferring.06
+    - B1.SOC.sociolinguistic-appropriateness.01
+    - B1.REC.overall-oral-comprehension.02
+    - B1.LING.orthographic-control.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

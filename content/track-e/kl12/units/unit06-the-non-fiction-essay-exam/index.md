@@ -10,6 +10,18 @@ unit_nr: 6
 material_slug: "track-e_kl12_unit06-the-non-fiction-essay-exam"
 aliases:
   - /track_e_kl12/units/unit06_the-non-fiction-essay_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - B2.PROD.reports-and-essays.01
+    - B2.REC.reading-as-a-leisure-activity.02
+    - B2.INT.informal-discussion.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

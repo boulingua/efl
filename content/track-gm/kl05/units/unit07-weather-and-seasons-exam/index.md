@@ -10,6 +10,18 @@ unit_nr: 7
 material_slug: "track-gm_kl05_unit07-weather-and-seasons-exam"
 aliases:
   - /track_gm_kl05/units/unit07_weather-and-seasons_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.notes-messages-and-forms.02
+    - A1.PROD.creative-writing.01
+    - A1.PROD.overall-written-production.02
+    - A1.INT.correspondence.01
+    - A1.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

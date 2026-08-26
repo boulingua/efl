@@ -10,6 +10,18 @@ unit_nr: 12
 material_slug: "track-e_kl08_unit12-school-magazine-issue-exam"
 aliases:
   - /track_e_kl08/units/unit12_school-magazine-issue_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.formal-discussion.01
+    - A2.MED.overall-mediation.01
+    - A2.INT.correspondence.04
+    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - A2.PLUR.plurilingual-comprehension.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

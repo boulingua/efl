@@ -10,6 +10,18 @@ unit_nr: 7
 material_slug: "track-e_kl13_unit07-the-abitur-essay-exam"
 aliases:
   - /track_e_kl13/units/unit07_the-abitur-essay_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.correspondence.03
+    - B2.INT.online-conversation-and-discussion.02
+    - B2.LING.phonological-control.03
+    - B2.PRAG.coherence-and-cohesion.04
+    - B2.LING.general-linguistic-range.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

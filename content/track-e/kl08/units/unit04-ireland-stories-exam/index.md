@@ -10,6 +10,18 @@ unit_nr: 4
 material_slug: "track-e_kl08_unit04-ireland-stories-exam"
 aliases:
   - /track_e_kl08/units/unit04_ireland-stories_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.03
+    - A2.LING.orthographic-control.01
+    - A2.INT.formal-discussion.01
+    - A2.LING.general-linguistic-range.01
+    - A2.MED.facilitating-collaborative-interaction-with-peers.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

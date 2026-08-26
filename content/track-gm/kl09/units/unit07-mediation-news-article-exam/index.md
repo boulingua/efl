@@ -10,6 +10,18 @@ unit_nr: 7
 material_slug: "track-gm_kl09_unit07-mediation-news-article-exam"
 aliases:
   - /track_gm_kl09/units/unit07_mediation-news-article_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.correspondence.04
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.INT.formal-discussion.01
+    - A2.LING.orthographic-control.01
+    - A2.MED.overall-mediation.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

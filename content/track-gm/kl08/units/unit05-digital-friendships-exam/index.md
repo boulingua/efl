@@ -10,6 +10,18 @@ unit_nr: 5
 material_slug: "track-gm_kl08_unit05-digital-friendships-exam"
 aliases:
   - /track_gm_kl08/units/unit05_digital-friendships_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.goal-oriented-online-transactions-and-collaboration.05
+    - A2.INT.online-conversation-and-discussion.01
+    - A2.LING.orthographic-control.01
+    - A2.LING.vocabulary-range.02
+    - A2.REC.identifying-cues-and-inferring.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

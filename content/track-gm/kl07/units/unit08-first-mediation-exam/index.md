@@ -10,6 +10,18 @@ unit_nr: 8
 material_slug: "track-gm_kl07_unit08-first-mediation-exam"
 aliases:
   - /track_gm_kl07/units/unit08_first-mediation_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.LING.orthographic-control.01
+    - A2.MED.processing-text.06
+    - A2.INT.correspondence.01
+    - A2.INT.informal-discussion.07
+    - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

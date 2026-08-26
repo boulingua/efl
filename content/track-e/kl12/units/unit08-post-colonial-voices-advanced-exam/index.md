@@ -10,6 +10,18 @@ unit_nr: 8
 material_slug: "track-e_kl12_unit08-post-colonial-voices-advanced-exam"
 aliases:
   - /track_e_kl12/units/unit08_post-colonial-voices-advanced_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.REC.reading-as-a-leisure-activity.02
+    - B2.INT.online-conversation-and-discussion.02
+    - B2.LING.general-linguistic-range.01
+    - B2.PLUR.building-on-plurilingual-repertoire.02
+    - B2.INT.conversation.03
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

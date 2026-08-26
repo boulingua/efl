@@ -10,6 +10,18 @@ unit_nr: 2
 material_slug: "track-e_kl11_unit02-the-american-dream-exam"
 aliases:
   - /track_e_kl11/units/unit02_the-american-dream_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.LING.phonological-control.03
+    - B2.MED.managing-interaction.02
+    - B2.MED.relaying-specific-information.05
+    - B2.PROD.reports-and-essays.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

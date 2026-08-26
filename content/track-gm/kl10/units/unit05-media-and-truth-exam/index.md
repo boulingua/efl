@@ -10,6 +10,18 @@ unit_nr: 5
 material_slug: "track-gm_kl10_unit05-media-and-truth-exam"
 aliases:
   - /track_gm_kl10/units/unit05_media-and-truth_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.MED.overall-mediation.01
+    - B1.INT.informal-discussion.06
+    - B1.INT.online-conversation-and-discussion.03
+    - B1.MED.breaking-down-complicated-information.02
+    - B1.PROD.creative-writing.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

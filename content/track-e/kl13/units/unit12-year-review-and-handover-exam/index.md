@@ -10,6 +10,18 @@ unit_nr: 12
 material_slug: "track-e_kl13_unit12-year-review-and-handover-exam"
 aliases:
   - /track_e_kl13/units/unit12_year-review-and-handover_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.overall-oral-interaction.01
+    - B2.LING.phonological-control.03
+    - B2.INT.correspondence.03
+    - B2.LING.vocabulary-range.02
+    - B2.MED.analysis-and-criticism-of-creative-texts.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

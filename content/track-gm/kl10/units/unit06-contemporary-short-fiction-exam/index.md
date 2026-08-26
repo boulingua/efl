@@ -10,6 +10,18 @@ unit_nr: 6
 material_slug: "track-gm_kl10_unit06-contemporary-short-fiction-exam"
 aliases:
   - /track_gm_kl10/units/unit06_contemporary-short-fiction_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.MED.adapting-language.01
+    - B1.MED.processing-text.08
+    - B1.INT.asking-for-clarification.02
+    - B1.LING.general-linguistic-range.02
+    - B1.REC.identifying-cues-and-inferring.06
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

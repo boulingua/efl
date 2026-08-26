@@ -10,6 +10,18 @@ unit_nr: 6
 material_slug: "track-e_kl11_unit06-media-literacy-advanced-exam"
 aliases:
   - /track_e_kl11/units/unit06_media-literacy-advanced_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.LING.phonological-control.03
+    - B2.PROD.reports-and-essays.01
+    - B2.REC.overall-oral-comprehension.03
+    - B2.INT.conversation.03
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

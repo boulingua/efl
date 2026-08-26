@@ -31,6 +31,18 @@ tags:
 - writing
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.LING.orthographic-control.01
+    - A2.PROD.sustained-monologue-giving-information.01
+    - A2.REC.reading-as-a-leisure-activity.04
+    - A2.MED.overall-mediation.02
+    - A2.REC.overall-reading-comprehension.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

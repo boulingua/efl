@@ -10,6 +10,18 @@ unit_nr: 8
 material_slug: "track-gm_kl06_unit08-school-around-the-world-exam"
 aliases:
   - /track_gm_kl06/units/unit08_school-around-the-world_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.PROD.sustained-monologue-describing-experience.02
+    - A1.REC.overall-reading-comprehension.01
+    - A1.INT.correspondence.02
+    - A1.LING.general-linguistic-range.02
+    - A1.LING.orthographic-control.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

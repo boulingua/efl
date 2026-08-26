@@ -31,6 +31,18 @@ tags:
 - writing
 - intercultural
 topic: interkulturell
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.PROD.sustained-monologue-giving-information.01
+    - A2.REC.overall-reading-comprehension.02
+    - A2.SOC.sociolinguistic-appropriateness.02
+    - A2.PROD.sustained-monologue-putting-a-case.01
+    - A2.MED.overall-mediation.02
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

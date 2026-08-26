@@ -10,6 +10,18 @@ unit_nr: 5
 material_slug: "track-e_kl12_unit05-political-discourse-exam"
 aliases:
   - /track_e_kl12/units/unit05_political-discourse_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.LING.vocabulary-range.02
+    - B2.REC.overall-oral-comprehension.03
+    - B2.REC.overall-reading-comprehension.01
+    - B2.INT.correspondence.03
+    - B2.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

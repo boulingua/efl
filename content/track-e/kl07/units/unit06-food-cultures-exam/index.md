@@ -10,6 +10,18 @@ unit_nr: 6
 material_slug: "track-e_kl07_unit06-food-cultures-exam"
 aliases:
   - /track_e_kl07/units/unit06_food-cultures_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.INT.overall-oral-interaction.01
+    - A2.MED.overall-mediation.02
+    - A2.MED.processing-text.04
+    - A2.PRAG.coherence-and-cohesion.01
+    - A2.INT.obtaining-goods-and-services.07
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

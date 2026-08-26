@@ -31,6 +31,18 @@ tags:
 - speaking
 - intercultural
 topic: interkulturell
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.INT.formal-discussion.01
+    - B1.PROD.reports-and-essays.04
+    - B1.REC.reading-instructions.03
+    - B1.SOC.sociolinguistic-appropriateness.01
+    - B1.LING.general-linguistic-range.02
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

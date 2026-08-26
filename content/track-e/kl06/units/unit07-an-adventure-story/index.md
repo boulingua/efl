@@ -31,6 +31,18 @@ tags:
 - writing
 - language_awareness
 topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.LING.phonological-control.01
+    - A1.PROD.creative-writing.01
+    - A1.REC.understanding-conversation-between-other-people.02
+    - A1.REC.identifying-cues-and-inferring.01
+    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

@@ -10,6 +10,18 @@ unit_nr: 11
 material_slug: "track-e_kl08_unit11-public-speaking-exam"
 aliases:
   - /track_e_kl08/units/unit11_public-speaking_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.MED.overall-mediation.02
+    - A2.PROD.sustained-monologue-giving-information.01
+    - A2.INT.correspondence.04
+    - A2.INT.notes-messages-and-forms.01
+    - A2.LING.orthographic-control.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

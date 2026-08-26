@@ -10,6 +10,18 @@ unit_nr: 5
 material_slug: "track-e_kl11_unit05-poetry-from-the-anthology-exam"
 aliases:
   - /track_e_kl11/units/unit05_poetry-from-the-anthology_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.REC.reading-as-a-leisure-activity.02
+    - B2.INT.informal-discussion.01
+    - B2.MED.acting-as-an-intermediary-in-informal-situations.02
+    - B2.MED.adapting-language.03
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

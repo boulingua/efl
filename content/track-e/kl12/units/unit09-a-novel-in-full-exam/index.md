@@ -10,6 +10,18 @@ unit_nr: 9
 material_slug: "track-e_kl12_unit09-a-novel-in-full-exam"
 aliases:
   - /track_e_kl12/units/unit09_a-novel-in-full_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.REC.reading-as-a-leisure-activity.02
+    - B2.REC.understanding-audio-media-and-recordings.02
+    - B2.INT.conversation.03
+    - B2.LING.phonological-control.03
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

@@ -10,6 +10,18 @@ unit_nr: 9
 material_slug: "track-e_kl11_unit09-a-modern-novel-bf-exam"
 aliases:
   - /track_e_kl11/units/unit09_a-modern-novel-bf_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.INT.formal-discussion.01
+    - B2.INT.correspondence.03
+    - B2.PROD.reports-and-essays.01
+    - B2.REC.reading-for-orientation.03
+    - B2.MED.adapting-language.03
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

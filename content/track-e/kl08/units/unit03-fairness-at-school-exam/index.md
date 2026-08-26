@@ -10,6 +10,18 @@ unit_nr: 3
 material_slug: "track-e_kl08_unit03-fairness-at-school-exam"
 aliases:
   - /track_e_kl08/units/unit03_fairness-at-school_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+    - A2.LING.grammatical-accuracy.01
+    - A2.REC.reading-for-information-and-argument.09
+    - A2.INT.formal-discussion.01
+    - A2.INT.interviewing-and-being-interviewed.01
+    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

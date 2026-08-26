@@ -30,6 +30,18 @@ tags:
 - writing
 - language_awareness
 topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.information-exchange.02
+    - A1.LING.general-linguistic-range.02
+    - A1.PROD.creative-writing.02
+    - A1.INT.conversation.02
+    - A1.REC.understanding-conversation-between-other-people.02
+  implements_basis: proposed
+  level_basis: derived
+
 ---
 
 {{< callout type="note" >}}

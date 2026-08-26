@@ -10,6 +10,18 @@ unit_nr: 2
 material_slug: "track-gm_kl10_unit02-the-world-of-work-exam"
 aliases:
   - /track_gm_kl10/units/unit02_the-world-of-work_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B1
+  implements:
+    - B1.LING.general-linguistic-range.02
+    - B1.LING.orthographic-control.01
+    - B1.MED.explaining-data.03
+    - B1.MED.overall-mediation.01
+    - B1.INT.notes-messages-and-forms.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

@@ -10,6 +10,18 @@ unit_nr: 9
 material_slug: "track-e_kl13_unit09-the-abitur-analysis-exam"
 aliases:
   - /track_e_kl13/units/unit09_the-abitur-analysis_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+    - B2.LING.phonological-control.03
+    - B2.INT.online-conversation-and-discussion.02
+    - B2.LING.vocabulary-range.02
+    - B2.PRAG.coherence-and-cohesion.04
+    - B2.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

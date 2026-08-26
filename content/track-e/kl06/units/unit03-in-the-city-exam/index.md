@@ -10,6 +10,18 @@ unit_nr: 3
 material_slug: "track-e_kl06_unit03-in-the-city-exam"
 aliases:
   - /track_e_kl06/units/unit03_in-the-city_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.information-exchange.02
+    - A1.PROD.creative-writing.01
+    - A1.PROD.overall-written-production.02
+    - A1.INT.correspondence.01
+    - A1.LING.phonological-control.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

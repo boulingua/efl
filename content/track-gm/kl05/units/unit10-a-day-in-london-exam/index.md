@@ -10,6 +10,18 @@ unit_nr: 10
 material_slug: "track-gm_kl05_unit10-a-day-in-london-exam"
 aliases:
   - /track_gm_kl05/units/unit10_a-day-in-london_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.PROD.creative-writing.01
+    - A1.INT.correspondence.03
+    - A1.INT.information-exchange.02
+    - A1.PROD.overall-written-production.02
+    - A1.REC.understanding-announcements-and-instructions.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

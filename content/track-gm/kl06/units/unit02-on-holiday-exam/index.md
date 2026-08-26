@@ -10,6 +10,18 @@ unit_nr: 2
 material_slug: "track-gm_kl06_unit02-on-holiday-exam"
 aliases:
   - /track_gm_kl06/units/unit02_on-holiday_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.PROD.creative-writing.01
+    - A1.PROD.sustained-monologue-describing-experience.02
+    - A1.INT.conversation.02
+    - A1.LING.phonological-control.01
+    - A1.INT.correspondence.01
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 

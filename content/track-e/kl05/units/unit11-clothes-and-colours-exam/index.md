@@ -10,6 +10,18 @@ unit_nr: 11
 material_slug: "track-e_kl05_unit11-clothes-and-colours-exam"
 aliases:
   - /track_e_kl05/units/unit11_clothes-and-colours_exam.html
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+    - A1.INT.information-exchange.02
+    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+    - A1.PROD.creative-writing.03
+    - A1.INT.conversation.02
+    - A1.MED.processing-text.02
+  implements_basis: proposed
+  level_basis: derived-from-unit
+
 ---
 
 
