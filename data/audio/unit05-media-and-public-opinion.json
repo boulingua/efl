@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit05-media-and-public-opinion/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Algorithmic amplification produces attention asymmetries that are not the same as public opinion. The visible majority on a platform is a function of the platform's ranking signals, not of the underlying population.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Algorithmic amplification produces attention asymmetries that are not the same as public opinion. The visible majority on a platform is a function of the platform's ranking signals, not of the underlying population.\"",
+    "file_withheld": "/efl/materials/audio/unit05-media-and-public-opinion/texte1.ogg"
+  }
 ]

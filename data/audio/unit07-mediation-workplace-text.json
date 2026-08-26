@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit07-mediation-workplace-text/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Ab dem 1. Juli gilt eine neue Regelung. Mitarbeitende dürfen bis zu drei Tage pro Woche im Homeoffice arbeiten, sofern dies abgestimmt wurde. Ein fester Bürotag pro Woche wird vorausgesetzt.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Ab dem 1. Juli gilt eine neue Regelung. Mitarbeitende dürfen bis zu drei Tage pro Woche im Homeoffice arbeiten, sofern dies abgestimmt wurde. Ein fester Bürotag pro Woche wird vorausgesetzt.\"",
+    "file_withheld": "/efl/materials/audio/unit07-mediation-workplace-text/texte1.ogg"
+  }
 ]

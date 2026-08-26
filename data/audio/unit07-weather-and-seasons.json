@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit07-weather-and-seasons/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Monday will be sunny. Tuesday: rain in the morning. Wednesday: windy and cool. Thursday: snow possible. Friday: cloudy.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Monday will be sunny. Tuesday: rain in the morning. Wednesday: windy and cool. Thursday: snow possible. Friday: cloudy.\"",
+    "file_withheld": "/efl/materials/audio/unit07-weather-and-seasons/texte1.ogg"
+  }
 ]

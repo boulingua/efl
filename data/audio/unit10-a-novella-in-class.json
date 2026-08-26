@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit10-a-novella-in-class/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"After Chapter 1, the teacher said that June had lost two things. He explained that the umbrella was the smallest of her losses. He asked the class if they could remember the last thing they had lost.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"After Chapter 1, the teacher said that June had lost two things. He explained that the umbrella was the smallest of her losses. He asked the class if they could remember the last thing they had lost.\"",
+    "file_withheld": "/efl/materials/audio/unit10-a-novella-in-class/texte1.ogg"
+  }
 ]

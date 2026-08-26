@@ -1,17 +1,17 @@
 [
- {
-  "file": "/efl/materials/audio/unit11-plans-for-the-summer/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "Aisha. What are you doing this summer?\\\nBen. I'm spending two weeks at my grandma's farm. We're\ngoing to fix her old greenhouse.\\\nMarius. I'm not doing anything special. My family will be\nhere all summer. I'll probably read a lot and finally learn to\nride a skateboard.\\\nAisha. That counts as something special, Marius. Most\npeople only plan trips. You're planning a skill."
- },
- {
-  "file": "/efl/materials/audio/unit11-plans-for-the-summer/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "Aisha. What are you doing this summer?\\\nBen. I'm spending two weeks at my grandma's farm. We're\ngoing to fix her old greenhouse.\\\nMarius. I'm not doing anything special. My family will be\nhere all summer. I'll probably read a lot and finally learn to\nride a skateboard.\\\nAisha. That counts as something special, Marius. Most\npeople only plan trips. You're planning a skill."
- },
- {
-  "file": "/efl/materials/audio/unit11-plans-for-the-summer/texte3.ogg",
-  "label": "Text 3",
-  "transcript": "\"Mein Bruder fährt im Sommer mit Freunden mit dem Zug nach\nItalien. Sie wollen Interrail machen — drei Wochen, sieben\nLänder. Mama sagt, das ist viel zu jung dafür.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "Aisha. What are you doing this summer?\\\nBen. I'm spending two weeks at my grandma's farm. We're\ngoing to fix her old greenhouse.\\\nMarius. I'm not doing anything special. My family will be\nhere all summer. I'll probably read a lot and finally learn to\nride a skateboard.\\\nAisha. That counts as something special, Marius. Most\npeople only plan trips. You're planning a skill.",
+    "file_withheld": "/efl/materials/audio/unit11-plans-for-the-summer/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "Aisha. What are you doing this summer?\\\nBen. I'm spending two weeks at my grandma's farm. We're\ngoing to fix her old greenhouse.\\\nMarius. I'm not doing anything special. My family will be\nhere all summer. I'll probably read a lot and finally learn to\nride a skateboard.\\\nAisha. That counts as something special, Marius. Most\npeople only plan trips. You're planning a skill.",
+    "file_withheld": "/efl/materials/audio/unit11-plans-for-the-summer/texte2.ogg"
+  },
+  {
+    "label": "Text 3",
+    "transcript": "\"Mein Bruder fährt im Sommer mit Freunden mit dem Zug nach\nItalien. Sie wollen Interrail machen — drei Wochen, sieben\nLänder. Mama sagt, das ist viel zu jung dafür.\"",
+    "file_withheld": "/efl/materials/audio/unit11-plans-for-the-summer/texte3.ogg"
+  }
 ]

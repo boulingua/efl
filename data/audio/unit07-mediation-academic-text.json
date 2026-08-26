@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit07-mediation-academic-text/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Diese Arbeit untersucht intergenerationale Einkommensmobilität in 18 OECD-Ländern. Methodisch nutzen wir verlinkte Steuerregisterdaten. Die Hauptergebnisse legen nahe, dass die Mobilität in Kontinentaleuropa höher ist als in den USA. Der Abstand zwischen Kohorten ist in Deutschland und Frankreich gewachsen.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Diese Arbeit untersucht intergenerationale Einkommensmobilität in 18 OECD-Ländern. Methodisch nutzen wir verlinkte Steuerregisterdaten. Die Hauptergebnisse legen nahe, dass die Mobilität in Kontinentaleuropa höher ist als in den USA. Der Abstand zwischen Kohorten ist in Deutschland und Frankreich gewachsen.\"",
+    "file_withheld": "/efl/materials/audio/unit07-mediation-academic-text/texte1.ogg"
+  }
 ]

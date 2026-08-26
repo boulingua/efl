@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit02-political-discourse-advanced/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Speaker B's answer opens with a loaded antithesis — the question is not whether but how — that refuses the binary the questioner offered. The topic migrates to the cost-of-living frame. The phrase those who play the system is a documented dog whistle in this party's communications since 2018.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Speaker B's answer opens with a loaded antithesis — the question is not whether but how — that refuses the binary the questioner offered. The topic migrates to the cost-of-living frame. The phrase those who play the system is a documented dog whistle in this party's communications since 2018.\"",
+    "file_withheld": "/efl/materials/audio/unit02-political-discourse-advanced/texte1.ogg"
+  }
 ]

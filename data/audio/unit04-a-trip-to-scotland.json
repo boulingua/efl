@@ -1,37 +1,37 @@
 [
- {
-  "file": "/efl/materials/audio/unit04-a-trip-to-scotland/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Ladies and gentlemen, this is the train manager. We are now\narriving at Edinburgh Waverley, our final stop. Please take all\nyour belongings with you. The exit for the city centre is on\nthe right; for the bus station, take the lifts on the left.\nTravellers heading to the Highlands should change here for the\n14:05 to Inverness, platform four.\""
- },
- {
-  "file": "/efl/materials/audio/unit04-a-trip-to-scotland/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "Frances had only seen Scotland on postcards. The hills, in the\npostcards, were always green and the sky was always grey. The\nhills, in real life, were also green, but the green changed\nevery twenty minutes — sometimes a tired green, sometimes a\ngreen so bright it looked wet. The sky was less grey than\nexpected. It was more like an enormous changing mood. By the\nend of the first day, Frances had stopped trying to predict the\nweather and had started enjoying it instead."
- },
- {
-  "file": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab1.ogg",
-  "label": "Vocabulary 1",
-  "transcript": "eat · see · take · fly · go · have · start · arrive"
- },
- {
-  "file": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab2.ogg",
-  "label": "Vocabulary 2",
-  "transcript": "platform · connection · return / single (BrE) · Highlands · Lowlands · loch · firth"
- },
- {
-  "file": "/efl/materials/audio/unit04-a-trip-to-scotland/texte3.ogg",
-  "label": "Text 3",
-  "transcript": "\"Ladies and gentlemen, this is the train manager. We are now\narriving at Edinburgh Waverley, our final stop. Please take all\nyour belongings with you. The exit for the city centre is on\nthe right; for the bus station, take the lifts on the left.\nTravellers heading to the Highlands should change here for the\n14:05 to Inverness, platform four. Thank you for travelling\nwith ScotRail.\""
- },
- {
-  "file": "/efl/materials/audio/unit04-a-trip-to-scotland/texte4.ogg",
-  "label": "Text 4",
-  "transcript": "Frances had only seen Scotland on postcards. The hills, in the\npostcards, were always green and the sky was always grey. The\nhills, in real life, were also green, but the green changed\nevery twenty minutes — sometimes a tired green, sometimes a\ngreen so bright it looked wet. The sky was less grey than\nexpected. It was more like an enormous changing mood. By the\nend of the first day, Frances had stopped trying to predict the\nweather and had started enjoying it instead."
- },
- {
-  "file": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab3.ogg",
-  "label": "Vocabulary 3",
-  "transcript": "56–60 · 49–55 · 40–48 · 30–39 · 18–29 · 0–17"
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Ladies and gentlemen, this is the train manager. We are now\narriving at Edinburgh Waverley, our final stop. Please take all\nyour belongings with you. The exit for the city centre is on\nthe right; for the bus station, take the lifts on the left.\nTravellers heading to the Highlands should change here for the\n14:05 to Inverness, platform four.\"",
+    "file_withheld": "/efl/materials/audio/unit04-a-trip-to-scotland/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "Frances had only seen Scotland on postcards. The hills, in the\npostcards, were always green and the sky was always grey. The\nhills, in real life, were also green, but the green changed\nevery twenty minutes — sometimes a tired green, sometimes a\ngreen so bright it looked wet. The sky was less grey than\nexpected. It was more like an enormous changing mood. By the\nend of the first day, Frances had stopped trying to predict the\nweather and had started enjoying it instead.",
+    "file_withheld": "/efl/materials/audio/unit04-a-trip-to-scotland/texte2.ogg"
+  },
+  {
+    "label": "Vocabulary 1",
+    "transcript": "eat · see · take · fly · go · have · start · arrive",
+    "file_withheld": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab1.ogg"
+  },
+  {
+    "label": "Vocabulary 2",
+    "transcript": "platform · connection · return / single (BrE) · Highlands · Lowlands · loch · firth",
+    "file_withheld": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab2.ogg"
+  },
+  {
+    "label": "Text 3",
+    "transcript": "\"Ladies and gentlemen, this is the train manager. We are now\narriving at Edinburgh Waverley, our final stop. Please take all\nyour belongings with you. The exit for the city centre is on\nthe right; for the bus station, take the lifts on the left.\nTravellers heading to the Highlands should change here for the\n14:05 to Inverness, platform four. Thank you for travelling\nwith ScotRail.\"",
+    "file_withheld": "/efl/materials/audio/unit04-a-trip-to-scotland/texte3.ogg"
+  },
+  {
+    "label": "Text 4",
+    "transcript": "Frances had only seen Scotland on postcards. The hills, in the\npostcards, were always green and the sky was always grey. The\nhills, in real life, were also green, but the green changed\nevery twenty minutes — sometimes a tired green, sometimes a\ngreen so bright it looked wet. The sky was less grey than\nexpected. It was more like an enormous changing mood. By the\nend of the first day, Frances had stopped trying to predict the\nweather and had started enjoying it instead.",
+    "file_withheld": "/efl/materials/audio/unit04-a-trip-to-scotland/texte4.ogg"
+  },
+  {
+    "label": "Vocabulary 3",
+    "transcript": "56–60 · 49–55 · 40–48 · 30–39 · 18–29 · 0–17",
+    "file_withheld": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab3.ogg"
+  }
 ]

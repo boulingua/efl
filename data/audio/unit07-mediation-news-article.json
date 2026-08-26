@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit07-mediation-news-article/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Die Stadtverwaltung hat angekündigt, dass die Linie 42 ab dem 1. September einen neuen Fahrplan haben wird. Die Fahrtzeit verlängert sich um etwa fünf Minuten.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Die Stadtverwaltung hat angekündigt, dass die Linie 42 ab dem 1. September einen neuen Fahrplan haben wird. Die Fahrtzeit verlängert sich um etwa fünf Minuten.\"",
+    "file_withheld": "/efl/materials/audio/unit07-mediation-news-article/texte1.ogg"
+  }
 ]

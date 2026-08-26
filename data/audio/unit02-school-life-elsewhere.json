@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit02-school-life-elsewhere/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"In Finland, lunch is provided free for every student. Homework is given lightly. Children go outside every hour, even in cold weather. Tests are fewer than in many other countries.\""
- },
- {
-  "file": "/efl/materials/audio/unit02-school-life-elsewhere/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "\"In our Lagos school, lessons are taught in English, but English is most students' second language. Uniform is compulsory and is checked every morning. Lunch is brought from home in metal containers.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"In Finland, lunch is provided free for every student. Homework is given lightly. Children go outside every hour, even in cold weather. Tests are fewer than in many other countries.\"",
+    "file_withheld": "/efl/materials/audio/unit02-school-life-elsewhere/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"In our Lagos school, lessons are taught in English, but English is most students' second language. Uniform is compulsory and is checked every morning. Lunch is brought from home in metal containers.\"",
+    "file_withheld": "/efl/materials/audio/unit02-school-life-elsewhere/texte2.ogg"
+  }
 ]

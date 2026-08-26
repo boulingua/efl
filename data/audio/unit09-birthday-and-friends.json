@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit09-birthday-and-friends/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Hi Lina, I would like to invite you to my birthday party on Saturday, 17 March. It starts at 3 p.m. at my house. Please let me know by Tuesday if you can come.\""
- },
- {
-  "file": "/efl/materials/audio/unit09-birthday-and-friends/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "\"Dear Mia, thank you for the invitation. I would love to come on Saturday. I will bring a small gift. See you at 3! Love, Lina.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Hi Lina, I would like to invite you to my birthday party on Saturday, 17 March. It starts at 3 p.m. at my house. Please let me know by Tuesday if you can come.\"",
+    "file_withheld": "/efl/materials/audio/unit09-birthday-and-friends/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"Dear Mia, thank you for the invitation. I would love to come on Saturday. I will bring a small gift. See you at 3! Love, Lina.\"",
+    "file_withheld": "/efl/materials/audio/unit09-birthday-and-friends/texte2.ogg"
+  }
 ]

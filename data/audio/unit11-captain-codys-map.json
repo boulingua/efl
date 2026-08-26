@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit11-captain-codys-map/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Tomorrow we are going to take the 6 a.m. train. We will meet at the station. We're not going to bring our phones. We will bring biscuits and a torch.\""
- },
- {
-  "file": "/efl/materials/audio/unit11-captain-codys-map/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "\"Captain Cody's note ended with: 'When you find the X, dig only with permission. The keeper of the lighthouse will know what to do. Don't try at night.'\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Tomorrow we are going to take the 6 a.m. train. We will meet at the station. We're not going to bring our phones. We will bring biscuits and a torch.\"",
+    "file_withheld": "/efl/materials/audio/unit11-captain-codys-map/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"Captain Cody's note ended with: 'When you find the X, dig only with permission. The keeper of the lighthouse will know what to do. Don't try at night.'\"",
+    "file_withheld": "/efl/materials/audio/unit11-captain-codys-map/texte2.ogg"
+  }
 ]

@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit10-travelling-by-train/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"This is the announcement for the 09:14 to Karlsruhe. The train will leave from Platform 5. Please mind the gap between the train and the platform. The next train to Frankfurt is delayed by ten minutes.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"This is the announcement for the 09:14 to Karlsruhe. The train will leave from Platform 5. Please mind the gap between the train and the platform. The next train to Frankfurt is delayed by ten minutes.\"",
+    "file_withheld": "/efl/materials/audio/unit10-travelling-by-train/texte1.ogg"
+  }
 ]

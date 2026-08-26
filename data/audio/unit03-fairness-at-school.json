@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit03-fairness-at-school/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"If I were the headteacher, I would replace the no-phones rule with a no-loud-phones rule. I think it would be fairer. Although some students would still break it, most wouldn't. On the other hand, enforcing it would still be tricky.\""
- },
- {
-  "file": "/efl/materials/audio/unit03-fairness-at-school/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "\"In an interview, the head pupil said: 'If we had more student representation on the rule committee, fewer rules would feel unfair. However, I understand that adults don't always want students to vote on everything.'\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"If I were the headteacher, I would replace the no-phones rule with a no-loud-phones rule. I think it would be fairer. Although some students would still break it, most wouldn't. On the other hand, enforcing it would still be tricky.\"",
+    "file_withheld": "/efl/materials/audio/unit03-fairness-at-school/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"In an interview, the head pupil said: 'If we had more student representation on the rule committee, fewer rules would feel unfair. However, I understand that adults don't always want students to vote on everything.'\"",
+    "file_withheld": "/efl/materials/audio/unit03-fairness-at-school/texte2.ogg"
+  }
 ]

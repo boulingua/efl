@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit05-daily-routines/vocab1.ogg",
-  "label": "Vocabulary 1",
-  "transcript": "I · you · he · she · it · we · they"
- },
- {
-  "file": "/efl/materials/audio/unit05-daily-routines/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"On Sundays Lina wakes up late. She has a long breakfast with her family. After breakfast she meets Sam in the park. They play chess for an hour. In the evening she does her homework.\""
- }
+  {
+    "label": "Vocabulary 1",
+    "transcript": "I · you · he · she · it · we · they",
+    "file_withheld": "/efl/materials/audio/unit05-daily-routines/vocab1.ogg"
+  },
+  {
+    "label": "Text 1",
+    "transcript": "\"On Sundays Lina wakes up late. She has a long breakfast with her family. After breakfast she meets Sam in the park. They play chess for an hour. In the evening she does her homework.\"",
+    "file_withheld": "/efl/materials/audio/unit05-daily-routines/texte1.ogg"
+  }
 ]

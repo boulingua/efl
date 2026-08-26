@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit06-friends-and-feelings/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Lina is excited because she has a school trip tomorrow. Sam is nervous because he forgot his homework. Mr. Flint is calm because he always is. The cat is hungry, so it complains.\""
- },
- {
-  "file": "/efl/materials/audio/unit06-friends-and-feelings/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "\"Today is Friday and I am tired but happy. Tired because we had two tests. Happy because the weekend starts at 1 p.m. and my best friend is coming over.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Lina is excited because she has a school trip tomorrow. Sam is nervous because he forgot his homework. Mr. Flint is calm because he always is. The cat is hungry, so it complains.\"",
+    "file_withheld": "/efl/materials/audio/unit06-friends-and-feelings/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"Today is Friday and I am tired but happy. Tired because we had two tests. Happy because the weekend starts at 1 p.m. and my best friend is coming over.\"",
+    "file_withheld": "/efl/materials/audio/unit06-friends-and-feelings/texte2.ogg"
+  }
 ]

@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit03-science-and-ethics/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Consequentialism asks what produces the best outcomes; deontology asks what we are required to do regardless of consequences; virtue ethics asks what kind of researcher we want to be. Real debates combine all three.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Consequentialism asks what produces the best outcomes; deontology asks what we are required to do regardless of consequences; virtue ethics asks what kind of researcher we want to be. Real debates combine all three.\"",
+    "file_withheld": "/efl/materials/audio/unit03-science-and-ethics/texte1.ogg"
+  }
 ]

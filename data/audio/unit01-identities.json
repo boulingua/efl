@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit01-identities/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Both my parents grew up in different countries. Neither of them speaks the other's first language well. They communicate in English. I grew up with three languages, but only one of them — German — is the one I dream in.\""
- },
- {
-  "file": "/efl/materials/audio/unit01-identities/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "\"My identity is not a single label. It is a list that changes every year. When I was eleven, I was mainly the football kid. Now I am the kid who reads instead. I haven't told my old team yet.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Both my parents grew up in different countries. Neither of them speaks the other's first language well. They communicate in English. I grew up with three languages, but only one of them — German — is the one I dream in.\"",
+    "file_withheld": "/efl/materials/audio/unit01-identities/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"My identity is not a single label. It is a list that changes every year. When I was eleven, I was mainly the football kid. Now I am the kid who reads instead. I haven't told my old team yet.\"",
+    "file_withheld": "/efl/materials/audio/unit01-identities/texte2.ogg"
+  }
 ]

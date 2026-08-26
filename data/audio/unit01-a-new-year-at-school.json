@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit01-a-new-year-at-school/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"In Klasse 6 we have biology twice a week, music once a week, and PE on Friday afternoon. We never have homework on Wednesday. Lunch is always at 12:30.\""
- },
- {
-  "file": "/efl/materials/audio/unit01-a-new-year-at-school/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "\"Sam usually walks to school. Sometimes he takes the bus when it rains. He never gets a lift from his parents. He often arrives ten minutes early to talk to Lina.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"In Klasse 6 we have biology twice a week, music once a week, and PE on Friday afternoon. We never have homework on Wednesday. Lunch is always at 12:30.\"",
+    "file_withheld": "/efl/materials/audio/unit01-a-new-year-at-school/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"Sam usually walks to school. Sometimes he takes the bus when it rains. He never gets a lift from his parents. He often arrives ten minutes early to talk to Lina.\"",
+    "file_withheld": "/efl/materials/audio/unit01-a-new-year-at-school/texte2.ogg"
+  }
 ]

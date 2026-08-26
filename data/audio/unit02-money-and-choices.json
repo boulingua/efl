@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit02-money-and-choices/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"You should keep a record of every purchase. You shouldn't lend more than you can afford to lose. You'd better start small — three months of pocket money is enough to learn the habit.\""
- },
- {
-  "file": "/efl/materials/audio/unit02-money-and-choices/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "\"Eli started a small green notebook. By month four he could see the shape of his spending: half on food outside the home, a quarter on small things he didn't remember buying. He decided to cut the small things.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"You should keep a record of every purchase. You shouldn't lend more than you can afford to lose. You'd better start small — three months of pocket money is enough to learn the habit.\"",
+    "file_withheld": "/efl/materials/audio/unit02-money-and-choices/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"Eli started a small green notebook. By month four he could see the shape of his spending: half on food outside the home, a quarter on small things he didn't remember buying. He decided to cut the small things.\"",
+    "file_withheld": "/efl/materials/audio/unit02-money-and-choices/texte2.ogg"
+  }
 ]

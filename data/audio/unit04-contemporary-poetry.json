@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit04-contemporary-poetry/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"The fragmentary lyric refuses syntactic completeness; lines break off mid-thought; the white space is part of the meaning. The document poem uses found material — court transcripts, treaties — and the I is ironised. The polyvocal lyric allows multiple speakers without quote marks.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"The fragmentary lyric refuses syntactic completeness; lines break off mid-thought; the white space is part of the meaning. The document poem uses found material — court transcripts, treaties — and the I is ironised. The polyvocal lyric allows multiple speakers without quote marks.\"",
+    "file_withheld": "/efl/materials/audio/unit04-contemporary-poetry/texte1.ogg"
+  }
 ]

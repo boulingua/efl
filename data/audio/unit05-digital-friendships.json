@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit05-digital-friendships/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Jonas has been writing to Ari for almost two years. They have never met. They have already exchanged 287 photos of clouds. They haven't spoken on the phone yet. Jonas says they just don't need to.\""
- },
- {
-  "file": "/efl/materials/audio/unit05-digital-friendships/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "\"I have known my best friend Lia for six years. We met in primary school. Last year she moved to Munich. Since then we have written every week and have already met up three times. We haven't decided yet which Christmas to spend together.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Jonas has been writing to Ari for almost two years. They have never met. They have already exchanged 287 photos of clouds. They haven't spoken on the phone yet. Jonas says they just don't need to.\"",
+    "file_withheld": "/efl/materials/audio/unit05-digital-friendships/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"I have known my best friend Lia for six years. We met in primary school. Last year she moved to Munich. Since then we have written every week and have already met up three times. We haven't decided yet which Christmas to spend together.\"",
+    "file_withheld": "/efl/materials/audio/unit05-digital-friendships/texte2.ogg"
+  }
 ]

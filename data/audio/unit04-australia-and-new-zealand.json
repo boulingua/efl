@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit04-australia-and-new-zealand/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"In New Zealand, te reo Māori is widely audible — kia ora is the everyday hello. About 5.2 million people live there. In Australia, hundreds of Aboriginal languages survive, often more locally audible than nationally. Wagga Wagga is a Wiradjuri place name.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"In New Zealand, te reo Māori is widely audible — kia ora is the everyday hello. About 5.2 million people live there. In Australia, hundreds of Aboriginal languages survive, often more locally audible than nationally. Wagga Wagga is a Wiradjuri place name.\"",
+    "file_withheld": "/efl/materials/audio/unit04-australia-and-new-zealand/texte1.ogg"
+  }
 ]

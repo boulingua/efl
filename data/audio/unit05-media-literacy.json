@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit05-media-literacy/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"The post seems to claim that a new fruit improves sleep, mood, and maths grades. The article appears to cite a study, but the link is broken. Several experts claim to have tested the fruit and found no such effect.\""
- },
- {
-  "file": "/efl/materials/audio/unit05-media-literacy/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "\"Headline: 'WONDER FRUIT FIXES YOUR SLEEP.' The article cites no study. The named expert is not on any university website. The website itself was registered three weeks ago. None of these signs is a direct lie. Together, they are a warning.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"The post seems to claim that a new fruit improves sleep, mood, and maths grades. The article appears to cite a study, but the link is broken. Several experts claim to have tested the fruit and found no such effect.\"",
+    "file_withheld": "/efl/materials/audio/unit05-media-literacy/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"Headline: 'WONDER FRUIT FIXES YOUR SLEEP.' The article cites no study. The named expert is not on any university website. The website itself was registered three weeks ago. None of these signs is a direct lie. Together, they are a warning.\"",
+    "file_withheld": "/efl/materials/audio/unit05-media-literacy/texte2.ogg"
+  }
 ]

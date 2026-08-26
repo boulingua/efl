@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit10-a-short-novel/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"By the third week, the bus stop had become a small kingdom. The same six people, every weekday morning. Anya had stopped predicting each arrival; the predictability itself had become the comfort. Nevertheless, on Wednesday, one was missing.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"By the third week, the bus stop had become a small kingdom. The same six people, every weekday morning. Anya had stopped predicting each arrival; the predictability itself had become the comfort. Nevertheless, on Wednesday, one was missing.\"",
+    "file_withheld": "/efl/materials/audio/unit10-a-short-novel/texte1.ogg"
+  }
 ]

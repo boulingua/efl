@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit02-the-american-dream/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"The 1776 line speaks of the pursuit of Happiness. The 1931 phrase, by contrast, speaks of outcomes — that life should be better and richer and fuller for everyone. The 2024 critique points out that intergenerational income mobility in the US is now lower than in most of comparable Western Europe.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"The 1776 line speaks of the pursuit of Happiness. The 1931 phrase, by contrast, speaks of outcomes — that life should be better and richer and fuller for everyone. The 2024 critique points out that intergenerational income mobility in the US is now lower than in most of comparable Western Europe.\"",
+    "file_withheld": "/efl/materials/audio/unit02-the-american-dream/texte1.ogg"
+  }
 ]

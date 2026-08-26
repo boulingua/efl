@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit09-rural-and-urban/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"My grandmother lives in a small village. The internet is not as reliable as in the city. The local shop sells almost everything but is not as cheap as a big supermarket. The night is as quiet as a library.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"My grandmother lives in a small village. The internet is not as reliable as in the city. The local shop sells almost everything but is not as cheap as a big supermarket. The night is as quiet as a library.\"",
+    "file_withheld": "/efl/materials/audio/unit09-rural-and-urban/texte1.ogg"
+  }
 ]

@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit05-political-discourse/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"To those waiting with bated breath for that favourite media catchphrase, the U-turn, I have only one thing to say. You turn if you want to. The lady's not for turning.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"To those waiting with bated breath for that favourite media catchphrase, the U-turn, I have only one thing to say. You turn if you want to. The lady's not for turning.\"",
+    "file_withheld": "/efl/materials/audio/unit05-political-discourse/texte1.ogg"
+  }
 ]

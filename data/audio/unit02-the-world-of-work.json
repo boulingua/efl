@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit02-the-world-of-work/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Mrs Dahl has been running the bakery for 32 years. She has been kneading dough by hand for most of that time. Her three apprentices have been showing up at five every morning, six days a week.\""
- },
- {
-  "file": "/efl/materials/audio/unit02-the-world-of-work/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "\"Sam has been visiting different workplaces this term: a bakery, a small electrician's, a graphic-design studio. He has been writing one paragraph after each visit. So far the bakery has surprised him most — because of the silence at 5 a.m.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Mrs Dahl has been running the bakery for 32 years. She has been kneading dough by hand for most of that time. Her three apprentices have been showing up at five every morning, six days a week.\"",
+    "file_withheld": "/efl/materials/audio/unit02-the-world-of-work/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"Sam has been visiting different workplaces this term: a bakery, a small electrician's, a graphic-design studio. He has been writing one paragraph after each visit. So far the bakery has surprised him most — because of the silence at 5 a.m.\"",
+    "file_withheld": "/efl/materials/audio/unit02-the-world-of-work/texte2.ogg"
+  }
 ]

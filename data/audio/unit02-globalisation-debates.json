@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit02-globalisation-debates/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"World trade as a share of GDP rose from 39 % in 1990 to 60 % by 2008. It has plateaued since. About one billion people were lifted out of extreme poverty in the same period, predominantly in East and South Asia. Intra-country inequality grew in advanced economies. Supply-chain fragility was under-priced.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"World trade as a share of GDP rose from 39 % in 1990 to 60 % by 2008. It has plateaued since. About one billion people were lifted out of extreme poverty in the same period, predominantly in East and South Asia. Intra-country inequality grew in advanced economies. Supply-chain fragility was under-priced.\"",
+    "file_withheld": "/efl/materials/audio/unit02-globalisation-debates/texte1.ogg"
+  }
 ]

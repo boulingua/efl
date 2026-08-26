@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit06-interview-and-portrait/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Tell me about your first year here, Mrs. Brock. — It was a strange year. The boiler broke twice, but the children were calm. — What do you remember most? — The day the heating failed in February — we wore coats in lessons.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Tell me about your first year here, Mrs. Brock. — It was a strange year. The boiler broke twice, but the children were calm. — What do you remember most? — The day the heating failed in February — we wore coats in lessons.\"",
+    "file_withheld": "/efl/materials/audio/unit06-interview-and-portrait/texte1.ogg"
+  }
 ]

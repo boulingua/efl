@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit11-a-short-novel/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Running, like reading, is a way of staying still while you move. By the third week, the narrator had discovered that the slow kilometres were doing the work. Whereas fast intervals felt like proof, the slow lanes felt like the actual training.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Running, like reading, is a way of staying still while you move. By the third week, the narrator had discovered that the slow kilometres were doing the work. Whereas fast intervals felt like proof, the slow lanes felt like the actual training.\"",
+    "file_withheld": "/efl/materials/audio/unit11-a-short-novel/texte1.ogg"
+  }
 ]

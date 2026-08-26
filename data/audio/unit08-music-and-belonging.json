@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit08-music-and-belonging/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"This song could be by Adele — it has the same kind of voice. But the chorus is different, so it might be someone newer. The drum sounds programmed rather than live, which means it can't be a stripped-back acoustic version.\""
- },
- {
-  "file": "/efl/materials/audio/unit08-music-and-belonging/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "\"My favourite song must be the one my grandmother sings every Sunday. It might be 50 years old, or it could be older — no one in the family is sure. There is a small drum and her voice. It can't be heard on any streaming app.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"This song could be by Adele — it has the same kind of voice. But the chorus is different, so it might be someone newer. The drum sounds programmed rather than live, which means it can't be a stripped-back acoustic version.\"",
+    "file_withheld": "/efl/materials/audio/unit08-music-and-belonging/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"My favourite song must be the one my grandmother sings every Sunday. It might be 50 years old, or it could be older — no one in the family is sure. There is a small drum and her voice. It can't be heard on any streaming app.\"",
+    "file_withheld": "/efl/materials/audio/unit08-music-and-belonging/texte2.ogg"
+  }
 ]

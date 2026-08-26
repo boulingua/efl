@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit03-the-environment-locally/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"If you place two more bins along this 200-metre stretch, the litter count will halve. If the bins are emptied weekly, they won't overflow. We will measure twice a year so we know whether the change is real.\""
- },
- {
-  "file": "/efl/materials/audio/unit03-the-environment-locally/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "\"The street outside Klasse 9's school had 412 plastic items in three days. After the council added two bins, the number fell to 198 in the next count. The class has decided to repeat the count every six months.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"If you place two more bins along this 200-metre stretch, the litter count will halve. If the bins are emptied weekly, they won't overflow. We will measure twice a year so we know whether the change is real.\"",
+    "file_withheld": "/efl/materials/audio/unit03-the-environment-locally/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"The street outside Klasse 9's school had 412 plastic items in three days. After the council added two bins, the number fell to 198 in the next count. The class has decided to repeat the count every six months.\"",
+    "file_withheld": "/efl/materials/audio/unit03-the-environment-locally/texte2.ogg"
+  }
 ]

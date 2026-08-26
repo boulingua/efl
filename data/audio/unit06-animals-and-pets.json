@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit06-animals-and-pets/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Mia has got a cat. The cat is grey. Theo has got a fish. The fish is orange. Lina has got a rabbit. The rabbit is white.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Mia has got a cat. The cat is grey. Theo has got a fish. The fish is orange. Lina has got a rabbit. The rabbit is white.\"",
+    "file_withheld": "/efl/materials/audio/unit06-animals-and-pets/texte1.ogg"
+  }
 ]

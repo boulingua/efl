@@ -1,27 +1,27 @@
 [
- {
-  "file": "/efl/materials/audio/unit09-school-rules-and-rights/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "Ardenfield Comprehensive in Manchester has a \"phones-in-pouches\"\nrule. Every morning, students put their phones into a magnetic\npouch and keep the pouch with them all day. The pouch can only\nbe unlocked by a teacher or in the office. The headteacher,\nMr Atta, says the rule has cut bullying messages and fights at\nbreak time. Some pupils complain it feels like a prison rule.\nMr Atta replies: \"We are open to a different rule. Bring me one\nthat works.\""
- },
- {
-  "file": "/efl/materials/audio/unit09-school-rules-and-rights/vocab1.ogg",
-  "label": "Vocabulary 1",
-  "transcript": "must · mustn't · should · shouldn't · can · can't · have to"
- },
- {
-  "file": "/efl/materials/audio/unit09-school-rules-and-rights/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "One rule I would keep is the no-running rule in the corridors.\nThe corridors are crowded between lessons, and someone could\neasily get hurt. Pupils must walk and step aside for younger\nstudents. One rule I would change is the cap rule. Caps are\nbanned in lessons, but they don't disturb anyone. I think pupils\nshould be allowed to wear them in winter when the heating is\noff, although I would also accept a rule that says caps are\nonly allowed if the windows are open. The point is that small\nrules are noticed every day. Big ones are easier to forget."
- },
- {
-  "file": "/efl/materials/audio/unit09-school-rules-and-rights/texte3.ogg",
-  "label": "Text 3",
-  "transcript": "Ardenfield Comprehensive in Manchester has a \"phones-in-pouches\"\nrule. Every morning, students put their phones into a magnetic\npouch and keep the pouch with them all day. The pouch can only\nbe unlocked by a teacher or in the office. The headteacher,\nMr Atta, says the rule has cut bullying messages and fights at\nbreak time. Some pupils complain it feels like a prison rule.\nMr Atta replies: \"We are open to a different rule. Bring me one\nthat works.\""
- },
- {
-  "file": "/efl/materials/audio/unit09-school-rules-and-rights/texte4.ogg",
-  "label": "Text 4",
-  "transcript": "\"Wir diskutieren ein Handyverbot an der Schule. Manche Eltern\nsind dafür, andere finden, dass die Schüler lernen müssen, mit\nHandys umzugehen, statt sie wegzusperren.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "Ardenfield Comprehensive in Manchester has a \"phones-in-pouches\"\nrule. Every morning, students put their phones into a magnetic\npouch and keep the pouch with them all day. The pouch can only\nbe unlocked by a teacher or in the office. The headteacher,\nMr Atta, says the rule has cut bullying messages and fights at\nbreak time. Some pupils complain it feels like a prison rule.\nMr Atta replies: \"We are open to a different rule. Bring me one\nthat works.\"",
+    "file_withheld": "/efl/materials/audio/unit09-school-rules-and-rights/texte1.ogg"
+  },
+  {
+    "label": "Vocabulary 1",
+    "transcript": "must · mustn't · should · shouldn't · can · can't · have to",
+    "file_withheld": "/efl/materials/audio/unit09-school-rules-and-rights/vocab1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "One rule I would keep is the no-running rule in the corridors.\nThe corridors are crowded between lessons, and someone could\neasily get hurt. Pupils must walk and step aside for younger\nstudents. One rule I would change is the cap rule. Caps are\nbanned in lessons, but they don't disturb anyone. I think pupils\nshould be allowed to wear them in winter when the heating is\noff, although I would also accept a rule that says caps are\nonly allowed if the windows are open. The point is that small\nrules are noticed every day. Big ones are easier to forget.",
+    "file_withheld": "/efl/materials/audio/unit09-school-rules-and-rights/texte2.ogg"
+  },
+  {
+    "label": "Text 3",
+    "transcript": "Ardenfield Comprehensive in Manchester has a \"phones-in-pouches\"\nrule. Every morning, students put their phones into a magnetic\npouch and keep the pouch with them all day. The pouch can only\nbe unlocked by a teacher or in the office. The headteacher,\nMr Atta, says the rule has cut bullying messages and fights at\nbreak time. Some pupils complain it feels like a prison rule.\nMr Atta replies: \"We are open to a different rule. Bring me one\nthat works.\"",
+    "file_withheld": "/efl/materials/audio/unit09-school-rules-and-rights/texte3.ogg"
+  },
+  {
+    "label": "Text 4",
+    "transcript": "\"Wir diskutieren ein Handyverbot an der Schule. Manche Eltern\nsind dafür, andere finden, dass die Schüler lernen müssen, mit\nHandys umzugehen, statt sie wegzusperren.\"",
+    "file_withheld": "/efl/materials/audio/unit09-school-rules-and-rights/texte4.ogg"
+  }
 ]

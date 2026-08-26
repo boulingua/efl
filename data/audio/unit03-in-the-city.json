@@ -1,12 +1,12 @@
 [
- {
-  "file": "/efl/materials/audio/unit03-in-the-city/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Excuse me, how do I get to the train station? Walk straight on for three minutes. Then turn left at the church. The station is on your right.\""
- },
- {
-  "file": "/efl/materials/audio/unit03-in-the-city/texte2.ogg",
-  "label": "Text 2",
-  "transcript": "\"My favourite place in town is the small bakery next to the library. They open at 6 a.m. and the bread is still warm. The owner knows everyone's name.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Excuse me, how do I get to the train station? Walk straight on for three minutes. Then turn left at the church. The station is on your right.\"",
+    "file_withheld": "/efl/materials/audio/unit03-in-the-city/texte1.ogg"
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"My favourite place in town is the small bakery next to the library. They open at 6 a.m. and the bread is still warm. The owner knows everyone's name.\"",
+    "file_withheld": "/efl/materials/audio/unit03-in-the-city/texte2.ogg"
+  }
 ]

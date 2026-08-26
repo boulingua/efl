@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit07-teen-magazine-mediation/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"Studien zeigen, dass Jugendliche, die ihr Handy nachts neben dem Bett liegen haben, weniger schlafen. Experten empfehlen, das Gerät außerhalb des Schlafzimmers zu laden.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"Studien zeigen, dass Jugendliche, die ihr Handy nachts neben dem Bett liegen haben, weniger schlafen. Experten empfehlen, das Gerät außerhalb des Schlafzimmers zu laden.\"",
+    "file_withheld": "/efl/materials/audio/unit07-teen-magazine-mediation/texte1.ogg"
+  }
 ]

@@ -1,7 +1,7 @@
 [
- {
-  "file": "/efl/materials/audio/unit05-poetry-from-the-anthology/texte1.ogg",
-  "label": "Text 1",
-  "transcript": "\"The poem is fourteen lines in two stanzas. Line-breaks fall before strong stresses. There are three half-rhymes — light / late, door / floor, gone / alone — at the close of the second stanza. The pronoun shifts from they to we in the final couplet.\""
- }
+  {
+    "label": "Text 1",
+    "transcript": "\"The poem is fourteen lines in two stanzas. Line-breaks fall before strong stresses. There are three half-rhymes — light / late, door / floor, gone / alone — at the close of the second stanza. The pronoun shifts from they to we in the final couplet.\"",
+    "file_withheld": "/efl/materials/audio/unit05-poetry-from-the-anthology/texte1.ogg"
+  }
 ]
