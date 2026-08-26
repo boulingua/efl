@@ -1,5 +1,10 @@
 ---
 page_type: exam
+# A rehearsal for the Kommunikationsprüfung, not a full paper: it drills
+# one section of the 90-BE Klausur and states no total of its own. Gate
+# A13 checks arithmetic that a full paper must have and a rehearsal does
+# not, so the distinction is declared rather than guessed from prose.
+exam_scope: rehearsal
 title: "Klausur (assessment) — Unit 6: Mediation: A German Policy Text"
 subtitle: "Track E · Klasse 13 · Niveau E · Abitur-prep"
 author: "S. Le Boulanger"
