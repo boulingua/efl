@@ -42,7 +42,6 @@ curriculum:
     - B2.PROD.reports-and-essays.01
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

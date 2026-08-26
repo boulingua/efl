@@ -41,7 +41,6 @@ curriculum:
     - A1.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

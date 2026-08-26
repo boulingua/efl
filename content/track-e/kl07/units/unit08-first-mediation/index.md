@@ -42,7 +42,6 @@ curriculum:
     - A2.REC.reading-for-information-and-argument.03
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

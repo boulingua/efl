@@ -42,7 +42,6 @@ curriculum:
     - A2.INT.using-telecommunications.02
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

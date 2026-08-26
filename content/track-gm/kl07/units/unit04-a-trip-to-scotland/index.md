@@ -43,7 +43,6 @@ curriculum:
     - A2.PROD.sustained-monologue-giving-information.01
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

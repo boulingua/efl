@@ -42,7 +42,6 @@ curriculum:
     - B1.MED.explaining-data.03
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

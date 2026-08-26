@@ -41,7 +41,6 @@ curriculum:
     - A2.MED.streamlining-a-text.01
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

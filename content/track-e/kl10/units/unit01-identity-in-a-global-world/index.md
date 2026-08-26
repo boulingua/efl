@@ -42,7 +42,6 @@ curriculum:
     - B1.INT.online-conversation-and-discussion.01
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

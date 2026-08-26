@@ -41,7 +41,6 @@ curriculum:
     - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.03
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

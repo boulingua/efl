@@ -41,7 +41,6 @@ curriculum:
     - B1.MED.overall-mediation.01
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

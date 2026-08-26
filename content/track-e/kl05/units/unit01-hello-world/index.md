@@ -41,7 +41,6 @@ curriculum:
     - A1.SOC.sociolinguistic-appropriateness.01
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

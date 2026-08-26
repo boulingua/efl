@@ -42,7 +42,6 @@ curriculum:
     - A2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

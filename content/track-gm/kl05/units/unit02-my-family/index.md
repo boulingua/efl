@@ -41,7 +41,6 @@ curriculum:
     - A1.MED.encouraging-conceptual-talk.01
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

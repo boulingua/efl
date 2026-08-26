@@ -41,7 +41,6 @@ curriculum:
     - A1.INT.correspondence.03
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

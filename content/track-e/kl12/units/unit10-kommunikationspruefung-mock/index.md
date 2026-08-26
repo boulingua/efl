@@ -41,7 +41,6 @@ curriculum:
     - B2.MED.linking-to-previous-knowledge.02
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

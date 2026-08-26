@@ -42,7 +42,6 @@ curriculum:
     - A2.MED.acting-as-an-intermediary-in-informal-situations.02
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

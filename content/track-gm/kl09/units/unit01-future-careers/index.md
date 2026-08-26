@@ -42,7 +42,6 @@ curriculum:
     - A2.MED.expressing-a-personal-response-to-creative-texts.03
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

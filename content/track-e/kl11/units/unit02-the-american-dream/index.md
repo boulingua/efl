@@ -42,7 +42,6 @@ curriculum:
     - B2.LING.phonological-control.03
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

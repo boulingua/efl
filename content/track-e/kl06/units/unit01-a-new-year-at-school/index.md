@@ -41,7 +41,6 @@ curriculum:
     - A1.REC.understanding-conversation-between-other-people.02
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

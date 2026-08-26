@@ -41,7 +41,6 @@ curriculum:
     - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

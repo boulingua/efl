@@ -41,7 +41,6 @@ curriculum:
     - A1.REC.understanding-announcements-and-instructions.02
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

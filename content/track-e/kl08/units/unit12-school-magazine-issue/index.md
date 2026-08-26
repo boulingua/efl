@@ -41,7 +41,6 @@ curriculum:
     - A2.MED.processing-text.06
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

@@ -42,7 +42,6 @@ curriculum:
     - A2.PROD.creative-writing.07
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

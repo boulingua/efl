@@ -42,7 +42,6 @@ curriculum:
     - A2.PROD.overall-oral-production.01
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

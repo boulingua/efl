@@ -42,7 +42,6 @@ curriculum:
     - B1.LING.general-linguistic-range.02
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}

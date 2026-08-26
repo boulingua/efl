@@ -41,7 +41,6 @@ curriculum:
     - A1.MED.relaying-specific-information.02
   implements_basis: proposed
   level_basis: derived
-
 ---
 
 {{< callout type="note" >}}
