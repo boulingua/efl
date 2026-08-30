@@ -2,11 +2,11 @@
   {
     "label": "Text 1",
     "transcript": "\"Hello everyone, welcome to the snack table! In September I couldn't bake bread. Now I can bake scones. They are tastier than my first attempts. Tomorrow we are going to sell them for one euro each. Please come and try one!\"",
-    "file_withheld": "/efl/materials/audio/unit12-year-end-festival/texte1.ogg"
+    "file": "/efl/materials/audio/unit12-year-end-festival/texte1.ogg"
   },
   {
     "label": "Text 2",
     "transcript": "\"At the festival there will be six stalls: a bookshop, a snack table, a music corner, a games stand, a treasure-hunt stall, and a photography booth. The festival starts at 4 p.m. and ends at 7 p.m.\"",
-    "file_withheld": "/efl/materials/audio/unit12-year-end-festival/texte2.ogg"
+    "file": "/efl/materials/audio/unit12-year-end-festival/texte2.ogg"
   }
 ]

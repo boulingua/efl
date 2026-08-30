@@ -2,11 +2,11 @@
   {
     "label": "Text 1",
     "transcript": "\"Three students from Maja's class chose three different paths. Lukas signed an apprenticeship contract. Lina applied to the FOS. Adam took a gap year and wrote that working as a forest ranger had changed his sense of time.\"",
-    "file_withheld": "/efl/materials/audio/unit01-transition-after-grade-10/texte1.ogg"
+    "file": "/efl/materials/audio/unit01-transition-after-grade-10/texte1.ogg"
   },
   {
     "label": "Text 2",
     "transcript": "\"If Maja had applied to the FOS in November, she would already have a place. She didn't, partly because her family wanted her to consider the apprenticeship first. She is now waiting for the second-round response and reading every leaflet twice.\"",
-    "file_withheld": "/efl/materials/audio/unit01-transition-after-grade-10/texte2.ogg"
+    "file": "/efl/materials/audio/unit01-transition-after-grade-10/texte2.ogg"
   }
 ]

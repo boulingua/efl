@@ -2,11 +2,11 @@
   {
     "label": "Text 1",
     "transcript": "\"At our food day we tried sushi from Japan, samosa from India, falafel from the Middle East, and pierogi from Poland. The most popular dish was the falafel wrap.\"",
-    "file_withheld": "/efl/materials/audio/unit04-food-around-the-world/texte1.ogg"
+    "file": "/efl/materials/audio/unit04-food-around-the-world/texte1.ogg"
   },
   {
     "label": "Text 2",
     "transcript": "\"My favourite dish is Spätzle with cheese. My grandmother makes it on cold Sundays. The dough is thick and yellow. We eat it with crispy onions on top.\"",
-    "file_withheld": "/efl/materials/audio/unit04-food-around-the-world/texte2.ogg"
+    "file": "/efl/materials/audio/unit04-food-around-the-world/texte2.ogg"
   }
 ]

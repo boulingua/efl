@@ -2,16 +2,16 @@
   {
     "label": "Vocabulary 1",
     "transcript": "mother / mum · father / dad · sister · brother · grandmother / grandma · grandfather / grandpa · aunt · uncle · cousin · parents",
-    "file_withheld": "/efl/materials/audio/unit02-my-family/vocab1.ogg"
+    "file": "/efl/materials/audio/unit02-my-family/vocab1.ogg"
   },
   {
     "label": "Text 1",
     "transcript": "*This is my family. My mother's name is Petra. She is a\nteacher. My brother's name is Theo. He is eleven. We have a\ncat. The cat's name is Pepper.*",
-    "file_withheld": "/efl/materials/audio/unit02-my-family/texte1.ogg"
+    "file": "/efl/materials/audio/unit02-my-family/texte1.ogg"
   },
   {
     "label": "Text 2",
     "transcript": "\"This is the Schmidt family. The mother's name is Petra. She is\na teacher. The father is Jan. He is a baker. They have two\nchildren: Lea and Tom. The dog's name is Rex.\"",
-    "file_withheld": "/efl/materials/audio/unit02-my-family/texte2.ogg"
+    "file": "/efl/materials/audio/unit02-my-family/texte2.ogg"
   }
 ]

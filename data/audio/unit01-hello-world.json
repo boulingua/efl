@@ -2,16 +2,16 @@
   {
     "label": "Vocabulary 1",
     "transcript": "Hello / Hi · Good morning · Goodbye / Bye · Please · Thank you · Nice to meet you · What's your name? · How old are you? · Where do you live?",
-    "file_withheld": "/efl/materials/audio/unit01-hello-world/vocab1.ogg"
+    "file": "/efl/materials/audio/unit01-hello-world/vocab1.ogg"
   },
   {
     "label": "Vocabulary 2",
     "transcript": "I · you · he / she / it · we / you / they",
-    "file_withheld": "/efl/materials/audio/unit01-hello-world/vocab2.ogg"
+    "file": "/efl/materials/audio/unit01-hello-world/vocab2.ogg"
   },
   {
     "label": "Text 1",
     "transcript": "\"Hello, what's your name?\"\\\n\"I'm Lina. What's yours?\"\\\n\"I'm Theo. How old are you, Lina?\"\\\n\"I'm ten. And you?\"\\\n\"I'm eleven. Where do you live?\"",
-    "file_withheld": "/efl/materials/audio/unit01-hello-world/texte1.ogg"
+    "file": "/efl/materials/audio/unit01-hello-world/texte1.ogg"
   }
 ]
