@@ -12,7 +12,7 @@
 #
 # All public_ids are registered to S. Le Boulanger via VG Wort
 # T.O.M. (one Zählmarke per work, never reused).
-
+# --- editorial prose pages registered 2026-07-22 ---
 - url: /appendices/common-errors/
   public_id: 00099581191e497bab13be8907d95a52
   pixel_url: https://vg09.met.vgwort.de/na/00099581191e497bab13be8907d95a52
@@ -76,13 +76,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: schedule.qmd
-- url: /track-e/kl05/
-  public_id: 00a66596a63a42f1beb56220bfd8d67a
-  pixel_url: https://vg09.met.vgwort.de/na/00a66596a63a42f1beb56220bfd8d67a
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_e_kl05/index.qmd
 - url: /track-e/kl05/schedule/
   public_id: 00abbea1be9849cbbb8c75674c0d2cbe
   pixel_url: https://vg09.met.vgwort.de/na/00abbea1be9849cbbb8c75674c0d2cbe
@@ -258,13 +251,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_e_kl05/units/unit12_review-and-show_exam.qmd
-- url: /track-e/kl06/
-  public_id: 0222dd1db3254a26801c796f9ea0644b
-  pixel_url: https://vg09.met.vgwort.de/na/0222dd1db3254a26801c796f9ea0644b
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_e_kl06/index.qmd
 - url: /track-e/kl06/schedule/
   public_id: 024d568c37054c799cf012d69066923d
   pixel_url: https://vg09.met.vgwort.de/na/024d568c37054c799cf012d69066923d
@@ -440,13 +426,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_e_kl06/units/unit12_year-end-festival_exam.qmd
-- url: /track-e/kl07/
-  public_id: 03eeb7fba1ae4497b51a4c1c9d52d94a
-  pixel_url: https://vg09.met.vgwort.de/na/03eeb7fba1ae4497b51a4c1c9d52d94a
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_e_kl07/index.qmd
 - url: /track-e/kl07/schedule/
   public_id: 03fae6f19b6f4e71840a3c89d544caf1
   pixel_url: https://vg09.met.vgwort.de/na/03fae6f19b6f4e71840a3c89d544caf1
@@ -622,13 +601,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_e_kl07/units/unit12_year-review-and-podcast_exam.qmd
-- url: /track-e/kl08/
-  public_id: 059d98000d514fee9edd2dae2a26c2a8
-  pixel_url: https://vg09.met.vgwort.de/na/059d98000d514fee9edd2dae2a26c2a8
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_e_kl08/index.qmd
 - url: /track-e/kl08/schedule/
   public_id: 05a2e6404faf44ca81eebdb863846867
   pixel_url: https://vg09.met.vgwort.de/na/05a2e6404faf44ca81eebdb863846867
@@ -804,13 +776,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_e_kl08/units/unit12_school-magazine-issue_exam.qmd
-- url: /track-e/kl09/
-  public_id: 076ec137517948178f15bad235ef084f
-  pixel_url: https://vg09.met.vgwort.de/na/076ec137517948178f15bad235ef084f
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_e_kl09/index.qmd
 - url: /track-e/kl09/schedule/
   public_id: 07791e58108a499888f4a8c440652a26
   pixel_url: https://vg09.met.vgwort.de/na/07791e58108a499888f4a8c440652a26
@@ -986,13 +951,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_e_kl09/units/unit12_year-review-portfolio_exam.qmd
-- url: /track-e/kl10/
-  public_id: 08fb07458c0943d799d95537a9f13f42
-  pixel_url: https://vg09.met.vgwort.de/na/08fb07458c0943d799d95537a9f13f42
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_e_kl10/index.qmd
 - url: /track-e/kl10/schedule/
   public_id: 08fc221574af428f96a1c00cbf34a9fe
   pixel_url: https://vg09.met.vgwort.de/na/08fc221574af428f96a1c00cbf34a9fe
@@ -1168,13 +1126,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_e_kl10/units/unit12_year-review-toward-oberstufe_exam.qmd
-- url: /track-e/kl11/
-  public_id: 0ad7c8fc2dde46aaacd8927bb0527e09
-  pixel_url: https://vg09.met.vgwort.de/na/0ad7c8fc2dde46aaacd8927bb0527e09
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_e_kl11/index.qmd
 - url: /track-e/kl11/schedule/
   public_id: 0ae3f9f5c3e6437dabb3efe3345df7af
   pixel_url: https://vg09.met.vgwort.de/na/0ae3f9f5c3e6437dabb3efe3345df7af
@@ -1350,13 +1301,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_e_kl11/units/unit12_klausur-prep-exam-rehearsal_exam.qmd
-- url: /track-e/kl12/
-  public_id: 0c9ed18d52c648e589dda7289acd2c69
-  pixel_url: https://vg09.met.vgwort.de/na/0c9ed18d52c648e589dda7289acd2c69
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_e_kl12/index.qmd
 - url: /track-e/kl12/schedule/
   public_id: 0cacd418d1464736b232b9dcb3d9ef54
   pixel_url: https://vg09.met.vgwort.de/na/0cacd418d1464736b232b9dcb3d9ef54
@@ -1532,13 +1476,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_e_kl12/units/unit12_klausur-composition-and-comment_exam.qmd
-- url: /track-e/kl13/
-  public_id: 0e40eeac17cd41b3aa6afa478e303cc3
-  pixel_url: https://vg09.met.vgwort.de/na/0e40eeac17cd41b3aa6afa478e303cc3
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_e_kl13/index.qmd
 - url: /track-e/kl13/schedule/
   public_id: 0e4bc3be5b0c410db9b3be96fefbea96
   pixel_url: https://vg09.met.vgwort.de/na/0e4bc3be5b0c410db9b3be96fefbea96
@@ -1714,13 +1651,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_e_kl13/units/unit12_year-review-and-handover_exam.qmd
-- url: /track-gm/kl05/
-  public_id: 1043529b55504b30b531a3f44f1f483f
-  pixel_url: https://vg09.met.vgwort.de/na/1043529b55504b30b531a3f44f1f483f
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_gm_kl05/index.qmd
 - url: /track-gm/kl05/schedule/
   public_id: 1053b8fbd294482c8678c1d53792319c
   pixel_url: https://vg09.met.vgwort.de/na/1053b8fbd294482c8678c1d53792319c
@@ -1896,13 +1826,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_gm_kl05/units/unit12_review-and-show_exam.qmd
-- url: /track-gm/kl06/
-  public_id: 11f6978acfd3425db61ef13b4fd01ded
-  pixel_url: https://vg09.met.vgwort.de/na/11f6978acfd3425db61ef13b4fd01ded
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_gm_kl06/index.qmd
 - url: /track-gm/kl06/schedule/
   public_id: 11f6fb20072e4b28aff54e4f9bc43bd6
   pixel_url: https://vg09.met.vgwort.de/na/11f6fb20072e4b28aff54e4f9bc43bd6
@@ -2078,13 +2001,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_gm_kl06/units/unit12_year-end-festival_exam.qmd
-- url: /track-gm/kl07/
-  public_id: 13ef6e89272f4d7c95b1b3b8e8ee8534
-  pixel_url: https://vg09.met.vgwort.de/na/13ef6e89272f4d7c95b1b3b8e8ee8534
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_gm_kl07/index.qmd
 - url: /track-gm/kl07/schedule/
   public_id: 13f6113e13824d7184cd67568c2f11c8
   pixel_url: https://vg09.met.vgwort.de/na/13f6113e13824d7184cd67568c2f11c8
@@ -2260,13 +2176,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_gm_kl07/units/unit12_year-review-and-podcast_exam.qmd
-- url: /track-gm/kl08/
-  public_id: 15e07ad41861429bb58f66ee88b751f9
-  pixel_url: https://vg09.met.vgwort.de/na/15e07ad41861429bb58f66ee88b751f9
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_gm_kl08/index.qmd
 - url: /track-gm/kl08/schedule/
   public_id: 15f068dbcbde47fe9e08ec677ce819b2
   pixel_url: https://vg09.met.vgwort.de/na/15f068dbcbde47fe9e08ec677ce819b2
@@ -2442,13 +2351,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_gm_kl08/units/unit12_school-magazine-issue_exam.qmd
-- url: /track-gm/kl09/
-  public_id: 17a7d36f3cfb4effacf605e8acf14ec7
-  pixel_url: https://vg09.met.vgwort.de/na/17a7d36f3cfb4effacf605e8acf14ec7
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_gm_kl09/index.qmd
 - url: /track-gm/kl09/schedule/
   public_id: 17bf14bd12d7452b8e7b5d596fa71dfd
   pixel_url: https://vg09.met.vgwort.de/na/17bf14bd12d7452b8e7b5d596fa71dfd
@@ -2624,13 +2526,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_gm_kl09/units/unit12_year-review-portfolio_exam.qmd
-- url: /track-gm/kl10/
-  public_id: 1952725598d84ee09878d25ca51f1701
-  pixel_url: https://vg09.met.vgwort.de/na/1952725598d84ee09878d25ca51f1701
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-04-30'
-  qmd_path: track_gm_kl10/index.qmd
 - url: /track-gm/kl10/schedule/
   public_id: 195f5e649de24016a75dd8190c69233f
   pixel_url: https://vg09.met.vgwort.de/na/195f5e649de24016a75dd8190c69233f
@@ -2806,19 +2701,6 @@
   author: S. Le Boulanger
   registered_at: '2026-04-30'
   qmd_path: track_gm_kl10/units/unit12_year-review-graduation_exam.qmd
-# --- editorial prose pages registered 2026-07-22 ---
-- url: /about/
-  public_id: 1bfa32f4f472497c9d00e33805d27b97
-  pixel_url: https://vg09.met.vgwort.de/na/1bfa32f4f472497c9d00e33805d27b97
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-07-22'
-- url: /about/courses/
-  public_id: 1c1dd2ace2e54ab6aee391722b8897d1
-  pixel_url: https://vg09.met.vgwort.de/na/1c1dd2ace2e54ab6aee391722b8897d1
-  min_chars: 1800
-  author: S. Le Boulanger
-  registered_at: '2026-07-22'
 - url: /acknowledgements/
   public_id: 1c2ab335257c4ac49fa98b46e8412b8f
   pixel_url: https://vg09.met.vgwort.de/na/1c2ab335257c4ac49fa98b46e8412b8f
