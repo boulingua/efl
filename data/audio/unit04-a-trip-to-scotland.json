@@ -12,12 +12,14 @@
   {
     "label": "Vocabulary 1",
     "transcript": "eat · see · take · fly · go · have · start · arrive",
-    "file": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab1.ogg"
+    "file": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab1.ogg",
+    "tts": "eat.\nsee.\ntake.\nfly.\ngo.\nhave.\nstart.\narrive."
   },
   {
     "label": "Vocabulary 2",
     "transcript": "platform · connection · return / single (BrE) · Highlands · Lowlands · loch · firth",
-    "file": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab2.ogg"
+    "file": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab2.ogg",
+    "tts": "platform.\nconnection.\nreturn / single (BrE).\nHighlands.\nLowlands.\nloch.\nfirth."
   },
   {
     "label": "Text 3",
@@ -32,6 +34,7 @@
   {
     "label": "Vocabulary 3",
     "transcript": "56–60 · 49–55 · 40–48 · 30–39 · 18–29 · 0–17",
-    "file": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab3.ogg"
+    "file": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab3.ogg",
+    "tts": "56–60.\n49–55.\n40–48.\n30–39.\n18–29.\n0–17."
   }
 ]

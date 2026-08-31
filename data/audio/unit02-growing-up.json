@@ -7,12 +7,14 @@
   {
     "label": "Vocabulary 1",
     "transcript": "short (1 syll.) · ending -y · 2+ syll. · irregular",
-    "file": "/efl/materials/audio/unit02-growing-up/vocab1.ogg"
+    "file": "/efl/materials/audio/unit02-growing-up/vocab1.ogg",
+    "tts": "short (1 syll.).\nending -y.\n2+ syll..\nirregular."
   },
   {
     "label": "Vocabulary 2",
     "transcript": "1. Ben used to fit his old jacket. · 2. The sleeves used to cover his hands. · 3. Ben's bedroom used to be full of toys. · 4. Aisha used to wear small shoes.",
-    "file": "/efl/materials/audio/unit02-growing-up/vocab2.ogg"
+    "file": "/efl/materials/audio/unit02-growing-up/vocab2.ogg",
+    "tts": "1. Ben used to fit his old jacket..\n2. The sleeves used to cover his hands..\n3. Ben's bedroom used to be full of toys..\n4. Aisha used to wear small shoes.."
   },
   {
     "label": "Text 2",
@@ -32,6 +34,7 @@
   {
     "label": "Vocabulary 3",
     "transcript": "56–60 · 49–55 · 40–48 · 30–39 · 18–29 · 0–17",
-    "file": "/efl/materials/audio/unit02-growing-up/vocab3.ogg"
+    "file": "/efl/materials/audio/unit02-growing-up/vocab3.ogg",
+    "tts": "56–60.\n49–55.\n40–48.\n30–39.\n18–29.\n0–17."
   }
 ]

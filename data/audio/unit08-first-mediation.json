@@ -12,7 +12,8 @@
   {
     "label": "Vocabulary 1",
     "transcript": "sagen · erklären · erwähnen · empfehlen / raten · fragen · bitten · antworten",
-    "file": "/efl/materials/audio/unit08-first-mediation/vocab1.ogg"
+    "file": "/efl/materials/audio/unit08-first-mediation/vocab1.ogg",
+    "tts": "sagen.\nerklären.\nerwähnen.\nempfehlen / raten.\nfragen.\nbitten.\nantworten."
   },
   {
     "label": "Text 3",

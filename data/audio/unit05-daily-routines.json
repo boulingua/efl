@@ -2,7 +2,8 @@
   {
     "label": "Vocabulary 1",
     "transcript": "I · you · he · she · it · we · they",
-    "file": "/efl/materials/audio/unit05-daily-routines/vocab1.ogg"
+    "file": "/efl/materials/audio/unit05-daily-routines/vocab1.ogg",
+    "tts": "I.\nyou.\nhe.\nshe.\nit.\nwe.\nthey."
   },
   {
     "label": "Text 1",

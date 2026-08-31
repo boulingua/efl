@@ -7,7 +7,8 @@
   {
     "label": "Vocabulary 1",
     "transcript": "oceans, seas, rivers (the Atlantic, the Mississippi) · mountain ranges (the Alps, the Rockies) · named regions (the Midwest, the South, the Highlands) · named buildings (the White House)",
-    "file": "/efl/materials/audio/unit05-the-united-states-today/vocab1.ogg"
+    "file": "/efl/materials/audio/unit05-the-united-states-today/vocab1.ogg",
+    "tts": "oceans, seas, rivers (the Atlantic, the Mississippi).\nmountain ranges (the Alps, the Rockies).\nnamed regions (the Midwest, the South, the Highlands).\nnamed buildings (the White House)."
   },
   {
     "label": "Text 2",
@@ -27,6 +28,7 @@
   {
     "label": "Vocabulary 2",
     "transcript": "56–60 · 49–55 · 40–48 · 30–39 · 18–29 · 0–17",
-    "file": "/efl/materials/audio/unit05-the-united-states-today/vocab2.ogg"
+    "file": "/efl/materials/audio/unit05-the-united-states-today/vocab2.ogg",
+    "tts": "56–60.\n49–55.\n40–48.\n30–39.\n18–29.\n0–17."
   }
 ]
