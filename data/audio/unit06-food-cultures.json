@@ -7,17 +7,20 @@
   {
     "label": "Vocabulary 1",
     "transcript": "to chop · to slice · to peel · to boil · to fry · to bake · to season · to taste · to stir · to serve",
-    "file": "/efl/materials/audio/unit06-food-cultures/vocab1.ogg"
+    "file": "/efl/materials/audio/unit06-food-cultures/vocab1.ogg",
+    "tts": "to chop.\nto slice.\nto peel.\nto boil.\nto fry.\nto bake.\nto season.\nto taste.\nto stir.\nto serve."
   },
   {
     "label": "Vocabulary 2",
     "transcript": "some · any · many · much · a few · a little · a lot of / lots of",
-    "file": "/efl/materials/audio/unit06-food-cultures/vocab2.ogg"
+    "file": "/efl/materials/audio/unit06-food-cultures/vocab2.ogg",
+    "tts": "some.\nany.\nmany.\nmuch.\na few.\na little.\na lot of / lots of."
   },
   {
     "label": "Vocabulary 3",
     "transcript": "1. to chop · 2. to bake · 3. to fry · 4. to boil",
-    "file": "/efl/materials/audio/unit06-food-cultures/vocab3.ogg"
+    "file": "/efl/materials/audio/unit06-food-cultures/vocab3.ogg",
+    "tts": "1. to chop.\n2. to bake.\n3. to fry.\n4. to boil."
   },
   {
     "label": "Text 2",
@@ -32,6 +35,7 @@
   {
     "label": "Vocabulary 4",
     "transcript": "56–60 · 49–55 · 40–48 · 30–39 · 18–29 · 0–17",
-    "file": "/efl/materials/audio/unit06-food-cultures/vocab4.ogg"
+    "file": "/efl/materials/audio/unit06-food-cultures/vocab4.ogg",
+    "tts": "56–60.\n49–55.\n40–48.\n30–39.\n18–29.\n0–17."
   }
 ]

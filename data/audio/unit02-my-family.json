@@ -2,7 +2,8 @@
   {
     "label": "Vocabulary 1",
     "transcript": "mother / mum · father / dad · sister · brother · grandmother / grandma · grandfather / grandpa · aunt · uncle · cousin · parents",
-    "file": "/efl/materials/audio/unit02-my-family/vocab1.ogg"
+    "file": "/efl/materials/audio/unit02-my-family/vocab1.ogg",
+    "tts": "mother / mum.\nfather / dad.\nsister.\nbrother.\ngrandmother / grandma.\ngrandfather / grandpa.\naunt.\nuncle.\ncousin.\nparents."
   },
   {
     "label": "Text 1",

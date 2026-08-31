@@ -22,6 +22,7 @@
   {
     "label": "Vocabulary 1",
     "transcript": "56–60 · 49–55 · 40–48 · 30–39 · 18–29 · 0–17",
-    "file": "/efl/materials/audio/unit01-first-day-back/vocab1.ogg"
+    "file": "/efl/materials/audio/unit01-first-day-back/vocab1.ogg",
+    "tts": "56–60.\n49–55.\n40–48.\n30–39.\n18–29.\n0–17."
   }
 ]

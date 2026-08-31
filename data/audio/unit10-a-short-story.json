@@ -7,12 +7,14 @@
   {
     "label": "Vocabulary 1",
     "transcript": "quiet · slow · happy · easy · good · fast",
-    "file": "/efl/materials/audio/unit10-a-short-story/vocab1.ogg"
+    "file": "/efl/materials/audio/unit10-a-short-story/vocab1.ogg",
+    "tts": "quiet.\nslow.\nhappy.\neasy.\ngood.\nfast."
   },
   {
     "label": "Vocabulary 2",
     "transcript": "setting · character · plot · mood · technique",
-    "file": "/efl/materials/audio/unit10-a-short-story/vocab2.ogg"
+    "file": "/efl/materials/audio/unit10-a-short-story/vocab2.ogg",
+    "tts": "setting.\ncharacter.\nplot.\nmood.\ntechnique."
   },
   {
     "label": "Text 2",

@@ -7,7 +7,8 @@
   {
     "label": "Vocabulary 1",
     "transcript": "must · mustn't · should · shouldn't · can · can't · have to",
-    "file": "/efl/materials/audio/unit09-school-rules-and-rights/vocab1.ogg"
+    "file": "/efl/materials/audio/unit09-school-rules-and-rights/vocab1.ogg",
+    "tts": "must.\nmustn't.\nshould.\nshouldn't.\ncan.\ncan't.\nhave to."
   },
   {
     "label": "Text 2",

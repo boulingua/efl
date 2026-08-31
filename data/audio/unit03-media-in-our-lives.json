@@ -7,12 +7,14 @@
   {
     "label": "Vocabulary 1",
     "transcript": "screen time · notification · feed · message · stream · story · news",
-    "file": "/efl/materials/audio/unit03-media-in-our-lives/vocab1.ogg"
+    "file": "/efl/materials/audio/unit03-media-in-our-lives/vocab1.ogg",
+    "tts": "screen time.\nnotification.\nfeed.\nmessage.\nstream.\nstory.\nnews."
   },
   {
     "label": "Vocabulary 2",
     "transcript": "1. to scroll · 2. to swipe · 3. to post · 4. to send",
-    "file": "/efl/materials/audio/unit03-media-in-our-lives/vocab2.ogg"
+    "file": "/efl/materials/audio/unit03-media-in-our-lives/vocab2.ogg",
+    "tts": "1. to scroll.\n2. to swipe.\n3. to post.\n4. to send."
   },
   {
     "label": "Text 2",
@@ -32,6 +34,7 @@
   {
     "label": "Vocabulary 3",
     "transcript": "56–60 · 49–55 · 40–48 · 30–39 · 18–29 · 0–17",
-    "file": "/efl/materials/audio/unit03-media-in-our-lives/vocab3.ogg"
+    "file": "/efl/materials/audio/unit03-media-in-our-lives/vocab3.ogg",
+    "tts": "56–60.\n49–55.\n40–48.\n30–39.\n18–29.\n0–17."
   }
 ]
