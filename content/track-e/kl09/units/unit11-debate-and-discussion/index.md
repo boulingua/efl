@@ -41,6 +41,7 @@ curriculum:
     - A2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl09_unit11-debate-and-discussion
 ---
 
 {{< callout type="note" >}}

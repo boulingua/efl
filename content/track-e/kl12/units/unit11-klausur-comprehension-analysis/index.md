@@ -41,6 +41,7 @@ curriculum:
     - B2.INT.correspondence.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl12_unit11-klausur-comprehension-analysis
 ---
 
 {{< callout type="note" >}}

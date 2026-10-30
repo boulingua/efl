@@ -41,6 +41,7 @@ curriculum:
     - B2.REC.reading-for-orientation.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl12_unit07-mediation-academic-text
 ---
 
 {{< callout type="note" >}}

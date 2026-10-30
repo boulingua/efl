@@ -41,6 +41,7 @@ curriculum:
     - A2.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl09_unit12-year-review-portfolio
 ---
 
 {{< callout type="note" >}}

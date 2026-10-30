@@ -42,6 +42,7 @@ curriculum:
     - B2.MED.managing-interaction.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl11_unit04-short-stories-and-style
 ---
 
 {{< callout type="note" >}}

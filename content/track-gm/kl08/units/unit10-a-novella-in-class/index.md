@@ -42,6 +42,7 @@ curriculum:
     - A2.MED.acting-as-an-intermediary-in-informal-situations.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl08_unit10-a-novella-in-class
 ---
 
 {{< callout type="note" >}}

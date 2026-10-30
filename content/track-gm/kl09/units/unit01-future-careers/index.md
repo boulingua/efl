@@ -42,6 +42,7 @@ curriculum:
     - A2.MED.expressing-a-personal-response-to-creative-texts.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl09_unit01-future-careers
 ---
 
 {{< callout type="note" >}}

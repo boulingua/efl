@@ -41,6 +41,7 @@ curriculum:
     - B2.INT.correspondence.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl11_unit07-mediation-as-a-skill
 ---
 
 {{< callout type="note" >}}

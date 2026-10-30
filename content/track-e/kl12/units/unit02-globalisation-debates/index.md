@@ -42,6 +42,7 @@ curriculum:
     - B2.REC.reading-as-a-leisure-activity.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl12_unit02-globalisation-debates
 ---
 
 {{< callout type="note" >}}

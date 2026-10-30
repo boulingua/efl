@@ -41,6 +41,7 @@ curriculum:
     - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl13_unit11-issue-framed-debate
 ---
 
 {{< callout type="note" >}}

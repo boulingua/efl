@@ -42,6 +42,7 @@ curriculum:
     - B2.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl13_unit01-globalisation-and-the-self
 ---
 
 {{< callout type="note" >}}

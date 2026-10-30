@@ -42,6 +42,7 @@ curriculum:
     - A2.MED.overall-mediation.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl07_unit02-growing-up
 ---
 
 {{< callout type="note" >}}

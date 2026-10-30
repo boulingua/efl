@@ -42,6 +42,7 @@ curriculum:
     - A2.MED.analysis-and-criticism-of-creative-texts.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl08_unit04-ireland-stories
 ---
 
 {{< callout type="note" >}}

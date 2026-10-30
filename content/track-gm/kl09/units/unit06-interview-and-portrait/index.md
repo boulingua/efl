@@ -41,6 +41,7 @@ curriculum:
     - A2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl09_unit06-interview-and-portrait
 ---
 
 {{< callout type="note" >}}

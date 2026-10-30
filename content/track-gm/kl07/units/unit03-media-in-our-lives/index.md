@@ -43,6 +43,7 @@ curriculum:
     - A2.MED.processing-text.07
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl07_unit03-media-in-our-lives
 ---
 
 {{< callout type="note" >}}

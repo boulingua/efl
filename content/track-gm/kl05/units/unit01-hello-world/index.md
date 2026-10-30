@@ -41,6 +41,7 @@ curriculum:
     - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl05_unit01-hello-world
 ---
 
 {{< callout type="note" >}}

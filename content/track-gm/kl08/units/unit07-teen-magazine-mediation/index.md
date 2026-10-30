@@ -41,6 +41,7 @@ curriculum:
     - A2.INT.correspondence.05
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl08_unit07-teen-magazine-mediation
 ---
 
 {{< callout type="note" >}}

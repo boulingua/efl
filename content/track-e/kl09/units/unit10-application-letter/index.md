@@ -41,6 +41,7 @@ curriculum:
     - A2.INT.correspondence.04
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl09_unit10-application-letter
 ---
 
 {{< callout type="note" >}}

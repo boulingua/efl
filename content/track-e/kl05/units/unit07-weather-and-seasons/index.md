@@ -41,6 +41,7 @@ curriculum:
     - A1.INT.online-conversation-and-discussion.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl05_unit07-weather-and-seasons
 ---
 
 {{< callout type="note" >}}

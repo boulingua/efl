@@ -42,6 +42,7 @@ curriculum:
     - A2.LING.general-linguistic-range.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl09_unit05-media-literacy
 ---
 
 {{< callout type="note" >}}

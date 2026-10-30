@@ -38,6 +38,7 @@ curriculum:
     - B2.PRAG.coherence-and-cohesion.04
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl13_unit07-the-abitur-essay
 ---
 
 {{< callout type="note" >}}

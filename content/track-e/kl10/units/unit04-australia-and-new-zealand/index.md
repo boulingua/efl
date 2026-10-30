@@ -42,6 +42,7 @@ curriculum:
     - B1.MED.analysis-and-criticism-of-creative-texts.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl10_unit04-australia-and-new-zealand
 ---
 
 {{< callout type="note" >}}

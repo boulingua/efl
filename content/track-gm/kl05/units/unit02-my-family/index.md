@@ -41,6 +41,7 @@ curriculum:
     - A1.MED.encouraging-conceptual-talk.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl05_unit02-my-family
 ---
 
 {{< callout type="note" >}}

@@ -41,6 +41,7 @@ curriculum:
     - B1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl10_unit11-a-short-novel
 ---
 
 {{< callout type="note" >}}

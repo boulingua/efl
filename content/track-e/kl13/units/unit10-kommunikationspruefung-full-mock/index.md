@@ -41,6 +41,7 @@ curriculum:
     - B2.MED.managing-interaction.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl13_unit10-kommunikationspruefung-full-mock
 ---
 
 {{< callout type="note" >}}

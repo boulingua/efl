@@ -42,6 +42,7 @@ curriculum:
     - A2.MED.translating-a-written-text.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl07_unit12-year-review-and-podcast
 ---
 
 {{< callout type="note" >}}

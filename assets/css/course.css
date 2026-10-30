@@ -16,29 +16,19 @@
 :root {
   /* Topic palette (light mode). Keys mirror data/topics.yml ids. All
      pass WCAG AA on Coder's light surface. */
-  --topic-themen:        #7C9885;   /* sage   */
-  --topic-interkulturell:#9B7EBD;   /* violet */
-  --topic-text-medien:   #D4A373;   /* sand   */
 
   /* Surfaces + borders for the network UI. Backgrounds are alpha-
      blended so they sit OVER the page background without occluding
      graph nodes underneath; the same rule renders cleanly in light
      and dark mode because the alpha is on top of whatever Coder's
      body bg is. Hue is reserved for topics. */
-  --network-surface:        rgba(0, 0, 0, 0.04);
-  --network-surface-elev:   rgba(0, 0, 0, 0.07);
-  --network-border-subtle:  rgba(0, 0, 0, 0.08);
-  --network-border-strong:  rgba(0, 0, 0, 0.18);
-  --network-text-meta:      rgba(0, 0, 0, 0.55);
 
   /* Highlight + dim. Highlight is warm gold so it stands apart from
      every topic colour. Dim is opacity, not a new colour, so the
      filtered-out node keeps its identity. */
-  --network-highlight: #E8C547;
   --network-dim:       0.12;
 
   /* Edge ink. Inherits foreground via currentColor at component level. */
-  --network-edge-structural: rgba(0, 0, 0, 0.30);
   --network-edge-shared-tag: 0.20;   /* multiplier on topic colour    */
 
   /* Typography scale (matches site loaded fonts). */
@@ -46,8 +36,8 @@
   --network-font-mono:  "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
 
   --network-text-label:    13px;     /* node hover label              */
-  --network-text-meta-sm:  11px;     /* counts, metadata, small text  */
-  --network-text-card:     15px;     /* card title                    */
+  --network-text-meta-sm:  12px;     /* counts, metadata, small text  */
+  --network-text-card:     16px;     /* card title                    */
 
   /* Motion. Calm and short — research tool, not a game. */
   --network-ease:        cubic-bezier(0.2, 0.0, 0.2, 1);
@@ -62,8 +52,6 @@
   --network-graph-h-min: 480px;
 
   /* Signature accent (English) — flag-safe; drives links, borders, badges. */
-  --boulingua-accent:       #248D19;
-  --boulingua-accent-hover: #1A6612;
 }
 
 /* Dark-mode tokens.
@@ -78,25 +66,11 @@
 body.colorscheme-dark,
 html.colorscheme-dark,
 [data-theme="dark"] {
-  --topic-themen:        #A4C3B2;
-  --topic-interkulturell:#B8A1D9;
-  --topic-text-medien:   #E5B98F;
 
   /* Same alpha trick — slightly stronger so the panels register
      against Coder's dark background. Still translucent: graph nodes
      remain visible through the rail and through the search bar's
      overflow area. */
-  --network-surface:        rgba(255, 255, 255, 0.05);
-  --network-surface-elev:   rgba(255, 255, 255, 0.08);
-  --network-border-subtle:  rgba(255, 255, 255, 0.10);
-  --network-border-strong:  rgba(255, 255, 255, 0.22);
-  --network-text-meta:      rgba(255, 255, 255, 0.62);
-
-  --network-highlight: #F0D060;
-  --network-edge-structural: rgba(255, 255, 255, 0.30);
-
-  --boulingua-accent:       #89E77E;
-  --boulingua-accent-hover: #B0EFA9;
 }
 
 /* ---------------------------------------------------------------- *
@@ -156,7 +130,7 @@ html.colorscheme-dark,
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  font: 500 0.875rem/1 var(--network-font-ui);
+  font: 500 1.4rem/1 var(--network-font-ui);
   padding: 0.4rem 0.7rem;
   border: 1px solid var(--network-border-subtle);
   border-radius: 999px;
@@ -173,7 +147,7 @@ html.colorscheme-dark,
 .network-chip[aria-pressed="true"] {
   background: var(--network-highlight);
   border-color: var(--network-highlight);
-  color: #1C1F26;
+  color: var(--boulingua-badge-contrast-ink);
 }
 
 .network-chip .count {
@@ -203,7 +177,7 @@ html.colorscheme-dark,
 }
 
 .network-status button {
-  font: 500 0.875rem/1 var(--network-font-ui);
+  font: 500 1.4rem/1 var(--network-font-ui);
   padding: 0.4rem 0.8rem;
   border: 1px solid var(--network-border-subtle);
   border-radius: 4px;
@@ -277,7 +251,7 @@ html.colorscheme-dark,
 .network-card-types {
   display: flex;
   gap: 0.5rem;
-  font: 500 0.85rem/1 var(--network-font-ui);
+  font: 500 1.36rem/1 var(--network-font-ui);
   color: var(--network-text-meta);
 }
 
@@ -302,7 +276,7 @@ html.colorscheme-dark,
   padding: 0.4rem 0.6rem;
   min-width: 160px;
   max-width: 280px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  box-shadow:var(--boulingua-elev-1);
   opacity: 0;
   transition: opacity var(--network-dur-fast) var(--network-ease);
 }
@@ -352,18 +326,18 @@ html.colorscheme-dark,
 
 .byline {
   margin: 0 0 1.5rem;
-  font-size: 0.9rem;
-  color: var(--network-text-meta, rgba(0, 0, 0, 0.55));
+  font-size: 1.44rem;
+  color: var(--network-text-meta);
   font-style: italic;
 }
 
 .byline-prefix {
-  color: var(--network-text-meta, rgba(0, 0, 0, 0.55));
+  color: var(--network-text-meta);
   margin-inline-end: 0.25rem;
   font-style: normal;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  font-size: 0.78rem;
+  font-size: 1.248rem;
 }
 
 /* ----- Course overview table ----- */
@@ -372,7 +346,7 @@ html.colorscheme-dark,
   width: 100%;
   margin: 1.5rem 0;
   border-collapse: collapse;
-  font-size: 0.95rem;
+  font-size: 1.52rem;
 }
 
 .course-overview-table caption {
@@ -393,7 +367,7 @@ html.colorscheme-dark,
 
 .course-overview-table th {
   font-weight: 600;
-  font-size: 0.85rem;
+  font-size: 1.36rem;
   text-transform: uppercase;
   letter-spacing: 0.04em;
   color: var(--network-text-meta);
@@ -419,7 +393,7 @@ html.colorscheme-dark,
 /* ----- Header social icons (top-right) ----- */
 
 .navigation-item--social .navigation-link {
-  font-size: 1.05rem;
+  font-size: 1.68rem;
   padding-inline-start: 0.5rem;
   padding-inline-end: 0.5rem;
 }
@@ -447,7 +421,7 @@ html.colorscheme-dark,
 
 .article-downloads h2 {
   margin: 0 0 1rem;
-  font-size: 1.2rem;
+  font-size: 1.92rem;
 }
 
 .material-links {
@@ -466,7 +440,7 @@ html.colorscheme-dark,
 
 .material-card-title {
   font-weight: 600;
-  font-size: 1rem;
+  font-size: 1.6rem;
 }
 
 .material-card .download-btn {
@@ -475,7 +449,7 @@ html.colorscheme-dark,
   padding: 0.5rem 0.75rem;
   border: 1px solid var(--network-border-strong);
   border-radius: 4px;
-  font-size: 0.9rem;
+  font-size: 1.44rem;
   text-decoration: none;
   color: inherit;
   transition: background var(--network-dur-fast, 120ms) ease-out;
@@ -502,26 +476,26 @@ html.colorscheme-dark,
   gap: 1rem;
   margin: 1.5rem 0;
   padding: 1rem;
-  background: rgba(0, 0, 0, 0.03);
+  background: var(--boulingua-surface);
   border-radius: 6px;
 }
 
 #materials-search {
   flex: 1 1 220px;
   padding: 0.5rem 0.75rem;
-  font-size: 1rem;
-  border: 1px solid rgba(0, 0, 0, 0.2);
+  font-size: 1.6rem;
+  border: 1px solid var(--boulingua-border);
   border-radius: 4px;
 }
 
 .materials-tags {
-  border: 1px solid rgba(0, 0, 0, 0.15);
+  border: 1px solid var(--boulingua-border);
   border-radius: 4px;
   padding: 0.4rem 0.75rem;
 }
 
 .materials-tags legend {
-  font-size: 0.85rem;
+  font-size: 1.36rem;
   font-weight: 600;
   padding: 0 0.25rem;
 }
@@ -529,7 +503,7 @@ html.colorscheme-dark,
 .materials-tags label {
   display: inline-block;
   margin-inline-end: 0.6rem;
-  font-size: 0.9rem;
+  font-size: 1.44rem;
   cursor: pointer;
 }
 
@@ -569,14 +543,14 @@ html.colorscheme-dark,
 
 .material-title {
   margin: 0 0 0.25rem;
-  font-size: 1rem;
+  font-size: 1.6rem;
   line-height: 1.3;
   color: inherit;
 }
 
 .material-sub {
   margin: 0 0 0.5rem;
-  font-size: 0.85rem;
+  font-size: 1.36rem;
   color: var(--network-text-meta);
 }
 
@@ -590,7 +564,7 @@ html.colorscheme-dark,
 }
 
 .material-tags li {
-  font-size: 0.75rem;
+  font-size: 1.2rem;
   padding: 0.1rem 0.45rem;
   border-radius: 999px;
   background: var(--network-border-subtle);
@@ -602,7 +576,7 @@ html.colorscheme-dark,
   text-align: center;
   padding: 0.5rem;
   border-top: 1px solid var(--network-border-subtle);
-  font-size: 0.9rem;
+  font-size: 1.44rem;
   font-weight: 600;
   text-decoration: none;
   color: inherit;
@@ -624,7 +598,7 @@ html.colorscheme-dark,
 
 .kicker {
   display: inline-block;
-  font-size: 0.85rem;
+  font-size: 1.36rem;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: var(--network-text-meta);
@@ -664,3 +638,38 @@ body.colorscheme-dark .colorscheme-toggle .cs-icon--moon { display: none; }
 
 /* ── Audio ("Listen") section ────────────────────── */
 .audio-section { margin: 2.5rem 0 1.5rem; }
+
+.network-fallback { position: static; width: auto; height: auto; clip-path: none; overflow: visible; }
+.network-more { grid-column: 1 / -1; list-style: none; }
+/* The course wraps the shared network components in an article. */
+.container.network-page { display: block; }
+.network-page article, .network-search input, .network-shell, .network-rail { min-width: 0; }
+.network-shell { grid-template-columns: minmax(0, 280px) minmax(0, 1fr); }
+.network-card-header { flex-wrap: wrap; }
+.network-fallback { position: static!important; clip: auto; white-space: normal; margin: 2rem 0; }
+@media (max-width: 767px) {
+  .network-shell { grid-template-columns: minmax(0, 1fr); }
+  .network-rail { flex-direction: column; overflow: visible; }
+}
+
+/* Text on the tinted cards uses the darker accessible accent. */
+.network-card-title a{color:var(--boulingua-accent-hover)}
+.network-card-tags li{color:var(--boulingua-fg);font-size:1.92rem}
+/* This page uses its own two-column shell, not the kit's named grid areas. */
+.network-shell>.network-rail,.network-shell>.network-graph{grid-area:auto}
+.network-shell>.network-rail{height:auto;max-height:60vh;overflow-y:auto;flex-direction:column}
+@media(max-width:767px){.network-shell>.network-rail{max-height:none;overflow:visible}}
+
+.container.network-page{margin-inline:auto}
+.network-chip{min-height:3.2rem}
+.network-graph>button{margin:1.5rem;padding:.8rem 1.2rem;font:inherit;cursor:pointer}
+
+body{
+ --topic-themen:var(--boulingua-topic-alltag);--topic-interkulturell:var(--boulingua-topic-gesellschaft);--topic-text-medien:var(--boulingua-topic-arbeit);
+ --network-surface:var(--boulingua-surface);--network-surface-elev:var(--boulingua-network-rail-bg);
+ --network-border-subtle:var(--boulingua-border);--network-border-strong:var(--boulingua-fg-muted);
+ --network-text-meta:var(--boulingua-fg);--network-highlight:var(--boulingua-network-highlight);
+ --network-edge-structural:var(--boulingua-fg-muted);
+}
+
+.network-card-tags code { font: inherit; background: transparent; padding: 0; }

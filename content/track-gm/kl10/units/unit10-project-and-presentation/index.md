@@ -41,6 +41,7 @@ curriculum:
     - B1.MED.overall-mediation.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl10_unit10-project-and-presentation
 ---
 
 {{< callout type="note" >}}

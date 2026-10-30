@@ -41,6 +41,7 @@ curriculum:
     - B2.MED.linking-to-previous-knowledge.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl12_unit10-kommunikationspruefung-mock
 ---
 
 {{< callout type="note" >}}

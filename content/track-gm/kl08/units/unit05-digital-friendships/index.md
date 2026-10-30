@@ -42,6 +42,7 @@ curriculum:
     - A2.INT.using-telecommunications.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl08_unit05-digital-friendships
 ---
 
 {{< callout type="note" >}}

@@ -1,96 +1,78 @@
-# EFL
+# English as a Foreign Language
 
-<img src="brand/icon.png" alt="English icon" width="64" align="right">
+<img src="brand/icon.png" alt="English as a Foreign Language" width="64" align="right">
 
-A two-track English curriculum for comprehensive school —
-**Track G+M (Grades 5–10)** for Hauptschul-/Realschulabschluss and
-**Track E (Grades 5–13)** through Abitur. Fifteen courses, twelve
-Units each, one source per Unit rendering both an HTML article and
-a Reveal.js slide deck, plus a worked Klassenarbeit (Kl. 5–10) or
-Abitur-Aufgabe (Kl. 11–13). Authored by **S. Le Boulanger**.
+Open teaching materials by **S. Le Boulanger**, part of
+[Boulingua](https://boulingua.github.io/website/).
 
-Live site: <https://boulingua.github.io/efl/> (after first deploy).
+180 units and 180 examination pages across 15 courses: Track G+M in grades 5–10 and Track E in grades 5–13.
 
-## Status
+The site uses Hugo and the shared `kit` module. Units are Markdown leaf bundles
+under `content/`; downloadable materials and recordings are committed under
+`static/materials/`. There are 360 committed PDF downloads. Compilation and
+file counts do not establish educational review or curriculum conformance.
 
-All seven build phases complete. **180 Units** across **15 courses**.
-See `HANDOVER.md` for follow-up author tasks (worksheet PDFs,
-Impressum + Datenschutz fill-in, deeper Bildungsplan alignment).
+## Try the current development version
 
-| Phase | Goal | State |
-|-------|------|-------|
-| 0 — Preflight | curriculum framework ("Bildungsplan") chapter codes from bildungsplaene-bw.de | **complete** |
-| 1 — Scaffold | deployable empty shell | **complete** |
-| 2 — Outline | 15×12 Unit map | **complete** |
-| 3 — Prototype | Track G+M Klasse 7 end-to-end | **complete** |
-| 4 — Fan-out | remaining 14 courses | **complete** |
-| 5 — Polish | glossary anchors, schedule, coverage matrix, skills tree | **complete** |
-| 6 — Handover | HANDOVER.md | **complete** |
+Prerequisites: Hugo **extended 0.159.2**, Go **1.26.1**, Python **3.12** and Node
+**22**. Keep the matching `kit`, `curriculum` and `.github` checkouts beside this
+repository. The 30 October refinement is a coordinated local release candidate;
+its changes have not yet been published as a compatible release set.
 
-## Local build
+From this repository:
 
-```bash
-pip install pyyaml pandas reportlab pypdf
-python _scripts/make_placeholder_worksheets.py     # placeholder PDFs (no-op pre-Phase-2)
-quarto render
+```sh
+python3.12 -m venv .venv
+. .venv/bin/activate
+pip install -r ../kit/requirements.txt
+npm ci --prefix ../kit
+npm ci
+go work init ../kit
+export HUGO_MODULE_WORKSPACE="$PWD/go.work"
+python ../kit/bin/kit build .
+mkdir -p build/preview
+ln -s "$PWD/public" build/preview/efl
+python -m http.server 1317 --bind 127.0.0.1 --directory build/preview
 ```
 
-The CI workflow at `.github/workflows/publish.yml` runs the same
-sequence and deploys the `docs/` output to GitHub Pages.
+Open `http://127.0.0.1:1317/efl/`. For an interactive preview, use `hugo server --bind 127.0.0.1` after the build
+and open the address Hugo prints. The production-style build includes the
+Pagefind search index and material-discovery data. A plain root HTTP server
+needs the `/efl/` URL prefix; see kit's preview instructions for that layout.
 
-## Layout
+Run the release checks with the same checkouts:
 
-- `index.qmd`, `about.qmd`, `bildungsplan.qmd`, `schedule.qmd`,
-  `impressum.qmd`, `datenschutz.qmd` — top-level pages.
-- `appendices/` — teaching workflow, skills tree, glossary,
-  common errors, writing rubrics.
-- `track_gm_kl05/` … `track_gm_kl10/` — six Track G+M courses.
-- `track_e_kl05/` … `track_e_kl13/` — nine Track E courses.
-- `assets/` — Lucide icons, generic SVG meme placeholders,
-  `slides.scss` for Reveal.js.
-- `_includes/_exam.tex` — shared LaTeX header (PDF metadata +
-  watermark + footer attribution).
-- `_extensions/downloads/` — `{{< downloads >}}` Lua shortcode.
-- `_resources/` — Bildungsplan YAMLs, curriculum outline,
-  generation log.
-- `_scripts/` — placeholder-PDF generator, attribution helper,
-  download organiser.
-
-## Licence
-
-- Teaching content (prose): **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** (see `LICENSE`).
-- Code and site scaffolding: **[MIT](LICENSE-CODE.md)**.
-
-## Citation
-
-If you use these materials, please cite the site rather than
-individual pages. See the
-[References](https://boulingua.github.io/efl/references.html#citing-this-course)
-page for APA + BibTeX. Short form:
-
-```bibtex
-@misc{leboulanger2026efl,
-  author       = {Le Boulanger, S.},
-  title        = {{EFL}: A Two-Track English Curriculum for
-                  Comprehensive School (Grades 5--13)},
-  year         = {2026},
-  howpublished = {\url{https://boulingua.github.io/efl/}},
-  note         = {Open educational resource.
-                  Code: MIT; teaching content: CC-BY 4.0}
-}
+```sh
+npm exec --prefix ../kit -- playwright install chromium
+python ../kit/bin/kit check . --ci \
+  --owner-root curriculum=../curriculum --owner-root .github=../.github
 ```
 
-## Legal
+On Linux, use `playwright install --with-deps chromium` to install required
+browser libraries. These checks currently report historical audio provenance
+and missing pronunciation-review evidence as release blockers; they must not
+be bypassed to publish.
 
-Before going public, fill in the Impressum (`impressum.qmd`) and
-have the Datenschutzerklärung (`datenschutz.qmd`) reviewed by a
-Datenschutzbeauftragte or lawyer. See the `ACTION REQUIRED`
-callouts on those pages.
+## Use and maintain
 
-## Signature colour & icon
+Browse units from the course menu. Search finds indexed teaching pages; the
+materials page supports filtering and direct PDF downloads. The network view is
+optional. Text remains available when a recording is absent.
 
-This project's signature accent is **`#248D19`** (light theme) / **`#89E77E`** (dark theme), paired with the **pentagon** mark (`brand/icon.svg`). The accent is *flag-safe* — the hue does not appear in the English flag — is distinct from every other boulingua language, and is kept clear of the boulingua hub blue. The whole colour system lives in the [boulingua hub](https://github.com/boulingua/website#per-language-accent-colours).
+Edit the source bundle, then rebuild and review the rendered unit. Generate new
+PDFs or audio deliberately with kit, review their contents, and commit source,
+manifest and artifacts together. CI verifies committed materials; it does not
+silently regenerate them. Preserve all published URLs and counting-mark locks.
 
-## Use of LLM tools
+The curriculum manifest is `curriculum.yml`. Descriptor mappings remain
+proposed until reviewed. [REFINEMENT.md](REFINEMENT.md) records current findings,
+verification and remaining release work. Older roadmap/handover documents are
+historical evidence where they disagree with this build path.
 
-Portions of this project were prepared with assistance from large language model tooling for narrowly defined, non-authorial tasks: copyediting, prose smoothing, Markdown/LaTeX formatting, scaffolding of boilerplate files (CI configs, build scripts), code refactoring. The tools used were Chat AI, the LLM service of KISSKI (GWDG), and a self-hosted Mistral Small (24B, Apache-2.0) run locally via Ollama and the ollamar R package — local inference only, with no data sent to third parties for the self-hosted model.
+## Licence and citation
+
+Original teaching content: **CC BY-SA 4.0**, attributed to **S. Le Boulanger**.
+Code: **MIT**. See the licence files and `NOTICE.md` for third-party terms.
+
+Le Boulanger, S. (2026). *English as a Foreign Language*. Boulingua.
+<https://boulingua.github.io/efl/>

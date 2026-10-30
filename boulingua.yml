@@ -23,19 +23,26 @@ slug:
 
 script_tier: core
 target_language: en             # what {{< tl >}} tags its runs with
-chrome_language: de             # German instructions around English content —
-                                # two different languages on every page, which
-                                # is why these are two fields.
+chrome_language: en             # interface language declared in hugo.toml
 
 band_default: II
 milestone: M0                   # no page carries implements yet; A2 warns
 
 gates:
   network_graph: true           # materials-network graph + JS budget
-  pagefind: false               # this course ships no search index
+  pagefind: true               # built by kit build; full-text search at /search/
   bildungsplan: true            # 180 pages carry a bildungsplan block
   curriculum: warn
 
 vgwort:
   registry: data/vgwort.yaml
   url_lock: vgwort/url-lock-provisional.csv
+
+# Course/product-specific views; select by layout, independent of URLs.
+templates:
+  selection: layout
+  local:
+  - _default/course-overview.html
+  - _default/discovery.html
+  - _default/discovery.network.json
+  - _partials/list.html

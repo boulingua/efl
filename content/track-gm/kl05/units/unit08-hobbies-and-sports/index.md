@@ -41,6 +41,7 @@ curriculum:
     - A1.MED.relaying-specific-information.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl05_unit08-hobbies-and-sports
 ---
 
 {{< callout type="note" >}}

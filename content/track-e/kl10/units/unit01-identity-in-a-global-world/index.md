@@ -42,6 +42,7 @@ curriculum:
     - B1.INT.online-conversation-and-discussion.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl10_unit01-identity-in-a-global-world
 ---
 
 {{< callout type="note" >}}

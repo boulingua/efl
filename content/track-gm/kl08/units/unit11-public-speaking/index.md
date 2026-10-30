@@ -41,6 +41,7 @@ curriculum:
     - A2.MED.overall-mediation.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl08_unit11-public-speaking
 ---
 
 {{< callout type="note" >}}

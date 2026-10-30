@@ -42,6 +42,7 @@ curriculum:
     - B2.PROD.reports-and-essays.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl12_unit08-post-colonial-voices-advanced
 ---
 
 {{< callout type="note" >}}

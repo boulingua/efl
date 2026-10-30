@@ -42,6 +42,7 @@ curriculum:
     - B2.LING.phonological-control.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl11_unit02-the-american-dream
 ---
 
 {{< callout type="note" >}}
