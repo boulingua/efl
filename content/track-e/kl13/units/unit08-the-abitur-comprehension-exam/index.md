@@ -62,7 +62,7 @@ Leistungsfach (advanced course): 40/60.
 
 **(No Composition / Mediation in this Unit.)**
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** Reward own-words paraphrase + named specifics + embedded fragments + structural match.
 **Analysis.** Suggested time: 12 / 25 / 23 (proportional to BE).
 **Composition.** Open.

@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 9
 material_slug: "track-gm_kl05_unit09-birthday-and-friends"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - speaking
-  - writing
-  - language_awareness
+- speaking
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl05/units/unit09_birthday-and-friends.html
+- /track_gm_kl05/units/unit09_birthday-and-friends.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl05_unit09-birthday-and-friends.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl05_unit09-birthday-and-friends.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.online-conversation-and-discussion.02
-    - A1.LING.orthographic-control.01
-    - A1.PROD.creative-writing.01
-    - A1.INT.notes-messages-and-forms.01
-    - A1.REC.overall-reading-comprehension.01
+  - A1.INT.online-conversation-and-discussion.02
+  - A1.LING.orthographic-control.01
+  - A1.PROD.creative-writing.01
+  - A1.INT.notes-messages-and-forms.01
+  - A1.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl05_unit09-birthday-and-friends
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl05/units/unit09-birthday-and-friends-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl05_unit09-birthday-and-friends-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl05_unit09-birthday-and-friends-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,13 +105,11 @@ audio_manifest: track-gm_kl05_unit09-birthday-and-friends
 
 Mia's birthday is on the 17th of March. She is making invitations on bright pink paper. Theo says pink is embarrassing. Mia hands him a stack to deliver. "Embarrassing is part of being a brother," she says. Frida steals one for the foxes.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Date chant.** Class repeats together:
 *January, February, March, April, May, June, July, August, September, October, November, December.*
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — months and ordinals
 
 *Months:* January … December.
@@ -96,8 +129,7 @@ Mia's birthday is on the 17th of March. She is making invitations on bright pink
 - *Sorry, I can't. I'm busy.*
 - *See you on Saturday!*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. My birthday is __________ March. (in / on)
@@ -118,16 +150,14 @@ Mia's birthday is on the 17th of March. She is making invitations on bright pink
 6. *Would you like to come to my party on Saturday at 3 p.m.?*
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Make a birthday card.** A6 paper. Front: a drawing. Inside: a 4-line invitation (date, time, place, RSVP). Swap with a partner — they accept or politely decline.
 
 ### Sample
 
 *Hi Theo, I would like to invite you to my birthday party. It's on Saturday, 17 March, at 3 p.m. at my house. Please let me know if you can come. Mia.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name the 12 months.
 - [ ] I can use *in / on / at* with dates and times.
 - [ ] I can write a short invitation.
@@ -135,54 +165,11 @@ Mia's birthday is on the 17th of March. She is making invitations on bright pink
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl05/units/unit09-birthday-and-friends-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice to Mia's invitation.
-
-> "Hi Lina, my party is on Saturday, 17 March, at 3 p.m. at my house. Can you come?"
-
-1. Day: ___ , 2. Date: ___ , 3. Time: ___ , 4. Place: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read the card and answer.
-
-> "Dear Mia, thank you for the invitation. I would love to come on Saturday. See you at 3! Love, Lina."
-
-1. Lina says yes / no? 2. Day? 3. Time? 4. Closing word: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in *in, on, at*.**
-
-1. My birthday is __________ April.
-2. The party is __________ 5 May.
-3. We meet __________ 4 p.m.
-4. School starts __________ September.
-
-### Task 4 — Writing (6 BE)
-
-Write a 5-line birthday invitation: greeting, date, time, place, sign-off.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** Saturday, 17 March, 3 p.m., her house.
-**T2.** yes, Saturday, 3 p.m., Love.
-**T3.** 1. in, 2. on, 3. at, 4. in.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

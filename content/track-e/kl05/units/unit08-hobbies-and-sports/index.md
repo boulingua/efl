@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 8
 material_slug: "track-e_kl05_unit08-hobbies-and-sports"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.1 Hör-/Hörsehverstehen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - speaking
-  - listening
-  - language_awareness
+- speaking
+- listening
+- language_awareness
 aliases:
-  - /track_e_kl05/units/unit08_hobbies-and-sports.html
+- /track_e_kl05/units/unit08_hobbies-and-sports.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl05_unit08-hobbies-and-sports.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl05_unit08-hobbies-and-sports.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.online-conversation-and-discussion.01
-    - A1.LING.orthographic-control.01
-    - A1.PROD.creative-writing.01
-    - A1.REC.understanding-conversation-between-other-people.02
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.INT.online-conversation-and-discussion.01
+  - A1.LING.orthographic-control.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.understanding-conversation-between-other-people.02
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl05_unit08-hobbies-and-sports
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl05/units/unit08-hobbies-and-sports-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking
+  - listening
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl05_unit08-hobbies-and-sports-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl05_unit08-hobbies-and-sports-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +105,10 @@ audio_manifest: track-e_kl05_unit08-hobbies-and-sports
 
 Theo can do a perfect cartwheel on the school field. He cannot, however, fold a T-shirt. Mia can fold a T-shirt with surgical precision. She cannot do a cartwheel without falling onto her dignity. Frida the fox watches both attempts and writes nothing down. Foxes do not need cartwheels.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Mime corner.** Teacher mimes 8 hobbies; class shouts the English.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — hobbies and sports
 
 *Hobbies:* reading, drawing, painting, dancing, playing the guitar, singing, baking, gardening, video games, photography.
@@ -91,8 +124,7 @@ Theo can do a perfect cartwheel on the school field. He cannot, however, fold a 
 - *Theo is good at swimming.*
 - *Are you good at drawing?*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Build: I __________ swim, but I __________ swim 100 metres. (can / can't)
@@ -110,16 +142,14 @@ Theo can do a perfect cartwheel on the school field. He cannot, however, fold a 
 **Productive.** 3-4. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Find Someone Who.** Walk around with a list of 8 things (*can play chess / can ride a unicycle / is good at baking / can swim 50 metres / …*). Get signatures. 90 seconds.
 
 ### Sample
 
 *— Can you play chess?* — *Yes, I can.* — *Sign here, please!*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 10 hobbies and 8 sports.
 - [ ] I can use *can/can't* and *be good at + -ing*.
 - [ ] I can mingle for 90 seconds in English.
@@ -127,54 +157,11 @@ Theo can do a perfect cartwheel on the school field. He cannot, however, fold a 
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl05/units/unit08-hobbies-and-sports-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "Lina can play the piano very well. She can also swim 100 metres. She can't ride a horse, but she wants to learn. She is very good at drawing."
-
-1. Two things she can: ___ . 2. Distance she can swim: ___ . 3. Cannot: ___ . 4. Good at: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "Theo plays football twice a week. He is good at passing but bad at heading. He can ride a bike, ride a skateboard, and bake bread. He can't yet bake a cake."
-
-1. How often football: ___ . 2. Good at: ___ . 3. Three other things he can do: ___ . 4. One thing he can't yet do: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in *can/can't* or *be good at + -ing*.**
-
-1. I __________ ride a bike.
-2. ___ you ___ a unicycle? (ride)
-3. Mia __________ (good / draw) horses.
-4. We __________ (good / cook) pasta.
-
-### Task 4 — Writing (6 BE)
-
-Write 5–6 sentences about your hobbies. Use *can/can't* twice and *be good at + -ing* once.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** play piano / swim 100 m, 100 m, ride a horse, drawing.
-**T2.** twice a week, passing, ride a bike / skateboard / bake bread, bake a cake.
-**T3.** 1. can, 2. Can ride, 3. is good at drawing, 4. are good at cooking.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

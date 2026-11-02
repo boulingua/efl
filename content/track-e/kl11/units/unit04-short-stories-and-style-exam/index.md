@@ -61,7 +61,7 @@ Read the *Hour Before* extract above.
 
 Write 300 words: a stylistic-analysis essay on the *Hour Before* extract. Use 3 wider-toolkit relative clauses + 1 cleft + 2 markers.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **T1.** the hour before; *whose whistle had not yet started*; *of whom I was jealous*; *in which my mother stood*.
 **T2.** kettle / cat / corridor; *None of this is important. All of it is the only material I have.*; the larger event off-stage; the pressure that absence exerts on what remains.
 **T3.** in which / of whom / whose / whose.

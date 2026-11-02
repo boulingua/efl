@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 12
 material_slug: "track-e_kl10_unit12-year-review-toward-oberstufe"
 bildungsplan:
-  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.3.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
-  - "3.3.3.5 Schreiben"
-  - "3.3.4 Text- und Medienkompetenz"
+- "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.3.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
+- "3.3.3.5 Schreiben"
+- "3.3.4 Text- und Medienkompetenz"
 skills_focus:
-  - writing
-  - speaking
-  - language_awareness
+- writing
+- speaking
+- language_awareness
 aliases:
-  - /track_e_kl10/units/unit12_year-review-toward-oberstufe.html
+- /track_e_kl10/units/unit12_year-review-toward-oberstufe.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl10_unit12-year-review-toward-oberstufe.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl10_unit12-year-review-toward-oberstufe.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.formal-discussion.01
-    - B1.LING.orthographic-control.01
-    - B1.PROD.planning.01
-    - B1.PROD.compensating.02
-    - B1.MED.explaining-data.03
+  - B1.INT.formal-discussion.01
+  - B1.LING.orthographic-control.01
+  - B1.PROD.planning.01
+  - B1.PROD.compensating.02
+  - B1.MED.explaining-data.03
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl10_unit12-year-review-toward-oberstufe
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl10/units/unit12-year-review-toward-oberstufe-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - writing
+  - speaking
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl10_unit12-year-review-toward-oberstufe-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl10_unit12-year-review-toward-oberstufe-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +105,10 @@ audio_manifest: track-e_kl10_unit12-year-review-toward-oberstufe
 
 Mr. Yilmaz wrote on the board: *one folder, five pieces, one decision*. The class understood. The *decision* was the Oberstufe choice — Basisfach or Leistungsfach Englisch. Maja had decided. Half the class had decided. The other half were still reading leaflets, which is, Mr. Yilmaz said, *the right amount of patience for the wrong amount of time*.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Pick-five scan.** Open your folder. Pick five pieces. Label each: *proudest / surprised me / didn't work / would rewrite / connects to next year*.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Portfolio structure (Oberstufe-readiness)
 
 1. **Cover sheet** (name, year, theme, intended Oberstufe path).
@@ -88,8 +121,7 @@ Mr. Yilmaz wrote on the board: *one folder, five pieces, one decision*. The clas
 
 *At the start of Klasse 10 I … / By Christmas I had started to … / The piece that surprised me was … / The piece that didn't work taught me that … / The thread I want to keep going is … / Whichever path I choose, the most useful skill from this year is …*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Build the five labels for your own folder.
@@ -104,68 +136,25 @@ Mr. Yilmaz wrote on the board: *one folder, five pieces, one decision*. The clas
 **Productive.** Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Portfolio + 300-word reflection + 4-minute talk + 200-word forward letter.** Submit the portfolio and deliver a 4-minute talk. Audience gives one feedback sentence.
 
 ### Sample
 
 *At the start of Klasse 10 I wrote in three modes: translated, formal, and quietly imitating other people. By Christmas I had started to write in a fourth mode that I would call *paying attention*. The piece I am proudest of is the *Late Bus, Cold Bench* essay, which taught me that the smallest stylistic moves often do the most analytical work. The piece that surprised me was the four-day school week reflection: I had not expected to find the limitation more interesting than the headline finding. If I had paid attention to the limitation earlier in the year, I would have written less confidently and more usefully. By the end of the Oberstufe I will have written somewhere between 30 and 50 essays longer than this one. The thread I want to keep going is *naming the limitation* — both in writing and in speaking. I have decided to take Englisch as a Leistungsfach. Whichever way the next two years go, the most useful skill from this year, I think, is the small repeated discipline of writing one careful paragraph rather than three confident ones. I owe that, mostly, to the slow lanes of Klasse 10.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can compile a 5-piece Oberstufe-readiness portfolio.
 - [ ] I can write a 300-word year reflection.
 - [ ] I can deliver a 4-minute portfolio talk.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl10/units/unit12-year-review-toward-oberstufe-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice to a portfolio talk.
-
-> "At the start of Klasse 10 I wrote in three modes: translated, formal, and imitating others. By Christmas I had started a fourth mode I'd call *paying attention*. The piece I'm proudest of is *Late Bus, Cold Bench*. By the end of Oberstufe I will have written 30 to 50 longer essays. I am taking Englisch as a Leistungsfach."
-
-1. Three September modes: ___ . 2. Christmas: ___ . 3. Proudest piece: ___ . 4. Decision: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the reflection sample above.
-
-1. Four writing modes: ___ . 2. Most surprising piece + reason: ___ . 3. Lesson learnt: ___ . 4. Decision: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Mixed grammar review.**
-
-1. By Christmas I __________ (start) a new mode. (past perfect)
-2. If I __________ (pay) attention earlier, I __________ (write) more carefully. (third)
-3. By the end of Oberstufe, I __________ (write) 30-50 essays. (future perfect)
-4. The thread I want to keep going is ___ .
-
-### Task 4 — Writing (13 BE)
-
-Write 300 words: an Oberstufe-readiness reflection. Use 6 grammar points from Klasse 9 + 10.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** translated / formal / imitating; *paying attention*; *Late Bus, Cold Bench*; Leistungsfach Englisch.
-**T2.** translated, formal, imitating, paying attention; the four-day school week reflection — the limitation was more interesting than the headline; the small repeated discipline of writing one careful paragraph; Leistungsfach Englisch.
-**T3.** had started / had paid — would have written / will have written / *naming the limitation*.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

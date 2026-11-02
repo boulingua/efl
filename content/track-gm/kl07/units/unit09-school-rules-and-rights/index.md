@@ -9,18 +9,18 @@ track: "gm"
 unit_nr: 9
 material_slug: "track-gm_kl07_unit09-school-rules-and-rights"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.2 Interkulturelle kommunikative Kompetenz"
-  - "3.2.3.2 Leseverstehen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
-  - "3.2.4 Text- und Medienkompetenz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.2 Interkulturelle kommunikative Kompetenz"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.2.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl07/units/unit09_school-rules-and-rights.html
+- /track_gm_kl07/units/unit09_school-rules-and-rights.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl07_unit09-school-rules-and-rights.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl07_unit09-school-rules-and-rights.png"
@@ -36,14 +36,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.LING.orthographic-control.01
-    - A2.PROD.sustained-monologue-giving-information.01
-    - A2.REC.reading-for-information-and-argument.03
-    - A2.MED.overall-mediation.02
-    - A2.REC.identifying-cues-and-inferring.01
+  - A2.LING.orthographic-control.01
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.REC.reading-for-information-and-argument.03
+  - A2.MED.overall-mediation.02
+  - A2.REC.identifying-cues-and-inferring.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl07_unit09-school-rules-and-rights
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl07/units/unit09-school-rules-and-rights-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 60
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl07_unit09-school-rules-and-rights-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl07_unit09-school-rules-and-rights-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -82,8 +117,7 @@ made these rules?" Ms. Reyes said, "Adults." Aisha said,
 "Adults who go to school here?" Ms. Reyes paused. "That's a fair
 question. We should put it on the agenda."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Five-rule scan.** On the slide there is a list of ten possible
 school rules. With your partner, choose **five** you think your
 school should have. For each one, write two words: *who benefits*
@@ -94,8 +128,7 @@ This task makes the class notice that even fair rules cost someone
 something. Useful frame for the rest of the Unit.
 {{< /callout >}}
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading text — *Phones in Pouches*
 
 > Ardenfield Comprehensive in Manchester has a "phones-in-pouches"
@@ -136,8 +169,7 @@ it.
 
 Form: *to be* (in tense) + past participle.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G — controlled
 
 **A. Modal gap-fill.**
@@ -182,8 +214,7 @@ B. 4. The pouch is locked by the teacher.
 10. *All changes are approved by the teachers.*
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Writing task — *One Rule I Would Change*.** Write 100–120 words
 about **one rule** at your school you would keep and **one** you
 would change. For each, use a modal and one passive structure.
@@ -200,8 +231,7 @@ would change. For each, use a modal and one passive structure.
 > only allowed if the windows are open. The point is that small
 > rules are noticed every day. Big ones are easier to forget.
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can pick out who is restricted by a rule and who benefits.
 - [ ] I can use *must / mustn't / should / can* with reason.
 - [ ] I can write a short opinion text using a passive structure.
@@ -209,103 +239,11 @@ would change. For each, use a modal and one passive structure.
 **One sentence in your notebook:** *What is one rule I would
 propose if I had to write a new one?*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Materials allowed.** A monolingual dictionary (Niveau M only).\
-**Time.** 45 minutes.\
-**Total.** 60 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl07/units/unit09-school-rules-and-rights-exam" >}}).
 
-### Task 1 — Reading (15 BE)
-
-Read the short text below.
-
-> Ardenfield Comprehensive in Manchester has a "phones-in-pouches"
-> rule. Every morning, students put their phones into a magnetic
-> pouch and keep the pouch with them all day. The pouch can only
-> be unlocked by a teacher or in the office. The headteacher,
-> Mr Atta, says the rule has cut bullying messages and fights at
-> break time. Some pupils complain it feels like a prison rule.
-> Mr Atta replies: "We are open to a different rule. Bring me one
-> that works."
-
-1. What is the "phones-in-pouches" rule? (3)
-2. Where can the pouch be unlocked? (2)
-3. What two changes does Mr Atta credit to the rule? (4)
-4. How does the headteacher answer the criticism? (6)
-
-### Task 2 — Use of English (12 BE)
-
-**A. Modals of obligation/permission (6 BE).** Choose: *must,
-mustn't, can, can't, should, shouldn't*.
-
-1. Students __________ put phones in the pouch every morning.
-2. You __________ unlock the pouch yourself.
-3. Teachers __________ help if there's an emergency.
-4. We __________ ban phones without a discussion first.
-
-**B. Passive voice — present (6 BE).** Rewrite in the passive.
-
-5. The school sells the pouches at the office. → The pouches ___ .
-6. A magnet locks the pouch. → ___ .
-7. The headteacher reviews the rule every term. → ___ .
-
-### Task 3 — Mediation (10 BE)
-
-Your German uncle, who is a teacher, sends you this:
-
-> "Wir diskutieren ein Handyverbot an der Schule. Manche Eltern
-> sind dafür, andere finden, dass die Schüler lernen müssen, mit
-> Handys umzugehen, statt sie wegzusperren."
-
-Write **three sentences in English** to your English-speaking
-exchange partner explaining the German debate. Do not translate
-every word.
-
-### Task 4 — Writing (23 BE)
-
-Write 100–120 words on the question: **"Should phones be locked
-away during the school day?"** Give one reason in favour, one
-reason against, and your own conclusion. Use:
-
-- at least one modal of obligation (*must / mustn't / should*),
-- at least one passive structure,
-- a connector (*although / however / on the other hand*).
-
-{{< callout type="tip" title="Expected answer key — class test (\"Klassenarbeit\")" collapse="true" >}}
-**Task 1 (15 BE).**\
-1. Students put phones into a magnetic pouch every morning and
-   keep it with them all day. (3)
-2. Only by a teacher or at the school office. (2)
-3. Bullying messages have decreased; fights at break time have
-   decreased. (4)
-4. He invites critics to propose a better rule that works — i.e.
-   he is willing to change, but only with a workable alternative.
-   (6)
-
-**Task 2 (12 BE).**\
-A. 1. must, 2. can't, 3. can, 4. shouldn't.\
-B. 5. The pouches are sold at the office.
-   6. The pouch is locked by a magnet.
-   7. The rule is reviewed by the headteacher every term.
-
-**Task 3 (10 BE).** Sample: *"German schools are debating a phone
-ban. Some parents support it; others think students need to
-learn to deal with phones rather than have them locked away."*
-Award for: gist (4), addressee-fit (2), correct grammar (4).
-
-**Task 4 (23 BE).** Inhalt 12 / Sprache 11.
-{{< /callout >}}
-
-{{< callout type="tip" title="Rubric — grading scale (Notenschlüssel)" collapse="true" >}}
-| Punkte (von 60) | Note |
-|-----------------|------|
-| 56–60 | 1 | 49–55 | 2 | 40–48 | 3 |
-| 30–39 | 4 | 18–29 | 5 | 0–17  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

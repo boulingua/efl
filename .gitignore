@@ -1,7 +1,11 @@
 /.quarto/
 /_freeze/
 /_site/
-/docs/
+/docs/*
+!/docs/eqs-archive/
+!/docs/curriculum-review-2026-10-31.json
+!/docs/mediation-source-repair-2026-10-31.md
+!/docs/material-build-2026-10-31.json
 
 # Hugo build artefacts (migration/hugo-coder)
 /public/

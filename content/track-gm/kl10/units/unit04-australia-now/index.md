@@ -9,17 +9,17 @@ track: "gm"
 unit_nr: 4
 material_slug: "track-gm_kl10_unit04-australia-now"
 bildungsplan:
-  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.3.2 Interkulturelle kommunikative Kompetenz"
-  - "3.3.3.1 Hör-/Hörsehverstehen"
-  - "3.3.3.2 Leseverstehen"
-  - "3.3.4 Text- und Medienkompetenz"
+- "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.3.2 Interkulturelle kommunikative Kompetenz"
+- "3.3.3.1 Hör-/Hörsehverstehen"
+- "3.3.3.2 Leseverstehen"
+- "3.3.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - listening
-  - intercultural
+- reading
+- listening
+- intercultural
 aliases:
-  - /track_gm_kl10/units/unit04_australia-now.html
+- /track_gm_kl10/units/unit04_australia-now.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl10_unit04-australia-now.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl10_unit04-australia-now.png"
@@ -35,14 +35,48 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.REC.reading-for-information-and-argument.02
-    - B1.SOC.sociolinguistic-appropriateness.01
-    - B1.REC.understanding-conversation-between-other-people.02
-    - B1.INT.formal-discussion.01
-    - B1.PLUR.plurilingual-comprehension.02
+  - B1.REC.reading-for-information-and-argument.02
+  - B1.SOC.sociolinguistic-appropriateness.01
+  - B1.REC.understanding-conversation-between-other-people.02
+  - B1.INT.formal-discussion.01
+  - B1.PLUR.plurilingual-comprehension.02
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl10_unit04-australia-now
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl10/units/unit04-australia-now-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - listening
+  - intercultural
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-gm_kl10_unit04-australia-now-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl10_unit04-australia-now-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,12 +106,10 @@ audio_manifest: track-gm_kl10_unit04-australia-now
 
 Maja's older cousin moved to Brisbane two years ago. Her postcards have stopped pretending. They no longer say *the weather is brilliant*. They now say things like *I have learned to wear sunscreen as a religion* and *the heat is not a season here, it is a relative*. Maja keeps the postcards in her desk drawer.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Three-fact scan.** With your partner, write three facts about contemporary Australia (not stereotypes). Pool with another pair.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — *Brisbane Postcards*
 
 *Australia is more urban than its myth. About 86 % of Australians live in cities. Multiculturalism is real and complicated — Brisbane is home to large Vietnamese and Lebanese communities, and First Nations languages are taught in some primary schools. The bushfire season has lengthened over the past two decades. Sunscreen is not a luxury; it is a habit closer to brushing teeth.*
@@ -88,8 +120,7 @@ Maja's older cousin moved to Brisbane two years ago. Her postcards have stopped 
 
 Common terms: *fair dinkum* (genuine), *no worries* (it's fine), *mate* (friend, but watch tone).
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Match AusE → standard: arvo, brekkie, barbie, servo → ?
@@ -106,65 +137,25 @@ Common terms: *fair dinkum* (genuine), *no worries* (it's fine), *mate* (friend,
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Region portrait, 150 words.** Write about contemporary Australia going past stereotypes. Use 1 AusE word + 2 specific facts.
 
 ### Sample
 
 *Australia is much more urban than its myth. About 86 % of Australians live in cities, and Brisbane — where my cousin lives — is home to large Vietnamese and Lebanese communities, plus a growing First Nations language presence in some primary schools. The bushfire season has lengthened over the past two decades. Sunscreen is not a holiday luxury but a daily habit, closer to brushing teeth than to skincare. People still call afternoon *arvo* and breakfast *brekkie* — those words are real, not tourist-brochure inventions. What surprised me most, when I read my cousin's postcards, was that the heat is described as a relative — annoying, present, sometimes funny, never going away.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify two cultural anchors in a contemporary Australian article.
 - [ ] I can recognise 5 AusE words.
 - [ ] I can write a 150-word region portrait past stereotypes.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl10/units/unit04-australia-now-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "About 86 % of Australians live in cities. Brisbane is home to large Vietnamese and Lebanese communities. First Nations languages are taught in some primary schools. The bushfire season has lengthened."
-
-1. Urban %: ___ . 2. Two communities: ___ . 3. School languages: ___ . 4. Climate trend: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the *Brisbane Postcards* extract.
-
-1. % urban: ___ . 2. Two cultural communities in Brisbane: ___ . 3. Trend: ___ . 4. Sunscreen role: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**AusE → standard.**
-
-1. arvo → ___ ; 2. brekkie → ___ ; 3. barbie → ___ ; 4. servo → ___ .
-
-### Task 4 — Writing (13 BE)
-
-Write 150 words on contemporary Australia past stereotypes. Use 1 AusE word + 2 specific facts.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** 86 %; Vietnamese and Lebanese; First Nations languages; bushfire season has lengthened.
-**T2.** 86 %; Vietnamese / Lebanese; bushfire season has lengthened over two decades; sunscreen is a daily habit (not a luxury).
-**T3.** afternoon / breakfast / BBQ / petrol station.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

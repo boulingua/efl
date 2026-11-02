@@ -61,7 +61,7 @@ Read the *sample poem* description above.
 
 Write 280 words: a poetic-analysis essay on a poem of your choice. Use 6 terms + 1 quote + 1 cleft.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **T1.** 14 lines / 2 stanzas; before strong stresses; *light / late, door / floor, gone / alone*; *they → we* in final couplet.
 **T2.** 14 lines, 2 stanzas, modified-sonnet shape; ungendered; *light / late, door / floor, gone / alone*; pronoun shift *they → we*.
 **T3.** enjambment / persona / half-rhymes / couplet.

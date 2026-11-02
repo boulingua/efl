@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 7
 material_slug: "track-e_kl08_unit07-teen-magazine-mediation"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.3.6 Sprachmittlung"
-  - "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.6 Sprachmittlung"
+- "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - mediation
-  - writing
-  - language_awareness
+- mediation
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl08/units/unit07_teen-magazine-mediation.html
+- /track_e_kl08/units/unit07_teen-magazine-mediation.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl08_unit07-teen-magazine-mediation.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl08_unit07-teen-magazine-mediation.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.LING.orthographic-control.01
-    - A2.MED.overall-mediation.02
-    - A2.PROD.creative-writing.07
-    - A2.MED.adapting-language.01
-    - A2.REC.reading-as-a-leisure-activity.04
+  - A2.LING.orthographic-control.01
+  - A2.MED.overall-mediation.02
+  - A2.PROD.creative-writing.07
+  - A2.MED.adapting-language.01
+  - A2.REC.reading-as-a-leisure-activity.04
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl08_unit07-teen-magazine-mediation
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl08/units/unit07-teen-magazine-mediation-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - mediation
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl08_unit07-teen-magazine-mediation-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl08_unit07-teen-magazine-mediation-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +105,10 @@ audio_manifest: track-e_kl08_unit07-teen-magazine-mediation
 
 Jonas's German cousin sent him a teen-magazine article about phone use at night. Jonas's English-speaking pen-pal had asked: *what do German teen mags say about this?* Jonas read the article twice. Then he closed it and wrote five English sentences from memory.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Drop or keep?** Slide shows five lines from a German article. With your partner, mark each as *essential / paraphrase / drop* depending on the addressee.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Source — *German teen-mag article (excerpt)*
 
 *Studien zeigen, dass Jugendliche, die ihr Handy nachts neben dem Bett liegen haben, im Schnitt 30 Minuten weniger schlafen als ihre Mitschüler. Experten empfehlen, das Gerät außerhalb des Schlafzimmers zu laden. Eltern sollten dabei mit gutem Beispiel vorangehen.*
@@ -93,8 +126,7 @@ Jonas's German cousin sent him a teen-magazine article about phone use at night.
 - *Experts recommend that …*
 - *Parents are advised to …*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match German verb to English: *empfehlen — ?, warnen — ?, erklären — ?, behaupten — ?*.
@@ -111,68 +143,25 @@ Jonas's German cousin sent him a teen-magazine article about phone use at night.
 **Productive.** 3. Open. Sample: *A German teen magazine reports that teens who keep their phones by the bed sleep about 30 minutes less than others. Experts recommend charging phones outside the bedroom. Parents are advised to set the example.*
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **mediation ("Mediation"), 6 sentences.** Read the German source above. Write 6 English sentences for an English-speaking friend who has asked what the article says. Use 3 reporting verbs.
 
 ### Sample
 
 *Hi Jordan, here's the gist of that German article. It says that teenagers who keep their phones next to the bed sleep about 30 minutes less on average than those who don't. Experts recommend charging the phone outside the bedroom. Parents are advised to set the example. The article also points out that this is not about willpower — it's about how the brain reacts to screens at night.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can mediate a German article into 6 English sentences.
 - [ ] I can keep facts and drop decoration.
 - [ ] I can use 3 reporting verbs.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl08/units/unit07-teen-magazine-mediation-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "Studien zeigen, dass Jugendliche, die ihr Handy nachts neben dem Bett liegen haben, weniger schlafen. Experten empfehlen, das Gerät außerhalb des Schlafzimmers zu laden."
-
-1. Topic: ___ . 2. Effect: ___ . 3. Expert advice: ___ . 4. Source-language: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the German source above. Answer in English.
-
-1. The study finding (one sentence). 2. The expert recommendation. 3. The role of parents. 4. The addressee of the article.
-
-### Task 3 — Use of English (10 BE)
-
-**Reporting-verb fill-in.**
-
-1. The article __________ that teens lose sleep. (says)
-2. Experts __________ charging the phone elsewhere. (recommend)
-3. Parents __________ to set the example. (are advised)
-4. The author __________ that this is not about willpower. (points out)
-
-### Task 4 — Writing (13 BE)
-
-Mediate: write 5 English sentences from the German source for a peer. Use 3 reporting verbs.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** phones at night, less sleep (about 30 min), charge phone outside bedroom, German.
-**T2.** Teens with phones by the bed sleep about 30 min less. Experts recommend charging phones outside the bedroom. Parents are advised to set the example. Addressed to teens (and parents).
-**T3.** says / recommend / are advised / points out.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

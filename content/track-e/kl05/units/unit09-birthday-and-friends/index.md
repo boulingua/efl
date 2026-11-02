@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 9
 material_slug: "track-e_kl05_unit09-birthday-and-friends"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - speaking
-  - writing
-  - language_awareness
+- speaking
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl05/units/unit09_birthday-and-friends.html
+- /track_e_kl05/units/unit09_birthday-and-friends.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl05_unit09-birthday-and-friends.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl05_unit09-birthday-and-friends.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.online-conversation-and-discussion.02
-    - A1.LING.orthographic-control.01
-    - A1.PROD.creative-writing.03
-    - A1.INT.correspondence.03
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.INT.online-conversation-and-discussion.02
+  - A1.LING.orthographic-control.01
+  - A1.PROD.creative-writing.03
+  - A1.INT.correspondence.03
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl05_unit09-birthday-and-friends
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl05/units/unit09-birthday-and-friends-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl05_unit09-birthday-and-friends-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl05_unit09-birthday-and-friends-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +105,10 @@ audio_manifest: track-e_kl05_unit09-birthday-and-friends
 
 Mia's birthday is on the 17th of March. She is making invitations on bright pink paper. Theo, who claims pink is embarrassing, is also making invitations — on bright pink paper, because the green ran out. Frida steals one for the foxes. "It is the principle," she says, "of being included."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Date chant.** Class repeats the months together, then says the date of three classmates' birthdays.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — months and ordinals
 
 *Months:* January–December.
@@ -97,8 +130,7 @@ Spelling: *fifth* (not fiveth), *ninth* (no e), *twelfth* (drop ve).
 - *Sorry, I can't make it, but thank you for asking.*
 - *Please RSVP by Tuesday.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Fill in *in/on/at*: My birthday is __________ March. The party is __________ Saturday __________ 3 p.m.
@@ -116,16 +148,14 @@ Spelling: *fifth* (not fiveth), *ninth* (no e), *twelfth* (drop ve).
 **Productive.** 3-4. Open; check polite forms.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Birthday card swap.** A6 paper. Front: drawing. Inside: a 6-line invitation (greeting, reason, date, time, place, RSVP, sign-off). Swap with a partner — they reply in writing (accept or polite refusal).
 
 ### Sample
 
 *Dear Theo, I would like to invite you to my birthday party. It is on Saturday, 17 March, at 3 p.m. at my house. There will be cake and games. Please RSVP by Tuesday. Best wishes, Mia.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can write the 12 months and ordinals 1–31.
 - [ ] I can use *in/on/at* with dates and times.
 - [ ] I can write a polite invitation card.
@@ -133,51 +163,11 @@ Spelling: *fifth* (not fiveth), *ninth* (no e), *twelfth* (drop ve).
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl05/units/unit09-birthday-and-friends-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "Hi Lina, I would like to invite you to my birthday party on Saturday, 17 March. It starts at 3 p.m. at my house. Please let me know by Tuesday if you can come."
-
-1. Day: ___ . 2. Date: ___ . 3. Time: ___ . 4. RSVP deadline: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read the reply.
-
-> "Dear Mia, thank you for the invitation. I would love to come on Saturday. I will bring a small gift. See you at 3! Love, Lina."
-
-1. Yes/no: ___ . 2. Day: ___ . 3. Bringing: ___ . 4. Sign-off: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in *in/on/at*.**
-
-1. ___ April, 2. ___ 5 May, 3. ___ 4 p.m., 4. ___ September.
-
-### Task 4 — Writing (6 BE)
-
-Write a 6-line birthday invitation: greeting, reason, date, time, place, RSVP, sign-off.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** Saturday, 17 March, 3 p.m., Tuesday.
-**T2.** yes, Saturday, a small gift, Love.
-**T3.** in / on / at / in.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

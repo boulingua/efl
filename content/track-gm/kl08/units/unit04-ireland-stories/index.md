@@ -9,17 +9,17 @@ track: "gm"
 unit_nr: 4
 material_slug: "track-gm_kl08_unit04-ireland-stories"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.2 Interkulturelle kommunikative Kompetenz"
-  - "3.2.3.2 Leseverstehen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.4 Text- und Medienkompetenz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.2 Interkulturelle kommunikative Kompetenz"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.5 Schreiben"
+- "3.2.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - intercultural
+- reading
+- writing
+- intercultural
 aliases:
-  - /track_gm_kl08/units/unit04_ireland-stories.html
+- /track_gm_kl08/units/unit04_ireland-stories.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl08_unit04-ireland-stories.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl08_unit04-ireland-stories.png"
@@ -35,14 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.sustained-monologue-giving-information.01
-    - A2.REC.identifying-cues-and-inferring.05
-    - A2.SOC.sociolinguistic-appropriateness.03
-    - A2.REC.understanding-audio-media-and-recordings.02
-    - A2.MED.analysis-and-criticism-of-creative-texts.01
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.REC.identifying-cues-and-inferring.05
+  - A2.SOC.sociolinguistic-appropriateness.03
+  - A2.REC.understanding-audio-media-and-recordings.02
+  - A2.MED.analysis-and-criticism-of-creative-texts.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl08_unit04-ireland-stories
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl08/units/unit04-ireland-stories-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - writing
+  - intercultural
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl08_unit04-ireland-stories-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl08_unit04-ireland-stories-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,12 +107,10 @@ audio_manifest: track-gm_kl08_unit04-ireland-stories
 
 Hawa's pen-pal Niamh lives in Galway, on the west coast of Ireland. Her e-mails are mostly about wind, music, and people who walk faster than they talk. Hawa printed one and read it aloud at the breakfast table. Her father said: "That's the kind of place where you'd lose three umbrellas in a week."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Map quick-think.** On the slide is a map of Ireland with five towns marked. With your partner, guess which one is on the west coast, which is the capital, which is in Northern Ireland.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — *Niamh's letter from Galway*
 
 *Hi Hawa, today the wind tried to take my school bag along Salthill prom. I won. Galway is the kind of city where you can walk into a pub at lunchtime and find three musicians playing for the joy of it. My grandmother, who learned Irish (Gaeilge) as a first language, says the language is louder than ever. The shops where the staff speak only Irish are still rare, but they exist. I'll write more on Tuesday, which is when I'm meant to be doing homework but I'll probably write to you instead.*
@@ -91,8 +124,7 @@ Hawa's pen-pal Niamh lives in Galway, on the west coast of Ireland. Her e-mails 
 
 Defining (no commas) vs. non-defining (with commas): *The pub that has music* (defines which pub). *Galway, which is on the west coast, is famous for music* (extra info).
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Choose: *who, which, that, where*. The musicians __________ play in the pub. The wind __________ took the bag. Galway is a place __________ the rain is constant.
@@ -109,68 +141,25 @@ Defining (no commas) vs. non-defining (with commas): *The pub that has music* (d
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Place-portrait, 120 words.** Write a short letter describing a place you know (or want to know) in an English-speaking country. Use 4 relative clauses.
 
 ### Sample
 
 *Hi Niamh, I'd love to visit a place where the sea and the city sit next to each other — like your Galway. I want to find the pub that has music every lunchtime. My friend Jonas, who has been to Dublin twice, says the buses there are run by people who actually answer questions. I'd start with the Cliffs of Moher, which I have only seen on postcards. Then I'd ask your grandmother to teach me one Irish phrase, just one, that I could use every day.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can read a short Irish letter and find the speaker's perspective.
 - [ ] I can use relative clauses (who/which/that/where).
 - [ ] I can write a 120-word place-portrait letter.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl08/units/unit04-ireland-stories-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "Galway is a city on the west coast of Ireland that is famous for music. The pub which I love has live music every lunchtime. My pen-pal, who is called Niamh, sends letters about it."
-
-1. Galway location: ___ . 2. Famous for: ___ . 3. Pub has: ___ . 4. Pen-pal name: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the *Niamh's letter* extract above. Answer.
-
-1. What did the wind do? ___ . 2. What does Galway have at lunchtime? ___ . 3. What does the grandmother think about Irish? ___ . 4. Where does the writer write instead of doing homework? ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Insert the correct relative pronoun.**
-
-1. The musicians __________ play in the pub.
-2. The shops __________ sell only Irish books.
-3. Galway is a city __________ the rain is constant.
-4. The wind, __________ is famous in Galway, is very strong.
-
-### Task 4 — Writing (13 BE)
-
-Write 120 words: a place-portrait letter. Use 4 relative clauses.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** west coast of Ireland, music, live music every lunchtime, Niamh.
-**T2.** tried to take her school bag; live music; says it is louder than ever; on Tuesday — to her pen-pal.
-**T3.** who/that, which/that, where, which.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 7
 material_slug: "track-e_kl05_unit07-weather-and-seasons"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.1 Hör-/Hörsehverstehen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - listening
-  - writing
-  - language_awareness
+- listening
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl05/units/unit07_weather-and-seasons.html
+- /track_e_kl05/units/unit07_weather-and-seasons.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl05_unit07-weather-and-seasons.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl05_unit07-weather-and-seasons.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.LING.general-linguistic-range.02
-    - A1.PROD.creative-writing.03
-    - A1.REC.overall-reading-comprehension.01
-    - A1.PROD.sustained-monologue-describing-experience.02
-    - A1.INT.online-conversation-and-discussion.02
+  - A1.LING.general-linguistic-range.02
+  - A1.PROD.creative-writing.03
+  - A1.REC.overall-reading-comprehension.01
+  - A1.PROD.sustained-monologue-describing-experience.02
+  - A1.INT.online-conversation-and-discussion.02
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl05_unit07-weather-and-seasons
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl05/units/unit07-weather-and-seasons-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - listening
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl05_unit07-weather-and-seasons-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl05_unit07-weather-and-seasons-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +105,10 @@ audio_manifest: track-e_kl05_unit07-weather-and-seasons
 
 It is November. The sky is the colour of cold tea. Mia is wearing two jumpers. Theo is wearing his beloved green raincoat. Frida the fox is sitting in a puddle, looking comfortable. "For you," she explains, "this is bad weather. For me, this is a spa."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Window report.** Look outside for 30 seconds. Write three sentences: *Today it is …, the sky is …, I am wearing …*
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — weather and seasons
 
 *Seasons:* spring, summer, autumn (US: fall), winter.
@@ -94,8 +127,7 @@ It is November. The sky is the colour of cold tea. Mia is wearing two jumpers. T
 
 Spelling for -ing: *sit → sitting, run → running, make → making, fly → flying.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. *Right now*: It __________ (rain). The wind __________ (blow) hard.
@@ -113,16 +145,14 @@ Spelling for -ing: *sit → sitting, run → running, make → making, fly → f
 **Productive.** 3-4. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Weather diary — one school week.** For five days, write two sentences in English: *Today it is …* + what you are wearing or doing because of it.
 
 ### Sample
 
 *Monday: Today it is foggy and cool. I am wearing my scarf and walking slowly because the path is slippery.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can describe today's weather.
 - [ ] I can use present simple for habits and present continuous for now.
 - [ ] I can keep a 5-day weather diary.
@@ -130,54 +160,11 @@ Spelling for -ing: *sit → sitting, run → running, make → making, fly → f
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl05/units/unit07-weather-and-seasons-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice to the forecast.
-
-> "Tomorrow morning will be foggy. By midday the fog will lift and we will have sun. Late afternoon, thunderstorms in the south. Friday: heavy rain all day, with strong wind from the west."
-
-1. Tomorrow morning: ___ . 2. Midday: ___ . 3. Friday: ___ . 4. Wind direction: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "In Stuttgart it usually rains a lot in November. December is colder and we sometimes have snow. The best month for a long walk is May."
-
-T or F: 1. November is dry. 2. December is colder than November. 3. Snow in December. 4. May is good for a long walk.
-
-### Task 3 — Use of English (8 BE)
-
-**Present simple or present continuous?**
-
-1. Right now it __________ (snow).
-2. In Sweden it often __________ (be) cold.
-3. Look! The trees __________ (lose) their leaves.
-4. We always __________ (go) skiing in January.
-
-### Task 4 — Writing (6 BE)
-
-Write 5–6 sentences: today's weather, your favourite season, two things you do in that season.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** foggy, sun, heavy rain all day, west.
-**T2.** F, T, T, T.
-**T3.** 1. is snowing, 2. is, 3. are losing, 4. go.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

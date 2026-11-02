@@ -56,7 +56,7 @@ Read the *Twenty Years of Globalisation* extract.
 
 **Mediation prompt:** A 250-word German economic-policy paper on *Lieferkettenresilienz* (supply-chain resilience). Mediate for a English-speaking trade-policy reader. (Source provided in class.)
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. 39→60 %; 2. since 2008; 3. ~1 billion in East/South Asia; 4. supply-chain fragility under-priced.
 **Analysis.** 1. ~1 billion lifted out of extreme poverty AND intra-country inequality grew sharply; 2. East and South Asia; 3. inequality grew / supply-chain fragility under-priced / externalities exported; 4. *both sides hang on claims that are roughly correct*.
 **Composition.** Open. Reward integrated argument + hedges.

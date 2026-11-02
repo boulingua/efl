@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 3
 material_slug: "track-e_kl05_unit03-home-and-room"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.2 Leseverstehen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl05/units/unit03_home-and-room.html
+- /track_e_kl05/units/unit03_home-and-room.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl05_unit03-home-and-room.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl05_unit03-home-and-room.png"
@@ -34,14 +34,48 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.LING.orthographic-control.01
-    - A1.PROD.creative-writing.03
-    - A1.REC.understanding-conversation-between-other-people.02
-    - A1.LING.phonological-control.01
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.LING.orthographic-control.01
+  - A1.PROD.creative-writing.03
+  - A1.REC.understanding-conversation-between-other-people.02
+  - A1.LING.phonological-control.01
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl05_unit03-home-and-room
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl05/units/unit03-home-and-room-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-e_kl05_unit03-home-and-room-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl05_unit03-home-and-room-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +104,10 @@ audio_manifest: track-e_kl05_unit03-home-and-room
 
 Theo opens the front door. The hallway smells of bread and rain. To the right is the kitchen, with its loud fridge and quiet kettle. The living room has a large window onto the courtyard. Down the hall is Mia's bedroom — door always almost shut, never quite open. Frida the fox arrives at the back door, wet and polite. "I won't go in," she says. "I just like to be invited."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Room sketch.** Quick-draw your bedroom in 60 seconds. Mark four items: bed, desk, window, one personal thing. Show your partner.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — house and room
 
 *Rooms:* bedroom, kitchen, living room, bathroom, hallway, dining room, basement, attic.
@@ -100,8 +132,7 @@ Quantifier note: *some* in positives; *any* in negatives and questions.
 
 *on, under, in, in front of, behind, between, next to, above, below, opposite.* Quick examples: *The lamp is on the desk. The shoes are under the bed. There is a poster opposite the window.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Fill in *is / are / isn't / aren't*: There __________ a bed. There __________ no chairs. __________ there a lamp?
@@ -119,16 +150,14 @@ Quantifier note: *some* in positives; *any* in negatives and questions.
 **Productive.** 3-4. Open; check structures.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pen-pal letter — *My Home*.** Write 6 sentences describing your home or your room to an English pen-pal. Use at least 3 *there is/are* sentences and 2 prepositions.
 
 ### Sample
 
 *Hi James, this is my home. There is a small kitchen with a loud fridge. There are two bedrooms. My room is next to the bathroom. There is a desk under the window and a poster of a fox above the bed. There aren't any TVs in the house, but there is a piano in the living room.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 14 room/home words.
 - [ ] I can use *there is/are* in positive, negative, and questions.
 - [ ] I can write a 6-sentence pen-pal letter about my home.
@@ -136,54 +165,11 @@ Quantifier note: *some* in positives; *any* in negatives and questions.
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl05/units/unit03-home-and-room-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "In Mia's flat there are four rooms: a kitchen, a living room, and two bedrooms. Mia's room is small but bright. There is a desk under the window. There aren't any TVs."
-
-1. How many rooms: ___ . 2. Mia's room is ___ . 3. The desk is ___ . 4. TV? ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read about a small flat.
-
-> "There are two bedrooms, one bathroom, and a kitchen with a window. There is no living room — the kitchen is also the dining room. There is a sofa in the bigger bedroom."
-
-T or F: 1. Two bedrooms. 2. One bathroom. 3. There is a living room. 4. The sofa is in the kitchen.
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in *there is/are*, positive or negative.**
-
-1. ___ a desk in my room. (positive)
-2. ___ any chairs in the bedroom. (negative)
-3. ___ two windows in the kitchen?
-4. ___ a lamp on the desk.
-
-### Task 4 — Writing (6 BE)
-
-Write 6 sentences about your room or home to a pen-pal. Use *there is/are* and prepositions.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** 4, small / bright, under the window, no.
-**T2.** T, T, F, F.
-**T3.** 1. There is, 2. There aren't, 3. Are there, 4. There is.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

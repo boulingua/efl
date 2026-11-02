@@ -61,7 +61,7 @@ Read the *Opinion at three lengths* extract.
 
 Write 350 words: a five-paragraph opinion essay. Use lexical chain + 4 conjunctive adverbs + 1 anaphoric reference + 2 hedges.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **T1.** choose a single best sentence; one well-developed counter; fully-articulated counter + concession + subtle conclusion; not merely cosmetic.
 **T2.** single best sentence; one counter; counter + concession + subtle conclusion; what kinds of arguments the form can carry.
 **T3.** *the cap / the regulation / the measure / the policy*; however / accordingly / in this regard; *this policy*; moreover.

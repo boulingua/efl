@@ -61,7 +61,7 @@ Read the three soliloquy extracts above.
 
 Write 450 words: a Leistungsfach literary essay tracing Macbeth's relationship to time across the three soliloquies. Use 4 integrated quotes + 6 markers + 1 cleft.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **T1.** completion (conditional / hypothetical); perceptual present; future emptied of force; from conditional → perceptual present → emptied future.
 **T2.** conditional / hypothetical; the hallucinated dagger compels rather than waits; *a petty pace from day to day* — empty repetition; tense-system collapses from conditional through compelling-present to ledger-future.
 **T3.** *Macbeth approaches the act as something to be 'done quickly', a phrase whose repetition the verse itself destabilises. / In 2.1, the dagger 'before me' compels rather than waits. / The 'petty pace' the speaker names is the verse rhythm enacting itself. / It is precisely the verse-rhythm that completes the meaning.*

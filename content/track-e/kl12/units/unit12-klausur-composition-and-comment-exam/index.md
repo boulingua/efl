@@ -50,7 +50,7 @@ Leistungsfach (advanced course): 40/60.
 
 **Reflection prompt:** *In 200 words, reflect on your full 90-BE Klausur experience across Units 11 and 12. Which section did you handle best? Which needs the most rehearsal before Klasse 13?*
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** Reward thesis + integrated quote + 4 markers + 1 cleft + 2 hedges + clear structure.
 **Analysis.** Reward addressee-fit + register + 8 reporting verbs + 2 cultural notes + preserved hedges + appropriate modal mapping.
 **Time budget.** Suggested: 50 min Composition / 50 min Mediation / 10 min review.

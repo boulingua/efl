@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 11
 material_slug: "track-e_kl12_unit11-klausur-comprehension-analysis"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.2 / 3.5.3.2 Leseverstehen"
-  - "3.4.3.5 / 3.5.3.5 Schreiben"
-  - "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.2 / 3.5.3.2 Leseverstehen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl12/units/unit11_klausur-comprehension-analysis.html
+- /track_e_kl12/units/unit11_klausur-comprehension-analysis.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl12_unit11-klausur-comprehension-analysis.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl12_unit11-klausur-comprehension-analysis.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.LING.general-linguistic-range.01
-    - B2.PROD.compensating.01
-    - B2.REC.overall-reading-comprehension.01
-    - B2.LING.orthographic-control.01
-    - B2.INT.correspondence.03
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.compensating.01
+  - B2.REC.overall-reading-comprehension.01
+  - B2.LING.orthographic-control.01
+  - B2.INT.correspondence.03
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl12_unit11-klausur-comprehension-analysis
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl12/units/unit11-klausur-comprehension-analysis-exam
+  format: existing-assessment
+  duration_minutes: 20
+  points: 90
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl12_unit11-klausur-comprehension-analysis-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl12_unit11-klausur-comprehension-analysis-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -73,12 +108,10 @@ course (Leistungsfach, E-LF).
 
 This Unit is the first of two dedicated Klausur-prep Units in Klasse 12. Today's focus: Comprehension + Analysis, the two sections most reliant on close reading. Mr. Yilmaz set the source — a 1,000-word extract from a 2026 *New Yorker* essay on attention economies — and gave the class 90 minutes.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Reading-budget scan.** Before opening the source, decide: *first read* (orienting, 10 min) + *second read* (close, 15 min). What do you do differently in the second read?
 
-## 2. Input
-
+## 2. Input {#input}
 ### Comprehension section — pattern
 
 Typical Comprehension question types:
@@ -96,8 +129,7 @@ Typical Analysis question types:
 
 **Sprache check:** integrated quotation, academic register, no plot summary.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: *outline* → state in own words; *explain* → give reason; *analyse* → identify and discuss moves.
@@ -114,65 +146,25 @@ Typical Analysis question types:
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Klausur sections, timed.** 90 minutes total. 30 min Comprehension (24 BE) + 50 min Analysis (18 BE) + 10 min review. Submit. Class debriefs collectively with focus on time and integrated quotation.
 
 ### Sample
 
 (See *Reflection on the rehearsal* — the production task is the timed sections themselves.)
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can answer a Comprehension section under timed conditions.
 - [ ] I can write an Analysis section with sustained close reading.
 - [ ] I can deploy time-management discipline across the two sections.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (full paper, 90 BE)" icon="false" >}}
-**Time.** 4 hours including 20 minutes of breaks (220 active
-minutes). **Total.** 90 BE.\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl12/units/unit11-klausur-comprehension-analysis-exam" >}}).
 
-### Part A — Comprehension (~24 BE)
-
-Read the source (provided in class) twice. **Comprehension prompt:** *In your own words, outline the writer's central claim about attention economies (5 BE). Explain how the writer distinguishes *attention* from *engagement* (10 BE). Compare the writer's framing with one alternative framing the writer references (9 BE).*
-
-### Part B — Analysis (~18 BE)
-
-**Analysis prompt:** *Analyse the writer's argumentative strategy in 18 BE. Identify three specific moves with integrated quotation. Use 4 academic discourse markers.*
-
-### Part C — Composition (~18 BE)
-
-**(No additional Composition section in this Unit.)** Time-budget exercise:
-
-Allocate the 90 minutes: ___ min reading; ___ min Comprehension; ___ min Analysis; ___ min review.
-
-### Mediation (~30 BE)
-
-**(No Mediation in this Unit.)** Reflection prompt: *In 150 words, reflect on which of the two sections (Comprehension / Analysis) cost you more time and why. What would you change in next week's rehearsal?*
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** Reward own-words paraphrase + named specifics + clear structure.
-**Analysis.** Reward 3+ integrated quotes + 4 markers + technical vocabulary + close reading (not plot summary).
-**Time budget.** Suggested: 25 min reading / 30 min Comprehension / 25 min Analysis / 10 min review.
-**Reflection.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 90 BE)" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

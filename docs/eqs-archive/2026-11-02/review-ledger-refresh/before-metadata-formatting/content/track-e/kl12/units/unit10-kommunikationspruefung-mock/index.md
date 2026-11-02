@@ -1,0 +1,197 @@
+---
+page_type: unit
+title: "Unit 10 — Kommunikationsprüfung Mock"
+author: "S. Le Boulanger"
+subtitle: "Track E · Klasse 12 · Niveau E (Basisfach / Leistungsfach)"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 10
+material_slug: "track-e_kl12_unit10-kommunikationspruefung-mock"
+bildungsplan:
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen"
+- "3.4.3.3 / 3.5.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.4.3.4 / 3.5.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
+skills_focus:
+- speaking
+- listening
+- language_awareness
+aliases:
+- /track_e_kl12/units/unit10_kommunikationspruefung-mock.html
+presentation:
+  file: "/efl/materials/presentations/track-e_kl12_unit10-kommunikationspruefung-mock.pdf"
+  thumbnail: "/efl/materials/presentations/track-e_kl12_unit10-kommunikationspruefung-mock.png"
+worksheet:
+  file: "/efl/materials/worksheets/track-e_kl12_unit10-kommunikationspruefung-mock.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl12_unit10-kommunikationspruefung-mock.png"
+tags:
+- speaking
+- listening
+- language_awareness
+topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+  - B2.INT.formal-discussion.01
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.compensating.01
+  - B2.REC.overall-reading-comprehension.01
+  - B2.MED.linking-to-previous-knowledge.02
+  implements_basis: proposed
+  level_basis: derived
+audio_manifest: track-e_kl12_unit10-kommunikationspruefung-mock
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl12/units/unit10-kommunikationspruefung-mock-exam
+  format: existing-assessment
+  duration_minutes: 20
+  points: 90
+  skills:
+  - speaking
+  - listening
+  - language_awareness
+worksheet_teacher:
+  file: 
+    /efl/materials/worksheets/track-e_kl12_unit10-kommunikationspruefung-mock-teacher.pdf
+  thumbnail: 
+    /efl/materials/worksheets/track-e_kl12_unit10-kommunikationspruefung-mock-teacher.png
+---
+
+{{< callout type="note" >}}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** E. Klausur (assessment) at Niveau E (90 BE).\
+**Course tagging:** basic course (Basisfach, E-BF) and advanced
+course (Leistungsfach, E-LF).
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can deliver a 5-minute Abitur-style monologue from a stimulus and respond to a 5-minute examiner dialogue.*
+- *I can use the formal spoken-academic register and rebut / concede in real time.*
+- *I can self-assess my performance against the BW Abitur Bewertungsraster (grading grid).*
+
+## curriculum framework ("Bildungsplan") alignment
+
+- **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen**
+- **3.4.3.3 / 3.5.3.3 Sprechen – an Gesprächen teilnehmen**
+- **3.4.3.4 / 3.5.3.4 Sprechen – zusammenhängendes monologisches Sprechen**
+
+(Sources: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/GYM/E1/IK/11-12-LF> /
+<https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/GYM/E1/IK/11-12-BF>)
+
+## Lead-in story
+
+Mr. Yilmaz set today's lesson as a full-format mock Kommunikationsprüfung (oral exam). Format: 5-min monologue + 5-min examiner dialogue + 2-min closing. Bewertungsraster (grading grid) provided in advance: *kommunikative Textgestaltung* and *sprachliche Korrektheit und Variabilität*, weighted 50/50 in Basisfach (basic course), 40/60 in Leistungsfach (advanced course).
+
+## 1. Activate {#activate}
+**Stimulus draw.** Each pair draws a stimulus card (image, statistic, quote). 90 seconds prep + 2 minutes outline.
+
+## 2. Input {#input}
+### Kommunikationsprüfung (oral exam) format
+
+1. **Monologue (5 min).** Frame stimulus → 2-3 arguments → counter + concession → close.
+2. **Dialogue (5 min).** Examiner asks 5-7 follow-ups. Candidate must rebut, concede, elaborate, and connect to broader knowledge.
+3. **Close (2 min).** Synthesis + final stance.
+
+Total ~12 minutes.
+
+### Bewertungsraster — sample categories
+
+**Kommunikative Textgestaltung** (40-50 %): Aufbau, Kohärenz, Adressatenbezug, Strategien der Gesprächsführung.
+
+**Sprachliche Korrektheit und Variabilität** (50-60 %): Wortschatz, Grammatik, Idiomatik, Aussprache, Register-Sensibilität.
+
+## 3. Practise {#practise}
+### Niveau E — controlled
+
+1. Match: kommunikative Textgestaltung → structure + coherence; sprachliche Korrektheit → vocabulary + grammar.
+2. T or F: in Leistungsfach (advanced course), Sprache is weighted higher than Inhalt.
+
+### Niveau E — productive
+
+3. Self-assess your last rehearsed monologue in two columns: *Aufbau / Sprache*.
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**Controlled.** 1. all true.
+2. T (40 / 60 in LF).
+
+**Productive.** 3. Open.
+{{< /callout >}}
+
+## 4. Produce {#apply}
+**Pair Komm-Prüfung mock.** 12 minutes per pair. Audience scores using a simplified BW Bewertungsraster (grading grid). Class debrief at the end with each pair receiving one specific feedback sentence.
+
+### Sample
+
+*Let me start with the stimulus image — a 2025 photograph of a flooded Bangladesh street with three rickshaws still operating. I would argue that the image is doing two things at once: documenting climate-induced displacement and resisting the framing of climate-vulnerable countries as purely passive. The available evidence suggests that the rickshaw economy in Bangladesh has, over the past fifteen years, adapted faster to seasonal flooding than urban planning has — through informal route shifts, raised platforms at intersections, and neighbourhood phone trees. The photograph captures this. Accordingly, what I am not saying is that the flooding is not a crisis; what I am saying is that the dominant Western framing of climate vulnerability tends to crop out the adaptation. Let me concede one point first: vulnerability is real, and the rickshaw economy itself has limits. When the floods exceed waist-height, the system breaks down. By contrast, between 2015 and 2025, the system handled approximately 80 % of seasonal events without major service disruption. On reflection, what the image is asking me to do is hold the crisis and the adaptation in the same frame. If I had to commit, I would say that international policy frames are, in this regard, ten years behind the photographs. The honest question for English-language climate journalism is not *how vulnerable are these countries?* but *what have they already taught us that we have not yet absorbed?*.*
+
+## 5. Reflect {#reflect}
+- [ ] I can deliver a 5-minute monologue from a stimulus.
+- [ ] I can hold a 5-minute examiner dialogue.
+- [ ] I can self-assess against the Bewertungsraster (grading grid).
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example {#exam}
+
+[Open the separate assessment]({{< relref "track-e/kl12/units/unit10-kommunikationspruefung-mock-exam" >}}).
+
+## Teacher notes {#teacher-notes}
+
+{{< downloads >}}
+
+<div class="notes">
+**Slide deck timing.** 90 minutes total (Doppelstunde). Lead-in
+6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
+30 min · Reflect 6 min.
+
+**Differentiation — support (below Niveau E).**
+
+Monologue scaffold — complete each move aloud from your stimulus card:
+
+- **Frame:** "Let me start with the stimulus — it shows ___ . I think it is really about ___ ."
+- **Argue:** "My first point is ___ . My second point is ___ ."
+- **Concede:** "I will admit one thing: ___ . But I still believe ___ ."
+- **Close:** "So the real question this stimulus raises is not ___ , but ___ ?"
+
+**Extension (above Niveau E / Oberstufe).**
+
+In the examiner-dialogue phase, defend a deliberately uncomfortable thesis: that the "spoken-academic register" itself quietly filters whose adaptation counts as knowledge, echoing the very cropping your stimulus critiques. Sustain it under three rebuttals, conceding one genuine limit without abandoning the claim, and close by naming what a fairer examiner grid would actually reward.
+
+</div>
+
+## Common pitfalls
+
+- Reading off prep notes during the monologue.
+- Generic concessions; name the specific point.
+- Missing the *connect to broader knowledge* expectation in the dialogue phase.
+
+## Further reading / listening
+
+- Bildungsplan-aligned Komm-Prüfung mock-stimulus collections (Klett, Stark).
+- BBC Sounds — *Question Time* extracts for examiner-style follow-up rhythm.

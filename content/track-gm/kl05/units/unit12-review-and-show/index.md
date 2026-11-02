@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 12
 material_slug: "track-gm_kl05_unit12-review-and-show"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.4 Text- und Medienkompetenz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
+- "3.1.3.5 Schreiben"
+- "3.1.4 Text- und Medienkompetenz"
 skills_focus:
-  - speaking
-  - writing
-  - language_awareness
+- speaking
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl05/units/unit12_review-and-show.html
+- /track_gm_kl05/units/unit12_review-and-show.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl05_unit12-review-and-show.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl05_unit12-review-and-show.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.LING.orthographic-control.01
-    - A1.PROD.creative-writing.02
-    - A1.INT.notes-messages-and-forms.02
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.INT.correspondence.03
+  - A1.LING.orthographic-control.01
+  - A1.PROD.creative-writing.02
+  - A1.INT.notes-messages-and-forms.02
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl05_unit12-review-and-show
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl05/units/unit12-review-and-show-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl05_unit12-review-and-show-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl05_unit12-review-and-show-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,15 +105,13 @@ audio_manifest: track-gm_kl05_unit12-review-and-show
 
 Mr. Flint sets up a small stage in the classroom. "At the end of the year," he says, "each of you stands here for one minute and says something true in English." Frida the fox sits at the back. "Will you speak too?" Mia asks. Frida says, "Foxes don't talk" — in perfect English.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Three-line warm-up.** In your notebook, write:
 - *In September I …*
 - *Now I …*
 - *Next year I want to …*
 
-## 2. Input
-
+## 2. Input {#input}
 ### The 60-second talk — structure
 
 1. **Then.** Where I started in September.
@@ -97,8 +130,7 @@ Mr. Flint sets up a small stage in the classroom. "At the end of the year," he s
 - *I like …*
 - *Next year I want to …*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Build a 5-line talk using the frames above.
@@ -113,16 +145,14 @@ Mr. Flint sets up a small stage in the classroom. "At the end of the year," he s
 **M.** Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Class show.** Each student stands at the front for 60 seconds. Bullets only — no full text. After every talk, one classmate gives feedback in one English sentence: *I noticed that …*
 
 ### Sample
 
 (see Input above)
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can speak for 60 seconds about myself.
 - [ ] I can use 4 grammar points from the year.
 - [ ] I can give one English-sentence piece of feedback.
@@ -130,54 +160,11 @@ Mr. Flint sets up a small stage in the classroom. "At the end of the year," he s
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl05/units/unit12-review-and-show-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice to Theo's 60-second talk.
-
-> "My name is Theo. I am eleven. I have got one sister, Mia. I can play football very well. I can't swim 100 metres yet. Next year I want to learn the guitar."
-
-1. Age: ___ . 2. Sister's name: ___ . 3. One thing he can do: ___ . 4. One plan: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read Lina's text and answer.
-
-> "Hi, I'm Lina. In September I couldn't speak much English. Now I can write a short text about my family. I have got two cats. My favourite subject is art. Next year I want to read a book in English."
-
-1. September: ___ . 2. Now: ___ . 3. Pets: ___ . 4. Plan: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Mixed grammar review.**
-
-1. I __________ (be) eleven.
-2. Mia __________ (have got) a cat.
-3. Right now I __________ (write) my exam.
-4. Next year I __________ (learn) the guitar.
-
-### Task 4 — Writing (6 BE)
-
-Write your own 60-second talk text (8–12 sentences). Use *Then / Now / Forward*.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** 11, Mia, play football, learn the guitar.
-**T2.** couldn't speak much; can write a short text; two cats; read a book in English.
-**T3.** 1. am, 2. has got, 3. am writing, 4. will learn / am going to learn.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

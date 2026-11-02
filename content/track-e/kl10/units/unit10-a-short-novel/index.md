@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 10
 material_slug: "track-e_kl10_unit10-a-short-novel"
 bildungsplan:
-  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.3.3.2 Leseverstehen"
-  - "3.3.3.5 Schreiben"
-  - "3.3.4 Text- und Medienkompetenz"
+- "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.3.3.2 Leseverstehen"
+- "3.3.3.5 Schreiben"
+- "3.3.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl10/units/unit10_a-short-novel.html
+- /track_e_kl10/units/unit10_a-short-novel.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl10_unit10-a-short-novel.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl10_unit10-a-short-novel.png"
@@ -34,14 +34,48 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.LING.phonological-control.01
-    - B1.PROD.compensating.02
-    - B1.REC.identifying-cues-and-inferring.07
-    - B1.PROD.planning.03
-    - B1.PLUR.plurilingual-comprehension.02
+  - B1.LING.phonological-control.01
+  - B1.PROD.compensating.02
+  - B1.REC.identifying-cues-and-inferring.07
+  - B1.PROD.planning.03
+  - B1.PLUR.plurilingual-comprehension.02
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl10_unit10-a-short-novel
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl10/units/unit10-a-short-novel-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-e_kl10_unit10-a-short-novel-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl10_unit10-a-short-novel-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +104,10 @@ audio_manifest: track-e_kl10_unit10-a-short-novel
 
 The class read three chapters of an imagined contemporary novel called *The Slow Hour*. Six characters, one bus stop, three weeks. By the end of chapter three, half the class had decided it was a love story; the other half, a small civic tragedy; Mr. Yilmaz said it was *both, depending on which character you read most carefully*.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Three-chapter sketch.** With your partner, draw the arc across chapters: *what changes for whom*.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — *The Slow Hour*, ch. 3 (extract)
 
 *By the third week, the bus stop had become a small kingdom. The same six people, every weekday morning, in the same approximate order. Anya, who could predict each arrival down to the second, had stopped predicting; the predictability itself had become the comfort. Nevertheless, on Wednesday, one of the six was missing. Anya did not yet know that the missing person was the one who had, without telling anyone, been keeping the kingdom together.*
@@ -86,8 +118,7 @@ The class read three chapters of an imagined contemporary novel called *The Slow
 *Everyday / narrative:* though, still, anyway, either way, mind you.
 *Use both with intent.* Academic register fits an essay claim; narrative register fits a quoted voice.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: however → formal; though → everyday; nevertheless → formal.
@@ -104,68 +135,25 @@ The class read three chapters of an imagined contemporary novel called *The Slow
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Literary essay, 300 words.** Read the extract. Answer: *Who is Anya? What is the arc? What is the theme? Which two stylistic moves do the most work?* Use 2 quotes + 1 cleft + 2 academic register markers.
 
 ### Sample
 
 *By chapter three of *The Slow Hour*, the bus stop has, in the narrator's words, *become a small kingdom*. The repetition of arrivals — *the same six people, every weekday morning, in the same approximate order* — is the novel's quietly central image. It is precisely the predictability of the stop, the narrator suggests, that has made it bearable. Anya is the protagonist whose interior arc the author is most carefully tracking. She has stopped predicting the arrivals, not because the rhythm has changed, but because she has finally trusted it. Nevertheless, on the Wednesday of the third week, one of the six is missing. The chapter ends on the reveal of who that person was: not the most visible of the six, but the one who had been, *without telling anyone*, holding the kingdom together. The two stylistic moves doing the most work are the controlled use of *nevertheless* and the late, dropped fact of the missing person's role. The first gives the chapter its essayistic gravity; the second is what turns the predictability of the morning routine into something fragile and real. The theme, I think, is the invisibility of the people who keep small communities running, and the moral weight that lands on a narrator only when those people stop. Indeed, the novel uses an ordinary bus stop to ask a serious civic question.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify protagonist arc, setting, theme, two stylistic moves.
 - [ ] I can use formal and everyday register markers with intent.
 - [ ] I can write a 300-word literary essay with two quotes.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl10/units/unit10-a-short-novel-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "By the third week, the bus stop had become a small kingdom. The same six people, every weekday morning. Anya had stopped predicting each arrival; the predictability itself had become the comfort. Nevertheless, on Wednesday, one was missing."
-
-1. Time: ___ . 2. Number of regulars: ___ . 3. Anya's shift: ___ . 4. Wednesday event: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the *Slow Hour* ch. 3 extract above.
-
-1. Setting: ___ . 2. Anya's relationship to the rhythm: ___ . 3. The absent person's hidden role: ___ . 4. The chapter's reveal: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Build the cleft + register match.**
-
-1. Cleft on *the predictability*: → ___
-2. Cleft on *the missing person*: → ___
-3. Choose: *however / though* in *(an essay sentence)* → ___
-4. Choose: *however / though* in *(a quoted line of dialogue)* → ___
-
-### Task 4 — Writing (13 BE)
-
-Write 300 words: a literary essay on the *Slow Hour* extract. Use 2 quotes + 1 cleft + 2 register markers.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** third week; six; stopped predicting — predictability became the comfort; one missing.
-**T2.** bus stop, third week of mornings; she stopped predicting because she had finally trusted the rhythm; the missing person had been keeping the kingdom together; the chapter ends on the reveal of that person's role.
-**T3.** *It was the predictability that had become the comfort. It was the missing person who had been keeping the kingdom together. however / though.*
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

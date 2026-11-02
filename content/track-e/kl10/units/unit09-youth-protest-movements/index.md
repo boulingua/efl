@@ -9,17 +9,17 @@ track: "e"
 unit_nr: 9
 material_slug: "track-e_kl10_unit09-youth-protest-movements"
 bildungsplan:
-  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.3.2 Interkulturelle kommunikative Kompetenz"
-  - "3.3.3.2 Leseverstehen"
-  - "3.3.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.3.4 Text- und Medienkompetenz"
+- "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.3.2 Interkulturelle kommunikative Kompetenz"
+- "3.3.3.2 Leseverstehen"
+- "3.3.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.3.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - speaking
-  - intercultural
+- reading
+- speaking
+- intercultural
 aliases:
-  - /track_e_kl10/units/unit09_youth-protest-movements.html
+- /track_e_kl10/units/unit09_youth-protest-movements.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl10_unit09-youth-protest-movements.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl10_unit09-youth-protest-movements.png"
@@ -35,14 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.formal-discussion.01
-    - B1.PROD.planning.03
-    - B1.REC.identifying-cues-and-inferring.01
-    - B1.SOC.sociolinguistic-appropriateness.01
-    - B1.PLUR.plurilingual-comprehension.02
+  - B1.INT.formal-discussion.01
+  - B1.PROD.planning.03
+  - B1.REC.identifying-cues-and-inferring.01
+  - B1.SOC.sociolinguistic-appropriateness.01
+  - B1.PLUR.plurilingual-comprehension.02
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl10_unit09-youth-protest-movements
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl10/units/unit09-youth-protest-movements-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - speaking
+  - intercultural
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl10_unit09-youth-protest-movements-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl10_unit09-youth-protest-movements-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,12 +107,10 @@ audio_manifest: track-e_kl10_unit09-youth-protest-movements
 
 Maja's class compared two youth movements: a climate school-strike movement of the late 2010s and a housing-rights movement that began in Lisbon in 2024. Same age range, similar visibility online, very different policy outcomes. Mr. Yilmaz framed the question: *what made one of them legible to the system, and the other not?*
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Movement-mapping scan.** With your partner, list two youth movements you have heard of in the past five years and one tactic each used.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — *Two Youth Movements, Compared*
 
 *The school-strike climate movement of 2018-2020 drew millions of young people into weekly walk-outs across more than 130 countries. Its central demand — that governments listen to climate scientists — was clear, and its tactic — visible absence — was easily understood by the public. The Lisbon housing movement of 2024-2026, by contrast, used occupations of empty buildings and detailed policy papers. Its demands were narrower and harder to summarise. It is precisely the legibility of the first movement, some commentators argue, that made it useful to politicians; and precisely the specificity of the second that has produced sharper policy results.*
@@ -89,8 +122,7 @@ Maja's class compared two youth movements: a climate school-strike movement of t
 - *It was the specificity that produced sharper results.*
 - *What made the difference was the specificity.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Build a cleft sentence: emphasise *the legibility* in *the legibility of the first movement made it useful*.
@@ -107,68 +139,25 @@ Maja's class compared two youth movements: a climate school-strike movement of t
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Panel-style discussion (5 min).** Groups of 4. Each speaker delivers a 60-second opening on: *what makes a youth movement effective?* Use 1 cleft + 1 hedge + 1 specific example. Other speakers ask 1 follow-up.
 
 ### Sample
 
 *What makes a youth movement effective is, I would argue, the legibility of its central demand. It is precisely when a movement can summarise itself in one sentence — *listen to climate scientists* — that the public can stand behind it without having to do homework. However, this comes at a cost. The Lisbon housing movement of 2024 was less legible; its demands were narrower and required several pages of explanation. And yet, the available evidence suggests, it was the specificity of those demands that produced sharper policy results within two years. Both kinds of movement matter. The lesson, perhaps, is that legibility wins attention, while specificity wins the policy.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify tactics, demands, and outcomes of two youth movements.
 - [ ] I can use cleft-sentence emphasis.
 - [ ] I can hold a 5-minute panel-style discussion.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl10/units/unit09-youth-protest-movements-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "The school-strike movement drew millions across more than 130 countries. Its demand — that governments listen to climate scientists — was clear and its tactic, visible absence, was easily understood. The Lisbon housing movement used building occupations and detailed policy papers; its demands were narrower."
-
-1. School-strike scale: ___ . 2. School-strike demand: ___ . 3. Lisbon tactic: ___ . 4. Lisbon demands: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the *Two Youth Movements* extract above.
-
-1. Years of school-strike: ___ . 2. School-strike tactic: ___ . 3. Lisbon years + tactic: ___ . 4. The argument about legibility vs. specificity: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Build a cleft sentence emphasising the underlined phrase.**
-
-1. *the legibility* of the first movement made it useful → ___
-2. *the specificity* of the second produced sharper results → ___
-3. *the public* eventually decided the issue → ___
-4. *the writers* were responsible for the framing → ___
-
-### Task 4 — Writing (13 BE)
-
-Write 220 words: a comparison of two youth movements with one cleft + 2 hedges.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** millions across 130+ countries; listen to climate scientists; building occupations + policy papers; narrower / harder to summarise.
-**T2.** 2018-2020; visible absence (school walk-outs); 2024-2026 / building occupations + policy papers; legibility wins attention, specificity wins policy.
-**T3.** *It was the legibility … that made it useful. It was the specificity … that produced sharper results. It was the public that decided. It was the writers that were responsible.*
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

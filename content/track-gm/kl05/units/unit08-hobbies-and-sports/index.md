@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 8
 material_slug: "track-gm_kl05_unit08-hobbies-and-sports"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.1 Hör-/Hörsehverstehen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - speaking
-  - listening
-  - language_awareness
+- speaking
+- listening
+- language_awareness
 aliases:
-  - /track_gm_kl05/units/unit08_hobbies-and-sports.html
+- /track_gm_kl05/units/unit08_hobbies-and-sports.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl05_unit08-hobbies-and-sports.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl05_unit08-hobbies-and-sports.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.LING.orthographic-control.01
-    - A1.PROD.creative-writing.02
-    - A1.REC.overall-reading-comprehension.01
-    - A1.MED.relaying-specific-information.02
+  - A1.INT.correspondence.03
+  - A1.LING.orthographic-control.01
+  - A1.PROD.creative-writing.02
+  - A1.REC.overall-reading-comprehension.01
+  - A1.MED.relaying-specific-information.02
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl05_unit08-hobbies-and-sports
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl05/units/unit08-hobbies-and-sports-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking
+  - listening
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl05_unit08-hobbies-and-sports-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl05_unit08-hobbies-and-sports-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +105,10 @@ audio_manifest: track-gm_kl05_unit08-hobbies-and-sports
 
 Theo plays football on Saturdays. Mia reads books in her room. Frida the fox does nothing in particular. "Doing nothing is a hobby," Frida explains. "For foxes it's a serious skill."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Mime corner.** The teacher mimes a hobby (reading, swimming, painting, cycling, dancing). Class shouts the English word.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — hobbies and sports
 
 *Hobbies:* reading, drawing, painting, dancing, playing the guitar, playing video games, cooking, gardening.
@@ -89,8 +122,7 @@ Theo plays football on Saturdays. Mia reads books in her room. Frida the fox doe
 - *Can you ride a bike?* — *Yes, I can. / No, I can't.*
 - *He can play the guitar.* (no -s on can; no -s on play)
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. I __________ swim. (can) 2. He __________ play tennis. (negative)
@@ -107,16 +139,14 @@ Theo plays football on Saturdays. Mia reads books in her room. Frida the fox doe
 **M.** 5. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair speaking — *Find someone who*.** Walk around with a list: *Find someone who can ride a unicycle / play chess / dance / swim 50 metres / draw a horse*. Write the names.
 
 ### Sample
 
 *— Can you ride a unicycle?* / *— No, I can't. Can you draw a horse?* / *— Yes, a small one.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 8 hobbies and 6 sports.
 - [ ] I can use *can / can't* correctly.
 - [ ] I can ask 5 *Can you…?* questions.
@@ -124,53 +154,11 @@ Theo plays football on Saturdays. Mia reads books in her room. Frida the fox doe
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl05/units/unit08-hobbies-and-sports-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "I can swim and I can ride a bike, but I can't play the guitar. My brother can play the guitar very well, but he can't swim."
-
-T or F: 1. I can swim. 2. I can play the guitar. 3. My brother can swim. 4. My brother plays the guitar well.
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "Mia loves reading and drawing. She can paint very well. She can't play any instrument. On Saturdays she goes cycling with her brother."
-
-1. Two hobbies of Mia: ___ . 2. One thing she can do well: ___ . 3. One thing she cannot do: ___ . 4. Saturday: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in *can / can't*.**
-
-1. I __________ swim, but I __________ swim 100 metres.
-2. ___ you ride a bike?
-3. Theo __________ play the guitar very well.
-
-### Task 4 — Writing (6 BE)
-
-Write 4 sentences about your hobbies: two things you can do, one you can't, one you would like to learn.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** T, F, F, T.
-**T2.** reading and drawing; paint; play any instrument; she goes cycling.
-**T3.** 1. can / can't, 2. Can, 3. can.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

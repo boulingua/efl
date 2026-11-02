@@ -61,7 +61,7 @@ Read the three openings above.
 
 Write 280 words: a literary essay engaging the three post-colonial openings. Use 4 voice-marking phrases.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **T1.** 1958; lays claim with the calm of a history book; alludes to Achebe's title from inside a domestic frame; distances himself with *the world is what it is*.
 **T2.** Okonkwo's personal achievement / the village as world-centre; Achebe's 1958 title *Things Fall Apart*; cold / unsentimental / abrasive / refusing pity / blunt; domesticates the post-colonial argument into one piece of furniture.
 **T3.** The opening lays claim with / The opening alludes to / The narrator distances himself / The text positions the reader.

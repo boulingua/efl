@@ -56,7 +56,7 @@ Read your set text. Identify three chapters where the *language-as-control* moti
 
 **Mediation prompt:** A 250-word German literary-criticism review of the novel. Mediate for an English-speaking literary-magazine reader. (Source provided in class.)
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. scripture-coded greetings; 2. silent private register / private narrative; 3. *Historical Notes* — 2195 academic conference; 4. *the recovery of a silenced voice is itself vulnerable to a new form of instrumentalisation*.
 **Analysis.** 1. early chapters with *Blessed be the fruit* greetings; 2. middle chapters with Offred's silent composition; 3. *Historical Notes* — academic appropriation; 4. colonisation → refusal → academic recovery (with the third being the structural argument).
 **Composition.** Open.

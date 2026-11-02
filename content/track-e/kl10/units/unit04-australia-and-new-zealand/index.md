@@ -9,17 +9,17 @@ track: "e"
 unit_nr: 4
 material_slug: "track-e_kl10_unit04-australia-and-new-zealand"
 bildungsplan:
-  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.3.2 Interkulturelle kommunikative Kompetenz"
-  - "3.3.3.1 Hör-/Hörsehverstehen"
-  - "3.3.3.2 Leseverstehen"
-  - "3.3.4 Text- und Medienkompetenz"
+- "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.3.2 Interkulturelle kommunikative Kompetenz"
+- "3.3.3.1 Hör-/Hörsehverstehen"
+- "3.3.3.2 Leseverstehen"
+- "3.3.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - listening
-  - intercultural
+- reading
+- listening
+- intercultural
 aliases:
-  - /track_e_kl10/units/unit04_australia-and-new-zealand.html
+- /track_e_kl10/units/unit04_australia-and-new-zealand.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl10_unit04-australia-and-new-zealand.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl10_unit04-australia-and-new-zealand.png"
@@ -35,14 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.REC.reading-for-information-and-argument.02
-    - B1.SOC.sociolinguistic-appropriateness.01
-    - B1.REC.reading-for-orientation.03
-    - B1.PLUR.plurilingual-comprehension.02
-    - B1.MED.analysis-and-criticism-of-creative-texts.01
+  - B1.REC.reading-for-information-and-argument.02
+  - B1.SOC.sociolinguistic-appropriateness.01
+  - B1.REC.reading-for-orientation.03
+  - B1.PLUR.plurilingual-comprehension.02
+  - B1.MED.analysis-and-criticism-of-creative-texts.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl10_unit04-australia-and-new-zealand
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl10/units/unit04-australia-and-new-zealand-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - listening
+  - intercultural
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl10_unit04-australia-and-new-zealand-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl10_unit04-australia-and-new-zealand-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,12 +107,10 @@ audio_manifest: track-e_kl10_unit04-australia-and-new-zealand
 
 Maja's class compared two pen-pal letters: one from Brisbane, one from Wellington. The Brisbane letter talked about heat and cricket. The Wellington letter talked about wind, te reo Māori in the cafés, and a national mood that the writer described as *small-country, big-listening*.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Two-flag scan.** Quick map exercise: locate Australia and New Zealand on the slide. Write three differences (geography, population, language).
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — *Two Pen-Pals*
 
 *Australia is a continent of about 26 million; New Zealand is two main islands of about 5.2 million. While both share British colonial history, Indigenous languages are visible on different scales. In New Zealand, te reo Māori is widely audible in news, cafés and government — *kia ora* is the everyday hello. In Australia, hundreds of Aboriginal languages survive, often more locally audible than nationally so. Place names like *Wagga Wagga* and *Wollongong* preserve those languages in plain sight, even when the city itself looks British.*
@@ -90,8 +123,7 @@ Maja's class compared two pen-pal letters: one from Brisbane, one from Wellingto
 
 *Wagga Wagga (place of many crows / Wiradjuri), Wollongong (sound of the sea / Dharawal), Parramatta (place where eels lie down / Darug), Toowoomba (place of swamp), Canberra (meeting place).*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: kia ora → hello; whānau → family; iwi → tribe.
@@ -108,65 +140,25 @@ Maja's class compared two pen-pal letters: one from Brisbane, one from Wellingto
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Comparative portrait, 200 words.** Compare Australia and New Zealand past stereotypes. Use 2 comparatives / superlatives + 1 *whereas* + 1 *kia ora* or Indigenous place name in context.
 
 ### Sample
 
 *Australia and New Zealand share a British colonial history but diverge sharply in scale. Australia is a continent of about 26 million; New Zealand, two main islands of about 5.2 million. The most striking linguistic difference is the visibility of Indigenous languages: in New Zealand, te reo Māori is widely audible in news, cafés, and government — *kia ora* is the everyday hello. Whereas in Australia, hundreds of Aboriginal languages survive, often more locally audible than nationally so. Place names like Wagga Wagga (Wiradjuri) and Parramatta (Darug) preserve those languages in the streetscape, even when the city itself looks British. Australia is climatically harder; New Zealand is, by most measures, less extreme. Wellington's reputation, however, suggests that 'less extreme' does not mean 'gentle' — the city is the windiest capital in the world.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify three differences between AU and NZ.
 - [ ] I can recognise 6 Māori-English / Aboriginal-English words.
 - [ ] I can write a 200-word comparative regional portrait.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl10/units/unit04-australia-and-new-zealand-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "In New Zealand, te reo Māori is widely audible — kia ora is the everyday hello. About 5.2 million people live there. In Australia, hundreds of Aboriginal languages survive, often more locally audible than nationally. Wagga Wagga is a Wiradjuri place name."
-
-1. NZ greeting: ___ . 2. NZ population: ___ . 3. AU languages: ___ . 4. Wagga Wagga origin: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the *Two Pen-Pals* extract above.
-
-1. Population gap: ___ . 2. Shared history: ___ . 3. te reo visibility: ___ . 4. AU language visibility: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Match.**
-
-1. kia ora → ___ ; 2. whānau → ___ ; 3. iwi → ___ ; 4. Wagga Wagga origin: ___ .
-
-### Task 4 — Writing (13 BE)
-
-Write 200 words: a comparative AU / NZ portrait. Use 2 comparatives + 1 Māori or Aboriginal place name.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** kia ora; about 5.2 million; hundreds of Aboriginal languages; Wiradjuri.
-**T2.** ~26m vs ~5.2m; British colonial; widely audible incl. news / cafés / government; often more locally audible than nationally.
-**T3.** hello / extended family / tribe / Wiradjuri (place of many crows).
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

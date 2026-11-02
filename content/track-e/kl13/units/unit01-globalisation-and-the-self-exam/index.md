@@ -64,7 +64,7 @@ Read the three paraphrased frames above.
 
 **Mediation prompt:** A 250-word German Feuilleton-essay on Heimat. Mediate for an English-speaking literary-essay reader. (Source provided in class.)
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. plural identity (no single belonging); 2. rooted cosmopolitanism (local + general loyalties); 3. small voluntary self-displacement → third self; 4. all reject the cartoon of identity as a single sticker.
 **Analysis.** plural identity is the fact, rooted cosmopolitanism is the political stance, third self is the practical experience; *rooted cosmopolitanism*; *a small voluntary self-displacement that produces a third version of yourself*; the singular-identity cartoon.
 **Composition.** Open.
