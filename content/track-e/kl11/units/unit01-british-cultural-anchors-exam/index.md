@@ -61,7 +61,7 @@ Read the *BBC* extract above.
 
 Write 250 words: a cultural-essay paragraph on a British anchor. Use 4 academic discourse markers.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **T1.** 1922; 1927; *inform, educate, entertain*; household licence fee.
 **T2.** 1922; 1927; *inform, educate, entertain*; household licence fee.
 **T3.** By contrast / Accordingly / More specifically / In this regard.

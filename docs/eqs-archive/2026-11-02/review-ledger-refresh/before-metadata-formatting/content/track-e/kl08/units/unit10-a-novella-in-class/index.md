@@ -1,0 +1,196 @@
+---
+page_type: unit
+title: "Unit 10 — A Novella in Class"
+author: "S. Le Boulanger"
+subtitle: "Track E · Klasse 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 10
+material_slug: "track-e_kl08_unit10-a-novella-in-class"
+bildungsplan:
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.2.4 Text- und Medienkompetenz"
+skills_focus:
+- reading
+- writing
+- language_awareness
+aliases:
+- /track_e_kl08/units/unit10_a-novella-in-class.html
+presentation:
+  file: "/efl/materials/presentations/track-e_kl08_unit10-a-novella-in-class.pdf"
+  thumbnail: "/efl/materials/presentations/track-e_kl08_unit10-a-novella-in-class.png"
+worksheet:
+  file: "/efl/materials/worksheets/track-e_kl08_unit10-a-novella-in-class.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl08_unit10-a-novella-in-class.png"
+tags:
+- reading
+- writing
+- language_awareness
+topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+  - A2.LING.orthographic-control.01
+  - A2.PROD.creative-writing.07
+  - A2.REC.identifying-cues-and-inferring.02
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+  implements_basis: proposed
+  level_basis: derived
+audio_manifest: track-e_kl08_unit10-a-novella-in-class
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl08/units/unit10-a-novella-in-class-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file: 
+    /efl/materials/worksheets/track-e_kl08_unit10-a-novella-in-class-teacher.pdf
+  thumbnail: 
+    /efl/materials/worksheets/track-e_kl08_unit10-a-novella-in-class-teacher.png
+---
+
+{{< callout type="note" >}}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** E. class test ("Klassenarbeit") at Niveau E (45 BE).
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can read a chapter extract and identify protagonist, conflict, and theme.*
+- *I can use direct → reported speech (statements and questions).*
+- *I can write a 150-word reading-journal entry.*
+
+## Bildungsplan alignment
+
+- **3.2.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.2.3.2 Leseverstehen**
+- **3.2.3.5 Schreiben**
+- **3.2.3.8 Verfügen über sprachliche Mittel – Grammatik**
+- **3.2.4 Text- und Medienkompetenz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Mr. Ade started the term with a thin novella: *The Library of Almost-Found Things* (an original — not a real-world title). Each chapter is six pages. The class is reading one chapter per week. The protagonist is a girl named June who keeps a notebook of *things she almost found*. Hawa says, "This is suspiciously specific. I think Mr. Ade has lost something."
+
+## 1. Activate {#activate}
+**Predict.** First sentence on the slide: *On the Tuesday June found the umbrella, she had already lost two other things.* With your partner, predict three things the chapter will involve.
+
+## 2. Input {#input}
+### Reading — *Chapter 1, opening*
+
+*On the Tuesday June found the umbrella, she had already lost two other things. The first was a library book she could no longer remember the title of. The second was the courage to ask Mr. Owen what had happened to her grandmother's letters. The umbrella, by comparison, was small. But it had her grandmother's initials on the handle, and June had looked for it for three years.*
+
+### Grammar — direct → reported speech
+
+**Statements** — backshift the tense:
+- *"I found it," she said.* → *She said (that) she had found it.*
+- *"I'm tired."* → *She said she was tired.*
+
+**Questions** — change to statement order, use *if/whether* for yes/no:
+- *"Where is it?"* → *He asked where it was.*
+- *"Did you see it?"* → *He asked if I had seen it.*
+
+## 3. Practise {#practise}
+### Niveau E — controlled
+
+1. Direct → reported (statement): *"I found the umbrella," she said.* → ___ .
+2. Direct → reported (Q): *"Where is the library?"* → ___ .
+
+### Niveau E — productive
+
+3. Build 4 reported sentences (2 statements + 2 questions) from a chapter scene.
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**Controlled.** 1. *She said she had found the umbrella.*
+2. *He asked where the library was.*
+
+**Productive.** 3. Open.
+{{< /callout >}}
+
+## 4. Produce {#apply}
+**Reading-journal entry, 150 words.** After reading Chapter 1, write a journal entry: *one quote*, *one question I have*, *one prediction*, *one personal connection*. Use one direct quote and one reported version of a character's question.
+
+### Sample
+
+*One sentence in this chapter stays with me: "The umbrella, by comparison, was small." June seems to compare every object to her bigger losses, which is both touching and a bit sad. I wonder why Mr. Owen kept her grandmother's letters in the first place. He asked June if she remembered the title of the lost library book; she didn't. I predict the title will return at the end of the book and explain everything. My personal connection: I once spent two weeks looking for a single sock and never found it.*
+
+## 5. Reflect {#reflect}
+- [ ] I can identify protagonist, conflict, theme.
+- [ ] I can convert direct ↔ reported speech.
+- [ ] I can write a 150-word reading-journal entry.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example {#exam}
+
+[Open the separate assessment]({{< relref "track-e/kl08/units/unit10-a-novella-in-class-exam" >}}).
+
+## Teacher notes {#teacher-notes}
+
+{{< downloads >}}
+
+<div class="notes">
+**Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
+5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
+
+**Differentiation — support (below Niveau E).**
+
+Complete this journal-entry frame with your own words about Chapter 1:
+
+- **Quote:** One sentence from the chapter that I liked is: "____________."
+- **Question:** I still want to know why ____________.
+- **Prediction:** I think that later in the book, ____________.
+- **Reported speech:** June asked Mr. Owen if ____________ (change her question to statement order and backshift the tense).
+- **Connection:** This reminds me of a time when I ____________.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 250-word comparative journal entry in which you weigh June's habit of measuring small losses against her larger ones, and argue whether her notebook of "almost-found things" is a healthy way of coping or a form of avoidance. Support your claim with two pieces of textual evidence (one direct quotation and one reported version of a character's line), then contrast June's response to loss with that of a protagonist from another novella or film you know, explaining what the comparison reveals about how people hold on to what they cannot recover.
+
+</div>
+
+## Common pitfalls
+
+- Forgetting backshift: *"I am tired" → He said he is tired* → ✗ / *was tired* → ✓.
+- Question word order: *He asked where was it* → ✗ / *where it was* → ✓.
+- Pronoun shift: *I → he/she/I* depending on speaker.
+
+## Further reading / listening
+
+- Project Gutenberg — short novellas at A2/B1 level.
+- BBC Bitesize — *Reported speech* practice.

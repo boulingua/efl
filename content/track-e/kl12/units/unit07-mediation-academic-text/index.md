@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 7
 material_slug: "track-e_kl12_unit07-mediation-academic-text"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.5 / 3.5.3.5 Schreiben"
-  - "3.4.3.6 / 3.5.3.6 Sprachmittlung"
-  - "3.4.3.7 / 3.5.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.3.6 / 3.5.3.6 Sprachmittlung"
+- "3.4.3.7 / 3.5.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - mediation
-  - writing
-  - language_awareness
+- mediation
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl12/units/unit07_mediation-academic-text.html
+- /track_e_kl12/units/unit07_mediation-academic-text.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl12_unit07-mediation-academic-text.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl12_unit07-mediation-academic-text.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.LING.phonological-control.03
-    - B2.MED.translating-a-written-text.03
-    - B2.PROD.monitoring-and-repair.03
-    - B2.LING.general-linguistic-range.01
-    - B2.REC.reading-for-orientation.03
+  - B2.LING.phonological-control.03
+  - B2.MED.translating-a-written-text.03
+  - B2.PROD.monitoring-and-repair.03
+  - B2.LING.general-linguistic-range.01
+  - B2.REC.reading-for-orientation.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl12_unit07-mediation-academic-text
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl12/units/unit07-mediation-academic-text-exam
+  format: existing-assessment
+  duration_minutes: 20
+  points: 90
+  skills:
+  - mediation
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl12_unit07-mediation-academic-text-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl12_unit07-mediation-academic-text-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,12 +108,10 @@ course (Leistungsfach, E-LF).
 
 The class received a 500-word German social-science abstract from a 2026 paper on intergenerational income mobility in OECD countries. The addressee: an English-speaking PhD-track economist who reads abstracts to triage what to read in full. The task: mediate the abstract honestly enough that the researcher can decide whether to read the full paper.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Audit scan.** Mark each line of the German abstract: *findings / methods / hedges / implications*.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Source — *Academic abstract (excerpt, paraphrased)*
 
 *Diese Arbeit untersucht intergenerationale Einkommensmobilität in 18 OECD-Ländern für die Geburtskohorten 1970-1990. Methodisch verwenden wir verlinkte Steuerregister-daten und einen Two-Sample IV-Schätzer. Die Hauptergebnisse legen nahe, dass die Mobilität in den meisten kontinentaleuropäischen Ländern höher ist als in den Vereinigten Staaten, dass jedoch der Abstand zwischen den 1970er- und den 1990er-Kohorten in einigen Ländern (Deutschland, Frankreich) gewachsen ist. Limitationen umfassen die unbeobachtete Heterogenität in der Migrationskohorte. Politische Implikationen diskutieren wir vorsichtig.*
@@ -92,8 +126,7 @@ The class received a 500-word German social-science abstract from a 2026 paper o
 
 **Disciplinary register:** *Two-Sample IV* is a specific econometric estimator — keep the term, add a cultural / disciplinary note if needed.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match German hedge → English: *legen nahe* → ?, *dürften* → ?, *vorsichtig* → ?
@@ -110,71 +143,25 @@ The class received a 500-word German social-science abstract from a 2026 paper o
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Academic mediation, 15 sentences.** Read the source above. Write 15 English sentences for an English-speaking PhD-track economist. Preserve hedges + modal nuance + disciplinary register + use 8 reporting verbs + 1 cultural-disciplinary note bracket.
 
 ### Sample
 
 *Hi Jordan, here's a clean mediation of the abstract — should help your triage. The paper examines intergenerational income mobility across 18 OECD countries for the 1970-1990 birth cohorts. Methodologically, the authors use linked tax-register data with a Two-Sample IV estimator (an instrumental-variables approach combining two datasets to handle measurement issues). The main findings suggest that mobility in most of continental Europe is higher than in the United States. By contrast, the authors note that the gap between the 1970s and 1990s cohorts has, in some countries (Germany, France), widened. They stress that limitations include unobserved heterogeneity in the migration cohort — a non-trivial concern given migration patterns over the period. The paper discusses policy implications with caution; it does not claim that the mobility gap is causally attributable to specific tax-and-transfer regimes. What it does is establish a stylised fact base robust enough to reward a fuller read. The authors concede that their identification strategy depends on assumptions standard in the literature but worth checking against the appendix. They argue, nonetheless, that the headline finding — widening gap in the 1990s cohorts in some continental countries — is robust to most specifications. They warn against extrapolating to outside-OECD contexts. They note, finally, that the next paper in the project will tackle the unobserved-heterogeneity problem head-on. In short: a paper worth reading in full, particularly the methods section.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can mediate a 500-word academic abstract into 15 English sentences.
 - [ ] I can preserve hedge structure, modal nuance, and disciplinary register.
 - [ ] I can use 8 reporting verbs accurately.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (full paper, 90 BE)" icon="false" >}}
-**Time.** 4 hours including 20 minutes of breaks (220 active
-minutes). **Total.** 90 BE.\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl12/units/unit07-mediation-academic-text-exam" >}}).
 
-### Part A — Comprehension (~24 BE)
-
-Read twice.
-
-> "Diese Arbeit untersucht intergenerationale Einkommensmobilität in 18 OECD-Ländern. Methodisch nutzen wir verlinkte Steuerregisterdaten. Die Hauptergebnisse legen nahe, dass die Mobilität in Kontinentaleuropa höher ist als in den USA. Der Abstand zwischen Kohorten ist in Deutschland und Frankreich gewachsen."
-
-1. Sample: ___ . 2. Method: ___ . 3. Main finding: ___ . 4. Cross-cohort change: ___ .
-
-### Part B — Analysis (~18 BE)
-
-Read the German abstract above.
-
-1. Birth cohorts: ___ . 2. Estimator: ___ . 3. Limitation: ___ . 4. Policy stance: ___ .
-
-### Part C — Composition (~18 BE)
-
-**Match German hedge → English.**
-
-1. legen nahe → ___ ; 2. dürften → ___ ; 3. vorsichtig diskutieren → ___ ; 4. Limitationen umfassen → ___ .
-
-### Mediation (~30 BE)
-
-**Mediation prompt:** Write 15 English sentences for the named addressee profile. Preserve hedges + use 8 reporting verbs + 1 cultural-disciplinary note bracket.
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** 1. 18 OECD countries; 2. linked tax-register data; 3. mobility in continental Europe higher than US; 4. gap widened in Germany and France between 1970s and 1990s cohorts.
-**Analysis.** 1. 1970-1990 birth cohorts; 2. Two-Sample IV estimator; 3. unobserved heterogeneity in migration cohort; 4. *vorsichtig diskutieren* — discusses policy implications with caution.
-**Composition.** suggest / are likely to / discuss with caution / limitations include.
-**Mediation.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 90 BE)" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

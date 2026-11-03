@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 6
 material_slug: "track-gm_kl06_unit06-friends-and-feelings"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - speaking
-  - writing
-  - language_awareness
+- speaking
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl06/units/unit06_friends-and-feelings.html
+- /track_gm_kl06/units/unit06_friends-and-feelings.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl06_unit06-friends-and-feelings.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl06_unit06-friends-and-feelings.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.LING.phonological-control.01
-    - A1.PROD.creative-writing.01
-    - A1.INT.information-exchange.02
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.INT.correspondence.03
+  - A1.LING.phonological-control.01
+  - A1.PROD.creative-writing.01
+  - A1.INT.information-exchange.02
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl06_unit06-friends-and-feelings
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl06/units/unit06-friends-and-feelings-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl06_unit06-friends-and-feelings-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl06_unit06-friends-and-feelings-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,12 +105,10 @@ curriculum:
 
 Lina is in a strange mood. Sam asks why. She says, "I don't know — I'm tired and slightly proud and a tiny bit jealous all at once." Sam nods. "That is called Tuesday afternoon," he says.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Mood scan.** Stand on a line: *very happy* (left wall) → *very sad* (right wall). Find your spot. No talking. The teacher reads three short statements; students adjust their position.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — feelings
 
 *happy, sad, tired, excited, proud, nervous, scared, angry, jealous, calm, surprised, disappointed, embarrassed, grateful.*
@@ -92,8 +126,7 @@ Lina is in a strange mood. Sam asks why. She says, "I don't know — I'm tired a
 - *How was your day?*
 - *Are you OK?*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Match: happy — :), sad — :(, surprised — :O, tired — zzz. (T / F)
@@ -109,8 +142,7 @@ Lina is in a strange mood. Sam asks why. She says, "I don't know — I'm tired a
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair speaking — *Today's Mood*.** Two minutes each. Use at least three feelings + one *because* + one *so* sentence.
 
 ### Sample
@@ -118,62 +150,18 @@ Lina is in a strange mood. Sam asks why. She says, "I don't know — I'm tired a
 *— I'm a bit nervous because we have a maths test.*
 *— I get it. I am proud, though, so it balances out.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 12 feelings.
 - [ ] I can ask *How are you?* in 5 ways.
 - [ ] I can use *because* and *so* in short reasons.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl06/units/unit06-friends-and-feelings-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "Lina is excited because she has a school trip tomorrow. Sam is nervous because he forgot his homework. Mr. Flint is calm because he always is. The cat is hungry, so it complains."
-
-1. Lina: ___ . 2. Sam: ___ . 3. Mr. Flint: ___ . 4. The cat: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "Today is Friday and I am tired but happy. Tired because we had two tests. Happy because the weekend starts at 1 p.m. and my best friend is coming over."
-
-1. Day: ___ . 2. Two feelings: ___ . 3. Reason for tiredness: ___ . 4. Reason for happiness: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in *because* or *so*.**
-
-1. I'm hungry __________ I didn't eat breakfast.
-2. He's tired, __________ he is going to bed early.
-3. We're excited __________ tomorrow is a school trip.
-4. It is raining, __________ we are staying home.
-
-### Task 4 — Writing (6 BE)
-
-Write 5–6 sentences about today's mood. Use 3 feelings, one *because* and one *so*.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** excited / school trip; nervous / forgot homework; calm; hungry / complains.
-**T2.** Friday; tired and happy; two tests; weekend + best friend coming.
-**T3.** because / so / because / so.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 11
 material_slug: "track-gm_kl08_unit11-public-speaking"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.1 Hör-/Hörsehverstehen"
-  - "3.2.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
-  - "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.1 Hör-/Hörsehverstehen"
+- "3.2.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
+- "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - speaking
-  - listening
-  - language_awareness
+- speaking
+- listening
+- language_awareness
 aliases:
-  - /track_gm_kl08/units/unit11_public-speaking.html
+- /track_gm_kl08/units/unit11_public-speaking.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl08_unit11-public-speaking.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl08_unit11-public-speaking.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.correspondence.04
-    - A2.LING.orthographic-control.01
-    - A2.PROD.sustained-monologue-giving-information.01
-    - A2.REC.overall-reading-comprehension.02
-    - A2.MED.overall-mediation.02
+  - A2.INT.correspondence.04
+  - A2.LING.orthographic-control.01
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.REC.overall-reading-comprehension.02
+  - A2.MED.overall-mediation.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl08_unit11-public-speaking
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl08/units/unit11-public-speaking-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - speaking
+  - listening
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl08_unit11-public-speaking-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl08_unit11-public-speaking-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,12 +105,10 @@ curriculum:
 
 Hawa is preparing a talk. The rule: two minutes, no slides, one object you bring with you. Hawa is bringing a small green spoon. Jonas is bringing a single cloud photo printed on paper. Mr. Ade is bringing a calmly worried face, which he has done before.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Hook scan.** Listen to three first lines from different talks. Which one would you keep listening to? Why?
 
-## 2. Input
-
+## 2. Input {#input}
 ### Structure — three movements
 
 1. **Hook** (15 sec): a question, a small object, a strong sentence.
@@ -85,8 +119,7 @@ Hawa is preparing a talk. The rule: two minutes, no slides, one object you bring
 
 *Today I'd like to talk about … / Let me start with … / Firstly … Secondly … Lastly … / What this means is … / In short … / So, that's why I … / Thank you for listening.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Match: hook → grab attention; body → make 3 points; close → leave one idea.
@@ -102,68 +135,25 @@ Hawa is preparing a talk. The rule: two minutes, no slides, one object you bring
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Class talks.** Each student delivers a 2-minute monologue with the three movements + one object. After every talk, one classmate gives feedback in one English sentence using *I noticed that … / What worked was … / One thing you could try is …*
 
 ### Sample
 
 *This small green spoon belongs to my grandmother. She has stirred more meals with it than I have eaten in my life. Today I want to talk about three things small objects can do that big speeches cannot. Firstly, they remember things we forget. Secondly, they fit in pockets — they travel with us. Lastly, they are honest — a worn handle is a kind of biography. Thank you for listening.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can deliver a 2-minute monologue with three movements.
 - [ ] I can use 5 spoken-English signposts.
 - [ ] I can give one specific piece of feedback in English.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl08/units/unit11-public-speaking-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "Today I'd like to talk about break time. Firstly, break time is when most school friendships actually happen. Secondly, it is when teachers see what kind of class they really have. Lastly, it is the only time that doesn't have a goal. So in short, break time matters more than the timetable suggests. Thank you for listening."
-
-1. Topic: ___ . 2. Three points: ___ . 3. Closing: ___ . 4. Sign-off: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the sample monologue above. Answer.
-
-1. Hook: ___ . 2. Three points: ___ . 3. Object: ___ . 4. Closing: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Insert the right signpost.**
-
-1. ___ I'd like to talk about my favourite teacher.
-2. ___ , break time matters.
-3. ___ , let me say something obvious.
-4. ___ for listening.
-
-### Task 4 — Writing (13 BE)
-
-Write a 2-minute talk script (~150 words) using the three movements + one object.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** break time, friendships happen / teachers see real class / no goal, *break time matters more than timetable suggests*, Thank you for listening.
-**T2.** the green spoon belongs to grandmother; small objects remember / fit in pockets / are honest; the spoon; *Thank you for listening*.
-**T3.** Today / In short / Firstly / Thank you.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

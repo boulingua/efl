@@ -52,7 +52,7 @@ Allocate the 90 minutes: ___ min reading; ___ min Comprehension; ___ min Analysi
 
 **(No Mediation in this Unit.)** Reflection prompt: *In 150 words, reflect on which of the two sections (Comprehension / Analysis) cost you more time and why. What would you change in next week's rehearsal?*
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** Reward own-words paraphrase + named specifics + clear structure.
 **Analysis.** Reward 3+ integrated quotes + 4 markers + technical vocabulary + close reading (not plot summary).
 **Time budget.** Suggested: 25 min reading / 30 min Comprehension / 25 min Analysis / 10 min review.

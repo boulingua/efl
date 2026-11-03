@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 11
 material_slug: "track-e_kl13_unit11-issue-framed-debate"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen"
-  - "3.4.3.3 / 3.5.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.4.3.4 / 3.5.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen"
+- "3.4.3.3 / 3.5.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.4.3.4 / 3.5.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
 skills_focus:
-  - speaking
-  - listening
-  - language_awareness
+- speaking
+- listening
+- language_awareness
 aliases:
-  - /track_e_kl13/units/unit11_issue-framed-debate.html
+- /track_e_kl13/units/unit11_issue-framed-debate.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl13_unit11-issue-framed-debate.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl13_unit11-issue-framed-debate.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.INT.asking-for-clarification.02
-    - B2.LING.general-linguistic-range.01
-    - B2.PROD.overall-written-production.01
-    - B2.REC.reading-as-a-leisure-activity.01
-    - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
+  - B2.INT.asking-for-clarification.02
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.overall-written-production.01
+  - B2.REC.reading-as-a-leisure-activity.01
+  - B2.MED.facilitating-communication-in-delicate-situations-and-disagreements.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl13_unit11-issue-framed-debate
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl13/units/unit11-issue-framed-debate-exam
+  format: existing-assessment
+  duration_minutes:
+  points:
+  skills:
+  - speaking
+  - listening
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl13_unit11-issue-framed-debate-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl13_unit11-issue-framed-debate-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -73,12 +109,10 @@ course (Leistungsfach, E-LF).
 
 Final speaking Unit. Mr. Yilmaz set up an issue-framed debate at quasi-Oxford-Union format: two teams of three, each speaker has 5 minutes, plus a 3-minute team closing. The motion: *This house would treat platform algorithms as public utilities subject to mandatory transparency.* The debate lasts 30 minutes and is chaired by a student.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Argument-stack scan.** Teams of three. Each team prepares 3 strongest arguments for their side + 3 anticipated rebuttals.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Debate format (~30 minutes)
 
 1. **Proposition Speaker 1 (5 min).** Frame motion + 1st argument.
@@ -92,8 +126,7 @@ Final speaking Unit. Mr. Yilmaz set up an issue-framed debate at quasi-Oxford-Un
 
 **Chair (1 student):** introduces motion, calls speakers, manages time, opens floor for 2 short questions per team, calls the close. Chair must remain neutral on the motion.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: Speaker 1 → frame + 1st argument; Speaker 2 → 2nd argument + rebuttals; Speaker 3 closing → synthesis + urge.
@@ -110,73 +143,25 @@ Final speaking Unit. Mr. Yilmaz set up an issue-framed debate at quasi-Oxford-Un
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Class issue-framed debate (30 minutes).** Two teams of three + chair. Audience scores each speaker on Bewertungsraster (Textgestaltung + Sprache). Class debrief at the end.
 
 ### Sample
 
 *Madam Chair, I'd like to argue in favour of the motion. Firstly, the available evidence suggests that platform algorithms — like electricity grids before them — produce systematic externalities (privacy erosion, attention rents, civic-discourse distortion) that the market has consistently under-priced. Accordingly, the structural comparison to public utilities is not metaphor; it is policy. Secondly, the regulatory experience of energy and telecoms shows that mandatory transparency (capacity reporting, allocation reporting, tariff publication) is a precondition of competition rather than its enemy. Speaker 1 of the opposition will, I anticipate, claim that transparency requirements would expose trade secrets. I accept that some transparency designs would; the OFT-style compromise of the 1990s energy privatisation showed that *commercial-in-confidence aggregation* permits both transparency and competition. By contrast with the opposition's expected framing, the motion does not require open-source algorithms; it requires aggregate amplification reporting. In response to the anticipated *innovation* counter-argument, I would point out, more specifically, that the regulated-utility comparison has not historically killed innovation — it has redirected it toward infrastructure improvement. To summarise: the motion is moderate, the comparison is structural, and the precedent exists. I urge this house to support the motion.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can deliver a 5-minute argued speech in issue-framed format with one specific rebuttal.
 - [ ] I can chair a 30-minute panel debate.
 - [ ] I can synthesise a 3-minute team closing.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (Abitur-grade)" icon="false" >}}
-**This Unit's exam example follows the Abitur task pattern named
-in the Unit. Some Units focus on a single Abitur-task type
-(Comprehension / Analysis / Composition / Mediation /
-Kommunikationsprüfung); the full 90-BE Klausur is rehearsed in
-Klasse 12 Units 11-12 and continues in Klasse 13 Units 7-9.**\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl13/units/unit11-issue-framed-debate-exam" >}}).
 
-### Comprehension
-
-Listen / read twice the Speaker-1-in-favour sample above.
-
-1. Frame: ___ . 2. Two arguments: ___ . 3. Anticipated rebuttal: ___ . 4. Final urge: ___ .
-
-### Analysis
-
-Read the sample speech above.
-
-1. Structural comparison: ___ . 2. Specific rebuttal: ___ . 3. Concession + qualifying move: ___ . 4. Closing summary: ___ .
-
-### Composition / Mediation / Reflection
-
-**Composition prompt:** *Write Speaker 2 of the opposition's 5-minute speech (~400 words). Use 5 debate signposts + 2 named rebuttals + 1 cleft.*
-
-### Additional task
-
-**Reflection prompt:** *In 200 words, reflect on your performance in the class debate. Which Bewertungsraster category was strongest? Which needs the most rehearsal before the actual Komm-Prüfung?*
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** 1. platform algorithms as public utilities; 2. systematic externalities + transparency-as-precondition-of-competition; 3. transparency would expose trade secrets; 4. *I urge this house to support the motion*.
-**Analysis.** 1. platform algorithms as public utilities (energy / telecoms parallel); 2. *commercial-in-confidence aggregation* OFT-style compromise; 3. *some designs would expose trade secrets, but…*; 4. *the motion is moderate, the comparison is structural, and the precedent exists*.
-**Composition.** Open.
-**Reflection.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) — Abitur-grade Klausuren" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-
-(Single-section Klausuren in this year scale to the proportional
-BE-weight of the section in the full Klausur.)
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

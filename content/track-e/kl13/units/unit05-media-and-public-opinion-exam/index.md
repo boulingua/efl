@@ -64,7 +64,7 @@ Read the two paraphrased extracts above.
 
 **Mediation prompt:** A 250-word German Plattform-regulierungs-Bericht (e.g. Bundeskartellamt) for an English-speaking platform-policy reader. (Source provided in class.)
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. attention asymmetries; 2. function of platform's ranking signals; 3. ranking signals; 4. public opinion / underlying population.
 **Analysis.** 1. public opinion vs. visible majority; 2. attention merchants — business model continuous, gatekeepers less visible, micro-targeting more precise; 3. platforms shape what they appear to measure; 4. regulatory transparency as the political question.
 **Composition.** Open.

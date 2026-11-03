@@ -9,15 +9,15 @@ track: "e"
 unit_nr: 12
 material_slug: "track-e_kl12_unit12-klausur-composition-and-comment"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.5 / 3.5.3.5 Schreiben"
-  - "3.4.3.6 / 3.5.3.6 Sprachmittlung"
-  - "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.3.6 / 3.5.3.6 Sprachmittlung"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
 skills_focus:
-  - writing
-  - language_awareness
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl12/units/unit12_klausur-composition-and-comment.html
+- /track_e_kl12/units/unit12_klausur-composition-and-comment.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl12_unit12-klausur-composition-and-comment.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl12_unit12-klausur-composition-and-comment.png"
@@ -32,13 +32,48 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.LING.phonological-control.03
-    - B2.PROD.compensating.01
-    - B2.LING.general-linguistic-range.01
-    - B2.PROD.creative-writing.01
-    - B2.PRAG.coherence-and-cohesion.04
+  - B2.LING.phonological-control.03
+  - B2.PROD.compensating.01
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.creative-writing.01
+  - B2.PRAG.coherence-and-cohesion.04
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl12_unit12-klausur-composition-and-comment
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl12/units/unit12-klausur-composition-and-comment-exam
+  format: existing-assessment
+  duration_minutes: 20
+  points: 90
+  skills:
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl12_unit12-klausur-composition-and-comment-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl12_unit12-klausur-composition-and-comment-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +105,10 @@ course (Leistungsfach, E-LF).
 
 Second of two Klausur-prep Units. Today's focus: Composition + Mediation — the two sections most reliant on producing original text under time pressure. The class is using the same source as Unit 11 to build a complete 90-BE Klausur experience across the two Units.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Composition-vs.-Mediation budget scan.** Of the remaining ~110 min, how do you split 18 BE (Composition) vs. 30 BE ("Mediation")?
 
-## 2. Input
-
+## 2. Input {#input}
 ### Composition section — pattern
 
 Typical Composition tasks:
@@ -92,8 +125,7 @@ Typical Mediation tasks:
 
 Mediation is Inhalt-weighted but Sprache-checked. Both axes count.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match Composition task → likely word count: *discuss / comment* → 250-300 words; *creative response* → 250-300 words.
@@ -110,63 +142,25 @@ Mediation is Inhalt-weighted but Sprache-checked. Both axes count.
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Klausur sections, timed.** 110 minutes total. 50 min Composition (18 BE) + 50 min Mediation (30 BE) + 10 min review. Submit. Class debriefs collectively with focus on production speed under time.
 
 ### Sample
 
 (See *Reflection on the rehearsal* — the production task is the timed sections themselves.)
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can complete a Composition section under timed conditions.
 - [ ] I can complete a Mediation section for a named addressee.
 - [ ] I can manage time across the second half of the Klausur.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (full paper, 90 BE)" icon="false" >}}
-**Time.** 4 hours including 20 minutes of breaks (220 active
-minutes). **Total.** 90 BE.\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl12/units/unit12-klausur-composition-and-comment-exam" >}}).
 
-### Part A — Comprehension (~24 BE)
-
-**Composition prompt:** *Discuss the writer's central claim about attention economies in 280 words. Use 1 integrated quote + 4 academic discourse markers + 1 cleft + 2 hedges.*
-
-### Part B — Analysis (~18 BE)
-
-**Mediation prompt:** *For an English-speaking media-policy researcher, mediate a 250-word German Bundestags-Anhörung extract on attention regulation (Aufmerksamkeitsregulierung). Use 8 reporting verbs + 2 cultural-note brackets.* (Source provided in class.)
-
-### Part C — Composition (~18 BE)
-
-**Time-budget exercise.** Allocate 110 minutes: ___ min Composition; ___ min Mediation; ___ min review. Justify in 2 sentences.
-
-### Mediation (~30 BE)
-
-**Reflection prompt:** *In 200 words, reflect on your full 90-BE Klausur experience across Units 11 and 12. Which section did you handle best? Which needs the most rehearsal before Klasse 13?*
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** Reward thesis + integrated quote + 4 markers + 1 cleft + 2 hedges + clear structure.
-**Analysis.** Reward addressee-fit + register + 8 reporting verbs + 2 cultural notes + preserved hedges + appropriate modal mapping.
-**Time budget.** Suggested: 50 min Composition / 50 min Mediation / 10 min review.
-**Reflection.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 90 BE)" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

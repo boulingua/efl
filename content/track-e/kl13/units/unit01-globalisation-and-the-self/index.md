@@ -9,17 +9,17 @@ track: "e"
 unit_nr: 1
 material_slug: "track-e_kl13_unit01-globalisation-and-the-self"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.2 / 3.5.2 Interkulturelle kommunikative Kompetenz"
-  - "3.4.3.2 / 3.5.3.2 Leseverstehen"
-  - "3.4.3.5 / 3.5.3.5 Schreiben"
-  - "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.2 / 3.5.2 Interkulturelle kommunikative Kompetenz"
+- "3.4.3.2 / 3.5.3.2 Leseverstehen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - intercultural
+- reading
+- writing
+- intercultural
 aliases:
-  - /track_e_kl13/units/unit01_globalisation-and-the-self.html
+- /track_e_kl13/units/unit01_globalisation-and-the-self.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl13_unit01-globalisation-and-the-self.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl13_unit01-globalisation-and-the-self.png"
@@ -35,13 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.reports-and-essays.04
-    - B2.REC.overall-reading-comprehension.01
-    - B2.SOC.sociolinguistic-appropriateness.04
-    - B2.REC.reading-as-a-leisure-activity.01
-    - B2.INT.formal-discussion.01
+  - B2.PROD.reports-and-essays.04
+  - B2.REC.overall-reading-comprehension.01
+  - B2.SOC.sociolinguistic-appropriateness.04
+  - B2.REC.reading-as-a-leisure-activity.01
+  - B2.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl13_unit01-globalisation-and-the-self
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl13/units/unit01-globalisation-and-the-self-exam
+  format: existing-assessment
+  duration_minutes:
+  points:
+  skills:
+  - reading
+  - writing
+  - intercultural
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl13_unit01-globalisation-and-the-self-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl13_unit01-globalisation-and-the-self-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -75,12 +111,10 @@ course (Leistungsfach, E-LF).
 
 Klasse 13 opens with three short essay extracts: Amartya Sen on plural identity (*Identity and Violence*, 2006); Kwame Anthony Appiah on rooted cosmopolitanism (*Cosmopolitanism: Ethics in a World of Strangers*, 2006); Jhumpa Lahiri on writing in a second language (*In Other Words*, 2015 / 2016 EN). The class agreed that all three are arguing against the same cartoon — the cartoon of identity as a single sticker.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Identity-frame scan.** With your partner, list 3 ways a person you know holds two identities at once. Mark each as *rooted / hyphenated / shifting*.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — three frames (paraphrased)
 
 *Sen — plural identity:* No human being is reducible to a single belonging. The illusion of singular identity is the precondition of identitarian violence.
@@ -93,8 +127,7 @@ Klasse 13 opens with three short essay extracts: Amartya Sen on plural identity 
 
 *plural identity, rooted cosmopolitanism, hospitality, the moral horizon, situated identity, contributory belonging, essentialism, identitarian, the politics of recognition.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: Sen → plural identity; Appiah → rooted cosmopolitanism; Lahiri → language-as-self.
@@ -111,75 +144,25 @@ Klasse 13 opens with three short essay extracts: Amartya Sen on plural identity 
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Position essay, 400 words.** Argue your own position on identity-and-globalisation. Use 5 cosmopolitan vocabulary terms + 6 academic discourse markers + 1 cleft + 1 integrated quote from one of the three writers.
 
 ### Sample
 
 *The most useful framework I have read this year for thinking about identity-under-globalisation is Kwame Anthony Appiah's *rooted cosmopolitanism*, partly because it refuses the easy choice between local loyalty and a general moral horizon. The available evidence — anthropological, historical, and personal — suggests that human beings have, in practice, always held more than one belonging at once. Accordingly, what Sen calls the *illusion of singular identity* is, in my reading, less a mistake than a political construction; the illusion is useful to actors who require an enemy. By contrast, Appiah's frame asks something harder: to hold local and general loyalties simultaneously without collapsing one into the other. It is precisely this dual loyalty that the politics of the 2020s has been bad at. More specifically, Lahiri's *In Other Words* — *"a small, voluntary self-displacement"* — names the personal version of the Appiah claim: writing in a second language produces a third self that is neither hyphenated nor synthetic but situational. In this regard, the three frames converge. Plural identity (Sen) is the *fact*; rooted cosmopolitanism (Appiah) is the *political stance*; the third self (Lahiri) is the *practical experience*. My own position, after a year reading these three, is that the most useful civic skill of the next decade is the willingness to hold two loyalties without resolving them. Caution is warranted; identitarian movements work by demanding a singular belonging that the human evidence does not actually support. Appiah's argument is, finally, an argument for everyday moral patience.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify each writer's framework on identity-and-globalisation.
 - [ ] I can use 5+ cosmopolitan vocabulary terms.
 - [ ] I can write a 400-word position essay.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (Abitur-grade)" icon="false" >}}
-**This Unit's exam example follows the Abitur task pattern named
-in the Unit. Some Units focus on a single Abitur-task type
-(Comprehension / Analysis / Composition / Mediation /
-Kommunikationsprüfung); the full 90-BE Klausur is rehearsed in
-Klasse 12 Units 11-12 and continues in Klasse 13 Units 7-9.**\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl13/units/unit01-globalisation-and-the-self-exam" >}}).
 
-### Comprehension
-
-Read twice.
-
-> "Sen argues that no human being is reducible to a single belonging. Appiah argues for rooted cosmopolitanism — local and general loyalties at once. Lahiri describes writing in a second language as a small voluntary self-displacement."
-
-1. Sen's claim: ___ . 2. Appiah's claim: ___ . 3. Lahiri's experience: ___ . 4. The three convergence: ___ .
-
-### Analysis
-
-Read the three paraphrased frames above.
-
-1. Sen's central claim: ___ . 2. Appiah's framework name: ___ . 3. Lahiri's metaphor for second-language writing: ___ . 4. What all three reject: ___ .
-
-### Composition / Mediation / Reflection
-
-**Composition prompt:** *Develop your position on identity-and-globalisation in 250 words. Use 3 cosmopolitan terms + 1 cleft + 1 integrated quote.*
-
-### Additional task
-
-**Mediation prompt:** A 250-word German Feuilleton-essay on Heimat. Mediate for an English-speaking literary-essay reader. (Source provided in class.)
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** 1. plural identity (no single belonging); 2. rooted cosmopolitanism (local + general loyalties); 3. small voluntary self-displacement → third self; 4. all reject the cartoon of identity as a single sticker.
-**Analysis.** plural identity is the fact, rooted cosmopolitanism is the political stance, third self is the practical experience; *rooted cosmopolitanism*; *a small voluntary self-displacement that produces a third version of yourself*; the singular-identity cartoon.
-**Composition.** Open.
-**Mediation.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) — Abitur-grade Klausuren" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-
-(Single-section Klausuren in this year scale to the proportional
-BE-weight of the section in the full Klausur.)
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

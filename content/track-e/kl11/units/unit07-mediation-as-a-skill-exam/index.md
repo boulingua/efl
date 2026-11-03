@@ -36,7 +36,13 @@ Leistungsfach (advanced course): 40/60.
 
 ### Part A — Comprehension (~24 BE)
 
-Listen twice.
+**Fictional classroom scenario.** The following passage is written for this
+assessment. Its May 2027 decision is invented; it is not a verified news item
+or a statement of current law. Read the label aloud before the passage.
+
+Listen twice to a live reading by the teacher. No approved recording is
+attached to this paper. If the text is read silently, report a reading task,
+not a listening result.
 
 > "Die Mietpreisbremse wurde 2015 eingeführt. Befürworter sagen, dass die Mieten weniger schnell steigen. Kritikerinnen entgegnen, dass die Bremse Investitionen bremst. Die Bundesregierung hat im Mai 2027 die Verlängerung um sechs Jahre beschlossen."
 
@@ -56,9 +62,12 @@ Read the German source above.
 
 ### Mediation (~30 BE)
 
-Mediate: 12 English sentences from the source for a Canadian housing researcher. Use 7 reporting verbs + 2 cultural-note brackets.
+Mediate the fictional source in 4–6 English sentences for a Canadian housing
+researcher participating in this classroom simulation. Label the scenario,
+attribute the two viewpoints and briefly explain the two German institutional
+terms. Add no statistics, comparisons or political claims absent from the text.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **T1.** 2015; rents rise more slowly with the cap; the cap dampens investment in new construction; extension by 6 years (May 2027).
 **T2.** 2015; rents in high-pressure metropolitan areas rise more slowly with the cap; the cap dampens new-build investment, tightening long-term supply; extended for 6 further years in May 2027.
 **T3.** claim / counter (or argue) / stress / deny.

@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 8
 material_slug: "track-e_kl13_unit08-the-abitur-comprehension"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.2 / 3.5.3.2 Leseverstehen"
-  - "3.4.3.5 / 3.5.3.5 Schreiben"
-  - "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.2 / 3.5.3.2 Leseverstehen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl13/units/unit08_the-abitur-comprehension.html
+- /track_e_kl13/units/unit08_the-abitur-comprehension.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl13_unit08-the-abitur-comprehension.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl13_unit08-the-abitur-comprehension.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.LING.general-linguistic-range.01
-    - B2.PROD.compensating.01
-    - B2.REC.reading-for-orientation.01
-    - B2.LING.phonological-control.03
-    - B2.MED.managing-interaction.03
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.compensating.01
+  - B2.REC.reading-for-orientation.01
+  - B2.LING.phonological-control.03
+  - B2.MED.managing-interaction.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl13_unit08-the-abitur-comprehension
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl13/units/unit08-the-abitur-comprehension-exam
+  format: existing-assessment
+  duration_minutes: 60
+  points:
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl13_unit08-the-abitur-comprehension-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl13_unit08-the-abitur-comprehension-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -73,12 +109,10 @@ course (Leistungsfach, E-LF).
 
 Second of three Abitur-prep Units. Today's focus: the Comprehension task — the section that students most often over-spend on at the expense of later sections. 60 minutes. Three sub-questions of varying BE-weight. Submit. Debrief against Bewertungsraster (grading grid).
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **BE-budget scan.** Three sub-questions weighted 5 BE / 10 BE / 9 BE. Allocate the 60 minutes proportionally.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Comprehension — sub-question types
 
 1. **State / outline** (lower BE) — own-words paraphrase + 1-2 specifics from text.
@@ -93,8 +127,7 @@ Second of three Abitur-prep Units. Today's focus: the Comprehension task — the
 
 **Structural sub-answers:** match the structure of the question (*compare* answers compare; *outline* answers outline).
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: state → own words; explain → reason; compare → both elements + relation.
@@ -111,73 +144,25 @@ Second of three Abitur-prep Units. Today's focus: the Comprehension task — the
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Abitur Comprehension rehearsal, 60 minutes.** 1,000-word source + three sub-questions (5 / 10 / 9 BE). Submit. Debrief against Bewertungsraster.
 
 ### Sample
 
 (See *Reflection on the rehearsal* — the production task is the timed Comprehension itself.)
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can answer a 60-minute Abitur Comprehension task across 3 sub-questions of varying BE.
 - [ ] I can produce own-words paraphrase + embedded fragments.
 - [ ] I can manage time proportionally to BE-weight.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (Abitur-grade)" icon="false" >}}
-**This Unit's exam example follows the Abitur task pattern named
-in the Unit. Some Units focus on a single Abitur-task type
-(Comprehension / Analysis / Composition / Mediation /
-Kommunikationsprüfung); the full 90-BE Klausur is rehearsed in
-Klasse 12 Units 11-12 and continues in Klasse 13 Units 7-9.**\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl13/units/unit08-the-abitur-comprehension-exam" >}}).
 
-### Comprehension
-
-**Comprehension prompt** (sample): *Read the 1,000-word source provided in class. Answer the following:*
-
-1. *In your own words, outline the writer's central claim about platform algorithms (5 BE).*
-2. *Explain the writer's distinction between *public opinion* and the *visible majority*. Refer to specific paragraphs (10 BE).*
-3. *Compare the writer's framing of platforms with Tim Wu's *attention merchants* genealogy as presented in the source. Identify both elements and the relation between them (9 BE).*
-
-### Analysis
-
-**Time budget.** Allocate the 60 minutes proportionally to 5 / 10 / 9 BE.
-
-### Composition / Mediation / Reflection
-
-**Reflection prompt:** *In 200 words, reflect on your Comprehension rehearsal. Which sub-question was hardest? What does this tell you about your weakest skill?*
-
-### Additional task
-
-**(No Composition / Mediation in this Unit.)**
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** Reward own-words paraphrase + named specifics + embedded fragments + structural match.
-**Analysis.** Suggested time: 12 / 25 / 23 (proportional to BE).
-**Composition.** Open.
-**Reflection.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) — Abitur-grade Klausuren" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-
-(Single-section Klausuren in this year scale to the proportional
-BE-weight of the section in the full Klausur.)
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

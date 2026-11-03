@@ -9,17 +9,17 @@ track: "gm"
 unit_nr: 2
 material_slug: "track-gm_kl10_unit02-the-world-of-work"
 bildungsplan:
-  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.3.2 Interkulturelle kommunikative Kompetenz"
-  - "3.3.3.2 Leseverstehen"
-  - "3.3.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.3.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.3.2 Interkulturelle kommunikative Kompetenz"
+- "3.3.3.2 Leseverstehen"
+- "3.3.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.3.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - reading
-  - speaking
-  - intercultural
+- reading
+- speaking
+- intercultural
 aliases:
-  - /track_gm_kl10/units/unit02_the-world-of-work.html
+- /track_gm_kl10/units/unit02_the-world-of-work.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl10_unit02-the-world-of-work.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl10_unit02-the-world-of-work.png"
@@ -35,13 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.notes-messages-and-forms.01
-    - B1.PROD.creative-writing.02
-    - B1.REC.identifying-cues-and-inferring.07
-    - B1.SOC.sociolinguistic-appropriateness.01
-    - B1.LING.general-linguistic-range.02
+  - B1.INT.notes-messages-and-forms.01
+  - B1.PROD.creative-writing.02
+  - B1.REC.identifying-cues-and-inferring.07
+  - B1.SOC.sociolinguistic-appropriateness.01
+  - B1.LING.general-linguistic-range.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl10_unit02-the-world-of-work
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl10/units/unit02-the-world-of-work-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - speaking
+  - intercultural
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl10_unit02-the-world-of-work-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl10_unit02-the-world-of-work-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -71,12 +107,10 @@ curriculum:
 
 Sam is doing a one-day work-shadowing visit at a small bakery in the city. He arrives at 5 a.m. The owner, a woman called Mrs Dahl, is already kneading. "You're early," she says. "For me," Sam says, "this is early. For you, it's mid-morning." She smiles. *Welcome,* she says, *to the only profession where 'mid-morning' is at five.*
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Job-shadow scan.** With your partner, list four jobs you would actually want to spend a full day shadowing. Then, the harder one: name a job you would NOT shadow and one specific reason.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — workplace
 
 *shift, line manager, colleague, deadline, expectation, salary, wage, contract, probation, feedback, promotion, performance review, headquarters, branch, freelance, gig work, remote, hybrid.*
@@ -98,8 +132,7 @@ Compare with present perfect simple:
 - *I **have written** five applications.* (completed actions, focus on result)
 - *I **have been writing** all morning.* (focus on duration / activity)
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Choose: present perfect simple or continuous: *Mrs Dahl __________ (run) the bakery for 32 years. I __________ (write) three applications this morning.*
@@ -116,8 +149,7 @@ Compare with present perfect simple:
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Job-interview role-play.** Pairs. 3 minutes each direction. Interviewer asks 5 questions; interviewee uses 2 present perfect continuous + 2 third conditional structures.
 
 ### Sample
@@ -125,62 +157,18 @@ Compare with present perfect simple:
 *— What experience do you bring?*
 *— I have been doing weekend shifts at my aunt's café for two years. If I had started earlier, I would have more management experience, but I have learned the basics — shift handover, customer questions, food safety.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can pick out 6 facts in a job-profile.
 - [ ] I can use present perfect continuous correctly.
 - [ ] I can run a 3-minute job-interview role-play.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl10/units/unit02-the-world-of-work-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "Mrs Dahl has been running the bakery for 32 years. She has been kneading dough by hand for most of that time. Her three apprentices have been showing up at five every morning, six days a week."
-
-1. Years running: ___ . 2. Method: ___ . 3. Apprentices: ___ . 4. Days per week: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read.
-
-> "Sam has been visiting different workplaces this term: a bakery, a small electrician's, a graphic-design studio. He has been writing one paragraph after each visit. So far the bakery has surprised him most — because of the silence at 5 a.m."
-
-1. Activity: ___ . 2. Three workplaces: ___ . 3. After-visit task: ___ . 4. Most surprising: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Present perfect simple or continuous?**
-
-1. Mrs Dahl __________ (run) the bakery for 32 years.
-2. I __________ (write) three applications this morning.
-3. They __________ (work) since 5 a.m.
-4. We __________ (have) two interviews this week.
-
-### Task 4 — Writing (13 BE)
-
-Write 150 words about a workplace you would like to shadow for a day. Use 3 present perfect continuous structures.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** 32, kneading dough by hand, three, six days a week.
-**T2.** visiting workplaces; bakery / electrician's / graphic-design studio; one paragraph after each visit; the bakery — silence at 5 a.m.
-**T3.** has been running / have written / have been working / have had.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

@@ -1,0 +1,194 @@
+---
+page_type: unit
+title: "Unit 6 — Writing an Opinion"
+author: "S. Le Boulanger"
+subtitle: "Track E · Klasse 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 6
+material_slug: "track-e_kl08_unit06-opinion-writing"
+bildungsplan:
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.2.4 Text- und Medienkompetenz"
+skills_focus:
+- reading
+- writing
+- language_awareness
+aliases:
+- /track_e_kl08/units/unit06_opinion-writing.html
+presentation:
+  file: "/efl/materials/presentations/track-e_kl08_unit06-opinion-writing.pdf"
+  thumbnail: "/efl/materials/presentations/track-e_kl08_unit06-opinion-writing.png"
+worksheet:
+  file: "/efl/materials/worksheets/track-e_kl08_unit06-opinion-writing.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl08_unit06-opinion-writing.png"
+tags:
+- reading
+- writing
+- language_awareness
+topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+  - A2.LING.general-linguistic-range.03
+  - A2.PROD.overall-oral-production.01
+  - A2.REC.reading-for-information-and-argument.09
+  - A2.MED.overall-mediation.02
+  - A2.PROD.reports-and-essays.01
+  implements_basis: proposed
+  level_basis: derived
+audio_manifest: track-e_kl08_unit06-opinion-writing
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl08/units/unit06-opinion-writing-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file: 
+    /efl/materials/worksheets/track-e_kl08_unit06-opinion-writing-teacher.pdf
+  thumbnail: 
+    /efl/materials/worksheets/track-e_kl08_unit06-opinion-writing-teacher.png
+---
+
+{{< callout type="note" >}}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** E. class test ("Klassenarbeit") at Niveau E (45 BE).
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can read an opinion text and identify the main claim and one supporting reason.*
+- *I can structure my own opinion in 4 paragraphs (claim, reason, counter, conclusion).*
+- *I can use signposting phrases (*in my view, on the contrary, in contrast, finally*).*
+
+## Bildungsplan alignment
+
+- **3.2.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.2.3.2 Leseverstehen**
+- **3.2.3.5 Schreiben**
+- **3.2.3.8 Verfügen über sprachliche Mittel – Grammatik**
+- **3.2.4 Text- und Medienkompetenz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Hawa's class is writing opinion pieces for a school blog. The topic: *Should pupils have a say in choosing school books?* Mr. Ade pinned a single-page guide on the wall: *Claim. One reason. One counter. Conclusion.* Hawa stared at it. "Four moves," she said. "That's almost a dance."
+
+## 1. Activate {#activate}
+**Claim spotting.** Slide shows three short paragraphs. With your partner, underline the one sentence in each that is the writer's main *claim*.
+
+## 2. Input {#input}
+### Reading — model opinion text
+
+*In my view, pupils should help choose at least one of the books we read each year. Firstly, when students are part of the choice, they are more likely to actually read the book. Secondly, the school benefits because more voices are involved. On the other hand, teachers know the curriculum better than students do, and that knowledge matters. In conclusion, a small say — perhaps one book in three — would be a fair compromise.*
+
+### Structure of the opinion paragraph
+
+1. **Claim** — what you think.
+2. **Reason** — why.
+3. **Counter** — what someone might say against you.
+4. **Conclusion** — your final position, slightly softer or sharper.
+
+Signposts: *In my view / I think / firstly / secondly / on the other hand / however / on the contrary / in contrast / in conclusion / overall.*
+
+## 3. Practise {#practise}
+### Niveau E — controlled
+
+1. Match: claim — c, reason — r, counter — co, conclusion — cn. Label each sentence in the model text.
+2. Choose the right signpost: *(disagreement)* → ___ ; *(adding a second reason)* → ___ ; *(closing)* → ___ .
+
+### Niveau E — productive
+
+3. Build a 4-sentence mini-opinion on: *Should we have a longer break?*
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**Controlled.** 1. open (most students should help choose = c; *Firstly* / *Secondly* = r; *On the other hand* = co; *In conclusion* = cn).
+2. *On the contrary / However / Secondly / Finally / In conclusion.*
+
+**Productive.** 3. Open.
+{{< /callout >}}
+
+## 4. Produce {#apply}
+**Opinion paragraph, 120 words.** Choose: *Should school start later? Should pupils choose one book a year? Should school clubs be free?* Use the four-move structure and three signposts.
+
+### Sample
+
+*In my view, school clubs should be free for everyone. Firstly, paying makes some clubs feel like extra school, when they should feel like a release valve. Secondly, free clubs reach pupils whose families cannot pay, which is the whole point. On the other hand, equipment costs money, and someone has to pay for it. In conclusion, the school could ask for a small *contribution if you can*, but never block a pupil from joining because of cost.*
+
+## 5. Reflect {#reflect}
+- [ ] I can identify claim, reason, counter, conclusion in a text.
+- [ ] I can structure an opinion text with three signposts.
+- [ ] I can write a 120-word opinion paragraph.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example {#exam}
+
+[Open the separate assessment]({{< relref "track-e/kl08/units/unit06-opinion-writing-exam" >}}).
+
+## Teacher notes {#teacher-notes}
+
+{{< downloads >}}
+
+<div class="notes">
+**Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
+5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
+
+**Differentiation — support (below Niveau E).**
+
+Complete each move with your own idea, then join the four sentences into one paragraph:
+
+- **Claim:** In my view, our school should ______ .
+- **Reason:** Firstly, this would help because ______ .
+- **Counter:** On the other hand, some people say that ______ .
+- **Conclusion:** In conclusion, I still think ______ , because ______ .
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write two opinion paragraphs on the same school question — one that argues *for* and one that argues *against* — using the four-move structure in each, then add a short third paragraph explaining which of your own arguments you find stronger and why. Push your language further by using a concession signpost such as *admittedly* or *even so*, and end by weighing how a reader's own situation might change which side they find more convincing.
+
+</div>
+
+## Common pitfalls
+
+- Stating an opinion without a reason → reads as a claim only.
+- Skipping the counter → makes the writing look like a rant.
+- Mixing first person with passive: *In my view, the rule is changed* → unclear who changes it.
+
+## Further reading / listening
+
+- The Guardian — short opinion pieces by teachers.
+- BBC News — *Have your say* columns.

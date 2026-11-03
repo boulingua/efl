@@ -61,7 +61,7 @@ Read the *Verbs of Attribution* extract above.
 
 Write 300 words: a media-criticism essay on a long-form article. Use 5 advanced terms + 2 hedges.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **T1.** framing and verbs; doubt; stubbornness; already knows half the argument.
 **T2.** before the subhead; neutral; doubt; subordination.
 **T3.** frame / lede / nut graf / sourcing.

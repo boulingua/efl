@@ -9,18 +9,18 @@ track: "e"
 unit_nr: 4
 material_slug: "track-e_kl07_unit04-a-trip-to-scotland"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.2 Interkulturelle kommunikative Kompetenz"
-  - "3.2.3.1 Hör-/Hörsehverstehen"
-  - "3.2.3.2 Leseverstehen"
-  - "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
-  - "3.2.4 Text- und Medienkompetenz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.2 Interkulturelle kommunikative Kompetenz"
+- "3.2.3.1 Hör-/Hörsehverstehen"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.2.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - listening
-  - intercultural
+- reading
+- listening
+- intercultural
 aliases:
-  - /track_e_kl07/units/unit04_a-trip-to-scotland.html
+- /track_e_kl07/units/unit04_a-trip-to-scotland.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl07_unit04-a-trip-to-scotland.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl07_unit04-a-trip-to-scotland.png"
@@ -36,13 +36,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.SOC.sociolinguistic-appropriateness.03
-    - A2.MED.overall-mediation.01
-    - A2.REC.overall-reading-comprehension.01
-    - A2.PROD.sustained-monologue-giving-information.01
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.SOC.sociolinguistic-appropriateness.03
+  - A2.MED.overall-mediation.01
+  - A2.REC.overall-reading-comprehension.01
+  - A2.PROD.sustained-monologue-giving-information.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl07_unit04-a-trip-to-scotland
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl07/units/unit04-a-trip-to-scotland-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 60
+  skills:
+  - reading
+  - listening
+  - intercultural
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl07_unit04-a-trip-to-scotland-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl07_unit04-a-trip-to-scotland-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -86,8 +122,7 @@ On the back, the aunt had written, in her thin handwriting,
 fridge and looked at them every morning before school. By the end
 of the week, the cow on the hill had become a kind of friend.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Picture prompt.** Look at the two postcards on the slide. With
 your partner, write down:
 
@@ -97,8 +132,7 @@ your partner, write down:
 
 Share with another pair.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Listening — *Welcome to Edinburgh Waverley*
 
 Listen to the announcement with closed books.
@@ -170,8 +204,7 @@ eaten.*
 | loch | a lake (Scottish English) |
 | firth | a long sea inlet |
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G — controlled
 
 **A. Past simple or past perfect?**
@@ -222,8 +255,7 @@ B. 1–c, 2–a, 3–b.
 7. Open answers; check correct directional vocabulary.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Reading-to-speaking.** In pairs, role-play a short conversation
 between Frances and a friendly stranger she meets in Edinburgh on
 her first day. Cover:
@@ -239,8 +271,7 @@ For Niveau M, ask one of the speakers to use the past perfect at
 least once: *"I had imagined Scotland as one big rainy place …"*
 {{< /callout >}}
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can understand a short station announcement and pick out
   three details.
 - [ ] I can read a short narrative about Scotland and explain two
@@ -250,113 +281,11 @@ least once: *"I had imagined Scotland as one big rainy place …"*
 **One sentence in your notebook:** *What is one thing I now know
 about Scotland that I did not know before this lesson?*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Materials allowed.** A monolingual dictionary (Niveau M only).\
-**Time.** 45 minutes.\
-**Total.** 60 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl07/units/unit04-a-trip-to-scotland-exam" >}}).
 
-### Task 1 — Listening (12 BE)
-
-The teacher reads aloud the announcement *Welcome to Edinburgh
-Waverley*. Answer in full sentences.
-
-> "Ladies and gentlemen, this is the train manager. We are now
-> arriving at Edinburgh Waverley, our final stop. Please take all
-> your belongings with you. The exit for the city centre is on
-> the right; for the bus station, take the lifts on the left.
-> Travellers heading to the Highlands should change here for the
-> 14:05 to Inverness, platform four. Thank you for travelling
-> with ScotRail."
-
-1. Where is the train arriving? (2)
-2. Where is the exit for the city centre? (2)
-3. Where is the exit for the bus station? (2)
-4. What should travellers to the Highlands do? (3)
-5. Where and when does the Inverness train leave? (3)
-
-### Task 2 — Reading (15 BE)
-
-Read the short text below.
-
-> Frances had only seen Scotland on postcards. The hills, in the
-> postcards, were always green and the sky was always grey. The
-> hills, in real life, were also green, but the green changed
-> every twenty minutes — sometimes a tired green, sometimes a
-> green so bright it looked wet. The sky was less grey than
-> expected. It was more like an enormous changing mood. By the
-> end of the first day, Frances had stopped trying to predict the
-> weather and had started enjoying it instead.
-
-1. Where had Frances seen Scotland before? (2)
-2. What had been on the postcards? (3)
-3. How is real Scotland different from the postcards in the text? (5)
-4. What did Frances learn to do by the end of the first day? (5)
-
-### Task 3 — Use of English (10 BE)
-
-Put the verb in brackets into the correct form: simple past **or**
-past perfect.
-
-1. When Frances __________ (arrive) in Edinburgh, the sun __________
-   (already / set).
-2. By the time we __________ (find) our hotel, the rain __________
-   (start) again.
-3. After Ben __________ (eat) the haggis, he __________
-   (decide) it was not so bad.
-4. Aisha __________ (already / pack) before her mother __________
-   (call) her.
-
-### Task 4 — Writing (23 BE)
-
-Write 100–120 words about an imagined or real first day in a
-place you have never been (Scotland, another country, or even
-another town in Germany). Use:
-
-- at least one *had* + past participle (past perfect),
-- at least two simple past verbs,
-- one sensory detail (sight, sound, smell, taste, or touch).
-
-{{< callout type="tip" title="Expected answer key — class test (\"Klassenarbeit\")" collapse="true" >}}
-**Task 1 (12 BE).**\
-1. At Edinburgh Waverley. (2)
-2. On the right. (2)
-3. The exit for the bus station is via the lifts on the left. (2)
-4. They should change here for the train to Inverness. (3)
-5. From platform four at 14:05. (3)
-
-**Task 2 (15 BE).**\
-1. On postcards. (2)
-2. Green hills and a grey sky. (3)
-3. The hills change colour every twenty minutes; the sky is less
-   grey than expected, more like a changing mood. (5)
-4. She stopped trying to predict the weather and started enjoying
-   it. (5)
-
-**Task 3 (10 BE).**\
-1. arrived / had already set\
-2. found / had started\
-3. had eaten / decided\
-4. had already packed / called
-
-**Task 4 (23 BE).** Inhalt 12 / Sprache 11. Reward concrete sensory
-detail; flag missing past-perfect attempts.
-{{< /callout >}}
-
-{{< callout type="tip" title="Rubric — grading scale (Notenschlüssel)" collapse="true" >}}
-| Punkte (von 60) | Note |
-|-----------------|------|
-| 56–60 | 1 |
-| 49–55 | 2 |
-| 40–48 | 3 |
-| 30–39 | 4 |
-| 18–29 | 5 |
-| 0–17  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

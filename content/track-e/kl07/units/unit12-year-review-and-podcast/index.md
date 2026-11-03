@@ -9,17 +9,17 @@ track: "e"
 unit_nr: 12
 material_slug: "track-e_kl07_unit12-year-review-and-podcast"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.2.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.4 Text- und Medienkompetenz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.2.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
+- "3.2.3.5 Schreiben"
+- "3.2.4 Text- und Medienkompetenz"
 skills_focus:
-  - speaking
-  - listening
-  - language_awareness
+- speaking
+- listening
+- language_awareness
 aliases:
-  - /track_e_kl07/units/unit12_year-review-and-podcast.html
+- /track_e_kl07/units/unit12_year-review-and-podcast.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl07_unit12-year-review-and-podcast.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl07_unit12-year-review-and-podcast.png"
@@ -35,13 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.correspondence.04
-    - A2.LING.grammatical-accuracy.01
-    - A2.PROD.sustained-monologue-giving-information.01
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.MED.translating-a-written-text.03
+  - A2.INT.correspondence.04
+  - A2.LING.grammatical-accuracy.01
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.MED.translating-a-written-text.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl07_unit12-year-review-and-podcast
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl07/units/unit12-year-review-and-podcast-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 60
+  skills:
+  - speaking
+  - listening
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl07_unit12-year-review-and-podcast-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl07_unit12-year-review-and-podcast-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -81,8 +117,7 @@ ninety seconds. The question on the wall is the question." On
 the wall, in big letters, she had written: *What is one thing
 you learned this year that wasn't on the timetable?*
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Notebook scan.** Open your English notebook and find:
 
 - *one page from September,*
@@ -92,8 +127,7 @@ you learned this year that wasn't on the timetable?*
 Write down **one** small change you can see in your own writing
 or notes. Compare with a partner.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Listening — *Looking Back, Looking Forward*
 
 > **Aisha.** What's the one thing you're proudest of this year?\
@@ -132,8 +166,7 @@ moment, a real text, a real person).
 > sounding like *me*, not just like English in general. That's
 > the next step.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G — controlled
 
 **A. Year-review grammar mix.** Fill in the correct form.
@@ -172,8 +205,7 @@ B–C. Open answers; check three-movement structure and that
 feedback uses one of the three frames.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Class podcast — *What I Learned That Wasn't on the
 Timetable*.** Each student records a **90-second monologue**
 using the three-movement structure (Then → Now → Forward) plus
@@ -194,8 +226,7 @@ For Niveau G: 60 seconds is enough. Provide a printed three-line
 template with the *Then / Now / Forward* labels in place.
 {{< /callout >}}
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can speak for 60–90 seconds with a clear three-movement
   structure.
 - [ ] I can give a peer one specific piece of useful feedback.
@@ -205,106 +236,11 @@ template with the *Then / Now / Forward* labels in place.
 **One sentence in your notebook:** *What is one thing I want to
 learn next year that won't be on the timetable either?*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Materials allowed.** A monolingual dictionary (Niveau M only).\
-**Time.** 45 minutes.\
-**Total.** 60 points.
+[Open the separate assessment]({{< relref "track-e/kl07/units/unit12-year-review-and-podcast-exam" >}}).
 
-This year-end class test ("Klassenarbeit") revisits the year's main grammar
-(simple past, used to, present perfect, past perfect, futures,
-modals, passives) in mixed exercises and one integrated speaking
-task that the teacher records as part of the year-review podcast.
-{{< /callout >}}
-
-### Task 1 — Listening (10 BE)
-
-The teacher reads aloud the dialogue *Looking Back, Looking
-Forward*. Answer in full sentences.
-
-> **Aisha.** What's the one thing you're proudest of this year?\
-> **Ben.** I learned to read a short story without being annoyed.
-> Last year I would have given up by page two.\
-> **Marius.** I used to think I couldn't speak English in front
-> of anyone. I still get nervous, but I can do it now.\
-> **Aisha.** Mine is small. I asked a question in class without
-> writing it down first.
-
-1. What is Ben proudest of? (3)
-2. How has Marius changed? (3)
-3. What is Aisha's "small" achievement, and why is it not actually
-   small? (4)
-
-### Task 2 — Use of English (15 BE)
-
-**Mixed grammar review (15 BE).** Choose the correct form.
-
-1. Last summer Aisha __________ (go) to her grandmother's village.
-2. Ben __________ (build) a bike ramp before his cousin __________
-   (arrive).
-3. They __________ (be) at this school since September.
-4. If you __________ (ask), I __________ (help) you.
-5. The pouches __________ (sell) at the office.
-6. Aisha __________ (used to / use to) play the recorder.
-7. Tomorrow we __________ (visit) my grandmother — it's planned.
-8. We __________ (must / mustn't) talk during the test.
-
-### Task 3 — Mediation (10 BE)
-
-Your German friend sends you this message:
-
-> "Wir machen am Schuljahresende einen Klassenpodcast. Jeder soll
-> auf Englisch zwei Minuten über das Schuljahr erzählen. Ich
-> weiß nicht, was ich sagen soll."
-
-Write **three sentences in English** to your English-speaking
-exchange partner explaining the situation and giving one
-suggestion. Do not translate every word.
-
-### Task 4 — Writing (25 BE)
-
-Write 120–150 words for a class podcast on the question: **"What
-is one thing I learned this year that wasn't on the timetable?"**
-Use:
-
-- *one* present perfect (*I have learned …*),
-- *one* used-to comparison (*I used to / now I …*),
-- *one* future plan (going to / will),
-- *one* concrete detail or example.
-
-{{< callout type="tip" title="Expected answer key — class test (\"Klassenarbeit\")" collapse="true" >}}
-**Task 1 (10 BE).**\
-1. He learned to read a short story without giving up; last year
-   he would have stopped by page two. (3)
-2. He used to think he couldn't speak English in front of anyone;
-   now he can, even if he still gets nervous. (3)
-3. She asked a question in class without writing it down first
-   — small on the surface, but it represents a year of growing
-   confidence. (4)
-
-**Task 2 (15 BE).**\
-1. went, 2. had built / arrived, 3. have been, 4. ask / will help,
-5. are sold, 6. used to, 7. are visiting, 8. mustn't.
-
-**Task 3 (10 BE).** Sample: *"At the end of the year my friend's
-class is making an English podcast — everyone has to talk for two
-minutes about their school year. He doesn't know what to say. I
-suggested he start with one small thing he didn't know how to do
-in September that he can do now."* Award for: gist (4),
-addressee-fit (2), grammar (4).
-
-**Task 4 (25 BE).** Inhalt 13 / Sprache 12.
-{{< /callout >}}
-
-{{< callout type="tip" title="Rubric — grading scale (Notenschlüssel)" collapse="true" >}}
-| Punkte (von 60) | Note |
-|-----------------|------|
-| 56–60 | 1 | 49–55 | 2 | 40–48 | 3 |
-| 30–39 | 4 | 18–29 | 5 | 0–17  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

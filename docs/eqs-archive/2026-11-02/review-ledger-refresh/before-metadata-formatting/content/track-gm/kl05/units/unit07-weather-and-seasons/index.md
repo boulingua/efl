@@ -1,0 +1,193 @@
+---
+page_type: unit
+title: "Unit 7 — Weather and Seasons"
+author: "S. Le Boulanger"
+subtitle: "Track G+M · Klasse 5 · Niveau G/M"
+niveau: "G+M"
+klassenstufe: 5
+track: "gm"
+unit_nr: 7
+material_slug: "track-gm_kl05_unit07-weather-and-seasons"
+bildungsplan:
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.1 Hör-/Hörsehverstehen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+skills_focus:
+- listening
+- writing
+- language_awareness
+aliases:
+- /track_gm_kl05/units/unit07_weather-and-seasons.html
+presentation:
+  file: "/efl/materials/presentations/track-gm_kl05_unit07-weather-and-seasons.pdf"
+  thumbnail: "/efl/materials/presentations/track-gm_kl05_unit07-weather-and-seasons.png"
+worksheet:
+  file: "/efl/materials/worksheets/track-gm_kl05_unit07-weather-and-seasons.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl05_unit07-weather-and-seasons.png"
+tags:
+- listening
+- writing
+- language_awareness
+topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: A1
+  implements:
+  - A1.LING.general-linguistic-range.02
+  - A1.PROD.sustained-monologue-describing-experience.02
+  - A1.REC.overall-reading-comprehension.01
+  - A1.LING.phonological-control.01
+  - A1.INT.correspondence.03
+  implements_basis: proposed
+  level_basis: derived
+audio_manifest: track-gm_kl05_unit07-weather-and-seasons
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl05/units/unit07-weather-and-seasons-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - listening
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file: 
+    /efl/materials/worksheets/track-gm_kl05_unit07-weather-and-seasons-teacher.pdf
+  thumbnail: 
+    /efl/materials/worksheets/track-gm_kl05_unit07-weather-and-seasons-teacher.png
+---
+
+{{< callout type="note" >}}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** G/M parallel. class test ("Klassenarbeit") at Niveau M (30 BE).
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can describe today's weather.*
+- *I can name the four seasons and 6 weather words.*
+- *I can use the present continuous (*it is raining*).*
+
+## Bildungsplan alignment
+
+- **3.1.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.1.3.1 Hör-/Hörsehverstehen**
+- **3.1.3.5 Schreiben**
+- **3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+It is raining. Mia is wearing her yellow boots. Theo is wearing his green raincoat. Frida the fox is sitting under a plastic umbrella that she found near the bins. "This is fine weather," Frida says. "Foxes love puddles." "We don't," Theo says, sneezing.
+
+## 1. Activate {#activate}
+**Weather window.** Look outside for 30 seconds. Write two adjectives in your notebook (sunny? cloudy? cold?).
+
+## 2. Input {#input}
+### Vocabulary — weather and seasons
+
+*Seasons:* spring, summer, autumn (US: fall), winter.
+*Weather:* sunny, cloudy, rainy, windy, snowy, foggy, hot, warm, cool, cold.
+
+### Grammar — present simple vs. present continuous
+
+- **Present simple** for facts and routines:
+  *It rains a lot in November.*
+- **Present continuous** (*am/is/are* + -ing) for right-now actions:
+  *It is raining.* / *Mia is wearing her boots.*
+
+Spelling for -ing:
+*sit → sitting*, *make → making*, *run → running*, *play → playing*.
+
+## 3. Practise {#practise}
+### Niveau G
+
+1. It __________ (rain) right now.
+2. The wind __________ (be) cold today.
+3. We __________ (wear) coats.
+4. In summer it __________ (be) hot.
+
+### Niveau M
+
+5. (look outside) → ___
+6. (today: cloudy and cool) → ___
+7. (autumn: leaves / fall) → ___
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**G.** 1. is raining, 2. is, 3. are wearing, 4. is.
+
+**M.** 5. *Look outside — it is raining.* (any present cont.)
+6. *Today is cloudy and cool.*
+7. *In autumn the leaves fall.*
+{{< /callout >}}
+
+## 4. Produce {#apply}
+**Weather diary — one week.** For seven days at home, write one sentence per day in English: *Today it is …*
+
+### Sample
+
+*Monday: Today it is sunny and warm.*
+*Tuesday: Today it is raining.*
+*Wednesday: Today it is windy and cold.*
+
+## 5. Reflect {#reflect}
+- [ ] I can describe today's weather.
+- [ ] I can name four seasons and six weather words.
+- [ ] I can use the present continuous for *right now*.
+
+**One thing in your notebook:** *Write one sentence that uses
+something you learned in this Unit.*
+
+## Exam example {#exam}
+
+[Open the separate assessment]({{< relref "track-gm/kl05/units/unit07-weather-and-seasons-exam" >}}).
+
+## Teacher notes {#teacher-notes}
+
+{{< downloads >}}
+
+<div class="notes">
+**Slide deck timing.** 45 minutes total. Lead-in 3 min · Activate
+4 min · Input 12 min · Practise 8 min · Produce 13 min · Reflect
+5 min.
+
+**Differentiation.** Niveau G: extra picture support and a printed
+reference card. Above Niveau M: ask one extension question that
+links to the next Unit.
+</div>
+
+## Common pitfalls
+
+- *It is rain* → ✗ / *It is raining* → ✓.
+- *It rains today* (general fact) vs. *It is raining today* (right now) — context matters.
+- L1 trap: German has no real -ing form; you must add *am/is/are* + -ing in English.
+
+## Further reading / listening
+
+- BBC Learning English — *Weather*. <https://www.bbc.co.uk/learningenglish>
+- Met Office Kids — *Weather words*. <https://www.metoffice.gov.uk>

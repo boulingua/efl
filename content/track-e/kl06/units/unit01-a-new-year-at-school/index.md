@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 1
 material_slug: "track-e_kl06_unit01-a-new-year-at-school"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - speaking
-  - writing
-  - language_awareness
+- speaking
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl06/units/unit01_a-new-year-at-school.html
+- /track_e_kl06/units/unit01_a-new-year-at-school.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl06_unit01-a-new-year-at-school.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl06_unit01-a-new-year-at-school.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.information-exchange.02
-    - A1.LING.general-linguistic-range.02
-    - A1.PROD.creative-writing.02
-    - A1.INT.conversation.02
-    - A1.REC.understanding-conversation-between-other-people.02
+  - A1.INT.information-exchange.02
+  - A1.LING.general-linguistic-range.02
+  - A1.PROD.creative-writing.02
+  - A1.INT.conversation.02
+  - A1.REC.understanding-conversation-between-other-people.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl06_unit01-a-new-year-at-school
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl06/units/unit01-a-new-year-at-school-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl06_unit01-a-new-year-at-school-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl06_unit01-a-new-year-at-school-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,12 +105,10 @@ curriculum:
 
 Sam stands in the corridor of the new building. Klasse 6 has a different floor. The lockers click shut. The chemistry lab smells faintly of vinegar. Lina finds Sam staring at a noticeboard. "Same class, different planet," she says. Mr. Flint walks past with a tray of test tubes, says, "Welcome back," and disappears into the lab without slowing down. Klasse 6 has begun, and the building has agreed to it.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Two-truth check.** Tell your partner two true things and one slightly invented thing about your summer. Partner guesses which is invented. Then swap.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — secondary school
 
 *lockers, the chemistry lab, the staff room, the headteacher's office, period (= Stunde), break time, free period (= Hohlstunde), homework diary, blazer (BrE), uniform, prefect, head pupil, the bell, first period, last period.*
@@ -88,8 +122,7 @@ Position rule:
 - **After** *to be*: *She is sometimes late.*
 - **Between** modal/aux and main: *I have never been to Paris.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Place the adverb. *(always)* I __________ have English on Tuesday. *(rarely)* Lina __________ is late. *(never)* They __________ play chess.
@@ -106,70 +139,25 @@ Position rule:
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair speaking — *My Week (Niveau E)*.** 90 seconds each direction. Cover: a typical Monday, a Friday afternoon, *something I never do at school*, *something I always do at home before school*.
 
 ### Sample
 
 *— On Mondays I usually have biology first thing, which I love. I sometimes have a free period after lunch — those are the best minutes of the week.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can place frequency adverbs correctly with main verbs and *to be*.
 - [ ] I can sort 7 frequency adverbs by approximate %.
 - [ ] I can hold a 90-second school-week conversation.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl06/units/unit01-a-new-year-at-school-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "In Klasse 6 we have biology twice a week, music once a week, and PE on Friday afternoon. We hardly ever have homework on Wednesday. Lunch is always at 12:30."
-
-1. Biology: ___ . 2. PE: ___ . 3. Homework on Wed: ___ . 4. Lunch: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "Sam usually walks to school. Sometimes he takes the bus when it rains heavily. He hardly ever gets a lift from his parents. He often arrives ten minutes early to talk to Lina at her locker."
-
-T or F: 1. Sam usually walks. 2. He always takes the bus. 3. He hardly ever gets a lift. 4. He often arrives early.
-
-### Task 3 — Use of English (8 BE)
-
-**Place the adverb.**
-
-1. *(always)* I ___ have music on Monday.
-2. *(usually)* She ___ is on time.
-3. *(hardly ever)* They ___ play tennis.
-4. *(occasionally)* We ___ have a free period.
-
-### Task 4 — Writing (6 BE)
-
-Write 6 sentences about your school week using 4 different frequency adverbs and at least one *to be* sentence.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** twice a week, Friday afternoon, hardly ever, 12:30.
-**T2.** T, F, T, T.
-**T3.** 1. always have, 2. is usually, 3. hardly ever play, 4. occasionally have.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

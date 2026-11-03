@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 6
 material_slug: "track-e_kl12_unit06-the-non-fiction-essay"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.2 / 3.5.3.2 Leseverstehen"
-  - "3.4.3.5 / 3.5.3.5 Schreiben"
-  - "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.2 / 3.5.3.2 Leseverstehen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl12/units/unit06_the-non-fiction-essay.html
+- /track_e_kl12/units/unit06_the-non-fiction-essay.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl12_unit06-the-non-fiction-essay.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl12_unit06-the-non-fiction-essay.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.LING.general-linguistic-range.01
-    - B2.PROD.creative-writing.01
-    - B2.REC.overall-reading-comprehension.01
-    - B2.LING.orthographic-control.01
-    - B2.INT.formal-discussion.01
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.creative-writing.01
+  - B2.REC.overall-reading-comprehension.01
+  - B2.LING.orthographic-control.01
+  - B2.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl12_unit06-the-non-fiction-essay
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl12/units/unit06-the-non-fiction-essay-exam
+  format: existing-assessment
+  duration_minutes: 20
+  points: 90
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl12_unit06-the-non-fiction-essay-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl12_unit06-the-non-fiction-essay-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,12 +108,10 @@ course (Leistungsfach, E-LF).
 
 Mr. Yilmaz handed out a 1,200-word non-fiction essay by Zadie Smith — *Speaking in Tongues* (2009). The class spent the lesson learning to track the essay's central move: an anecdote that becomes an argument, an argument that opens onto a moral turn, a moral turn that returns to the anecdote. Maja wrote in the margin: *the essay walks like a small animal that knows the route*.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Essay-shape scan.** Open the essay. With your partner, mark: where the thesis lands (paragraph 2 or 3?), where the anecdote-as-argument is, where the moral turn is.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — *Speaking in Tongues*, opening (paraphrased)
 
 *The essayist begins with a small autobiographical scene: code-switching between two voices in her own family. The anecdote is small, specific, domestic. By the third paragraph, the anecdote has become an argument about voice and authenticity. By the fifth, the argument has opened onto a moral turn — that *single voice* is a political demand, not a personal achievement. The closing returns to the autobiographical scene with new resonance.*
@@ -86,8 +120,7 @@ Mr. Yilmaz handed out a 1,200-word non-fiction essay by Zadie Smith — *Speakin
 
 *premise, claim, qualification, anecdote-as-argument, register shift, moral turn, essayist's *I*, address, periodic sentence, elliptical close.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: anecdote-as-argument → small story doing argumentative work; moral turn → the essay's ethical shift; elliptical close → unfinished but resonant ending.
@@ -104,67 +137,25 @@ Mr. Yilmaz handed out a 1,200-word non-fiction essay by Zadie Smith — *Speakin
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Non-fiction essay (your own), 400 words.** Use the *anecdote-as-argument* move: open with a small personal scene, develop into an argument by paragraph 3, hit a moral turn by paragraph 5, return to the scene at the close. Use 4 academic discourse markers + 2 hedges + 1 cleft.
 
 ### Sample
 
 *The first time I noticed I had two voices, I was fourteen and on the phone with my grandmother. The voice I used with her — slower, vowel-heavier, permitted to be sentimental — had nothing in common with the voice I used at school the next morning. The realisation was not interesting in itself; everyone has more than one voice. What was interesting was my unease. I felt, briefly, as if one of the two were the *real* one and the other a small daily betrayal. Accordingly, I tried for some weeks to merge them — to bring the school voice home and the home voice to school. Both attempts embarrassed everyone, including me. By contrast, the more I read essays by writers who code-switch professionally — Zadie Smith, James Baldwin, Jhumpa Lahiri — the more clearly I saw that the anxiety I had felt was a borrowed anxiety. It is precisely the demand for a *single* voice that is the political problem. The literary problem, by contrast, is the harder one: how do you keep two registers without flattening either? The essayists who do this best, in my reading, do not pretend the two voices are identical. They let the reader feel the join. Smith's *Speaking in Tongues* (2009) is, in this regard, a small instruction manual: the essay's own register shifts twice in the first three pages, and the shifts are part of the argument. Caution is warranted; complacency with one's own voice is not. The phone call with my grandmother, returning at the close of this essay, no longer feels like a betrayal. It feels like a craft problem I have begun to solve.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify thesis, supporting moves, and stylistic register in a non-fiction essay.
 - [ ] I can use 6+ essayistic-prose terms.
 - [ ] I can write a 400-word non-fiction essay with anecdote-as-argument and moral turn.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (full paper, 90 BE)" icon="false" >}}
-**Time.** 4 hours including 20 minutes of breaks (220 active
-minutes). **Total.** 90 BE.\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl12/units/unit06-the-non-fiction-essay-exam" >}}).
 
-### Part A — Comprehension (~24 BE)
-
-Read twice the *Speaking in Tongues* paraphrase above.
-
-1. Opening: ___ . 2. By paragraph 3: ___ . 3. By paragraph 5: ___ . 4. Closing: ___ .
-
-### Part B — Analysis (~18 BE)
-
-Read the paraphrase above.
-
-1. Three structural moves: ___ . 2. The essayist's central political claim: ___ . 3. The moral turn: ___ . 4. The elliptical close: ___ .
-
-### Part C — Composition (~18 BE)
-
-**Composition prompt:** *Write a 250-word anecdote-as-argument paragraph on a small linguistic / cultural observation. Use 2 markers + 1 cleft.*
-
-### Mediation (~30 BE)
-
-**Mediation prompt:** A 200-word German Feuilleton-essay opener (e.g. from Zeit-Magazin) for an English-speaking literary-essay reader. (Source provided in class.)
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** 1. small autobiographical scene of code-switching; 2. anecdote becomes argument about voice and authenticity; 3. moral turn — *single voice* is a political demand, not a personal achievement; 4. return to opening scene with new resonance.
-**Analysis.** 1. anecdote → argument → moral turn; 2. *single voice* is a political demand, not a personal achievement; 3. demand for one voice is a political problem; 4. return to autobiographical scene with new weight.
-**Composition.** Open.
-**Mediation.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 90 BE)" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

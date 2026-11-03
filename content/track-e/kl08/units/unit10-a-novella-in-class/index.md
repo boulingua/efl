@@ -9,17 +9,17 @@ track: "e"
 unit_nr: 10
 material_slug: "track-e_kl08_unit10-a-novella-in-class"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.2 Leseverstehen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
-  - "3.2.4 Text- und Medienkompetenz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.2.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl08/units/unit10_a-novella-in-class.html
+- /track_e_kl08/units/unit10_a-novella-in-class.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl08_unit10-a-novella-in-class.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl08_unit10-a-novella-in-class.png"
@@ -35,13 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.LING.orthographic-control.01
-    - A2.PROD.creative-writing.07
-    - A2.REC.identifying-cues-and-inferring.02
-    - A2.PROD.sustained-monologue-giving-information.01
-    - A2.MED.acting-as-an-intermediary-in-informal-situations.02
+  - A2.LING.orthographic-control.01
+  - A2.PROD.creative-writing.07
+  - A2.REC.identifying-cues-and-inferring.02
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.MED.acting-as-an-intermediary-in-informal-situations.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl08_unit10-a-novella-in-class
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl08/units/unit10-a-novella-in-class-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl08_unit10-a-novella-in-class-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl08_unit10-a-novella-in-class-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -71,12 +107,10 @@ curriculum:
 
 Mr. Ade started the term with a thin novella: *The Library of Almost-Found Things* (an original — not a real-world title). Each chapter is six pages. The class is reading one chapter per week. The protagonist is a girl named June who keeps a notebook of *things she almost found*. Hawa says, "This is suspiciously specific. I think Mr. Ade has lost something."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Predict.** First sentence on the slide: *On the Tuesday June found the umbrella, she had already lost two other things.* With your partner, predict three things the chapter will involve.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — *Chapter 1, opening*
 
 *On the Tuesday June found the umbrella, she had already lost two other things. The first was a library book she could no longer remember the title of. The second was the courage to ask Mr. Owen what had happened to her grandmother's letters. The umbrella, by comparison, was small. But it had her grandmother's initials on the handle, and June had looked for it for three years.*
@@ -91,8 +125,7 @@ Mr. Ade started the term with a thin novella: *The Library of Almost-Found Thing
 - *"Where is it?"* → *He asked where it was.*
 - *"Did you see it?"* → *He asked if I had seen it.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Direct → reported (statement): *"I found the umbrella," she said.* → ___ .
@@ -109,68 +142,25 @@ Mr. Ade started the term with a thin novella: *The Library of Almost-Found Thing
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Reading-journal entry, 150 words.** After reading Chapter 1, write a journal entry: *one quote*, *one question I have*, *one prediction*, *one personal connection*. Use one direct quote and one reported version of a character's question.
 
 ### Sample
 
 *One sentence in this chapter stays with me: "The umbrella, by comparison, was small." June seems to compare every object to her bigger losses, which is both touching and a bit sad. I wonder why Mr. Owen kept her grandmother's letters in the first place. He asked June if she remembered the title of the lost library book; she didn't. I predict the title will return at the end of the book and explain everything. My personal connection: I once spent two weeks looking for a single sock and never found it.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify protagonist, conflict, theme.
 - [ ] I can convert direct ↔ reported speech.
 - [ ] I can write a 150-word reading-journal entry.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl08/units/unit10-a-novella-in-class-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "After Chapter 1, the teacher said that June had lost two things. He explained that the umbrella was the smallest of her losses. He asked the class if they could remember the last thing they had lost."
-
-1. Said: ___ . 2. Explained: ___ . 3. Asked: ___ . 4. Form of reported question: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the *Chapter 1, opening* extract above.
-
-1. Two losses: ___ . 2. Why is the umbrella small *by comparison*? ___ . 3. What is on the handle? ___ . 4. How long has she looked? ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Direct → reported.**
-
-1. "I found the umbrella," she said. → ___
-2. "Where is the library?" he asked. → ___
-3. "Did you see it?" she asked. → ___
-4. "I am tired," June said. → ___
-
-### Task 4 — Writing (13 BE)
-
-Write 150 words: a reading-journal entry on Chapter 1 (quote, question, prediction, personal connection).
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** June had lost two things, the umbrella was the smallest, if they could remember the last thing they had lost, *if* + statement order with backshift.
-**T2.** the library book and the courage to ask Mr. Owen; because the other two losses are bigger; her grandmother's initials; three years.
-**T3.** *She said (that) she had found the umbrella. He asked where the library was. She asked if I had seen it. June said (that) she was tired.*
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

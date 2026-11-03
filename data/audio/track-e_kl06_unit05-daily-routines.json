@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Vocabulary 1",
+    "transcript": "I · you · he · she · it · we · they",
+    "file": "/efl/materials/audio/unit05-daily-routines/vocab1.ogg",
+    "tts": "I.\nyou.\nhe.\nshe.\nit.\nwe.\nthey."
+  },
+  {
+    "label": "Text 1",
+    "transcript": "\"My name is Sam. First I get up at 6:30. Then I have breakfast at 7. Afterwards I leave home at 7:30. School starts at 8. I finish at 1:20.\""
+  },
+  {
+    "label": "Text 2",
+    "transcript": "\"On Sundays Lina wakes up late. First she has a long breakfast with her family. After that she meets Sam in the park. They play chess for an hour. Finally, in the evening, she does her homework.\""
+  }
+]

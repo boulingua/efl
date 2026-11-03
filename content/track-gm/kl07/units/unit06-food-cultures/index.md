@@ -9,18 +9,18 @@ track: "gm"
 unit_nr: 6
 material_slug: "track-gm_kl07_unit06-food-cultures"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.2 Interkulturelle kommunikative Kompetenz"
-  - "3.2.3.2 Leseverstehen"
-  - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
-  - "3.2.4 Text- und Medienkompetenz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.2 Interkulturelle kommunikative Kompetenz"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.2.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - speaking
-  - intercultural
+- reading
+- speaking
+- intercultural
 aliases:
-  - /track_gm_kl07/units/unit06_food-cultures.html
+- /track_gm_kl07/units/unit06_food-cultures.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl07_unit06-food-cultures.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl07_unit06-food-cultures.png"
@@ -36,13 +36,48 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.formal-discussion.01
-    - A2.PROD.planning.01
-    - A2.REC.understanding-as-a-member-of-a-live-audience.02
-    - A2.SOC.sociolinguistic-appropriateness.03
-    - A2.MED.analysis-and-criticism-of-creative-texts.01
+  - A2.INT.formal-discussion.01
+  - A2.PROD.planning.01
+  - A2.REC.understanding-as-a-member-of-a-live-audience.02
+  - A2.SOC.sociolinguistic-appropriateness.03
+  - A2.MED.analysis-and-criticism-of-creative-texts.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl07_unit06-food-cultures
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl07/units/unit06-food-cultures-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 60
+  skills:
+  - reading
+  - speaking
+  - intercultural
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-gm_kl07_unit06-food-cultures-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl07_unit06-food-cultures-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -85,8 +120,7 @@ time, her grandmother has read the recipe and said, very gently,
 said, "It says *one teaspoon of salt*. There is no teaspoon. There
 is only your hand."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Picture pair.** With your partner, look at the slide. There are
 six dishes from six countries. For each one:
 
@@ -102,8 +136,7 @@ secrets, stocks, and inherited spice mixes — exactly what this
 Unit is about.
 {{< /callout >}}
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading text — *The Sunday Chicken*
 
 > Anya's grandfather makes the same dish every Sunday: rice,
@@ -163,8 +196,7 @@ no subject.
 For polite cooking talk: *Could you pass the salt? Would you mind
 stirring this?*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G — controlled
 
 **A. Some, any, much, or many?**
@@ -214,8 +246,7 @@ B. 1–b, 2–a, 3–d, 4–c.
 10. We have a little butter.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair speaking task — *Family Plate*.** With your partner, take
 turns describing a dish that means something in your family. For
 each dish, the listener asks at least one *follow-up* question
@@ -231,8 +262,7 @@ Three rules:
 
 Volunteers share with the class at the end.
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can read a short narrative about a family dish and explain
   what makes it meaningful beyond taste.
 - [ ] I can use *some / any / much / many / a few / a little*
@@ -242,116 +272,11 @@ Volunteers share with the class at the end.
 **One sentence in your notebook:** *What is one dish in my family
 that I want to ask the cook to explain?*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Materials allowed.** A monolingual dictionary (Niveau M only).\
-**Time.** 45 minutes.\
-**Total.** 60 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl07/units/unit06-food-cultures-exam" >}}).
 
-### Task 1 — Reading (15 BE)
-
-Read the short text below.
-
-> Anya's grandfather makes the same dish every Sunday: rice, chicken,
-> a sauce with herbs the family will not name in English because
-> the English name does not feel right. The dish has migrated
-> with the family for two generations. In the village, it was
-> made with a chicken from the yard. In the city, it is made with
-> a chicken from the supermarket. The taste is mostly the same.
-> Sundays are the day Anya's grandfather speaks the most. The
-> dish, he says, is what the family is. Every other day they
-> argue about everything. On Sundays they argue about the
-> chicken.
-
-1. What dish does Anya's grandfather make every Sunday? (3)
-2. Why does the family avoid the English name for the herbs? (3)
-3. What has changed between the village and the city version of
-   the dish? (3)
-4. What does the grandfather mean by "the dish is what the family
-   is"? (6)
-
-### Task 2 — Use of English (12 BE)
-
-**A. Quantifiers (6 BE).** Choose: *some*, *any*, *much*, *many*,
-*a few*, *a little*.
-
-1. Is there __________ rice left?
-2. We need __________ tomatoes for the sauce.
-3. There aren't __________ eggs in the fridge.
-4. We have __________ time before the guests arrive — about ten
-   minutes.
-
-**B. Recipe imperatives (6 BE).** Rewrite as instructions.
-
-5. You should chop the onion finely. → Chop ___ .
-6. You must not boil the herbs for too long. → Don't ___ .
-7. You should let the rice rest for ten minutes. → ___ .
-
-### Task 3 — Mediation (10 BE)
-
-Your German pen-pal sends you this WhatsApp message:
-
-> "Bei uns gibt es jeden Sonntag Maultaschen mit Brühe. Mama sagt,
-> es geht nicht ums Essen, sondern darum, dass alle am Tisch
-> sitzen. Mein Bruder isst trotzdem heimlich Pizza."
-
-Write **three sentences in English** to your English-speaking
-friend telling them about the family's Sunday tradition. Do not
-translate every word.
-
-### Task 4 — Writing (23 BE)
-
-Write 100–120 words about a dish that means something to your
-family — a Sunday meal, a birthday cake, something a grandparent
-makes. Use:
-
-- at least three quantifiers (*some, any, much, many, a few, a
-  little, a lot of*),
-- at least one imperative (*Don't … / Take … / Add …*) — perhaps
-  embedded in a quoted family instruction,
-- one sensory detail.
-
-{{< callout type="tip" title="Expected answer key — class test (\"Klassenarbeit\")" collapse="true" >}}
-**Task 1 (15 BE).**\
-1. Rice, chicken, and a sauce with named-but-unnamed herbs. (3)
-2. The English name does not feel right; the herbs carry meaning
-   the English word does not preserve. (3)
-3. The chicken: from the yard in the village, from the supermarket
-   in the city. (3)
-4. Sample: *The dish is a memory the family eats together every
-   week. It links them to the village and to each other.
-   Cooking it carries identity from one generation to the next.*
-   (6 — accept any answer that grasps food + identity + memory.)
-
-**Task 2 (12 BE).**\
-A. 1. any, 2. some / a few, 3. many / a lot of, 4. a little.\
-B. 5. Chop the onion finely.
-   6. Don't boil the herbs for too long.
-   7. Let the rice rest for ten minutes.
-
-**Task 3 (10 BE).** Sample: *"Every Sunday my pen-pal's family
-eats Maultaschen — a kind of Swabian filled pasta — with broth.
-Her mum says the point is not the food but having everyone at
-the table. Her brother still secretly eats pizza."* Award for:
-gist (4), addressee-fit (2), correct grammar (4).
-
-**Task 4 (23 BE).** Inhalt 12 / Sprache 11.
-{{< /callout >}}
-
-{{< callout type="tip" title="Rubric — grading scale (Notenschlüssel)" collapse="true" >}}
-| Punkte (von 60) | Note |
-|-----------------|------|
-| 56–60 | 1 |
-| 49–55 | 2 |
-| 40–48 | 3 |
-| 30–39 | 4 |
-| 18–29 | 5 |
-| 0–17  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

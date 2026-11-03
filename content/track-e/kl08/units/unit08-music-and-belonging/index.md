@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 8
 material_slug: "track-e_kl08_unit08-music-and-belonging"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.2 Interkulturelle kommunikative Kompetenz"
-  - "3.2.3.1 Hör-/Hörsehverstehen"
-  - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.2 Interkulturelle kommunikative Kompetenz"
+- "3.2.3.1 Hör-/Hörsehverstehen"
+- "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
 skills_focus:
-  - listening
-  - speaking
-  - intercultural
+- listening
+- speaking
+- intercultural
 aliases:
-  - /track_e_kl08/units/unit08_music-and-belonging.html
+- /track_e_kl08/units/unit08_music-and-belonging.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl08_unit08-music-and-belonging.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl08_unit08-music-and-belonging.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.correspondence.05
-    - A2.PROD.creative-writing.06
-    - A2.REC.overall-reading-comprehension.02
-    - A2.SOC.sociolinguistic-appropriateness.02
-    - A2.LING.orthographic-control.01
+  - A2.INT.correspondence.05
+  - A2.PROD.creative-writing.06
+  - A2.REC.overall-reading-comprehension.02
+  - A2.SOC.sociolinguistic-appropriateness.02
+  - A2.LING.orthographic-control.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl08_unit08-music-and-belonging
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl08/units/unit08-music-and-belonging-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - listening
+  - speaking
+  - intercultural
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl08_unit08-music-and-belonging-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl08_unit08-music-and-belonging-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,12 +105,10 @@ curriculum:
 
 Hawa is preparing a class playlist. The rule: each song must mean *belonging* in some way. Jonas chose an Icelandic instrumental that sounds like wind. Hawa chose a Yoruba song her grandmother sings. Mr. Ade, uninvited, contributed a 1980s German pop song that no one had asked for. He smiled. "Belonging," he said, "is sometimes a guilty pleasure."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Mood scan.** Teacher plays 30 seconds of three tracks. For each one, write one mood word and one instrument.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — music
 
 *genre, beat, rhythm, lyrics, melody, harmony, verse, chorus, bridge, solo, instrumental, acoustic, electric, bass, drums, percussion, vocals, hook, fade out.*
@@ -85,8 +119,7 @@ Hawa is preparing a class playlist. The rule: each song must mean *belonging* in
 *must* — strongly likely: *That **must** be your grandmother's voice.*
 *can't* — strongly unlikely: *That **can't** be live — it's too clean.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Choose: *might / must / can't*: That voice __________ be Mariah Carey. The track __________ be by Adele — it sounds different. The drum __________ be a real drum.
@@ -103,70 +136,25 @@ Hawa is preparing a class playlist. The rule: each song must mean *belonging* in
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair speaking — *One Song That Means Home*.** 90 sec each. Cover: title (or theme), genre, instrument, association, why it means belonging. Use 1 modal of possibility.
 
 ### Sample
 
 *— My song is in Yoruba — my grandmother sings it. It must be at least fifty years old. There's a small drum and her voice. It might mean nothing to anyone else, but for me it is the sound of Sunday afternoons.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can describe a piece of music in 5 sentences.
 - [ ] I can use modals of possibility correctly.
 - [ ] I can hold a 90-second song-conversation.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl08/units/unit08-music-and-belonging-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "This song could be by Adele — it has the same kind of voice. But the chorus is different, so it might be someone newer. The drum sounds programmed rather than live, which means it can't be a stripped-back acoustic version."
-
-1. Could be by: ___ . 2. Why uncertain: ___ . 3. Might be: ___ . 4. Drum: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read.
-
-> "My favourite song must be the one my grandmother sings every Sunday. It might be 50 years old, or it could be older — no one in the family is sure. There is a small drum and her voice. It can't be heard on any streaming app."
-
-1. Favourite: ___ . 2. Age: ___ . 3. Sounds: ___ . 4. Streaming: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Modal of possibility.**
-
-1. That voice __________ be Mariah Carey. (might)
-2. That __________ be live — too clean. (can't)
-3. The drum __________ be a real drum. (could)
-4. That singer __________ be German. (must — listen to the language)
-
-### Task 4 — Writing (13 BE)
-
-Write 120 words about one song that means belonging to you. Use 3 modals of possibility.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** Adele, chorus is different, someone newer, programmed (not live).
-**T2.** the song her grandmother sings; might be 50 years old or older; small drum + her voice; not on streaming.
-**T3.** might / can't / could / must.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

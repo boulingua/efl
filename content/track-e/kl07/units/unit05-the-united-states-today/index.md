@@ -9,18 +9,18 @@ track: "e"
 unit_nr: 5
 material_slug: "track-e_kl07_unit05-the-united-states-today"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.2 Interkulturelle kommunikative Kompetenz"
-  - "3.2.3.2 Leseverstehen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
-  - "3.2.4 Text- und Medienkompetenz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.2 Interkulturelle kommunikative Kompetenz"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.2.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - intercultural
+- reading
+- writing
+- intercultural
 aliases:
-  - /track_e_kl07/units/unit05_the-united-states-today.html
+- /track_e_kl07/units/unit05_the-united-states-today.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl07_unit05-the-united-states-today.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl07_unit05-the-united-states-today.png"
@@ -36,13 +36,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.PROD.sustained-monologue-giving-information.01
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.SOC.sociolinguistic-appropriateness.01
-    - A2.REC.reading-for-information-and-argument.03
-    - A2.MED.overall-mediation.02
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.SOC.sociolinguistic-appropriateness.01
+  - A2.REC.reading-for-information-and-argument.03
+  - A2.MED.overall-mediation.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl07_unit05-the-united-states-today
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl07/units/unit05-the-united-states-today-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 60
+  skills:
+  - reading
+  - writing
+  - intercultural
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl07_unit05-the-united-states-today-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl07_unit05-the-united-states-today-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -89,8 +125,7 @@ with the air conditioning on, for fifteen minutes. "Welcome to
 the desert," he said. "We don't sit outside here in July. We
 move from box to box."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Map prompt.** On the slide there is a blank map of the United
 States. With your partner, mark with sticky notes:
 
@@ -107,8 +142,7 @@ struggles, give them a category: weather, food, school year,
 sports, music.
 {{< /callout >}}
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading text — *The Sound of the Desert*
 
 > The first thing Maya noticed in Phoenix was the sound of the
@@ -155,8 +189,7 @@ promises: *I'll be there at six.*
 | named regions (*the Midwest, the South, the Highlands*) | continents (*Europe, Africa*) |
 | named buildings (*the White House*) | cities (*Phoenix, Berlin, Tokyo*) |
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G — controlled
 
 **A. Will or going to?**
@@ -203,8 +236,7 @@ B. 4. the, 5. — , 6. — , 7. the.
 13. — / a / the.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Writing task — *A Place I Would Visit*.** Write 100–120 words
 about an English-speaking country or region you would like to
 visit. Cover the three points from the class test ("Klassenarbeit"):
@@ -228,8 +260,7 @@ Use *would* twice and one future with *will* or *going to*.
 > aunt, who speaks French and English and used to live two
 > streets from a famous saxophonist.
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can read a short first-person American text and explain
   two surprises.
 - [ ] I can choose between *will* and *going to* with reason.
@@ -238,116 +269,11 @@ Use *would* twice and one future with *will* or *going to*.
 **One sentence in your notebook:** *What is one stereotype about
 the United States I want to test against a real source this week?*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Materials allowed.** A monolingual dictionary (Niveau M only).\
-**Time.** 45 minutes.\
-**Total.** 60 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl07/units/unit05-the-united-states-today-exam" >}}).
 
-### Task 1 — Reading (18 BE)
-
-Read the short text below.
-
-> The first thing Maya noticed in Phoenix was the sound of the
-> air conditioning. It was everywhere: in the supermarket, in the
-> car, in the hotel lobby. Outside, the heat had a sound too —
-> the steady drone of cicadas in the desert trees. Her cousins
-> said you stop hearing the cicadas after about a week. She did
-> not believe them. By the end of the third day, she realised
-> they were right. The desert had its own kind of silence, and it
-> was full of noises she would not have called noises a week
-> earlier.
-
-1. Where is Maya visiting? (2)
-2. What sound does she notice first? (2)
-3. What sound does she notice outside? (2)
-4. What did her cousins predict? Did the prediction come true? (5)
-5. What does the writer mean by "its own kind of silence"? (7)
-
-### Task 2 — Use of English (12 BE)
-
-**A. Will-future or going-to (6 BE).** Choose the better option.
-
-1. Look at those clouds! It __________ (will rain / is going to
-   rain) any minute.
-2. I think the new film __________ (will be / is going to be) very
-   popular.
-3. Don't worry, I __________ (will help / am going to help) you
-   with that bag.
-
-**B. Articles (6 BE).** Insert *a*, *an*, *the*, or — if no
-article is needed.
-
-4. Maya is from __________ Stuttgart, but her cousins live in
-   __________ United States.
-5. Phoenix is __________ city in __________ desert.
-6. She wants to see __________ Grand Canyon next summer.
-
-### Task 3 — Mediation (10 BE)
-
-Your German friend sends you this WhatsApp message:
-
-> "Meine Tante schickt jeden Sommer Fotos aus Texas. Es sieht
-> immer extrem heiß aus. Ich verstehe nicht, wie die Menschen
-> dort wohnen können, ohne den ganzen Tag im Schatten zu
-> sitzen."
-
-Write **three sentences in English** to your American pen-pal
-explaining your friend's question. You do not need to translate
-every word.
-
-### Task 4 — Writing (20 BE)
-
-Write 100–120 words about a place in an English-speaking country
-that you would like to visit. Cover:
-
-- *one fact* you already know about the place,
-- *one thing* you imagine the daily life is like,
-- *one thing* you would want to find out for yourself.
-
-Use *would* twice and the future with *will* or *going to* at
-least once.
-
-{{< callout type="tip" title="Expected answer key — class test (\"Klassenarbeit\")" collapse="true" >}}
-**Task 1 (18 BE).**\
-1. Phoenix (in Arizona, in the United States). (2)
-2. The sound of air conditioning everywhere. (2)
-3. The drone of cicadas in the desert trees. (2)
-4. Her cousins said she would stop hearing the cicadas after about
-   a week. By the end of the third day she found the prediction
-   was right. (5)
-5. The desert is not soundless; it is full of small steady noises
-   that her ear gradually accepts as the new "quiet". The writer
-   is rethinking what *silence* means. (7)
-
-**Task 2 (12 BE).**\
-A. 1. is going to rain, 2. will be (or is going to be — accept both
-   with reasoning), 3. will help.\
-B. 4. — / the. 5. a / the. 6. the.
-
-**Task 3 (10 BE).** Sample: *"My friend's aunt sends pictures from
-Texas every summer. She says it looks extremely hot. She is
-wondering how people there can live their daily lives without
-spending the whole day in the shade."* Award for: gist (4),
-addressee-fit (2), correct grammar (4).
-
-**Task 4 (20 BE).** Inhalt 10 / Sprache 10.
-{{< /callout >}}
-
-{{< callout type="tip" title="Rubric — grading scale (Notenschlüssel)" collapse="true" >}}
-| Punkte (von 60) | Note |
-|-----------------|------|
-| 56–60 | 1 |
-| 49–55 | 2 |
-| 40–48 | 3 |
-| 30–39 | 4 |
-| 18–29 | 5 |
-| 0–17  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

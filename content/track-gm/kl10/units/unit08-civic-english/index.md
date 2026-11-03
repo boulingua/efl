@@ -9,17 +9,17 @@ track: "gm"
 unit_nr: 8
 material_slug: "track-gm_kl10_unit08-civic-english"
 bildungsplan:
-  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.3.2 Interkulturelle kommunikative Kompetenz"
-  - "3.3.3.2 Leseverstehen"
-  - "3.3.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.3.4 Text- und Medienkompetenz"
+- "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.3.2 Interkulturelle kommunikative Kompetenz"
+- "3.3.3.2 Leseverstehen"
+- "3.3.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.3.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - speaking
-  - language_awareness
+- reading
+- speaking
+- language_awareness
 aliases:
-  - /track_gm_kl10/units/unit08_civic-english.html
+- /track_gm_kl10/units/unit08_civic-english.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl10_unit08-civic-english.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl10_unit08-civic-english.png"
@@ -35,13 +35,48 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.INT.conversation.05
-    - B1.LING.general-linguistic-range.02
-    - B1.PROD.sustained-monologue-giving-information.03
-    - B1.REC.identifying-cues-and-inferring.07
-    - B1.PLUR.plurilingual-comprehension.02
+  - B1.INT.conversation.05
+  - B1.LING.general-linguistic-range.02
+  - B1.PROD.sustained-monologue-giving-information.03
+  - B1.REC.identifying-cues-and-inferring.07
+  - B1.PLUR.plurilingual-comprehension.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl10_unit08-civic-english
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl10/units/unit08-civic-english-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - speaking
+  - language_awareness
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-gm_kl10_unit08-civic-english-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl10_unit08-civic-english-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -71,12 +106,10 @@ curriculum:
 
 Maja's class read a one-page summary of the UN Convention on the Rights of the Child. They argued for twenty minutes about Article 12 — *every child has the right to be heard in matters affecting them.* Half the class said *that's already true*. The other half said *that's poorly enforced.* Mr. Yilmaz said: *both can be true*.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Right vs. duty scan.** With your partner, write 3 rights you have as a Klasse-10 student and 3 duties. Compare and discuss overlaps.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — *Article 12, paraphrased*
 
 *Every child has the right to express an opinion in matters affecting them, and that opinion is to be given due weight in accordance with the child's age and maturity. This right does not mean that children decide; it means that adults are required to listen and to consider. The article is one of the most frequently cited and one of the most unevenly enforced in the convention.*
@@ -92,8 +125,7 @@ Maja's class read a one-page summary of the UN Convention on the Rights of the C
 - *Schools **are expected to** consult students on rules that affect them.*
 - Negative: ***are not obliged to** decide based on those views.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Choose: *entitled / required / expected* — Children are __________ to express their views. Adults are __________ to listen.
@@ -110,68 +142,25 @@ Maja's class read a one-page summary of the UN Convention on the Rights of the C
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair speaking — *Article 12 in our school*.** 3 min each direction. Question: *How is the right to be heard handled in our school?* Use 4 formal civic phrases + 1 cautious-claim phrase.
 
 ### Sample
 
 *— Students are entitled to express their views on rules that affect them. In our school, this is partly handled through the student representatives. According to the head pupil, however, only some rules are actually consulted on. It appears that the system works best for visible issues like break-time use, and less well for less visible ones like marking practice. Adults are required to consider student views, but they are not obliged to act on them.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify a right and a duty in a civic text.
 - [ ] I can use formal entitlement / duty phrases.
 - [ ] I can hold a 3-minute civic-question conversation in formal English.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl10/units/unit08-civic-english-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "Article 12 says that every child is entitled to express an opinion in matters affecting them. Adults are required to give that opinion due weight, considering age and maturity. The right does not mean children decide. The article is among the most frequently cited and the most unevenly enforced."
-
-1. Right: ___ . 2. Duty: ___ . 3. What it does NOT mean: ___ . 4. Status: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the *Article 12, paraphrased* extract above.
-
-1. Right: ___ . 2. Adults' duty: ___ . 3. Limit on the right: ___ . 4. Reality of enforcement: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Insert *entitled / required / expected*.**
-
-1. Children are ___ to express their views.
-2. Adults are ___ to consider those views.
-3. Schools are ___ to consult on rules.
-4. Adults are not ___ to follow the children's decision.
-
-### Task 4 — Writing (13 BE)
-
-Write 180 words: a civic-English commentary on one right or one rule in your school. Use 4 formal phrases.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** every child entitled to express opinion; adults required to give due weight; not children deciding; most cited / most unevenly enforced.
-**T2.** express opinions in matters affecting them; consider those opinions with due weight; consideration based on age and maturity, children don't decide; one of the most cited and unevenly enforced.
-**T3.** entitled / required / expected / obliged.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

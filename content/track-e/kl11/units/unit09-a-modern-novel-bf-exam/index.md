@@ -61,7 +61,7 @@ Read the *Klara* ch. 4 extract above.
 
 Write 350 words: a Basisfach literary essay on *Klara and the Sun* ch. 1-4. Use 2 integrated quotes + 1 embedded fragment + 3 markers.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **T1.** her limitation is also her reliability; literal-minded / quietly devastating; deceptive plainness; the novel's signature register.
 **T2.** the Sun and the dust on the windows of the slow lane; the ones who walked away (= longer-looking, non-buying); concentrated, unrequited attention is what Klara experiences; first-person narration uses limited frames to expose frames we don't notice.
 **T3.** *Ishiguro lets Klara observe that 'the Sun would always come into the store.' / Klara reflects that her best customers were 'the ones who walked away.' / The 'slow lane' of the novel's title becomes, by ch. 4, a literal shop fixture. / Klara reports the Sun coming 'no matter the weather' as if it were observable fact.*

@@ -62,7 +62,7 @@ Read the sample speech above.
 
 **Reflection prompt:** *In 200 words, reflect on your performance in the class debate. Which Bewertungsraster category was strongest? Which needs the most rehearsal before the actual Komm-Prüfung?*
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. platform algorithms as public utilities; 2. systematic externalities + transparency-as-precondition-of-competition; 3. transparency would expose trade secrets; 4. *I urge this house to support the motion*.
 **Analysis.** 1. platform algorithms as public utilities (energy / telecoms parallel); 2. *commercial-in-confidence aggregation* OFT-style compromise; 3. *some designs would expose trade secrets, but…*; 4. *the motion is moderate, the comparison is structural, and the precedent exists*.
 **Composition.** Open.

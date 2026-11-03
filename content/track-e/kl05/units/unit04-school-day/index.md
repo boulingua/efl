@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 4
 material_slug: "track-e_kl05_unit04-school-day"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.1 Hör-/Hörsehverstehen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - listening
-  - speaking
-  - language_awareness
+- listening
+- speaking
+- language_awareness
 aliases:
-  - /track_e_kl05/units/unit04_school-day.html
+- /track_e_kl05/units/unit04_school-day.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl05_unit04-school-day.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl05_unit04-school-day.png"
@@ -34,13 +34,48 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.information-exchange.02
-    - A1.LING.orthographic-control.01
-    - A1.PROD.overall-written-production.01
-    - A1.REC.reading-for-information-and-argument.02
-    - A1.PLUR.plurilingual-comprehension.01
+  - A1.INT.information-exchange.02
+  - A1.LING.orthographic-control.01
+  - A1.PROD.overall-written-production.01
+  - A1.REC.reading-for-information-and-argument.02
+  - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl05_unit04-school-day
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl05/units/unit04-school-day-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - listening
+  - speaking
+  - language_awareness
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-e_kl05_unit04-school-day-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl05_unit04-school-day-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,12 +104,10 @@ curriculum:
 
 Mia's timetable is taped to the inside of her locker door. Monday: maths, German, English, biology, sport, music. The lockers are new this year. They click when they shut. Theo says the click is the best sound in the school. Frida the fox watches the lockers from the corridor. "I would like a locker," she says. "Foxes also need a private space."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Timetable cross-talk.** Pair up. Take 90 seconds. A asks B about Monday and Tuesday. B asks A about Wednesday and Thursday. Use *What do you have at … o'clock?*
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — school subjects
 
 *English, German, French, Spanish, Maths, Biology, Physics, Chemistry, History, Geography, Religion, Ethics, Music, Art, PE / Sport, IT.*
@@ -101,8 +134,7 @@ Mia's timetable is taped to the inside of her locker door. Monday: maths, German
 - Negatives: *I don't / She doesn't + base verb.*
 - Questions: *Do you …? / Does she …?*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Time: 9:15 → ___ ; 11:20 → ___ ; 14:45 → ___ .
@@ -120,8 +152,7 @@ Mia's timetable is taped to the inside of her locker door. Monday: maths, German
 **Productive.** 3-4. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair speaking — *My Week*.** 90 seconds each direction. Cover: start time, three subjects, one favourite, one you don't like, lunch time, end time.
 
 ### Sample
@@ -129,8 +160,7 @@ Mia's timetable is taped to the inside of her locker door. Monday: maths, German
 *— What time do you start on Monday?*
 *— I start at quarter past eight. We have maths first, and I don't really like maths. After the break we have biology, which is my favourite.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 10 school subjects.
 - [ ] I can tell the time in 5-minute steps.
 - [ ] I can hold a 90-second conversation about my school day.
@@ -138,54 +168,11 @@ Mia's timetable is taped to the inside of her locker door. Monday: maths, German
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl05/units/unit04-school-day-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "On Monday I start at quarter past eight. First I have German, then maths. After the long break we have English and music. I finish at twenty past one."
-
-1. Start: ___ . 2. First lesson: ___ . 3. Two lessons after the break: ___ . 4. Finish: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "Theo's favourite subject is biology because the teacher tells stories about animals. He doesn't like maths, but he is good at it. He has six lessons every day."
-
-1. Favourite: ___ . 2. Why: ___ . 3. Doesn't like: ___ . 4. Lessons per day: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in present simple, positive or negative.**
-
-1. I __________ (have) maths on Monday.
-2. Mia __________ (not / like) PE.
-3. ___ they ___ (start) at eight?
-4. Mr Flint __________ (teach) English.
-
-### Task 4 — Writing (6 BE)
-
-Write 5–6 sentences about your school day: start, two subjects, one favourite, one you don't like, end.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** 8:15, German, English / music, 13:20.
-**T2.** biology, animal stories, maths, six.
-**T3.** 1. have, 2. doesn't like, 3. Do … start, 4. teaches.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

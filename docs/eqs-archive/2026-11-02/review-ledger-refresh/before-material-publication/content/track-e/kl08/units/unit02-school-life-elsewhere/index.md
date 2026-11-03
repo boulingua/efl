@@ -1,0 +1,194 @@
+---
+page_type: unit
+title: "Unit 2 — School Life Elsewhere"
+author: "S. Le Boulanger"
+subtitle: "Track E · Klasse 8 · Niveau E"
+niveau: "E"
+klassenstufe: 8
+track: "e"
+unit_nr: 2
+material_slug: "track-e_kl08_unit02-school-life-elsewhere"
+bildungsplan:
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.2 Interkulturelle kommunikative Kompetenz"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
+skills_focus:
+- reading
+- speaking
+- intercultural
+aliases:
+- /track_e_kl08/units/unit02_school-life-elsewhere.html
+presentation:
+  file: "/efl/materials/presentations/track-e_kl08_unit02-school-life-elsewhere.pdf"
+  thumbnail: "/efl/materials/presentations/track-e_kl08_unit02-school-life-elsewhere.png"
+worksheet:
+  file: "/efl/materials/worksheets/track-e_kl08_unit02-school-life-elsewhere.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl08_unit02-school-life-elsewhere.png"
+tags:
+- reading
+- speaking
+- intercultural
+topic: interkulturell
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+  - A2.INT.correspondence.04
+  - A2.PROD.overall-oral-production.01
+  - A2.REC.reading-for-information-and-argument.04
+  - A2.SOC.sociolinguistic-appropriateness.03
+  - A2.MED.overall-mediation.02
+  implements_basis: proposed
+  level_basis: derived
+audio_manifest: track-e_kl08_unit02-school-life-elsewhere
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl08/units/unit02-school-life-elsewhere-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - speaking
+  - intercultural
+---
+
+{{< callout type="note" >}}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** E. class test ("Klassenarbeit") at Niveau E (45 BE).
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can read short pen-pal texts from 3 countries and compare them.*
+- *I can use the present passive to talk about how things are done elsewhere.*
+- *I can hold a 2-minute conversation comparing schools.*
+
+## Bildungsplan alignment
+
+- **3.2.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.2.2 Interkulturelle kommunikative Kompetenz**
+- **3.2.3.2 Leseverstehen**
+- **3.2.3.3 Sprechen – an Gesprächen teilnehmen**
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Mr. Ade pinned three printed e-mails to the noticeboard. One from a school in Lagos. One from a school in Helsinki. One from a school in São Paulo. Three students were assigned to read them and report back. Hawa read all three twice before lunch.
+
+## 1. Activate {#activate}
+**Predict.** Slide shows three flags. With your partner, predict three differences each school might have from yours.
+
+## 2. Input {#input}
+### Reading — three short pen-pal extracts
+
+*Lagos.* In our school, lessons are taught in English, but we speak Yoruba and Igbo with friends. Uniform is compulsory. Lunch is brought from home.
+
+*Helsinki.* In Finland, school starts at age 7. Homework is given lightly. Lunch is provided free. We go outside for a break every hour, even in -10°C.
+
+*São Paulo.* Our school day is split: lessons in the morning, sports in the afternoon. Homework is set every day. Lunch is bought at a small canteen.
+
+### Grammar — present passive
+
+Form: *to be* (in tense) + past participle.
+- *Lessons are taught in English.*
+- *Homework is given lightly.*
+- *Lunch is provided free.*
+- *Sports are played in the afternoon.*
+
+Use the passive when *who* does the action is obvious or unimportant.
+
+## 3. Practise {#practise}
+### Niveau E — controlled
+
+1. Active → passive: They teach lessons in English. → ___ ; The school provides lunch. → ___ ; Teachers give homework. → ___ .
+2. Choose active or passive (more natural): *(somebody / set / homework / every day)* → ___ .
+
+### Niveau E — productive
+
+3. Build 4 sentences in present passive about how things are done at your school.
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**Controlled.** 1. *Lessons are taught in English. Lunch is provided by the school. Homework is given by teachers.*
+2. *Homework is set every day.*
+
+**Productive.** 3. Open.
+{{< /callout >}}
+
+## 4. Produce {#apply}
+**Pair speaking — *Compare three schools*.** 2 min each. Use 3 passive structures + one comparison. Report back to the class with one *I learned that …* sentence.
+
+### Sample
+
+*— In Helsinki, lunch is provided free at school, while in São Paulo lunch is bought at a canteen.*
+*— Yes, and homework is given more in São Paulo than in Helsinki.*
+
+## 5. Reflect {#reflect}
+- [ ] I can read three pen-pal texts and compare them.
+- [ ] I can build present passive sentences.
+- [ ] I can run a 2-minute compare-and-contrast conversation.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example {#exam}
+
+[Open the separate assessment]({{< relref "track-e/kl08/units/unit02-school-life-elsewhere-exam" >}}).
+
+## Teacher notes {#teacher-notes}
+
+{{< downloads >}}
+
+<div class="notes">
+**Slide deck timing.** 45 minutes total. Lead-in 4 min · Activate
+5 min · Input 14 min · Practise 8 min · Produce 11 min · Reflect 3 min.
+
+**Differentiation — support (below Niveau E).**
+
+Speaking-frame card to attempt the *Compare three schools* pairwork. Fill the gaps out loud with a partner, then swap:
+
+- In ______ , lunch is ______ (provided free / bought at a canteen / brought from home).
+- In ______ , lessons are taught in ______ .
+- Homework is given ______ (lightly / every day) in ______ .
+- I think ______ is more ______ than ______ , because ______ .
+- One thing I learned is that ______ .
+
+**Extension (above Niveau E / Oberstufe).**
+
+Imagine one everyday routine from all three schools (for example free lunch, hourly outdoor breaks, or split morning-and-afternoon days) were introduced at your own school tomorrow. Argue in six to eight sentences which single change would improve learning the most and which would cause the most resistance, using the present passive throughout and weighing at least one cost against one benefit. Then explain what a school's small daily rules quietly reveal about the values of the society around it.
+
+</div>
+
+## Common pitfalls
+
+- *Lessons are teach* → ✗ / *Lessons are taught* → ✓.
+- Using passive when active is clearer: *I do my homework* not *Homework is done by me* unless context demands it.
+- L1 trap: German *man* often becomes English passive: *Man liest viel* → *A lot is read* / *We read a lot*.
+
+## Further reading / listening
+
+- BBC News — *Education* short articles.
+- British Council Schools Online — pen-pal projects.

@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 12
 material_slug: "track-e_kl06_unit12-year-end-festival"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.4 Text- und Medienkompetenz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
+- "3.1.3.5 Schreiben"
+- "3.1.4 Text- und Medienkompetenz"
 skills_focus:
-  - speaking
-  - writing
-  - intercultural
+- speaking
+- writing
+- intercultural
 aliases:
-  - /track_e_kl06/units/unit12_year-end-festival.html
+- /track_e_kl06/units/unit12_year-end-festival.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl06_unit12-year-end-festival.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl06_unit12-year-end-festival.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.PROD.creative-writing.03
-    - A1.SOC.sociolinguistic-appropriateness.01
-    - A1.INT.notes-messages-and-forms.02
-    - A1.PLUR.plurilingual-comprehension.01
+  - A1.INT.correspondence.03
+  - A1.PROD.creative-writing.03
+  - A1.SOC.sociolinguistic-appropriateness.01
+  - A1.INT.notes-messages-and-forms.02
+  - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl06_unit12-year-end-festival
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl06/units/unit12-year-end-festival-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking
+  - writing
+  - intercultural
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl06_unit12-year-end-festival-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl06_unit12-year-end-festival-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,12 +105,10 @@ curriculum:
 
 The class is planning a year-end festival in the school courtyard. Lina is in charge of the snack table. Sam is in charge of the music. Mr. Flint is in charge of looking calmly worried, which he does professionally. Captain Cody is in charge of nothing, because he is fictional, but everyone agrees his treasure-map-themed games stand will be the most popular.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Year-end scan.** In your notebook write three lines: *In September I …, Now I …, At the festival I will …*
 
-## 2. Input
-
+## 2. Input {#input}
 ### The 90-second talk — Klasse 6 version
 
 1. **Then.** Where I started in Klasse 6.
@@ -85,8 +119,7 @@ The class is planning a year-end festival in the school courtyard. Lina is in ch
 
 *stall, stand, performance, snack table, raffle, decoration, banner, hosting, MC (master of ceremonies), volunteers, headphones, microphone, applause, crowd, queue, demonstration.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Build a 6-line festival talk using *Then / Now / Forward*.
@@ -101,70 +134,25 @@ The class is planning a year-end festival in the school courtyard. Lina is in ch
 **Productive.** Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Festival rehearsal.** In groups of 4, rehearse your stall. Each person prepares one short statement (15 seconds) explaining what their stall is, plus one polite invitation to a visitor.
 
 ### Sample
 
 *Welcome to the snack table! We are going to have homemade pretzels and English scones today. Would you like to try one? They are warmer than they look.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can speak for 90 seconds about my Klasse-6 year.
 - [ ] I can use 5 grammar points in one talk.
 - [ ] I can host a stall at a year-end festival.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl06/units/unit12-year-end-festival-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice to Lina's festival speech.
-
-> "Hello everyone, welcome to the snack table! In September I couldn't bake bread. Now I can bake scones. They are tastier than my first attempts. Tomorrow we are going to sell them for one euro each. Please come and try one!"
-
-1. September: ___ . 2. Now: ___ . 3. Tastier than: ___ . 4. Price: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "At the festival there will be six stalls: a bookshop, a snack table, a music corner, a games stand, a treasure-hunt stall, and a photography booth. The festival starts at 4 p.m. and ends at 7 p.m."
-
-1. Number of stalls: ___ . 2. Two stalls: ___ . 3. Start: ___ . 4. End: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Mixed grammar review.**
-
-1. Last summer I __________ (visit) Cornwall.
-2. The festival is __________ (interesting) than last year's.
-3. Tomorrow we __________ (sell) scones. (planned)
-4. We __________ (always / start) at 4 p.m.
-
-### Task 4 — Writing (6 BE)
-
-Write 100 words: your festival stall, one Klasse-6 achievement, and what you will do next year.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** couldn't bake, can bake scones, first attempts, one euro.
-**T2.** 6, any two, 4 p.m., 7 p.m.
-**T3.** visited / more interesting / are going to sell / always start.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

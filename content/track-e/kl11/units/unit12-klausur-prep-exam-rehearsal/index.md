@@ -9,17 +9,17 @@ track: "e"
 unit_nr: 12
 material_slug: "track-e_kl11_unit12-klausur-prep-exam-rehearsal"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.2 / 3.5.3.2 Leseverstehen"
-  - "3.4.3.5 / 3.5.3.5 Schreiben"
-  - "3.4.3.6 / 3.5.3.6 Sprachmittlung"
-  - "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.2 / 3.5.3.2 Leseverstehen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.3.6 / 3.5.3.6 Sprachmittlung"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl11/units/unit12_klausur-prep-exam-rehearsal.html
+- /track_e_kl11/units/unit12_klausur-prep-exam-rehearsal.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl11_unit12-klausur-prep-exam-rehearsal.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl11_unit12-klausur-prep-exam-rehearsal.png"
@@ -35,13 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.LING.general-linguistic-range.01
-    - B2.PROD.creative-writing.03
-    - B2.REC.overall-reading-comprehension.01
-    - B2.LING.phonological-control.03
-    - B2.INT.formal-discussion.01
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.creative-writing.03
+  - B2.REC.overall-reading-comprehension.01
+  - B2.LING.phonological-control.03
+  - B2.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl11_unit12-klausur-prep-exam-rehearsal
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl11/units/unit12-klausur-prep-exam-rehearsal-exam
+  format: existing-assessment
+  duration_minutes: 20
+  points: 90
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl11_unit12-klausur-prep-exam-rehearsal-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl11_unit12-klausur-prep-exam-rehearsal-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -76,12 +112,10 @@ where applicable; some Units are tagged BF or LF specifically.
 
 Klasse 11 ends with a full Klausur-rehearsal Unit. Mr. Yilmaz set the format: a 1,000-word source text (half journalistic, half literary), four tasks, 90 BE total, four hours including breaks. The Unit is less about new material than about timing and endurance — *which is, mostly, what Klausuren are*.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Time-budget scan.** With your partner, allocate minutes across: Comprehension (24 BE) / Analysis (18 BE) / Composition (18 BE) / Mediation (30 BE). What is *exam-realistic*?
 
-## 2. Input
-
+## 2. Input {#input}
 ### Klausur structure (90 BE)
 
 **Part A — Comprehension** (~24 BE). Question-and-answer on a journalistic / literary source. Inhalt-weighted.
@@ -106,8 +140,7 @@ Total: 4 hours (240 min) incl. 20 min breaks → 220 active min.
 
 If you are over by 10 min on any part, move on. Half a finished answer beats a perfect unfinished one.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match BE → part: 24 → ?, 18 → ?, 18 → ?, 30 → ?
@@ -124,74 +157,25 @@ If you are over by 10 min on any part, move on. Half a finished answer beats a p
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Klausur rehearsal (4 hours).** Full timed paper. 1,000-word source (half journalistic + half literary). Four tasks. Inhalt / Sprache split as stated. Submit. Class debriefs collectively, with a focus on time management and unfinished sections.
 
 ### Sample
 
 (See *Reflection on the rehearsal* section below — the production task is the Klausur itself.)
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can complete a 90-BE Klausur under timed conditions.
 - [ ] I can manage time across four parts.
 - [ ] I can use Inhalt / Sprache awareness.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (full paper, 90 BE)" icon="false" >}}
-**Time.** 4 hours including 20 minutes of breaks (220 active
-minutes). **Total.** 90 BE.\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl11/units/unit12-klausur-prep-exam-rehearsal-exam" >}}).
 
-### Part A — Comprehension (~24 BE)
-
-Listen twice.
-
-> "The Klausur is 90 BE. Comprehension is 24, Analysis 18, Composition 18, Mediation 30. The total is 4 hours including 20 min of breaks. The Inhalt / Sprache split is 50/50 in Basisfach and 40/60 in Leistungsfach."
-
-1. Total BE: ___ . 2. Highest-BE part: ___ . 3. Total time: ___ . 4. LF Sprache weighting: ___ .
-
-### Part B — Analysis (~18 BE)
-
-Read the *Klausur structure* and *Time-management* blocks above.
-
-1. Comprehension BE: ___ . 2. Mediation BE: ___ . 3. Mediation suggested time: ___ . 4. The half-finished-vs.-perfect rule: ___ .
-
-### Part C — Composition (~18 BE)
-
-**Time-budget calculation.**
-
-1. With 220 active min, % allocated to Mediation: ___ .
-2. % to Comprehension: ___ .
-3. Final review: ___ min.
-4. If you are 15 min over on Analysis, what should you do? ___ .
-
-### Mediation (~30 BE)
-
-Complete a full 90-BE Klausur rehearsal under timed conditions. Submit with a 200-word self-reflection on time management.
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**T1.** 90; Mediation (30); 4 hours (incl. 20 min breaks); 60 %.
-**T2.** 24; 30; 50 min; *half a finished answer beats a perfect unfinished one*.
-**T3.** ~23 % (50 / 220); ~18 % (40 / 220); 15 min; move on / cut losses.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 90 BE)" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

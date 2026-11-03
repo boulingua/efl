@@ -1,0 +1,260 @@
+---
+page_type: unit
+title: "Unit 11 — Plans for the Summer"
+author: "S. Le Boulanger"
+subtitle: "Track G+M · Klasse 7 · Niveau G/M"
+niveau: "G+M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 11
+material_slug: "track-gm_kl07_unit11-plans-for-the-summer"
+bildungsplan:
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.1 Hör-/Hörsehverstehen"
+- "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+skills_focus:
+- speaking
+- writing
+- language_awareness
+aliases:
+- /track_gm_kl07/units/unit11_plans-for-the-summer.html
+presentation:
+  file: "/efl/materials/presentations/track-gm_kl07_unit11-plans-for-the-summer.pdf"
+  thumbnail: "/efl/materials/presentations/track-gm_kl07_unit11-plans-for-the-summer.png"
+worksheet:
+  file: "/efl/materials/worksheets/track-gm_kl07_unit11-plans-for-the-summer.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit11-plans-for-the-summer.png"
+tags:
+- speaking
+- writing
+- language_awareness
+topic: themen
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+  - A2.INT.overall-oral-interaction.01
+  - A2.LING.general-linguistic-range.02
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.INT.conversation.08
+  - A2.PRAG.coherence-and-cohesion.01
+  implements_basis: proposed
+  level_basis: derived
+audio_manifest: track-gm_kl07_unit11-plans-for-the-summer
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl07/units/unit11-plans-for-the-summer-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 60
+  skills:
+  - speaking
+  - writing
+  - language_awareness
+---
+
+{{< callout type="note" >}}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** G/M parallel. class test ("Klassenarbeit") at Niveau M.
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can listen to a short conversation about summer plans and
+  pick out arrangements, intentions, and spontaneous decisions.*
+- *I can choose between will, going to, and present continuous to
+  talk about the future.*
+- *I can hold a 2-minute conversation about my summer plan with
+  a partner.*
+
+## Bildungsplan alignment
+
+- **3.2.1 Themen** — leisure, family life, travel.
+- **3.2.3.1 Hör-/Hörsehverstehen** — short dialogue.
+- **3.2.3.3 Sprechen – an Gesprächen teilnehmen** — short
+  exchange about plans.
+- **3.2.3.5 Schreiben** — short personal text.
+- **3.2.3.8 Grammatik** — future forms in contrast.
+
+## Lead-in story
+
+Aisha asked the class: *What are you doing this summer?* Ben said
+*two weeks at my grandma's farm*. Marius said *nothing special*.
+Aisha said *that counts as something special if you do it on
+purpose*. Ms. Reyes wrote on the board: *A plan is a sentence in
+the future tense.*
+
+## 1. Activate {#activate}
+**Three boxes.** In your notebook, write three boxes:
+
+- *Already arranged* (tickets booked, family plan)
+- *Probably going to* (you intend to but it is not booked)
+- *Maybe / on the spot* (a spontaneous decision)
+
+Fill each box with **one** thing about your summer.
+
+## 2. Input {#input}
+### Listening — *Three Plans*
+
+> **Aisha.** What are you doing this summer?\
+> **Ben.** I'm spending two weeks at my grandma's farm. We're
+> going to fix her old greenhouse.\
+> **Marius.** I'm not doing anything special. My family will be
+> here all summer. I'll probably read a lot and finally learn to
+> ride a skateboard.\
+> **Aisha.** That counts as something special, Marius. Most
+> people only plan trips. You're planning a skill.
+
+### Language focus — three futures
+
+| Form | Use | Example |
+|------|-----|---------|
+| present continuous | fixed arrangement (often with another person, time, or place set) | *I'm meeting Lisa at five.* |
+| *be going to* | intention or visible evidence | *We're going to fix the greenhouse.* |
+| *will* | spontaneous decision; prediction; promise | *I'll read for an hour.* |
+
+Timetables: present simple (*The train leaves at 8:14*).
+
+{{< callout type="note" >}}
+**Pick one and stick with it.** A common Niveau-M error is mixing
+forms inside a single sentence — *"I'm going to will see her"*.
+Choose the form that matches the meaning, then commit.
+{{< /callout >}}
+
+### Time clauses
+
+After *when, as soon as, before, after, until*: use **present
+simple**, not *will*.
+
+- *I'll text you when I arrive.* (not *when I will arrive*)
+- *We won't leave before we have breakfast.*
+
+## 3. Practise {#practise}
+### Niveau G — controlled
+
+**A. Future-form gap-fill.**
+
+1. Look at those clouds — it __________ (rain).
+2. I __________ (visit) my cousin tomorrow; we already booked the
+   tickets.
+3. I'm thirsty. I __________ (get) a glass of water.
+
+**B. Time clauses.**
+
+4. I'll call you __________ (when / will arrive) home.
+5. We won't go __________ (until / will finish) our homework.
+
+### Niveau M — productive
+
+**C. Build the future form.**
+
+6. *(arrangement: cinema with Lisa, Friday 7 pm)* → ___
+7. *(intention: improve maths grade)* → ___
+8. *(spontaneous: offer to help carry shopping)* → ___
+
+**D. Conversation starters.** Write three questions for a partner
+about their summer using three different future forms.
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**Niveau G**
+
+A. 1. is going to rain, 2. am visiting, 3. will get.\
+B. 4. when I arrive, 5. until we finish.
+
+**Niveau M**
+
+6. *I'm seeing Lisa at the cinema on Friday at seven.*\
+7. *I'm going to improve my maths grade.*\
+8. *I'll help you with that.*\
+D. Open. Look for a mix of *Are you doing …?*, *Are you going to
+…?*, *Will you …?*.
+{{< /callout >}}
+
+## 4. Produce {#apply}
+**Pair speaking — *Summer Plan Swap*.** With a partner, take
+turns interviewing each other about the summer.
+
+- *One question with present continuous (arrangement).*
+- *One question with going to (intention).*
+- *One question with will (prediction or spontaneous offer).*
+
+Two minutes each direction. Be ready to report your partner's
+plans to another pair.
+
+## 5. Reflect {#reflect}
+- [ ] I can pick out arrangements, intentions, and spontaneous
+  decisions in a dialogue.
+- [ ] I can match the right future form to its meaning.
+- [ ] I can hold a 2-minute summer-plan conversation.
+
+**One sentence in your notebook:** *What is one summer plan I
+want to make real this week — booking, asking, deciding?*
+
+## Exam example {#exam}
+
+[Open the separate assessment]({{< relref "track-gm/kl07/units/unit11-plans-for-the-summer-exam" >}}).
+
+## Teacher notes {#teacher-notes}
+
+{{< downloads >}}
+
+<div class="notes">
+**Slide deck timing.** 45 minutes total.
+
+- *Title + Lead-in (3 min).* Three boxes on the board: *already
+  / probably / on the spot*.
+- *Activate (5 min).* Each student fills the three boxes silently.
+- *Input (15 min).* Read *Three Plans* twice. Walk through the
+  three-future table; mention timetable as a fourth case.
+- *Practise (8 min).* Niveau split.
+- *Produce (12 min).* Pair speaking, then report-back.
+- *Reflect (2 min).*
+
+**Differentiation.** Niveau G: provide a future-form decision card
+(arrangement → present cont., intention → going to, spontaneous
+→ will). Above Niveau M: require one *unless*-clause inside the
+report-back.
+</div>
+
+## Common pitfalls
+
+- Mixing two future forms in one verb phrase. *I'm going to will
+  see* → ✗.
+- *will* in time clauses. *when I will arrive* → ✗ / *when I
+  arrive* → ✓.
+- Translating German *werden* always with *will* — sometimes
+  English uses *going to* or present continuous instead.
+- *I will to call you* → ✗ — *will* takes the base verb only.
+
+## Further reading / listening
+
+- BBC Learning English — *6 Minute English: Holidays*.
+  <https://www.bbc.co.uk/learningenglish/english/features/6-minute-english>
+- Lonely Planet — short city guides, useful for summer travel
+  vocabulary. <https://www.lonelyplanet.com>
+- *The Travel Show* (BBC) extracts.
+  <https://www.bbc.com/travel>

@@ -9,17 +9,17 @@ track: "gm"
 unit_nr: 10
 material_slug: "track-gm_kl07_unit10-a-short-story"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.2 Leseverstehen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
-  - "3.2.4 Text- und Medienkompetenz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.2.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl07/units/unit10_a-short-story.html
+- /track_gm_kl07/units/unit10_a-short-story.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl07_unit10-a-short-story.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl07_unit10-a-short-story.png"
@@ -35,13 +35,48 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.LING.orthographic-control.01
-    - A2.PROD.sustained-monologue-giving-information.01
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.MED.overall-mediation.02
-    - A2.REC.overall-reading-comprehension.01
+  - A2.LING.orthographic-control.01
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.MED.overall-mediation.02
+  - A2.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl07_unit10-a-short-story
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl07/units/unit10-a-short-story-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 60
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-gm_kl07_unit10-a-short-story-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl07_unit10-a-short-story-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -76,14 +111,12 @@ Aisha read the first paragraph of a short story aloud in class.
 "Quiet. It's not the same thing." Ms. Reyes nodded. "Find me one
 detail that makes it quiet, not sad."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Mood scan.** On the slide there are three single sentences from
 three different short stories (no titles). For each one, write
 one mood word and one detail that gives the mood.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading text — *The Last Bus*
 
 > Salim missed the last bus by two minutes. He could see the red
@@ -137,8 +170,7 @@ Spelling: *happy → happily* (*y* → *ily*), *true → truly*,
 | **mood** | quiet, tense, hopeful, melancholy, warm |
 | **technique** | detail, dialogue, sensory image, repetition |
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G — controlled
 
 **A. Build the adverb.**
@@ -181,8 +213,7 @@ B. 1–b, 2–a, 3–c.
 8–10. Open; reward concrete sensory detail.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Writing task — *Salim's Walk*.** Write 100–120 words continuing
 *The Last Bus*. What does Salim do next? Where does he go? Whom
 does he meet, see, hear, or remember? Stay in past simple. Use:
@@ -210,8 +241,7 @@ detail (*the smell of bread*), a short direct line, and a closing
 that rhymes with the source story's tone.
 {{< /callout >}}
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify setting, characters, and mood in a short
   story.
 - [ ] I can use adverbs of manner correctly.
@@ -222,107 +252,11 @@ that rhymes with the source story's tone.
 next written piece to have, and which detail will give it that
 mood?*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Materials allowed.** A monolingual dictionary (Niveau M only).\
-**Time.** 45 minutes.\
-**Total.** 60 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl07/units/unit10-a-short-story-exam" >}}).
 
-### Task 1 — Reading (20 BE)
-
-Read the short story *The Last Bus*.
-
-> Salim missed the last bus by two minutes. He could see the red
-> tail-lights at the corner; then they were gone. The shelter
-> smelled of rain. There was an old man in a coat that was too
-> big, holding a paper cup. Salim sat on the cold metal bench and
-> stared at his shoes. "First time?" the old man said. "First
-> time what?" "First time you missed the last bus." Salim almost
-> laughed. "Yes." The old man nodded. "Sit. Walk later. The walk
-> is always longer than you think, and a little better than you
-> remember."
-
-1. Why is Salim at the bus stop alone? (3)
-2. What is the weather like? (2)
-3. Who is the other person at the stop, and what does he hold? (3)
-4. What does the old man's last sentence mean — what kind of
-   advice is it? (6)
-5. Find one detail in the story that creates the mood. Explain in
-   one sentence why it works. (6)
-
-### Task 2 — Use of English (10 BE)
-
-**A. Adverbs of manner (5 BE).** Build the adverb from the
-adjective.
-
-1. quiet → ___
-2. slow → ___
-3. happy → ___
-4. good → ___
-5. easy → ___
-
-**B. Direct → reported speech (5 BE).** Rewrite.
-
-6. "First time?" the old man said. → The old man asked ___ .
-7. "Yes," Salim answered. → Salim answered ___ .
-8. "Sit," the old man said. → The old man told Salim ___ .
-
-### Task 3 — Mediation (10 BE)
-
-Your German cousin sends you the start of a German short story:
-
-> "Lena verpasste den letzten Bus um zwei Minuten. Sie sah die
-> roten Rücklichter um die Ecke verschwinden. Es regnete leise
-> auf das Dach des Wartehäuschens."
-
-Write **three sentences in English** for an English-speaking
-friend who reads stories: tell them what happens at the start and
-what mood the writer creates.
-
-### Task 4 — Writing (20 BE)
-
-Write 100–120 words **continuing** *The Last Bus*. What does
-Salim do next? Stay in past simple. Use:
-
-- at least one adverb of manner (*quietly, slowly, calmly*),
-- at least one short line of direct speech,
-- one sensory detail (something Salim hears, smells, or feels).
-
-{{< callout type="tip" title="Expected answer key — class test (\"Klassenarbeit\")" collapse="true" >}}
-**Task 1 (20 BE).**\
-1. He missed the last bus by two minutes. (3)
-2. It is raining; the shelter smells of rain. (2)
-3. An old man in an oversized coat, holding a paper cup. (3)
-4. Sample: *Walking can be unpleasant in the moment but it makes
-   a better memory than you think; a small piece of life
-   wisdom delivered as a kindness.* (6)
-5. Open answer; reward concrete detail (*"the cold metal bench",
-   "red tail-lights at the corner", "coat that was too big"*) and
-   a one-sentence reason. (6)
-
-**Task 2 (10 BE).**\
-A. 1. quietly, 2. slowly, 3. happily, 4. well, 5. easily.\
-B. 6. … if it was the first time. 7. … that it was. 8. … to sit.
-
-**Task 3 (10 BE).** Sample: *"Lena missed the last bus by two
-minutes — she watched the red tail-lights disappear around the
-corner. The rain was tapping softly on the roof of the shelter,
-which sets a quiet, lonely mood right at the start."* Award for:
-gist (4), addressee-fit (2), correct grammar (4).
-
-**Task 4 (20 BE).** Inhalt 10 / Sprache 10.
-{{< /callout >}}
-
-{{< callout type="tip" title="Rubric — grading scale (Notenschlüssel)" collapse="true" >}}
-| Punkte (von 60) | Note |
-|-----------------|------|
-| 56–60 | 1 | 49–55 | 2 | 40–48 | 3 |
-| 30–39 | 4 | 18–29 | 5 | 0–17  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

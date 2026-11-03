@@ -9,17 +9,17 @@ track: "e"
 unit_nr: 3
 material_slug: "track-e_kl10_unit03-digital-lives"
 bildungsplan:
-  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.3.3.2 Leseverstehen"
-  - "3.3.3.5 Schreiben"
-  - "3.3.3.8 Verfügen über sprachliche Mittel – Grammatik"
-  - "3.3.4 Text- und Medienkompetenz"
+- "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.3.3.2 Leseverstehen"
+- "3.3.3.5 Schreiben"
+- "3.3.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.3.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl10/units/unit03_digital-lives.html
+- /track_e_kl10/units/unit03_digital-lives.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl10_unit03-digital-lives.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl10_unit03-digital-lives.png"
@@ -35,13 +35,48 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.LING.grammatical-accuracy.01
-    - B1.PROD.compensating.02
-    - B1.REC.identifying-cues-and-inferring.07
-    - B1.PROD.sustained-monologue-giving-information.03
-    - B1.INT.formal-discussion.01
+  - B1.LING.grammatical-accuracy.01
+  - B1.PROD.compensating.02
+  - B1.REC.identifying-cues-and-inferring.07
+  - B1.PROD.sustained-monologue-giving-information.03
+  - B1.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl10_unit03-digital-lives
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl10/units/unit03-digital-lives-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-e_kl10_unit03-digital-lives-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl10_unit03-digital-lives-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -71,12 +106,10 @@ curriculum:
 
 Maja read an article in which the author claimed that *digital life* is now a redundant phrase, because life has, for nearly all the people she knows, become digital and offline at the same time, woven together rather than alternating. Maja agreed with most of this, disagreed with the *for nearly all*, and was annoyed by the certainty of the phrase *redundant*.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Two-column scan.** Board: *digital life is …* / *digital life is not …* — class fills four honest items under each.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — *Digital, Honestly*
 
 *The phrase 'digital life' is increasingly redundant. For most readers under 30, the digital and the offline are no longer alternating modes; they are woven together. While this can be a problem for attention, it is rarely the catastrophe older commentators describe. Even though there are real harms — the steep, well-documented effects on sleep, for instance — the picture is more local and more specific than 'a generation ruined by phones'.*
@@ -94,8 +127,7 @@ Maja read an article in which the author claimed that *digital life* is now a re
 **Causal-given:**
 - *Given that we cannot un-build the internet, the honest question is what to do with it.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Choose: *although / while / given that / even though*: ___ digital life feels normal, the harms are real. ___ we cannot un-build the internet, the question is what to do.
@@ -112,68 +144,25 @@ Maja read an article in which the author claimed that *digital life* is now a re
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Reflection, 200 words.** Take a position on whether *'digital life'* is a redundant phrase. Use 4 subordinators (one of each: concession, contrast, addition, causal).
 
 ### Sample
 
 *Although I agree with most of the article's argument, I object to the certainty of the word 'redundant'. While the digital and the offline are clearly woven together for most readers under 30, calling the distinction redundant assumes that the weave is even across people, which it isn't. Even though my schoolmates seem to live the integrated version, I know younger neighbours who still do most of their social life face-to-face. Given that the picture is uneven, the more useful question is not 'is it redundant?' but 'for whom and when?' Whereas older commentators tend to see ruin, the article tends to see seamlessness — both pictures are partial. The honest answer probably involves naming specific harms (sleep, attention) without inflating them, and naming specific benefits (reach, friendship across cities) without romanticising them.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify the writer's stance and one nuance in a digital-life essay.
 - [ ] I can use 4 subordinators correctly.
 - [ ] I can write a 200-word position paragraph.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl10/units/unit03-digital-lives-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "For most readers under 30, the digital and the offline are no longer alternating modes. While this can be a problem for attention, it is rarely a catastrophe. Even though the harms — for instance on sleep — are real, the picture is more local than 'a generation ruined by phones'."
-
-1. Audience: ___ . 2. Concession: ___ . 3. Specific harm: ___ . 4. Stance against: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the *Digital, Honestly* extract above.
-
-1. Claim: ___ . 2. For whom: ___ . 3. One real harm: ___ . 4. What the picture is NOT: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Insert the right subordinator.**
-
-1. ___ I agree with most of this, I object to the certainty.
-2. ___ this can be a problem for attention, it is rarely a catastrophe.
-3. ___ we cannot un-build the internet, the question is what to do.
-4. ___ older commentators see ruin, younger ones see overlap.
-
-### Task 4 — Writing (13 BE)
-
-Write 200 words: a position paragraph on a digital-life topic. Use 4 subordinators.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** under-30 readers; can be problem for attention; sleep effects; rarely a catastrophe / 'a generation ruined by phones'.
-**T2.** 'digital life' is redundant; under-30 readers; sleep effects; not a catastrophe / not a generation ruined.
-**T3.** Although / While / Given that / Whereas.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

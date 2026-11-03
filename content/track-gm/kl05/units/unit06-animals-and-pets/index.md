@@ -9,17 +9,17 @@ track: "gm"
 unit_nr: 6
 material_slug: "track-gm_kl05_unit06-animals-and-pets"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
-  - "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.2 Leseverstehen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl05/units/unit06_animals-and-pets.html
+- /track_gm_kl05/units/unit06_animals-and-pets.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl05_unit06-animals-and-pets.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl05_unit06-animals-and-pets.png"
@@ -35,13 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.LING.orthographic-control.01
-    - A1.PROD.creative-writing.01
-    - A1.REC.identifying-cues-and-inferring.01
-    - A1.INT.online-conversation-and-discussion.02
-    - A1.INT.correspondence.03
+  - A1.LING.orthographic-control.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.identifying-cues-and-inferring.01
+  - A1.INT.online-conversation-and-discussion.02
+  - A1.INT.correspondence.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl05_unit06-animals-and-pets
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl05/units/unit06-animals-and-pets-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl05_unit06-animals-and-pets-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl05_unit06-animals-and-pets-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -71,12 +107,10 @@ curriculum:
 
 Frida the fox sits on Mia's bed. "Am I a pet?" she asks. Mia thinks. Pepper the cat opens one eye. "Definitely not," Pepper says. "Pets are quiet, kind, and full of fur." Frida is quiet, kind, and full of fur. Mia smiles. "Pet enough for me."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Animal sounds.** The teacher makes an animal sound; the class shouts the English word. Cat, dog, cow, horse, sheep, duck, pig, owl.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — animals
 
 *cat, dog, mouse, hamster, rabbit, fish, bird, fox, wolf, bear, cow, horse, sheep, pig, duck, chicken, owl, snake, frog, lizard.*
@@ -92,8 +126,7 @@ British English uses *have got / has got* a lot for possession.
 
 American English prefers *have / has* alone.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. I __________ (have got) a cat.
@@ -115,16 +148,14 @@ American English prefers *have / has* alone.
 7. *Have you got a brother or a sister?*
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pet portrait.** Draw a real or imagined pet on paper. Underneath, write 4–6 sentences: name, age, colour, what it eats, one thing it does.
 
 ### Sample
 
 *This is Pepper. He has got grey fur. He is six years old. He eats fish and dry food. He sleeps on my bed every afternoon.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 12 animals.
 - [ ] I can use *have got / has got*.
 - [ ] I can write 4 sentences about a pet.
@@ -132,54 +163,11 @@ American English prefers *have / has* alone.
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl05/units/unit06-animals-and-pets-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen.
-
-> "Mia has got a cat. The cat is grey. Theo has got a fish. The fish is orange. Lina has got a rabbit. The rabbit is white."
-
-1. Mia: ___ , 2. Theo: ___ , 3. Lina: ___ , 4. Colour of the cat: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read about Pepper.
-
-> "Pepper is a grey cat. He is six years old. He likes fish and warm beds. He doesn't like dogs."
-
-T or F: 1. Pepper is white. 2. He is six. 3. He likes fish. 4. He likes dogs.
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in *have got / has got* (positive, negative, question).**
-
-1. I __________ a hamster.
-2. Theo __________ a dog. (negative)
-3. ___ you ___ a pet? (question)
-4. We __________ two cats.
-
-### Task 4 — Writing (6 BE)
-
-Draw a real or imagined pet. Write 4 sentences: name, age, colour, one thing it likes.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** cat, fish, rabbit, grey.
-**T2.** F, T, T, F.
-**T3.** 1. have got, 2. hasn't got, 3. Have / got, 4. have got.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

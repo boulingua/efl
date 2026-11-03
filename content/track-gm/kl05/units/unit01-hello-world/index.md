@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 1
 material_slug: "track-gm_kl05_unit01-hello-world"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - speaking
-  - listening
-  - language_awareness
+- speaking
+- listening
+- language_awareness
 aliases:
-  - /track_gm_kl05/units/unit01_hello-world.html
+- /track_gm_kl05/units/unit01_hello-world.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl05_unit01-hello-world.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl05_unit01-hello-world.png"
@@ -34,13 +34,48 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.LING.orthographic-control.01
-    - A1.PROD.creative-writing.01
-    - A1.REC.understanding-conversation-between-other-people.01
-    - A1.PLUR.plurilingual-comprehension.01
+  - A1.INT.correspondence.03
+  - A1.LING.orthographic-control.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.understanding-conversation-between-other-people.01
+  - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl05_unit01-hello-world
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl05/units/unit01-hello-world-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking
+  - listening
+  - language_awareness
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-gm_kl05_unit01-hello-world-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl05_unit01-hello-world-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -74,8 +109,7 @@ red fox is sitting on the windowsill. The fox is *not* normally
 there. Mia rubs her eyes. The fox waves. Mia waves back. "Hello,"
 the fox says. "I'm Frida. Welcome to English."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Stand up — sit down.**
 
 The teacher says a sentence. If it is true for you, stand up. If
@@ -85,8 +119,7 @@ it is not, stay seated.
 - *I live in Stuttgart.*
 - *I have one brother.*
 
-## 2. Input
-
+## 2. Input {#input}
 ### Hello chant
 
 > Hello, hello, what's your name?\
@@ -121,8 +154,7 @@ it is not, stay seated.
 - *Theo **is** my brother.*
 - *We **are** in Klasse 5.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 **A. Fill in *am, is, are*.**
@@ -143,8 +175,7 @@ it is not, stay seated.
 live?
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Mingling task.** Walk around the classroom. Find three new
 people. Ask name, age, town. Write each answer in your notebook.
 
@@ -156,8 +187,7 @@ people. Ask name, age, town. Write each answer in your notebook.
 > "I'm ten. And you?"\
 > "I'm eleven. Where do you live?"
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can say my name, age, town.
 - [ ] I can ask three introducing questions.
 - [ ] I can use *am, is, are*.
@@ -165,63 +195,11 @@ people. Ask name, age, town. Write each answer in your notebook.
 **One thing in your notebook:** *Write one sentence about a new
 person you met today.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Materials.** None.\
-**Time.** 45 minutes.\
-**Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl05/units/unit01-hello-world-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-The teacher reads aloud. Tick the right answer.
-
-> "Hello! My name is Mia. I am ten years old. I live in Stuttgart.
-> I have one brother. His name is Theo."
-
-1. Her name is __________ . (Mia / Tia)
-2. She is __________ years old. (nine / ten)
-3. She lives in __________ . (Stuttgart / Frankfurt)
-4. Her brother is __________ . (Theo / Tim)
-
-### Task 2 — Reading (10 BE)
-
-Read the short text and complete the table.
-
-> "Hi, I'm Theo. I am eleven. My favourite colour is blue. I love
-> football. My best friend is Mia."
-
-| Name | Age | Colour | Hobby | Friend |
-|------|-----|--------|-------|--------|
-| Theo |  ?  |   ?    |   ?   |   ?    |
-
-### Task 3 — Use of English (6 BE)
-
-Fill in the right form of *to be*.
-
-1. I __________ ten.
-2. She __________ my friend.
-3. We __________ in Klasse 5.
-
-### Task 4 — Writing (6 BE)
-
-Write 4 sentences about yourself: name, age, town, one thing you
-like.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-1. Mia, 2. ten, 3. Stuttgart, 4. Theo.\
-**Task 2.** Theo / 11 / blue / football / Mia.\
-**Task 3.** am, is, are.\
-**Task 4.** Open. 1 BE per correct sentence + 2 BE language.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

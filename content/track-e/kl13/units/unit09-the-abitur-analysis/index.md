@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 9
 material_slug: "track-e_kl13_unit09-the-abitur-analysis"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.2 / 3.5.3.2 Leseverstehen"
-  - "3.4.3.5 / 3.5.3.5 Schreiben"
-  - "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.2 / 3.5.3.2 Leseverstehen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl13/units/unit09_the-abitur-analysis.html
+- /track_e_kl13/units/unit09_the-abitur-analysis.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl13_unit09-the-abitur-analysis.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl13_unit09-the-abitur-analysis.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.LING.general-linguistic-range.01
-    - B2.PROD.compensating.01
-    - B2.REC.overall-reading-comprehension.01
-    - B2.LING.orthographic-control.01
-    - B2.INT.correspondence.03
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.compensating.01
+  - B2.REC.overall-reading-comprehension.01
+  - B2.LING.orthographic-control.01
+  - B2.INT.correspondence.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl13_unit09-the-abitur-analysis
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl13/units/unit09-the-abitur-analysis-exam
+  format: existing-assessment
+  duration_minutes:
+  points:
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl13_unit09-the-abitur-analysis-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl13_unit09-the-abitur-analysis-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -73,12 +109,10 @@ course (Leistungsfach, E-LF).
 
 Third of three Abitur-prep Units. Today's focus: the Analysis task — the section that rewards sustained close reading and Sprache range, and where Leistungsfach (advanced course) candidates are most clearly distinguished from Basisfach (basic course). 60 (BF) / 90 (LF) minutes. Submit. Debrief against Bewertungsraster.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Move scan.** Read the source. Identify three specific moves (rhetorical / structural / linguistic) you would build the Analysis around. Mark each as *strong / mid / weak*.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Analysis — sub-task patterns
 
 1. **Analyse the writer's stance / argumentative strategy.** 3+ specific moves with integrated quotes.
@@ -93,8 +127,7 @@ Third of three Abitur-prep Units. Today's focus: the Analysis task — the secti
 
 **Quote integration:** embedded fragments + integrated full quotes; no block-quotes.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: stance / strategy → 3+ moves; language / structure → technical close reading; form / content → LF only, sustained argument.
@@ -111,69 +144,25 @@ Third of three Abitur-prep Units. Today's focus: the Analysis task — the secti
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Abitur Analysis rehearsal, 60 (BF) / 90 (LF) minutes.** 1,000-1,200 word source + Analysis prompt. Submit. Debrief against Bewertungsraster.
 
 ### Sample
 
 (See *Reflection on the rehearsal* — the production task is the timed Analysis itself.)
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can produce a 60-90 minute Abitur Analysis on a 1,000-1,200-word source.
 - [ ] I can sustain integrated close reading with technical vocabulary.
 - [ ] I can self-assess Sprache against Abitur expectations.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (Abitur-grade)" icon="false" >}}
-**This Unit's exam example follows the Abitur task pattern named
-in the Unit. Some Units focus on a single Abitur-task type
-(Comprehension / Analysis / Composition / Mediation /
-Kommunikationsprüfung); the full 90-BE Klausur is rehearsed in
-Klasse 12 Units 11-12 and continues in Klasse 13 Units 7-9.**\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl13/units/unit09-the-abitur-analysis-exam" >}}).
 
-### Comprehension
-
-**Analysis prompt** (sample): *On the basis of the 1,000-1,200-word source provided in class, analyse the writer's argumentative strategy. Identify three specific rhetorical, structural, or linguistic moves and discuss what each contributes to the central argument. Use integrated quotation throughout. Word count: 350-450 (BF) / 450-550 (LF).*
-
-### Analysis
-
-**Time budget.** Allocate the 60 (BF) / 90 (LF) minutes.
-
-### Composition / Mediation / Reflection
-
-**Reflection prompt:** *In 200 words, reflect on your Analysis rehearsal. Which moves did you identify most strongly? Which Sprache element did you lose toward the end?*
-
-### Additional task
-
-**(No Composition / Mediation in this Unit.)**
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** Reward 3+ moves + integrated quotes + technical vocabulary + sustained close reading.
-**Analysis.** Suggested BF: 15 plan / 35 draft / 10 review. LF: 20 plan / 60 draft / 10 review.
-**Composition.** Open.
-**Reflection.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) — Abitur-grade Klausuren" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-
-(Single-section Klausuren in this year scale to the proportional
-BE-weight of the section in the full Klausur.)
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

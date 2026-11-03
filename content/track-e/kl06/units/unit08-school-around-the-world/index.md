@@ -9,17 +9,17 @@ track: "e"
 unit_nr: 8
 material_slug: "track-e_kl06_unit08-school-around-the-world"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.2 Interkulturelle kommunikative Kompetenz"
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.4 Text- und Medienkompetenz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.2 Interkulturelle kommunikative Kompetenz"
+- "3.1.3.2 Leseverstehen"
+- "3.1.3.5 Schreiben"
+- "3.1.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - intercultural
+- reading
+- writing
+- intercultural
 aliases:
-  - /track_e_kl06/units/unit08_school-around-the-world.html
+- /track_e_kl06/units/unit08_school-around-the-world.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl06_unit08-school-around-the-world.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl06_unit08-school-around-the-world.png"
@@ -35,13 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.PROD.sustained-monologue-describing-experience.02
-    - A1.REC.overall-reading-comprehension.01
-    - A1.SOC.sociolinguistic-appropriateness.01
-    - A1.PROD.sustained-monologue-giving-information.01
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.PROD.sustained-monologue-describing-experience.02
+  - A1.REC.overall-reading-comprehension.01
+  - A1.SOC.sociolinguistic-appropriateness.01
+  - A1.PROD.sustained-monologue-giving-information.01
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl06_unit08-school-around-the-world
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl06/units/unit08-school-around-the-world-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - reading
+  - writing
+  - intercultural
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl06_unit08-school-around-the-world-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl06_unit08-school-around-the-world-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -71,12 +107,10 @@ curriculum:
 
 Lina has a pen-pal in Tokyo. Sam has a pen-pal in Cape Town. The three of them compare their school days by e-mail. Tokyo: 8:00 to 15:30, six lessons and a cleaning duty. Cape Town: 7:45 to 14:30, with a break that involves actual fruit. Stuttgart: 7:55 to 13:20, no fruit, no cleaning. "We are very specialised," Lina jokes.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Three columns.** Board: *Stuttgart, Tokyo, Cape Town*. Class fills in 5 facts under each column.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — *Three school days*
 
 *In Tokyo, students clean their classroom every day after lessons. In Cape Town, the school year starts in January. In Stuttgart, students have free periods if a teacher is absent. In Tokyo, lunch is served at school. In Cape Town, many students bring fruit. In Stuttgart, lunch is at home or in the canteen.*
@@ -87,8 +121,7 @@ Short adjectives: *+ -er, the + -est*: *long → longer → the longest.*
 Long adjectives: *more + adj, the most + adj*: *interesting → more interesting → the most interesting.*
 Irregular: *good → better → the best, bad → worse → the worst.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Build comparative + superlative: long → ___ / ___ ; interesting → ___ / ___ ; good → ___ / ___ .
@@ -105,70 +138,25 @@ Irregular: *good → better → the best, bad → worse → the worst.*
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pen-pal comparison letter.** Write 120 words to a pen-pal abroad. Use 5 comparatives and 1 superlative.
 
 ### Sample
 
 *Hi Hiro, my school day is shorter than yours, but I think yours is more interesting because you clean your classroom together every day. We don't do that, but I think it would be a better tradition than the one we have. Out of all my lessons, biology is the best — the teacher tells stories instead of lecturing. We finish at 1:20 and I am always hungrier than my brother by lunchtime, although he claims this is physically impossible.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can build comparative + superlative forms.
 - [ ] I can compare two school days in 4 sentences.
 - [ ] I can write a 120-word pen-pal comparison letter.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl06/units/unit08-school-around-the-world-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "In Tokyo, lessons start at 8:30. The day is longer than ours. Students clean their classrooms every day. The break is shorter, but lunch is served at school. The school year is also longer than ours."
-
-1. Tokyo start: ___ . 2. Day length: ___ . 3. Daily task: ___ . 4. Lunch: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "South African schools start their year in January. The summer holiday is in December. Many schools wear uniform. Lessons end earlier than in Germany, but afternoon clubs are common."
-
-1. Year start: ___ . 2. Summer: ___ . 3. Uniform: ___ . 4. Lessons end: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Build the comparative or superlative.**
-
-1. Tokyo's school day is __________ (long) than Stuttgart's.
-2. Cape Town's break is __________ (short) than ours.
-3. The Tokyo school year is __________ (interesting) year of all.
-4. Their cafeteria food is __________ (good) than ours.
-
-### Task 4 — Writing (6 BE)
-
-Write 120 words to a pen-pal comparing your school day with theirs. Use 4 comparatives and 1 superlative.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** 8:30, longer than ours, clean classrooms, served at school.
-**T2.** January, December, common, earlier.
-**T3.** longer / shorter / most interesting / better.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

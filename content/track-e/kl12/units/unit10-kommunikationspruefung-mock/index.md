@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 10
 material_slug: "track-e_kl12_unit10-kommunikationspruefung-mock"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen"
-  - "3.4.3.3 / 3.5.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.4.3.4 / 3.5.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen"
+- "3.4.3.3 / 3.5.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.4.3.4 / 3.5.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
 skills_focus:
-  - speaking
-  - listening
-  - language_awareness
+- speaking
+- listening
+- language_awareness
 aliases:
-  - /track_e_kl12/units/unit10_kommunikationspruefung-mock.html
+- /track_e_kl12/units/unit10_kommunikationspruefung-mock.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl12_unit10-kommunikationspruefung-mock.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl12_unit10-kommunikationspruefung-mock.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.INT.formal-discussion.01
-    - B2.LING.general-linguistic-range.01
-    - B2.PROD.compensating.01
-    - B2.REC.overall-reading-comprehension.01
-    - B2.MED.linking-to-previous-knowledge.02
+  - B2.INT.formal-discussion.01
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.compensating.01
+  - B2.REC.overall-reading-comprehension.01
+  - B2.MED.linking-to-previous-knowledge.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl12_unit10-kommunikationspruefung-mock
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl12/units/unit10-kommunikationspruefung-mock-exam
+  format: existing-assessment
+  duration_minutes: 20
+  points: 90
+  skills:
+  - speaking
+  - listening
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl12_unit10-kommunikationspruefung-mock-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl12_unit10-kommunikationspruefung-mock-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,12 +108,10 @@ course (Leistungsfach, E-LF).
 
 Mr. Yilmaz set today's lesson as a full-format mock Kommunikationsprüfung (oral exam). Format: 5-min monologue + 5-min examiner dialogue + 2-min closing. Bewertungsraster (grading grid) provided in advance: *kommunikative Textgestaltung* and *sprachliche Korrektheit und Variabilität*, weighted 50/50 in Basisfach (basic course), 40/60 in Leistungsfach (advanced course).
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Stimulus draw.** Each pair draws a stimulus card (image, statistic, quote). 90 seconds prep + 2 minutes outline.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Kommunikationsprüfung (oral exam) format
 
 1. **Monologue (5 min).** Frame stimulus → 2-3 arguments → counter + concession → close.
@@ -92,8 +126,7 @@ Total ~12 minutes.
 
 **Sprachliche Korrektheit und Variabilität** (50-60 %): Wortschatz, Grammatik, Idiomatik, Aussprache, Register-Sensibilität.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: kommunikative Textgestaltung → structure + coherence; sprachliche Korrektheit → vocabulary + grammar.
@@ -110,67 +143,25 @@ Total ~12 minutes.
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair Komm-Prüfung mock.** 12 minutes per pair. Audience scores using a simplified BW Bewertungsraster (grading grid). Class debrief at the end with each pair receiving one specific feedback sentence.
 
 ### Sample
 
 *Let me start with the stimulus image — a 2025 photograph of a flooded Bangladesh street with three rickshaws still operating. I would argue that the image is doing two things at once: documenting climate-induced displacement and resisting the framing of climate-vulnerable countries as purely passive. The available evidence suggests that the rickshaw economy in Bangladesh has, over the past fifteen years, adapted faster to seasonal flooding than urban planning has — through informal route shifts, raised platforms at intersections, and neighbourhood phone trees. The photograph captures this. Accordingly, what I am not saying is that the flooding is not a crisis; what I am saying is that the dominant Western framing of climate vulnerability tends to crop out the adaptation. Let me concede one point first: vulnerability is real, and the rickshaw economy itself has limits. When the floods exceed waist-height, the system breaks down. By contrast, between 2015 and 2025, the system handled approximately 80 % of seasonal events without major service disruption. On reflection, what the image is asking me to do is hold the crisis and the adaptation in the same frame. If I had to commit, I would say that international policy frames are, in this regard, ten years behind the photographs. The honest question for English-language climate journalism is not *how vulnerable are these countries?* but *what have they already taught us that we have not yet absorbed?*.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can deliver a 5-minute monologue from a stimulus.
 - [ ] I can hold a 5-minute examiner dialogue.
 - [ ] I can self-assess against the Bewertungsraster (grading grid).
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (full paper, 90 BE)" icon="false" >}}
-**Time.** 4 hours including 20 minutes of breaks (220 active
-minutes). **Total.** 90 BE.\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl12/units/unit10-kommunikationspruefung-mock-exam" >}}).
 
-### Part A — Comprehension (~24 BE)
-
-Listen twice to a sample monologue (above).
-
-1. Stimulus type: ___ . 2. Two arguments: ___ . 3. Concession + statistic: ___ . 4. Closing question: ___ .
-
-### Part B — Analysis (~18 BE)
-
-Read the sample monologue above.
-
-1. Two things the image is doing: ___ . 2. The *not saying / saying* contrast: ___ . 3. The specific concession: ___ . 4. Final commit: ___ .
-
-### Part C — Composition (~18 BE)
-
-**Composition prompt:** *Write a 4-minute Komm-Prüfung-style monologue script (~280 words) on a stimulus of your choice. Use 6 spoken-academic phrases + 1 specific statistic.*
-
-### Mediation (~30 BE)
-
-**Mediation prompt:** A 200-word German Klimawandel-Rede excerpt. Mediate the speaker's rhetorical stance for an English-speaking climate-policy reader. (Source provided in class.)
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** 1. 2025 photograph (flooded Bangladesh street with rickshaws); 2. (a) documenting climate-induced displacement (b) resisting passive framing; 3. system handles 80 % of seasonal events without major disruption (2015-2025); 4. *what have these countries taught us that we have not yet absorbed?*
-**Analysis.** documenting + resisting passive framing; *not saying flooding isn't a crisis — saying Western framing crops out adaptation*; vulnerability + rickshaw-economy waist-height limit; international policy frames are ten years behind the photographs.
-**Composition.** Open.
-**Mediation.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 90 BE)" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

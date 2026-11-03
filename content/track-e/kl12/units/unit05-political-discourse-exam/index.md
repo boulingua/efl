@@ -56,7 +56,7 @@ Read the three excerpts above.
 
 **Mediation prompt:** A 250-word German Bundestag speech excerpt. Mediate the speaker's rhetorical stance for an English-speaking political-rhetoric researcher. (Source provided in class.)
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. Thatcher 1980; 2. *You turn ↔ The lady's not for turning*; 3. *the lady* (third-person, stately) for *I*; 4. Christopher Fry, *The Lady's Not for Burning* (1948).
 **Analysis.** 1. *Four score and seven years ago* (biblical / register-elevating); 2. *the lady* — ethos as institutional; 3. *the policy you write today is the policy I am eighty-two years old in* (pathos + logos + age-frame); 4. Lincoln 1863 in war / Thatcher 1980 recession / COP30 2024 climate-action urgency.
 **Composition.** Open.

@@ -9,17 +9,17 @@ track: "gm"
 unit_nr: 11
 material_slug: "track-gm_kl07_unit11-plans-for-the-summer"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.1 Hör-/Hörsehverstehen"
-  - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.1 Hör-/Hörsehverstehen"
+- "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - speaking
-  - writing
-  - language_awareness
+- speaking
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl07/units/unit11_plans-for-the-summer.html
+- /track_gm_kl07/units/unit11_plans-for-the-summer.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl07_unit11-plans-for-the-summer.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl07_unit11-plans-for-the-summer.png"
@@ -35,13 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.overall-oral-interaction.01
-    - A2.LING.general-linguistic-range.02
-    - A2.PROD.sustained-monologue-giving-information.01
-    - A2.INT.conversation.08
-    - A2.PRAG.coherence-and-cohesion.01
+  - A2.INT.overall-oral-interaction.01
+  - A2.LING.general-linguistic-range.02
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.INT.conversation.08
+  - A2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl07_unit11-plans-for-the-summer
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl07/units/unit11-plans-for-the-summer-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 60
+  skills:
+  - speaking
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl07_unit11-plans-for-the-summer-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl07_unit11-plans-for-the-summer-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -77,8 +113,7 @@ Aisha said *that counts as something special if you do it on
 purpose*. Ms. Reyes wrote on the board: *A plan is a sentence in
 the future tense.*
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Three boxes.** In your notebook, write three boxes:
 
 - *Already arranged* (tickets booked, family plan)
@@ -87,8 +122,7 @@ the future tense.*
 
 Fill each box with **one** thing about your summer.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Listening — *Three Plans*
 
 > **Aisha.** What are you doing this summer?\
@@ -124,8 +158,7 @@ simple**, not *will*.
 - *I'll text you when I arrive.* (not *when I will arrive*)
 - *We won't leave before we have breakfast.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G — controlled
 
 **A. Future-form gap-fill.**
@@ -166,8 +199,7 @@ D. Open. Look for a mix of *Are you doing …?*, *Are you going to
 …?*, *Will you …?*.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair speaking — *Summer Plan Swap*.** With a partner, take
 turns interviewing each other about the summer.
 
@@ -178,8 +210,7 @@ turns interviewing each other about the summer.
 Two minutes each direction. Be ready to report your partner's
 plans to another pair.
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can pick out arrangements, intentions, and spontaneous
   decisions in a dialogue.
 - [ ] I can match the right future form to its meaning.
@@ -188,111 +219,11 @@ plans to another pair.
 **One sentence in your notebook:** *What is one summer plan I
 want to make real this week — booking, asking, deciding?*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Materials allowed.** A monolingual dictionary (Niveau M only).\
-**Time.** 45 minutes.\
-**Total.** 60 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl07/units/unit11-plans-for-the-summer-exam" >}}).
 
-### Task 1 — Listening (12 BE)
-
-The teacher reads aloud the dialogue *Three Plans*. Answer in full
-sentences.
-
-> **Aisha.** What are you doing this summer?\
-> **Ben.** I'm spending two weeks at my grandma's farm. We're
-> going to fix her old greenhouse.\
-> **Marius.** I'm not doing anything special. My family will be
-> here all summer. I'll probably read a lot and finally learn to
-> ride a skateboard.\
-> **Aisha.** That counts as something special, Marius. Most
-> people only plan trips. You're planning a skill.
-
-1. What is Ben doing this summer? (3)
-2. Where is Marius going? (2)
-3. What does Marius plan to do at home? (3)
-4. Why does Aisha think Marius's plan is "special"? (4)
-
-### Task 2 — Use of English (15 BE)
-
-**A. Future forms (10 BE).** Choose the better option: *will*,
-*going to*, or present continuous.
-
-1. We __________ (visit / are visiting) my aunt next weekend; the
-   tickets are booked.
-2. Look at those clouds. It __________ (will rain / is going to
-   rain).
-3. I'm bored. I __________ (will read / am going to read) for an
-   hour.
-4. I __________ (am meeting / will meet) Lisa at five — I told her
-   yesterday.
-5. The train __________ (leaves / is going to leave) at 8:14 every
-   morning. (timetable)
-
-**B. Time clauses (5 BE).** Combine using *when*, *as soon as*,
-or *before* + present simple.
-
-6. I will text you. I will arrive. → I'll text you ___ .
-7. We will leave the house. We won't have breakfast. → We won't
-   leave ___ .
-8. Mum will pick us up. The class will end. → Mum will pick us up
-   ___ .
-
-### Task 3 — Mediation (10 BE)
-
-Your German pen-pal sends you this short message:
-
-> "Mein Bruder fährt im Sommer mit Freunden mit dem Zug nach
-> Italien. Sie wollen Interrail machen — drei Wochen, sieben
-> Länder. Mama sagt, das ist viel zu jung dafür."
-
-Write **three sentences in English** to your English-speaking
-friend explaining what your pen-pal's brother is planning and
-what the parent thinks. Do not translate every word.
-
-### Task 4 — Writing (23 BE)
-
-Write 100–120 words about your **summer plan** — real or imagined.
-Cover:
-
-- *one thing you have already arranged* (use present continuous
-  or *going to*),
-- *one thing you might decide on the spot* (use *will*),
-- *one skill you would like to practise* (use *would like to*).
-
-{{< callout type="tip" title="Expected answer key — class test (\"Klassenarbeit\")" collapse="true" >}}
-**Task 1 (12 BE).**\
-1. He is spending two weeks at his grandmother's farm and helping
-   to fix her old greenhouse. (3)
-2. He is staying at home for the whole summer. (2)
-3. He plans to read a lot and learn to skateboard. (3)
-4. Sample: *Most people plan a trip — Marius is planning a skill,
-   which is more lasting and personal.* (4)
-
-**Task 2 (15 BE).**\
-A. 1. are visiting, 2. is going to rain, 3. will read, 4. am
-   meeting, 5. leaves.\
-B. 6. … as soon as I arrive. 7. … before we have breakfast.
-   8. … when the class ends.
-
-**Task 3 (10 BE).** Sample: *"My pen-pal's brother is going
-Interrailing this summer — three weeks, seven countries, by train,
-with friends. Their mum thinks he's much too young for that kind
-of trip."* Award for: gist (4), addressee-fit (2), grammar (4).
-
-**Task 4 (23 BE).** Inhalt 12 / Sprache 11.
-{{< /callout >}}
-
-{{< callout type="tip" title="Rubric — grading scale (Notenschlüssel)" collapse="true" >}}
-| Punkte (von 60) | Note |
-|-----------------|------|
-| 56–60 | 1 | 49–55 | 2 | 40–48 | 3 |
-| 30–39 | 4 | 18–29 | 5 | 0–17  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

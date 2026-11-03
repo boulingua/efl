@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 2
 material_slug: "track-e_kl05_unit02-my-family"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
-  - "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - speaking
-  - writing
-  - language_awareness
+- speaking
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl05/units/unit02_my-family.html
+- /track_e_kl05/units/unit02_my-family.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl05_unit02-my-family.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl05_unit02-my-family.png"
@@ -34,13 +34,47 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.01
-    - A1.LING.orthographic-control.01
-    - A1.PROD.overall-written-production.01
-    - A1.INT.online-conversation-and-discussion.01
-    - A1.REC.overall-reading-comprehension.01
+  - A1.INT.correspondence.01
+  - A1.LING.orthographic-control.01
+  - A1.PROD.overall-written-production.01
+  - A1.INT.online-conversation-and-discussion.01
+  - A1.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl05_unit02-my-family
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl05/units/unit02-my-family-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-e_kl05_unit02-my-family-teacher.pdf
+  thumbnail: /efl/materials/worksheets/track-e_kl05_unit02-my-family-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,12 +103,10 @@ curriculum:
 
 Mia draws her family on paper. Mother — doctor. Father — works at home. Brother Theo — football. Pepper the cat. Then her two grandmothers, both alive, both stubborn. "Don't forget your aunt in Hamburg," Theo says. Mia adds the aunt. Frida the fox watches from the window. "My family," she says, "is a lot of foxes in one den. None of us draw."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Family quick-tree.** Draw three boxes: parents, siblings, grandparents. Add names. Tell a partner who is the youngest, who is the oldest, and who lives closest.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — extended family
 
 *mother, father, parents, sister, brother, siblings, grandmother, grandfather, grandparents, aunt, uncle, cousin, niece, nephew, stepmother, stepfather, half-brother, half-sister.*
@@ -86,8 +118,7 @@ Mia draws her family on paper. Mother — doctor. Father — works at home. Brot
 - *the children's room* — irregular plural: *'s*.
 - *the cat's name* (singular) vs. *the cats' names* (two cats).
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: parents — Eltern, sibling — Geschwister, cousin — Cousin, niece — Nichte. (T / F)
@@ -105,16 +136,14 @@ Mia draws her family on paper. Mother — doctor. Father — works at home. Brot
 4. *my grandmother's house*, *the children's playground*, *my friends' parents*.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Family poster.** A4 paper. Draw five family members. Underneath, write five sentences using two possessives and one *to be* sentence.
 
 ### Sample
 
 *This is my family. My mother's name is Petra. She is a doctor. My grandparents' house is in Heidelberg. My brother Theo is eleven. We have a cat. The cat's name is Pepper.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 12 family words.
 - [ ] I can use possessive 's and plural -s'.
 - [ ] I can write a 5-sentence family text.
@@ -122,54 +151,11 @@ Mia draws her family on paper. Mother — doctor. Father — works at home. Brot
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl05/units/unit02-my-family-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "In my family there are five people. My parents, my brother, my grandmother, and me. My grandmother lives with us. My favourite cousin lives in Hamburg."
-
-1. How many people: ___ . 2. Who lives with the family: ___ . 3. Cousin's town: ___ . 4. Who: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "This is Mia's family. Her parents' names are Petra and Markus. Mia's brother is Theo. Their grandparents' house is in Heidelberg. The cat's name is Pepper."
-
-1. Mia's parents: ___ . 2. Brother: ___ . 3. Grandparents' town: ___ . 4. Cat: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Build the possessive.**
-
-1. (Theo / book) → ___
-2. (the cat / bed) → ___
-3. (my parents / friends) → ___
-4. (the children / room) → ___
-
-### Task 4 — Writing (6 BE)
-
-Write 5–6 sentences about your family. Use at least two possessives.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** 5, grandmother, Hamburg, cousin.
-**T2.** Petra and Markus, Theo, Heidelberg, Pepper.
-**T3.** *Theo's book; the cat's bed; my parents' friends; the children's room.*
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

@@ -1,0 +1,193 @@
+---
+page_type: unit
+title: "Unit 5 — Poetry from the Anthology"
+author: "S. Le Boulanger"
+subtitle: "Track E · Klasse 11 · Niveau E (Basisfach / Leistungsfach)"
+niveau: "E"
+klassenstufe: 11
+track: "e"
+unit_nr: 5
+material_slug: "track-e_kl11_unit05-poetry-from-the-anthology"
+bildungsplan:
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.2 / 3.5.3.2 Leseverstehen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+skills_focus:
+- reading
+- writing
+- language_awareness
+aliases:
+- /track_e_kl11/units/unit05_poetry-from-the-anthology.html
+presentation:
+  file: "/efl/materials/presentations/track-e_kl11_unit05-poetry-from-the-anthology.pdf"
+  thumbnail: "/efl/materials/presentations/track-e_kl11_unit05-poetry-from-the-anthology.png"
+worksheet:
+  file: "/efl/materials/worksheets/track-e_kl11_unit05-poetry-from-the-anthology.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl11_unit05-poetry-from-the-anthology.png"
+tags:
+- reading
+- writing
+- language_awareness
+topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+  - B2.LING.phonological-control.03
+  - B2.PROD.monitoring-and-repair.03
+  - B2.REC.overall-reading-comprehension.01
+  - B2.LING.general-linguistic-range.01
+  - B2.INT.formal-discussion.01
+  implements_basis: proposed
+  level_basis: derived
+audio_manifest: track-e_kl11_unit05-poetry-from-the-anthology
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl11/units/unit05-poetry-from-the-anthology-exam
+  format: existing-assessment
+  duration_minutes: 20
+  points: 90
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file: 
+    /efl/materials/worksheets/track-e_kl11_unit05-poetry-from-the-anthology-teacher.pdf
+  thumbnail: 
+    /efl/materials/worksheets/track-e_kl11_unit05-poetry-from-the-anthology-teacher.png
+---
+
+{{< callout type="note" >}}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** E. Klausur (assessment) at Niveau E (90 BE,
+Comprehension + Analysis + Composition + Mediation).\
+**Course tagging:** basic course (Basisfach, E-BF) and advanced
+course (Leistungsfach, E-LF) — Units in Klasse 11–13 carry both
+where applicable; some Units are tagged BF or LF specifically.
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can read a short poem and identify form, voice, and one figurative move.*
+- *I can use vocabulary of poetic analysis (*line break, enjambment, stanza, image, persona, meter, half-rhyme*).*
+- *I can write a 280-word poetic-analysis essay.*
+
+## curriculum framework ("Bildungsplan") alignment
+
+- **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.4.3.2 / 3.5.3.2 Leseverstehen**
+- **3.4.3.5 / 3.5.3.5 Schreiben**
+- **3.4.4 / 3.5.4 Text- und Medienkompetenz**
+
+(Sources: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/GYM/E1/IK/11-12-LF> /
+<https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/GYM/E1/IK/11-12-BF>)
+
+## Lead-in story
+
+Mr. Yilmaz handed out a single poem of fourteen lines, no title given. The class spent twenty minutes reading it silently, then ten minutes arguing about whether the line-breaks were doing any actual work. They agreed they were. They disagreed about which one was doing the most.
+
+## 1. Activate {#activate}
+**Form scan.** Without the title, what do you notice first about a fourteen-line poem? Stanza count? Rhyme? Meter? Line-break choices?
+
+## 2. Input {#input}
+### Reading — sample poem (anonymous, contemporary)
+
+*Fourteen lines, two stanzas. The first is the outside; the second is what is overheard. The line-breaks fall, mostly, before strong stresses, so that each line ends on a small held breath. There are no full rhymes. There are three half-rhymes — *light / late*, *door / floor*, *gone / alone* — that sit at the close of the second stanza, where the speaker turns inward. The persona is not named. The pronoun shifts from *they* to *we* in the final couplet, which is the moment the poem decides what it has been doing all along.*
+
+### Vocabulary — poetic analysis
+
+*line, line-break, enjambment, stanza, couplet, image, image cluster, simile, metaphor, personification, persona, voice, tone, meter, iambic, half-rhyme / slant rhyme, full rhyme, alliteration, assonance, caesura.*
+
+## 3. Practise {#practise}
+### Niveau E — controlled
+
+1. Match: enjambment → line continues without pause; couplet → two-line unit; persona → speaker / speaker-voice; assonance → vowel echo.
+2. T or F: half-rhymes are looser than full rhymes; a caesura is a pause within a line; iambic = stressed-unstressed.
+
+### Niveau E — productive
+
+3. Build 3 sentences using *enjambment, half-rhyme, persona*.
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**Controlled.** 1. all true.
+2. T, T, F (iambic = unstressed-stressed).
+
+**Productive.** 3. Open.
+{{< /callout >}}
+
+## 4. Produce {#apply}
+**Poetic-analysis essay, 280 words.** Pick a poem from the class anthology (or use the sample above). Identify form, voice, one figurative move. Use 6 poetic-analysis terms + 1 quote + 1 cleft.
+
+### Sample
+
+*The poem is a fourteen-liner with no title and no named persona. Its fourteen lines fall into two stanzas — the first the outside, the second the overheard — and the form is closer to a modified-sonnet shape than to anything regular. What does the most work in this poem is the rhythm of the line-breaks: enjambment falls, almost consistently, before a strong stress, so that each line ends on a small held breath. The effect is incantatory and slightly suspenseful. There are no full rhymes; there are three half-rhymes — *light / late, door / floor, gone / alone* — clustered at the close of the second stanza, where the persona turns inward and the *we* of the final couplet appears for the first time. Accordingly, the poem's most important move is the small grammatical shift from *they* to *we*, which the line-break-rhythm and the half-rhymes have prepared us for. It is precisely the shift, and not any single image, that does the argumentative work. The voice is restrained; the tone, almost archival; the persona, deliberately ungendered. By contrast with louder contemporary lyric, this poem's confidence is in its willingness to under-explain. The reader's job is to do the small final addition that the *we* at the end demands.*
+
+## 5. Reflect {#reflect}
+- [ ] I can identify form, voice, and one figurative move in a short poem.
+- [ ] I can use 6 poetic-analysis terms.
+- [ ] I can write a 280-word poetic-analysis essay.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example {#exam}
+
+[Open the separate assessment]({{< relref "track-e/kl11/units/unit05-poetry-from-the-anthology-exam" >}}).
+
+## Teacher notes {#teacher-notes}
+
+{{< downloads >}}
+
+<div class="notes">
+**Slide deck timing.** 90 minutes total (Doppelstunde — typical
+in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
+· Practise 15 min · Produce 30 min · Reflect 6 min.
+
+**Differentiation — support (below Niveau E).**
+
+Complete these sentence frames to draft your analysis, then join them into a paragraph:
+
+- *This poem has ___ lines in ___ stanzas, so its form is closest to a ___.*
+- *The persona — who is not the poet — sounds ___ , and I hear this in the line "___".*
+- *One figurative move I notice is ___ (e.g. a half-rhyme / an image / an enjambment); it makes the reader ___.*
+- *The most important moment is ___ , because ___.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Choose a second poem whose "turn" — its pronoun shift, its final image, or its closing rhyme — works very differently from the anthology poem, and write a 350-word comparative argument judging which poet makes the reader's final leap the more convincingly earned. Ground every claim in line-breaks, rhythm, and syntax rather than paraphrase, and close with a short reflective coda on whether restraint or open statement is the greater risk in contemporary lyric.
+
+</div>
+
+## Common pitfalls
+
+- Don't paraphrase the poem — analyse what the form is doing.
+- *Persona* ≠ author. Keep them separate.
+- Half-rhyme is a specific term; don't call any imperfect rhyme that.
+
+## Further reading / listening
+
+- Poetry Foundation — *Poems & Poets* archive.
+- Don Paterson, *The Poem* (essays on form).

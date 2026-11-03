@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 7
 material_slug: "track-e_kl11_unit07-mediation-as-a-skill"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.5 / 3.5.3.5 Schreiben"
-  - "3.4.3.6 / 3.5.3.6 Sprachmittlung"
-  - "3.4.3.7 / 3.5.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.3.6 / 3.5.3.6 Sprachmittlung"
+- "3.4.3.7 / 3.5.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - mediation
-  - writing
-  - language_awareness
+- mediation
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl11/units/unit07_mediation-as-a-skill.html
+- /track_e_kl11/units/unit07_mediation-as-a-skill.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl11_unit07-mediation-as-a-skill.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl11_unit07-mediation-as-a-skill.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.LING.general-linguistic-range.01
-    - B2.MED.acting-as-an-intermediary-in-informal-situations.02
-    - B2.PROD.monitoring-and-repair.03
-    - B2.LING.phonological-control.03
-    - B2.INT.correspondence.03
+  - B2.LING.general-linguistic-range.01
+  - B2.MED.acting-as-an-intermediary-in-informal-situations.02
+  - B2.PROD.monitoring-and-repair.03
+  - B2.LING.phonological-control.03
+  - B2.INT.correspondence.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl11_unit07-mediation-as-a-skill
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl11/units/unit07-mediation-as-a-skill-exam
+  format: existing-assessment
+  duration_minutes: 20
+  points: 90
+  skills:
+  - mediation
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl11_unit07-mediation-as-a-skill-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl11_unit07-mediation-as-a-skill-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -56,7 +92,7 @@ where applicable; some Units are tagged BF or LF specifically.
 
 ## Learning objectives
 
-- *I can mediate a 350-word German feature into 12 English sentences for a named addressee.*
+- *I can mediate a short fictional German teaching passage into 4–6 English sentences for a named addressee.*
 - *I can preserve register, hedge structure, and modal nuance simultaneously.*
 - *I can use the full reporting-verb toolkit (12+ verbs) and explicit cultural notes where needed.*
 
@@ -74,20 +110,27 @@ where applicable; some Units are tagged BF or LF specifically.
 
 The class has been working on mediation for years. In Klasse 11, mediation becomes a formal Abitur-task category. The shift is from *useful explaining* to *useful explaining with audited register*: who is reading, what register do they speak, what do I translate, what do I keep in German with a brief explanation, and what do I drop entirely?
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Audit scan.** Slide shows a German source + a named addressee profile (a Canadian housing researcher). Mark each line: *keep / explain in brackets / drop*.
 
-## 2. Input
+## 2. Input {#input}
+### Source — *Fictional German teaching passage on Mietpreisbremse*
 
-### Source — *German feature on Mietpreisbremse*
+**Fiktives Unterrichtsszenario.** Der folgende Text ist eigens für eine
+Sprachmittlungsübung verfasst. Die Datierung im Mai 2027 und die behauptete
+Verlängerung sind Bestandteile dieser erfundenen Situation, keine überprüfte
+Nachricht und keine Darstellung der geltenden Rechtslage. Behandle alle
+Aussagen als Behauptungen dieses Szenarios und kennzeichne sie entsprechend.
+
+**Reader context.** Your Canadian addressee is taking part in the same
+classroom simulation. Identify the passage as fictional in your English text.
 
 *Die sogenannte Mietpreisbremse, die 2015 als Reaktion auf den Druck auf den Wohnungsmarkt eingeführt wurde, gilt heute als Beispiel für eine regulatorische Maßnahme, deren Wirkung umstritten ist. Befürworter führen an, dass die Mieten in Ballungsgebieten weniger schnell steigen als ohne die Regelung. Kritikerinnen entgegnen, dass die Bremse Investitionen in Neubau bremst und das Angebot dadurch langfristig verknappt. Die Bundesregierung hat im Mai 2027 die Verlängerung der Regelung um sechs Jahre beschlossen.*
 
 ### Cultural-note conventions
 
 When a German term has no clean English equivalent, use:
-- *the term + a 5-7 word explanation in brackets*: *Mietpreisbremse* (a federal cap on rent increases in tight housing markets).
+- *the term + a concise explanation in brackets*: *Mietpreisbremse* (a federal cap on rent increases in tight housing markets).
 - *the German label, italicised, on first mention only*; English on subsequent mentions.
 - *brief contextual sentence after the term* if a structural feature needs framing.
 
@@ -95,16 +138,15 @@ When a German term has no clean English equivalent, use:
 
 *to say, to explain, to claim, to argue, to assert, to maintain, to concede, to admit, to deny, to stress, to add, to point out, to note, to dismiss, to caution, to warn, to remark.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: behaupten → ?, einräumen → ?, betonen → ?, bestreiten → ?, anmerken → ?
-2. Cultural-note: build a 5-7 word English bracketed explanation for *Mietpreisbremse* and for *Bundesregierung*.
+2. Cultural-note: build a concise English bracketed explanation for *Mietpreisbremse* and for *Bundesregierung*.
 
 ### Niveau E — productive
 
-3. Build 6 reporting-verb sentences for the source above using 6 different verbs.
+3. Write one sentence reporting the supporters’ position and one reporting the critics’ position. Use a fitting reporting verb for each; do not add claims merely to increase the verb count.
 
 {{< callout type="tip" title="Answer key" collapse="true" >}}
 **Controlled.** 1. claim / concede / stress / deny / note.
@@ -113,92 +155,64 @@ When a German term has no clean English equivalent, use:
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
+## 4. Produce {#apply}
+**Concise mediation, 4–6 sentences.** Read the fictional passage above. Write for a Canadian housing researcher participating in the classroom simulation. Identify the scenario as fictional, preserve the two attributed viewpoints and explain the two German institutional terms briefly. Use reporting verbs where the source actually attributes a claim; do not add evidence or political predictions absent from the source.
 
-**Full mediation, 12 sentences.** Read the source above. Write 12 English sentences for a Canadian housing researcher. Preserve register + use 7 reporting verbs + 2 cultural-note brackets.
+### Sample — faithful to the fictional passage
 
-### Sample
+The fictional teaching passage presents the German *Mietpreisbremse*
+(a rent-control measure) as a contested intervention introduced in 2015.
+Supporters argue that rents in urban areas increase less quickly with it,
+while critics contend that it discourages new construction and reduces
+long-term supply. Within the invented scenario, the *Bundesregierung*
+(Germany's federal government) decided in May 2027 to extend the measure
+for six years. These are claims made by the classroom text, not verified
+information about current housing law.
 
-*The German federal *Mietpreisbremse* (a federal cap on rent increases in tight housing markets) was introduced in 2015 in response to pressure on the rental market. The article points out that the policy is now widely cited as a contested regulatory intervention. Supporters argue that rents in high-pressure metropolitan areas rise more slowly with the cap than they would without it. Critics counter that the cap dampens investment in new-build construction, which in their view tightens the long-term supply problem rather than easing it. The article notes the asymmetry: the rent-increase data is robust, while the new-build data is harder to isolate. The *Bundesregierung* (Germany's federal government) decided in May 2027 to extend the cap for six further years. The piece does not claim that the extension settles the argument. It maintains, however, that the cap is now politically embedded — any future government would face significant domestic costs in repealing it. The author cautions that international comparisons (e.g. Vienna's social-housing-heavy model) are not directly transferable. In short: a contested but durable policy, useful for comparative housing research without being a clean model.*
+**Source check.** The passage supplies no rent dataset, comparison with Vienna,
+or prediction about the political cost of repeal. A mediation must not invent
+those details. Compare every statement in your draft with the source before
+handing it to the addressee.
 
-## 5. Reflect
-
-- [ ] I can mediate a 350-word German feature into 12 English sentences.
+## 5. Reflect {#reflect}
+- [ ] I can mediate a short fictional German teaching passage into 4–6 English sentences.
 - [ ] I can preserve register and modal nuance.
-- [ ] I can use 7 reporting verbs and cultural-note brackets.
+- [ ] I can attribute the two viewpoints and explain the German terms without adding unsupported claims.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (full paper, 90 BE)" icon="false" >}}
-**Time.** 4 hours including 20 minutes of breaks (220 active
-minutes). **Total.** 90 BE.\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl11/units/unit07-mediation-as-a-skill-exam" >}}).
 
-### Part A — Comprehension (~24 BE)
-
-Listen twice.
-
-> "Die Mietpreisbremse wurde 2015 eingeführt. Befürworter sagen, dass die Mieten weniger schnell steigen. Kritikerinnen entgegnen, dass die Bremse Investitionen bremst. Die Bundesregierung hat im Mai 2027 die Verlängerung um sechs Jahre beschlossen."
-
-1. Year introduced: ___ . 2. Supporters' claim: ___ . 3. Critics' counter: ___ . 4. May-2027 decision: ___ .
-
-### Part B — Analysis (~18 BE)
-
-Read the German source above.
-
-1. Year introduced: ___ . 2. Supporters' claim: ___ . 3. Critics' counter: ___ . 4. Federal decision date and length: ___ .
-
-### Part C — Composition (~18 BE)
-
-**Match German verb → English reporting verb.**
-
-1. behaupten → ___ ; 2. entgegnen → ___ ; 3. betonen → ___ ; 4. bestreiten → ___ .
-
-### Mediation (~30 BE)
-
-Mediate: 12 English sentences from the source for a Canadian housing researcher. Use 7 reporting verbs + 2 cultural-note brackets.
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**T1.** 2015; rents rise more slowly with the cap; the cap dampens investment in new construction; extension by 6 years (May 2027).
-**T2.** 2015; rents in high-pressure metropolitan areas rise more slowly with the cap; the cap dampens new-build investment, tightening long-term supply; extended for 6 further years in May 2027.
-**T3.** claim / counter (or argue) / stress / deny.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 90 BE)" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 
 <div class="notes">
+**Scenario provenance.** The source and matching assessment use a deliberately
+fictional future-dated scenario. Keep this label in slides, learner sheets and
+teacher keys. Preserve source attribution and do not present the invented
+May 2027 decision as a real legal event. The previous expanded model contained
+unsupported additions; the current model removes those additions.
+
 **Slide deck timing.** 90 minutes total (Doppelstunde — typical
 in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
 · Practise 15 min · Produce 30 min · Reflect 6 min.
 
 **Differentiation — support (below Niveau E).**
 
-Sentence starters for your 12-sentence mediation — fill the gaps and reuse a different reporting verb each time:
+Sentence starters for your concise mediation — fill the gaps and reuse a different reporting verb each time:
 
 - The German *[German term]* (____ a short English explanation in brackets) was introduced in ____ to ____.
 - Supporters **argue** that ____, while critics **counter** that ____.
-- The article **points out** that ____, and it **stresses** that ____.
-- In May 2027 the *Bundesregierung* (____) decided to ____.
-- Overall, the piece **maintains** that the policy is ____, which matters for your research because ____.
+- The source supplies no evidence for ____, so I will not include that claim.
+- Within the invented scenario, the *Bundesregierung* (____) decided in May 2027 to ____.
+- This is a classroom scenario; current legal and empirical information would require separate verification.
 
 **Extension (above Niveau E / Oberstufe).**
 
-Extend the mediation into a 200-word comparative memo for the same Canadian researcher: weigh the German rent-cap approach against one regulated-rent model you research independently (for example Vienna's municipal housing or a Canadian provincial rent-control scheme), and argue in precise, hedged English whether the source's "contested but durable" verdict would hold in that second context. Foreground where the comparison breaks down, and make your own analytical claim rather than restating either position.
+Extend the mediation into a 200-word comparative memo for the same Canadian researcher: weigh the German rent-cap approach against one regulated-rent model you research independently (for example Vienna's municipal housing or a Canadian provincial rent-control scheme), and distinguish verified information from the fictional passage. The passage does not itself establish a "durable" verdict. Foreground where the comparison breaks down, and make your own analytical claim rather than restating either position.
 
 </div>
 

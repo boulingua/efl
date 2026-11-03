@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 4
 material_slug: "track-gm_kl05_unit04-school-day"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.1 Hör-/Hörsehverstehen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - listening
-  - speaking
-  - language_awareness
+- listening
+- speaking
+- language_awareness
 aliases:
-  - /track_gm_kl05/units/unit04_school-day.html
+- /track_gm_kl05/units/unit04_school-day.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl05_unit04-school-day.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl05_unit04-school-day.png"
@@ -34,13 +34,48 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.LING.orthographic-control.01
-    - A1.PROD.creative-writing.01
-    - A1.REC.reading-for-information-and-argument.02
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.INT.correspondence.03
+  - A1.LING.orthographic-control.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.reading-for-information-and-argument.02
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl05_unit04-school-day
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl05/units/unit04-school-day-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - listening
+  - speaking
+  - language_awareness
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-gm_kl05_unit04-school-day-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl05_unit04-school-day-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,12 +104,10 @@ curriculum:
 
 Mia's timetable is on the fridge. Monday: maths, German, English, sport, music. Theo's timetable is the same, but with Latin instead of music. Frida the fox cannot read the timetable. "Foxes don't go to school," she says. "We just go."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Two-minute timetable.** Write your Monday in 5 lines. Lesson 1, Lesson 2, Lesson 3, Lesson 4, break.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — school subjects
 
 *English, German, French, Maths, Biology, Physics, Chemistry, History, Geography, Music, Art, PE / Sport, Religion, Ethics.*
@@ -97,8 +130,7 @@ Add **-s** to verbs in he/she/it.
 
 Spelling traps: *go → goes*, *do → does*, *teach → teaches*, *study → studies*.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. I __________ (start) school at eight.
@@ -119,8 +151,7 @@ Spelling traps: *go → goes*, *do → does*, *teach → teaches*, *study → st
 **M.** 5. *It's half past eight.* 6. *It's quarter past nine.* 7. *It's quarter to eleven.* 8. *My brother has English on Tuesday.*
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair speaking — *My Day*.** With your partner, take turns. One asks *What time do you have …?*; the other answers. Cover four subjects.
 
 ### Sample
@@ -128,8 +159,7 @@ Spelling traps: *go → goes*, *do → does*, *teach → teaches*, *study → st
 *— What time do you have maths on Monday?*
 *— I have maths at quarter past eight.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 8 school subjects.
 - [ ] I can tell the time at the half hour.
 - [ ] I can use the present simple with -s.
@@ -137,59 +167,11 @@ Spelling traps: *go → goes*, *do → does*, *teach → teaches*, *study → st
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl05/units/unit04-school-day-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-The teacher reads aloud Mia's Monday twice.
-
-> "On Monday I start at eight. First I have maths. Then I have English. At ten o'clock we have a break. After the break we have sport."
-
-1. School starts at __________ . (eight / nine)
-2. The first lesson is __________ . (maths / German)
-3. The break is at __________ . (10:00 / 10:30)
-4. After the break: __________ .
-
-### Task 2 — Reading (8 BE)
-
-Read Theo's Tuesday and complete the table.
-
-> "On Tuesday I start at 8:15. I have music, German, English, and history."
-
-| Day | Start | Subjects |
-|-----|-------|----------|
-| Tuesday | ? | ? |
-
-### Task 3 — Use of English (8 BE)
-
-**Add -s where needed.**
-
-1. Mia __________ (start) at eight.
-2. We __________ (have) German.
-3. Theo __________ (do) Latin.
-4. They __________ (play) football.
-
-### Task 4 — Writing (6 BE)
-
-Write 4 sentences about your Monday: subjects, times, one thing you like.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** eight, maths, 10:00, sport.
-**T2.** Tuesday / 8:15 / music, German, English, history.
-**T3.** 1. starts, 2. have, 3. does, 4. play.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

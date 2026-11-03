@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 2
 material_slug: "track-gm_kl08_unit02-school-life-elsewhere"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.2 Interkulturelle kommunikative Kompetenz"
-  - "3.2.3.2 Leseverstehen"
-  - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.2 Interkulturelle kommunikative Kompetenz"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
 skills_focus:
-  - reading
-  - speaking
-  - intercultural
+- reading
+- speaking
+- intercultural
 aliases:
-  - /track_gm_kl08/units/unit02_school-life-elsewhere.html
+- /track_gm_kl08/units/unit02_school-life-elsewhere.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl08_unit02-school-life-elsewhere.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl08_unit02-school-life-elsewhere.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.conversation.06
-    - A2.PROD.sustained-monologue-giving-information.01
-    - A2.REC.overall-reading-comprehension.02
-    - A2.SOC.sociolinguistic-appropriateness.01
-    - A2.MED.overall-mediation.01
+  - A2.INT.conversation.06
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.REC.overall-reading-comprehension.02
+  - A2.SOC.sociolinguistic-appropriateness.01
+  - A2.MED.overall-mediation.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl08_unit02-school-life-elsewhere
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl08/units/unit02-school-life-elsewhere-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - speaking
+  - intercultural
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl08_unit02-school-life-elsewhere-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl08_unit02-school-life-elsewhere-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,12 +105,10 @@ curriculum:
 
 Mr. Ade pinned three printed e-mails to the noticeboard. One from a school in Lagos. One from a school in Helsinki. One from a school in São Paulo. Three students were assigned to read them and report back. Hawa read all three twice before lunch.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Predict.** Slide shows three flags. With your partner, predict three differences each school might have from yours.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — three short pen-pal extracts
 
 *Lagos.* In our school, lessons are taught in English, but we speak Yoruba and Igbo with friends. Uniform is compulsory. Lunch is brought from home.
@@ -93,8 +127,7 @@ Form: *to be* (in tense) + past participle.
 
 Use the passive when *who* does the action is obvious or unimportant.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Active → passive: They teach lessons in English. → ___ ; The school provides lunch. → ___ ; Teachers give homework. → ___ .
@@ -111,8 +144,7 @@ Use the passive when *who* does the action is obvious or unimportant.
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair speaking — *Compare three schools*.** 2 min each. Use 3 passive structures + one comparison. Report back to the class with one *I learned that …* sentence.
 
 ### Sample
@@ -120,62 +152,18 @@ Use the passive when *who* does the action is obvious or unimportant.
 *— In Helsinki, lunch is provided free at school, while in São Paulo lunch is bought at a canteen.*
 *— Yes, and homework is given more in São Paulo than in Helsinki.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can read three pen-pal texts and compare them.
 - [ ] I can build present passive sentences.
 - [ ] I can run a 2-minute compare-and-contrast conversation.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl08/units/unit02-school-life-elsewhere-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "In Finland, lunch is provided free for every student. Homework is given lightly. Children go outside every hour, even in cold weather. Tests are fewer than in many other countries."
-
-1. Lunch: ___ . 2. Homework: ___ . 3. Outside: ___ . 4. Tests: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read.
-
-> "In our Lagos school, lessons are taught in English, but English is most students' second language. Uniform is compulsory and is checked every morning. Lunch is brought from home in metal containers."
-
-1. Lesson language: ___ . 2. First language? ___ . 3. Uniform: ___ . 4. Lunch: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Active → passive.**
-
-1. They teach English from age 5. → ___
-2. The school provides lunch. → ___
-3. Teachers set homework every day. → ___
-4. Students wear uniform. → ___
-
-### Task 4 — Writing (13 BE)
-
-Write 100 words comparing your school with one of the three pen-pal schools. Use 4 passive structures.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** provided free, given lightly, every hour, fewer.
-**T2.** English, no — second language for most, compulsory + checked, brought from home in metal containers.
-**T3.** *English is taught from age 5. Lunch is provided by the school. Homework is set every day. Uniform is worn.*
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

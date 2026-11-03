@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 11
 material_slug: "track-gm_kl05_unit11-clothes-and-colours"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - speaking
-  - writing
-  - language_awareness
+- speaking
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl05/units/unit11_clothes-and-colours.html
+- /track_gm_kl05/units/unit11_clothes-and-colours.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl05_unit11-clothes-and-colours.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl05_unit11-clothes-and-colours.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.information-exchange.02
-    - A1.LING.phonological-control.01
-    - A1.PROD.creative-writing.02
-    - A1.INT.correspondence.01
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.INT.information-exchange.02
+  - A1.LING.phonological-control.01
+  - A1.PROD.creative-writing.02
+  - A1.INT.correspondence.01
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl05_unit11-clothes-and-colours
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl05/units/unit11-clothes-and-colours-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl05_unit11-clothes-and-colours-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl05_unit11-clothes-and-colours-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,12 +105,10 @@ curriculum:
 
 Theo cannot find his blue jumper. "It was here this morning," he says. "It is not here now." Frida steps out of the wardrobe wearing a small blue jumper that fits her surprisingly well. "Foxes get cold," she says. "This is excellent fox fashion."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Colour shout.** The teacher points at items in the room; class shouts the colour.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — clothes and colours
 
 *Clothes:* T-shirt, shirt, jumper, jacket, coat, trousers, jeans, skirt, dress, shoes, socks, boots, hat, scarf.
@@ -91,8 +125,7 @@ Theo cannot find his blue jumper. "It was here this morning," he says. "It is no
 - *the same colour as*: *My T-shirt is the same colour as your hat.*
 - *bigger / smaller than*: *His shoes are bigger than mine.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Mia __________ (wear) a green jacket.
@@ -113,8 +146,7 @@ Theo cannot find his blue jumper. "It was here this morning," he says. "It is no
 6. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Description game.** In pairs, A closes their eyes; B describes a third classmate's outfit. A guesses who.
 
 ### Sample
@@ -122,8 +154,7 @@ Theo cannot find his blue jumper. "It was here this morning," he says. "It is no
 *— She is wearing a red T-shirt and black jeans. Her shoes are white.*
 *— Lina!*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 10 clothes and 8 colours.
 - [ ] I can use present continuous for outfits.
 - [ ] I can compare two items using *the same colour as* or *bigger than*.
@@ -131,53 +162,11 @@ Theo cannot find his blue jumper. "It was here this morning," he says. "It is no
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl05/units/unit11-clothes-and-colours-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "Mia is wearing a yellow jumper, blue jeans, and white trainers. Theo is wearing a green T-shirt, black shorts, and brown sandals."
-
-1. Mia: jumper colour ___ , 2. Mia: shoes ___ , 3. Theo: T-shirt colour ___ , 4. Theo: shoes ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "Today is a school trip day. We must wear comfortable shoes, a warm jumper, and a rain jacket. No skirts, no flip-flops."
-
-1. Wear ___ shoes. 2. Wear a warm ___ . 3. Bring a ___ . 4. Don't wear ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Build the present continuous.**
-
-1. (I / wear / blue / jeans) → ___
-2. (Mia / wear / red / dress) → ___
-3. (we / wear / school / uniform) → ___
-
-### Task 4 — Writing (6 BE)
-
-Describe what three classmates are wearing today (3–4 sentences each — total 9–12 sentences). Use present continuous.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** yellow, white trainers, green, brown sandals.
-**T2.** comfortable, jumper, rain jacket, skirts / flip-flops.
-**T3.** 1. *I am wearing blue jeans.* 2. *Mia is wearing a red dress.* 3. *We are wearing school uniform.*
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

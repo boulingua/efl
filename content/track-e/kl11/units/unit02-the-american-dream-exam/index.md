@@ -61,7 +61,7 @@ Read the three extracts above.
 
 Write 280 words: an essay paragraph holding two readings of the Dream in tension. Use 1 cleft + 1 inversion + 3 markers.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **T1.** *pursuit of Happiness*; *life should be better and richer and fuller for everyone*; outlived its statistical basis (since 1980s); comparable Western Europe.
 **T2.** Declaration of Independence; James Truslow Adams, *The Epic of America*; intergenerational mobility lower than W. Europe; *pursuit of Happiness* (rights) → outcomes-language (1931) → statistical critique (2024).
 **T3.** *It is the 1931 phrase that we usually mean. Not until 1931 was the phrase coined. It is the 2024 critique that questions the statistical basis. Only after 1945 did the Dream become a mass image.*

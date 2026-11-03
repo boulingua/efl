@@ -9,17 +9,17 @@ track: "e"
 unit_nr: 7
 material_slug: "track-e_kl06_unit07-an-adventure-story"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
-  - "3.1.4 Text- und Medienkompetenz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.2 Leseverstehen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.1.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl06/units/unit07_an-adventure-story.html
+- /track_e_kl06/units/unit07_an-adventure-story.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl06_unit07-an-adventure-story.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl06_unit07-an-adventure-story.png"
@@ -35,13 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.LING.phonological-control.01
-    - A1.PROD.creative-writing.01
-    - A1.REC.understanding-conversation-between-other-people.02
-    - A1.REC.identifying-cues-and-inferring.01
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.LING.phonological-control.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.understanding-conversation-between-other-people.02
+  - A1.REC.identifying-cues-and-inferring.01
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl06_unit07-an-adventure-story
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl06/units/unit07-an-adventure-story-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl06_unit07-an-adventure-story-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl06_unit07-an-adventure-story-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -71,12 +107,10 @@ curriculum:
 
 Sam found an old envelope behind the bookshelf. The paper was thick and yellow. Inside there was one page, half a map, and the signature *Captain Cody — 1782*. The map showed an island that did not appear on any modern atlas. Sam decided not to mention it to anyone. Yet.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Story openers.** Three first lines from three stories on the slide. With your partner, predict what kind of story will follow each.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — *Captain Cody's Letter* (extract 1)
 
 *Dear traveller. If you are reading this, the envelope has waited a long time. The map is incomplete. The other half is hidden in a place where books and silence keep each other company. Bring courage. Bring biscuits. Don't bring a phone — it spoils the mood. Yours, Cody.*
@@ -91,8 +125,7 @@ Sam found an old envelope behind the bookshelf. The paper was thick and yellow. 
 
 Form: *was/were + -ing*.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Past continuous: I __________ (read). Sam __________ (walk) home. They __________ (look) at the map.
@@ -109,70 +142,25 @@ Form: *was/were + -ing*.
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Story continuation.** Write 100 words continuing *Captain Cody's Letter*. What happens next? Stay in past simple. Use one *while* and one *when*.
 
 ### Sample
 
 *Sam folded the half-map and put it under his pillow. While he was eating dinner, he kept thinking about the place 'where books and silence keep each other company'. The library, of course. When he arrived the next afternoon, the librarian was placing a stack of books on a low shelf. "Are you looking for something old?" she asked. Sam swallowed. "Yes," he said. "Very old." The librarian nodded slowly, as if she had been waiting for this exact question for years.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify setting, characters, plot in a short story.
 - [ ] I can use past simple and past continuous together.
 - [ ] I can write a 100-word continuation.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl06/units/unit07-an-adventure-story-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice to the start of a story.
-
-> "Sam was reading in the library when the lights suddenly went out. While he was waiting in the dark, he heard a quiet sound. Someone was opening the door very slowly."
-
-1. Where was Sam: ___ . 2. What happened: ___ . 3. While waiting: ___ . 4. Door: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "Lina found a small key in her grandmother's drawer. While she was studying it, the light caught the metal in a strange way. When she turned the key in her hand, she noticed letters carved on the side."
-
-1. Where: ___ . 2. While studying: ___ . 3. When she turned: ___ . 4. The key was: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Past simple or past continuous?**
-
-1. While Lina __________ (study), the lights went out.
-2. When the lights __________ (go) out, she screamed.
-3. They __________ (read) when the bell rang.
-4. He __________ (find) a key while he __________ (clean) his desk.
-
-### Task 4 — Writing (6 BE)
-
-Write 100 words continuing the story 'Lina's key'. Use *while* and *when* once each.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** library; lights went out; heard quiet sound; opening slowly.
-**T2.** grandmother's drawer; light caught metal; noticed letters; small / carved.
-**T3.** 1. was studying, 2. went, 3. were reading, 4. found / was cleaning.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

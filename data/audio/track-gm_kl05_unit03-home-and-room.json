@@ -1,0 +1,13 @@
+[
+  {
+    "label": "Vocabulary 1",
+    "transcript": "bedroom · kitchen · living room · bathroom · bed · desk · chair · window · door · poster · shelf · lamp",
+    "file": "/efl/materials/audio/unit03-home-and-room/vocab1.ogg",
+    "tts": "bedroom.\nkitchen.\nliving room.\nbathroom.\nbed.\ndesk.\nchair.\nwindow.\ndoor.\nposter.\nshelf.\nlamp."
+  },
+  {
+    "label": "Text 1",
+    "transcript": "\"In my room there is a bed and a desk. There are two windows. The cat is under the bed. There is a green plant on the desk.\"",
+    "file": "/efl/materials/audio/unit03-home-and-room/texte1.ogg"
+  }
+]

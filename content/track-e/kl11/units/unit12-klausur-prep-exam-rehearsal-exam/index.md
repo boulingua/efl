@@ -61,7 +61,7 @@ Read the *Klausur structure* and *Time-management* blocks above.
 
 Complete a full 90-BE Klausur rehearsal under timed conditions. Submit with a 200-word self-reflection on time management.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **T1.** 90; Mediation (30); 4 hours (incl. 20 min breaks); 60 %.
 **T2.** 24; 30; 50 min; *half a finished answer beats a perfect unfinished one*.
 **T3.** ~23 % (50 / 220); ~18 % (40 / 220); 15 min; move on / cut losses.

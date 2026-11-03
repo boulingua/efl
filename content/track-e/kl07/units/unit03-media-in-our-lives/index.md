@@ -9,18 +9,18 @@ track: "e"
 unit_nr: 3
 material_slug: "track-e_kl07_unit03-media-in-our-lives"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.1 Hör-/Hörsehverstehen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
-  - "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
-  - "3.2.4 Text- und Medienkompetenz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.1 Hör-/Hörsehverstehen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.2.4 Text- und Medienkompetenz"
 skills_focus:
-  - listening
-  - writing
-  - language_awareness
+- listening
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl07/units/unit03_media-in-our-lives.html
+- /track_e_kl07/units/unit03_media-in-our-lives.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl07_unit03-media-in-our-lives.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl07_unit03-media-in-our-lives.png"
@@ -36,13 +36,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.LING.general-linguistic-range.02
-    - A2.PROD.creative-writing.02
-    - A2.REC.overall-reading-comprehension.02
-    - A2.MED.overall-mediation.02
-    - A2.MED.processing-text.07
+  - A2.LING.general-linguistic-range.02
+  - A2.PROD.creative-writing.02
+  - A2.REC.overall-reading-comprehension.02
+  - A2.MED.overall-mediation.02
+  - A2.MED.processing-text.07
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl07_unit03-media-in-our-lives
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl07/units/unit03-media-in-our-lives-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 60
+  skills:
+  - listening
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl07_unit03-media-in-our-lives-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl07_unit03-media-in-our-lives-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -89,8 +125,7 @@ choose, not the kind you escape. She read aloud to her cat,
 because the cat did not check her grammar. Ben said, "I could not
 do that," and Aisha said, "I almost couldn't either."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **One-minute survey.** In your notebook write three numbers:
 
 - *Hours of screen time yesterday (your guess).*
@@ -104,8 +139,7 @@ This is a noticing task, not a confession. The point is to make
 the topic concrete before any vocabulary or grammar arrives.
 {{< /callout >}}
 
-## 2. Input
-
+## 2. Input {#input}
 ### Listening dialogue — *Three Screens*
 
 The teacher reads aloud. Listen with closed books.
@@ -169,8 +203,7 @@ When you tell someone what another person asked, use:
 
 The to-infinitive does not change with tense or person.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G — controlled
 
 **A. for or since?**
@@ -218,8 +251,7 @@ B. 1–b, 2–d, 3–a, 4–c.
 9. … not to read her messages.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Writing task — *One Week, One Change*.** Write a short text
 proposing one change to your media habits for **one week only**.
 Cover three points:
@@ -253,8 +285,7 @@ substitute (*read ten pages, walk the dog*), a self-aware closer
 *so* or *because* once.
 {{< /callout >}}
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 Tick what you can do now.
 
 - [ ] I can pick out what someone changed in their media habits
@@ -266,114 +297,11 @@ Tick what you can do now.
 **One sentence in your notebook:** *What is one media habit I am
 curious to try changing — even just for two days?*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Materials allowed.** A monolingual dictionary (Niveau M only).\
-**Time.** 45 minutes.\
-**Total.** 60 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl07/units/unit03-media-in-our-lives-exam" >}}).
 
-### Task 1 — Listening (15 BE)
-
-The teacher reads the dialogue *Three Screens* aloud twice. Answer
-in full sentences.
-
-> **Aisha.** I tried something this week. No phone after dinner.
-> Just for one week.\
-> **Ben.** Just for one week? That sounds impossible.\
-> **Aisha.** It was hard for two days. After that, it was kind
-> of nice. The kitchen got quieter, but my room got louder
-> because I started reading aloud to my cat.\
-> **Ben.** You read to your cat?\
-> **Aisha.** She listens. She's a better audience than my
-> brother.\
-> **Ms. Reyes.** What did you do with the time you would have
-> spent on the phone?\
-> **Aisha.** I made dinner once. I drew badly. I went to bed
-> earlier. The earlier bed was the biggest change.
-
-1. What did Aisha decide not to do for one week? (2)
-2. How long was it hard? (2)
-3. Why did her room get louder? (3)
-4. What three things did Aisha do with her free time? (4)
-5. Which of the changes was the biggest, and why might that be? (4)
-
-### Task 2 — Use of English (15 BE)
-
-**A. Present perfect with *for* / *since* (8 BE).** Fill in.
-
-1. I have not used my phone __________ three days.
-2. Aisha has read to her cat __________ Monday.
-3. Ben has played that game __________ his birthday.
-4. We have known Ms. Reyes __________ September.
-
-**B. Reported requests (7 BE).** Rewrite using *asked* + to-infinitive
-or *not to*.
-
-5. "Please put your phones in the box," said Ms. Reyes. → Ms. Reyes
-   asked us ___ .
-6. "Don't post that picture without me," said Aisha. → Aisha asked
-   Ben ___ .
-7. "Please be careful with my charger," said Ben. → Ben asked his
-   sister ___ .
-
-### Task 3 — Mediation (10 BE)
-
-Your German aunt forwards you this short Elternbrief from school:
-
-> "Liebe Eltern, ab nächster Woche bitten wir Sie, dass Ihre
-> Kinder ihre Handys morgens am Schultor in einer Box abgeben.
-> Die Box wird verschlossen und nach Schulschluss zurückgegeben."
-
-Write **three sentences in English** to your English-speaking
-exchange partner explaining what the new school rule is. Do
-**not** translate every word.
-
-### Task 4 — Writing (20 BE)
-
-Write 100–120 words about **one media habit you would like to
-change** for one week. What would you stop or limit, what would
-you do instead, and what do you think will happen? Use *would* and
-*will* at least once each, and the present perfect at least once.
-
-{{< callout type="tip" title="Expected answer key — class test (\"Klassenarbeit\")" collapse="true" >}}
-**Task 1 (15 BE).**\
-1. She decided not to use her phone after dinner. (2)
-2. It was hard for two days. (2)
-3. Because she started reading aloud to her cat. (3)
-4. She made dinner once, drew badly, and went to bed earlier. (4)
-5. Sample: *The earlier bed was the biggest change because sleep
-   affects everything else — mood, school, focus.* (4 — accept any
-   reasoned answer.)
-
-**Task 2 (15 BE).**\
-A. 1. for, 2. since, 3. since, 4. since.\
-B. 5. … to put our phones in the box.
-   6. … not to post that picture without her.
-   7. … to be careful with his charger.
-
-**Task 3 (10 BE).** Sample: *"Starting next week, our school is
-asking us to leave our phones in a box at the school gate every
-morning. The box gets locked. We get the phones back after the
-last lesson."* Award for: gist (4), addressee-fit (2), correct
-present simple/passive (4).
-
-**Task 4 (20 BE).** Inhalt 10 / Sprache 10. See per-Unit rubric.
-{{< /callout >}}
-
-{{< callout type="tip" title="Rubric — grading scale (Notenschlüssel)" collapse="true" >}}
-| Punkte (von 60) | Note |
-|-----------------|------|
-| 56–60 | 1 |
-| 49–55 | 2 |
-| 40–48 | 3 |
-| 30–39 | 4 |
-| 18–29 | 5 |
-| 0–17  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

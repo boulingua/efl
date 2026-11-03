@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 1
 material_slug: "track-gm_kl10_unit01-transition-after-grade-10"
 bildungsplan:
-  - "3.3.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.3.3.2 Leseverstehen"
-  - "3.3.3.5 Schreiben"
-  - "3.3.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.3.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.3.3.2 Leseverstehen"
+- "3.3.3.5 Schreiben"
+- "3.3.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl10/units/unit01_transition-after-grade-10.html
+- /track_gm_kl10/units/unit01_transition-after-grade-10.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl10_unit01-transition-after-grade-10.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl10_unit01-transition-after-grade-10.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B1
   implements:
-    - B1.LING.general-linguistic-range.02
-    - B1.PROD.planning.03
-    - B1.REC.identifying-cues-and-inferring.07
-    - B1.LING.vocabulary-control.01
-    - B1.PLUR.plurilingual-comprehension.02
+  - B1.LING.general-linguistic-range.02
+  - B1.PROD.planning.03
+  - B1.REC.identifying-cues-and-inferring.07
+  - B1.LING.vocabulary-control.01
+  - B1.PLUR.plurilingual-comprehension.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl10_unit01-transition-after-grade-10
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl10/units/unit01-transition-after-grade-10-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl10_unit01-transition-after-grade-10-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl10_unit01-transition-after-grade-10-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,12 +105,10 @@ curriculum:
 
 Sam, who is back after a year abroad with his cousins, is sitting in the Klasse 10 corridor. He is reconsidering everything. Maja, who is more decisive on principle, has already chosen an apprenticeship — though she keeps reading Berufsbildung pamphlets just in case. Mr. Yilmaz says, *every Klasse 10 corridor has at least one person re-reading a leaflet they have already memorised*.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Three-path scan.** In your notebook write three post-Klasse-10 paths you might consider. Mark each as *serious / curious / not for me*.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — transition
 
 *apprenticeship, vocational training (Berufsausbildung), FOS/BOS (Fachoberschule / Berufsoberschule), gap year, internship, certificate, application, deadline, shortlist, interview, on-the-job training, dual system, employer reference.*
@@ -92,8 +126,7 @@ Form: *If* + past perfect, *would have* + past participle.
 - *If she had not taken the gap year, she wouldn't have met that mentor.*
 - *I wouldn't have decided so fast if I had known.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Build the third conditional: *(if / I / apply / earlier / I / get / a place)* → ___ .
@@ -110,70 +143,25 @@ Form: *If* + past perfect, *would have* + past participle.
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Reflection, 150 words.** Write about a decision you are facing or a past one. Use 2 third conditionals + 1 second conditional + 1 *despite/because of*.
 
 ### Sample
 
 *If I had been more open in Klasse 8, I would have applied to more apprenticeships. I wasn't, so I am now reading every leaflet twice. Despite the pressure of deciding, I think the right path is the FOS — partly because I want a longer track, partly because I am curious. If I were absolutely sure today, I would probably worry less. But if I had waited another six months for certainty, I would have missed the deadline. Imperfect decisions, made on time, are still real decisions. That is what I am telling myself this week.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify three post-Klasse-10 paths.
 - [ ] I can use the third conditional with reason.
 - [ ] I can write a 150-word reflection on a decision.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl10/units/unit01-transition-after-grade-10-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "Three students from Maja's class chose three different paths. Lukas signed an apprenticeship contract. Lina applied to the FOS. Adam took a gap year and wrote that working as a forest ranger had changed his sense of time."
-
-1. Lukas: ___ . 2. Lina: ___ . 3. Adam: ___ . 4. Adam's discovery: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read.
-
-> "If Maja had applied to the FOS in November, she would already have a place. She didn't, partly because her family wanted her to consider the apprenticeship first. She is now waiting for the second-round response and reading every leaflet twice."
-
-1. November application: ___ . 2. Reason for delay: ___ . 3. Now waiting for: ___ . 4. Coping mechanism: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Build third conditional or second conditional.**
-
-1. *(third)* If Maja __________ (apply) earlier, she __________ (get) a place.
-2. *(second)* If I __________ (be) more decisive, life __________ (be) easier.
-3. *(third)* I __________ (not / regret) the gap year if I __________ (plan) it better.
-4. *(third)* They __________ (find) it earlier if they __________ (look) carefully.
-
-### Task 4 — Writing (13 BE)
-
-Write 150 words: a reflection on a real or imagined decision. Use 2 third conditionals + 1 second conditional.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** apprenticeship contract; applied to FOS; took a gap year; working as a forest ranger changed his sense of time.
-**T2.** would already have a place; family wanted her to consider apprenticeship; second-round response; reading every leaflet twice.
-**T3.** had applied / would have got; were / would be; wouldn't have regretted / had planned; would have found / had looked.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

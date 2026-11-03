@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 3
 material_slug: "track-e_kl06_unit03-in-the-city"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.2 Leseverstehen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - reading
-  - speaking
-  - language_awareness
+- reading
+- speaking
+- language_awareness
 aliases:
-  - /track_e_kl06/units/unit03_in-the-city.html
+- /track_e_kl06/units/unit03_in-the-city.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl06_unit03-in-the-city.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl06_unit03-in-the-city.png"
@@ -34,13 +34,48 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.information-exchange.02
-    - A1.LING.phonological-control.01
-    - A1.PROD.creative-writing.01
-    - A1.REC.understanding-announcements-and-instructions.02
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.INT.information-exchange.02
+  - A1.LING.phonological-control.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.understanding-announcements-and-instructions.02
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl06_unit03-in-the-city
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl06/units/unit03-in-the-city-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - reading
+  - speaking
+  - language_awareness
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-e_kl06_unit03-in-the-city-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl06_unit03-in-the-city-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,12 +104,10 @@ curriculum:
 
 Sam and Lina meet at the fountain in the market square. The square smells of fresh bread and yesterday's rain. They have one hour before the bus and a list of three errands: the bookshop (a thank-you card), the post office (one stamp, one parcel), and a small bakery that supposedly sells the best apple pastry in town. They argue, briefly, about which to do first.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **City map sketch.** Quick-draw your home street and four places nearby. Label them in English. Pair with a neighbour and quiz each other in *Where is …?*
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — places + services
 
 *supermarket → groceries; bakery → bread + pastries; butcher → meat; post office → stamps + parcels; library → books + study spaces; pharmacy → medicine; town hall → official paperwork; cinema → films; museum → exhibitions; sports centre → swimming + football; bus stop → buses; train station → trains; playground → for younger children; bookshop → books to buy; cafe → tea + cake.*
@@ -88,8 +121,7 @@ Sam and Lina meet at the fountain in the market square. The square smells of fre
 - *It's on your left, opposite the post office.*
 - *Is it far?* — *About five minutes on foot.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match place to service.
@@ -106,70 +138,25 @@ Sam and Lina meet at the fountain in the market square. The square smells of fre
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair role-play — *Lost Tourist*.** Two minutes. One asks for three places; the other gives multi-step directions. Swap. At the end of each turn, the *tourist* repeats the directions back to verify (active listening).
 
 ### Sample
 
 *— Excuse me, how do I get to the bookshop?* — *Go straight on for two minutes. At the lights, turn right. Take the second turning on the left. The bookshop is opposite the cafe.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 14 places in town.
 - [ ] I can give 4-step directions clearly.
 - [ ] I can describe my favourite local place in 5 sentences.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl06/units/unit03-in-the-city-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "Excuse me, how do I get to the train station? Walk straight on for three minutes. Then turn left at the church. The station is on your right, opposite a small cafe."
-
-1. Place: ___ . 2. Walk for: ___ . 3. Turn at: ___ . 4. Station is opposite: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "My favourite place in town is the small bakery next to the library. They open at 6 a.m. and the bread is still warm. The owner knows everyone's name and remembers everyone's favourite pastry."
-
-1. Where: ___ . 2. Open at: ___ . 3. Bread: ___ . 4. Owner remembers: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in the right preposition.**
-
-1. The library is ___ the bookshop. (next to)
-2. The bank is ___ the church. (opposite)
-3. The cafe is ___ the corner. (on)
-4. Walk ___ on. (straight)
-
-### Task 4 — Writing (6 BE)
-
-Write 6 sentences describing a path from your school to your favourite local place. Use 4 direction phrases.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** train station, 3 minutes, the church, a small cafe.
-**T2.** next to library, 6 a.m., still warm, everyone's favourite pastry.
-**T3.** next to / opposite / on / straight.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

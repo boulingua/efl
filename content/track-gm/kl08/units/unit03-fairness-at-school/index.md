@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 3
 material_slug: "track-gm_kl08_unit03-fairness-at-school"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - speaking
-  - writing
-  - language_awareness
+- speaking
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl08/units/unit03_fairness-at-school.html
+- /track_gm_kl08/units/unit03_fairness-at-school.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl08_unit03-fairness-at-school.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl08_unit03-fairness-at-school.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.correspondence.04
-    - A2.LING.grammatical-accuracy.01
-    - A2.PROD.sustained-monologue-putting-a-case.01
-    - A2.LING.orthographic-control.01
-    - A2.PRAG.coherence-and-cohesion.01
+  - A2.INT.correspondence.04
+  - A2.LING.grammatical-accuracy.01
+  - A2.PROD.sustained-monologue-putting-a-case.01
+  - A2.LING.orthographic-control.01
+  - A2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl08_unit03-fairness-at-school
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl08/units/unit03-fairness-at-school-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - speaking
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl08_unit03-fairness-at-school-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl08_unit03-fairness-at-school-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,12 +105,10 @@ curriculum:
 
 Jonas's class is voting on a new rule: *no phones at lunch*. Half the class is for it. The other half thinks it is mostly aimed at one group of students who happen to be loud anyway. Hawa says, "If I were the headteacher, I would ask why we are voting on phones and not on actual fairness."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Two-minute scan.** On the slide are five school rules. With your partner, mark each one as *fair / unfair / depends*.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — fairness
 
 *rule, rights, equal, equality, privilege, discrimination, exception, vote, debate, agree, disagree, valid, biased, neutral, inclusive.*
@@ -95,8 +129,7 @@ Structure: *If* + past simple, *would* + base verb.
 - *However, I see the point of the original idea.*
 - *On the other hand, fairness has limits.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Fill in second conditional: If I __________ (be) the headteacher, I __________ (change) the rule.
@@ -113,8 +146,7 @@ Structure: *If* + past simple, *would* + base verb.
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Mini-debate.** Two teams of 4. The motion: *This class would replace the no-phones rule with a no-loud-phones rule.* Each speaker uses one second conditional + one contrast connective. Two minutes per side.
 
 ### Sample
@@ -122,62 +154,18 @@ Structure: *If* + past simple, *would* + base verb.
 *— If we replaced the rule, we would still have quiet lunch tables. However, some people just wouldn't follow it.*
 *— On the other hand, the current rule punishes everyone for the loudness of a few.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can argue a school-fairness point in 5 sentences.
 - [ ] I can use the second conditional in writing.
 - [ ] I can use 3 connectives of contrast.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl08/units/unit03-fairness-at-school-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "If I were the headteacher, I would replace the no-phones rule with a no-loud-phones rule. I think it would be fairer. Although some students would still break it, most wouldn't. On the other hand, enforcing it would still be tricky."
-
-1. Speaker would replace: ___ . 2. With: ___ . 3. Most students would: ___ . 4. Tricky part: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read.
-
-> "In an interview, the head pupil said: 'If we had more student representation on the rule committee, fewer rules would feel unfair. However, I understand that adults don't always want students to vote on everything.'"
-
-1. What would help: ___ . 2. Result: ___ . 3. Adults: ___ . 4. *However* introduces: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Build the second conditional.**
-
-1. If I __________ (be) headteacher, I __________ (change) the rule.
-2. If we __________ (vote), the result __________ (be) close.
-3. I __________ (not / ban) phones if I __________ (have) to enforce it.
-4. Although the rule __________ (be) clear, it __________ (not / be) fair.
-
-### Task 4 — Writing (13 BE)
-
-Write 120 words: one school rule you would change. Use 2 second conditionals + 2 contrast connectives.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** no-phones rule, no-loud-phones rule, wouldn't break, enforcing.
-**T2.** more student representation, fewer rules feel unfair, don't always want students to vote, contrast.
-**T3.** were / would change; voted / would be; wouldn't ban / had; is / is not (or *isn't*).
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

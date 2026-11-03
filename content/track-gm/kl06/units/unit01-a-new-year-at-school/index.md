@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 1
 material_slug: "track-gm_kl06_unit01-a-new-year-at-school"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - speaking
-  - writing
-  - language_awareness
+- speaking
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl06/units/unit01_a-new-year-at-school.html
+- /track_gm_kl06/units/unit01_a-new-year-at-school.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl06_unit01-a-new-year-at-school.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl06_unit01-a-new-year-at-school.png"
@@ -34,13 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.information-exchange.02
-    - A1.LING.general-linguistic-range.01
-    - A1.PROD.creative-writing.02
-    - A1.INT.conversation.02
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.INT.information-exchange.02
+  - A1.LING.general-linguistic-range.01
+  - A1.PROD.creative-writing.02
+  - A1.INT.conversation.02
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl06_unit01-a-new-year-at-school
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl06/units/unit01-a-new-year-at-school-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl06_unit01-a-new-year-at-school-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl06_unit01-a-new-year-at-school-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -69,12 +105,10 @@ curriculum:
 
 Sam stands in the corridor of the new building. Klasse 6 has a different floor. Bigger lockers. A real chemistry room with real bunsen burners. Lina finds Sam. "Same class, different planet," she says. Mr. Flint walks past with a tray of test tubes. "Welcome back," he says, without slowing down.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Two-truth check.** Tell your partner two true things and one slightly invented thing about your summer. Partner guesses which is invented.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — secondary school
 
 *lockers, the chemistry lab, the staff room, the headteacher's office, period (= Stunde), break time, free period, homework diary, blazer (BrE), uniform.*
@@ -87,8 +121,7 @@ Adverbs (*always, usually, often, sometimes, rarely, never*) sit **before** the 
 - *She is sometimes late.*
 - *We never have biology on Friday.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Place the adverb. *(always)* I __________ have English on Tuesday. *(often)* Lina __________ is late. *(never)* They __________ play chess.
@@ -104,8 +137,7 @@ Adverbs (*always, usually, often, sometimes, rarely, never*) sit **before** the 
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair speaking — *My Week*.** 90 seconds each direction. Partner asks at least one *Do you …?* question and one *How often …?* question.
 
 ### Sample
@@ -113,62 +145,18 @@ Adverbs (*always, usually, often, sometimes, rarely, never*) sit **before** the 
 *— How often do you have biology?*
 *— I usually have biology twice a week, but on the second week of every month we sometimes have a long lab.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can place frequency adverbs correctly.
 - [ ] I can describe my Klasse-6 timetable in 5 sentences.
 - [ ] I can ask *How often …?*
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl06/units/unit01-a-new-year-at-school-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "In Klasse 6 we have biology twice a week, music once a week, and PE on Friday afternoon. We never have homework on Wednesday. Lunch is always at 12:30."
-
-1. Biology: ___ . 2. PE: ___ . 3. No homework: ___ . 4. Lunch time: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "Sam usually walks to school. Sometimes he takes the bus when it rains. He never gets a lift from his parents. He often arrives ten minutes early to talk to Lina."
-
-T or F: 1. Sam usually walks. 2. He always takes the bus. 3. He never gets a lift. 4. He often arrives early.
-
-### Task 3 — Use of English (8 BE)
-
-**Place the adverb.**
-
-1. *(always)* I ___ have music on Monday.
-2. *(usually)* She ___ is on time.
-3. *(never)* They ___ play tennis.
-4. *(sometimes)* We ___ have a free period.
-
-### Task 4 — Writing (6 BE)
-
-Write 5–6 sentences about your school week using 4 different frequency adverbs.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** twice a week, Friday afternoon, Wednesday, 12:30.
-**T2.** T, F, T, T.
-**T3.** 1. always have, 2. is usually, 3. never play, 4. sometimes have.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

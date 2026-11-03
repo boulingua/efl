@@ -9,17 +9,17 @@ track: "e"
 unit_nr: 10
 material_slug: "track-e_kl05_unit10-a-day-in-london"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.2 Interkulturelle kommunikative Kompetenz"
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.4 Text- und Medienkompetenz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.2 Interkulturelle kommunikative Kompetenz"
+- "3.1.3.1 Hör-/Hörsehverstehen"
+- "3.1.3.2 Leseverstehen"
+- "3.1.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - listening
-  - intercultural
+- reading
+- listening
+- intercultural
 aliases:
-  - /track_e_kl05/units/unit10_a-day-in-london.html
+- /track_e_kl05/units/unit10_a-day-in-london.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl05_unit10-a-day-in-london.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl05_unit10-a-day-in-london.png"
@@ -35,13 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.REC.reading-instructions.01
-    - A1.SOC.sociolinguistic-appropriateness.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.INT.correspondence.01
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.REC.reading-instructions.01
+  - A1.SOC.sociolinguistic-appropriateness.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.INT.correspondence.01
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl05_unit10-a-day-in-london
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl05/units/unit10-a-day-in-london-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - reading
+  - listening
+  - intercultural
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl05_unit10-a-day-in-london-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl05_unit10-a-day-in-london-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -71,12 +107,10 @@ curriculum:
 
 Mia's class is in London on a school trip. The double-decker buses are bright red. Big Ben is louder than expected. The pigeons in Trafalgar Square are bigger than the pigeons at home. Theo wants to ride on the top of every bus. Mr. Flint says: "We have a list. We follow the list."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **London five.** With your partner, name: a river, a tower, a palace, a museum, a famous square. Compare with another pair.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — London landmarks
 
 *Big Ben (Elizabeth Tower), the Tower of London, Tower Bridge, Buckingham Palace, Trafalgar Square, the British Museum, the National Gallery, the London Eye, the Thames.*
@@ -93,8 +127,7 @@ Mia's class is in London on a school trip. The double-decker buses are bright re
 
 We arrived at King's Cross at 10 a.m. The first stop was the British Museum. Theo wanted to see the mummies. Mia wanted to see the clocks. We had lunch in St James's Park, on a bench under a tree. After lunch we walked across Tower Bridge. The river was grey, but the bridge was bright blue. At 5 p.m. we took the train back from St Pancras.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: Big Ben — clock tower, Buckingham Palace — royal residence, Tower Bridge — opens for ships. (T / F)
@@ -112,16 +145,14 @@ We arrived at King's Cross at 10 a.m. The first stop was the British Museum. The
 **Productive.** 3-4. Open; from text: Theo — mummies, Mia — clocks.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **London-trip plan.** In groups of 3, plan a 6-hour London day. Choose 4 places. Write a small itinerary (time + place + activity + transport).
 
 ### Sample
 
 *10:00 — British Museum (mummies). 11:30 — walk to Trafalgar Square. 12:30 — lunch at St James's Park. 14:00 — London Eye (book online). 16:00 — train back from St Pancras.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 8 London landmarks.
 - [ ] I can ask for and give simple directions.
 - [ ] I can read a tourist text and find 5 facts.
@@ -129,51 +160,11 @@ We arrived at King's Cross at 10 a.m. The first stop was the British Museum. The
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl05/units/unit10-a-day-in-london-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "Excuse me, where is the National Gallery? Walk straight on for two minutes. At the lights, turn right. The gallery is on your left, opposite a small cafe."
-
-1. Place asked about: ___ . 2. First, walk ___ . 3. At the lights, turn ___ . 4. The gallery is opposite ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "On her London trip Mia saw Big Ben, the London Eye, Tower Bridge, and the British Museum. Her favourite was the London Eye, because the view was amazing. Theo's favourite was the museum."
-
-1. Four places: ___ . 2. Mia's favourite + reason: ___ . 3. Theo's favourite: ___ . 4. Number of pupils: not in text — write *not given*.
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in *in/on/at*.**
-
-1. ___ London, 2. ___ Tower Bridge, 3. ___ 5 p.m., 4. ___ the museum (= inside).
-
-### Task 4 — Writing (6 BE)
-
-Write 6 sentences about a city trip you would like to take. Include 3 places + 1 transport + 1 reason.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** National Gallery, straight on (2 min), right, a small cafe.
-**T2.** Big Ben / London Eye / Tower Bridge / British Museum; London Eye — view was amazing; the British Museum; not given.
-**T3.** in / on / at / in.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

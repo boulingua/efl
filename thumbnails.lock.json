@@ -1,0 +1,3242 @@
+{
+  "static/materials/presentations/track-e_kl05_unit01-hello-world.pdf": {
+    "pdf_sha256": "8e71eeb134d10cc03dbec70a308f7f2e0f892aca7f8f22d4e3881b6892535f23",
+    "png_sha256": "f82e42d3146d5433f5c29153705ac3c93c82479e00e824666fac1b53fe1d75c9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit01-hello-world.pdf": {
+    "pdf_sha256": "9dea8e0ec7e04ab8871fcf58893682fe9bcf9bc9be38ae74fa8d14a60853ffe4",
+    "png_sha256": "4685cbfac9716680c14580ab07569ffecc63f9d6dec9b7ee92cfab31b9b6fac4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit01-hello-world-teacher.pdf": {
+    "pdf_sha256": "5e60739bb0e2823cda484ec0299805af1004d5b84224fcced63a8fcba28170cf",
+    "png_sha256": "dfeed0501e151f51efd0b1d6b5b938699002e8c5db7b975e3477b7a3083d4f27",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl05_unit02-my-family.pdf": {
+    "pdf_sha256": "620f2abb879681ba44af9b803784efa0b795a09e67809f39a86a24014bc31d2b",
+    "png_sha256": "52bf6b04cb9d27ea3c413bcd5b3530454ba19447210035deec594a356d5d93de",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit02-my-family.pdf": {
+    "pdf_sha256": "97b30a32dfb5b2d507f793be8a6ad32b747222f1743a3d2879edf81c77c02c2a",
+    "png_sha256": "d5bdd98ff46b3963f665bd05337d5782a6674dfe7ca959befdfde0a00e140eba",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit02-my-family-teacher.pdf": {
+    "pdf_sha256": "499bb1391be978226b5c7244dda0c853d72cce1dbfc16a04595a0a7b3022cfe8",
+    "png_sha256": "ff5f66c11c6b37baaeba6ff0cfbfd4b67986ce1d97808f8075aed54e7dbee7e1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl05_unit03-home-and-room.pdf": {
+    "pdf_sha256": "33dddcf2c9bafec7ac73fdd076b981a9fa2effb1d52f44e7da64f3cb0a87a166",
+    "png_sha256": "1722b192c239379cb4d450015f8b9eef34b4052c8fcfff983c3bf72fe647aff2",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit03-home-and-room.pdf": {
+    "pdf_sha256": "642da63349056427b752d10c17b8580e83c5b0bb5ae89ed085bc2534208b76d2",
+    "png_sha256": "0e9150da62abd0d9cf59c401e9b1d71859986ea0ea5819700c37445726afed87",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit03-home-and-room-teacher.pdf": {
+    "pdf_sha256": "6b61b5c6c2605b60da191da5088ce4dfcc6774b5be3f970e767cf9256c2dfc27",
+    "png_sha256": "6ff48c50f049e192fab5b0e6bace4c3f59ee330a890be7458363ed77d0107388",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl05_unit04-school-day.pdf": {
+    "pdf_sha256": "cb7ca4e7f6e4e2da81fa081c7bd6700644c1aae48ebd83cea43cd9db1d781439",
+    "png_sha256": "79d66f257116bcbe1a2230ed51023493dc99210b9cf9d7f52b70758b5d055616",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit04-school-day.pdf": {
+    "pdf_sha256": "1075615f6302f733153a134ab4dc1bd269afad2536fd729bf1a9b35d137cbcc9",
+    "png_sha256": "6eb823ad1af19f617b0e0620be4dd10bd6e743c0aaf79341ef5e197ced399629",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit04-school-day-teacher.pdf": {
+    "pdf_sha256": "405c8cceb98d41ee33c8a1b58645cb0a1235f464ee1e8fc137b2d0fec77112bd",
+    "png_sha256": "0ae6099b3bebfe9e6ab1157460349101ee62077611ae429e1ddb326a5467980b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl05_unit05-food-and-drinks.pdf": {
+    "pdf_sha256": "227530d448a65b69ea21ab8bac887787dc26bf1370840e18c9a0de40e38c6e3b",
+    "png_sha256": "87b06f93b7002f2422e7b3dfdc1c30fef7df2f04b85299b0af9c39c94e116795",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit05-food-and-drinks.pdf": {
+    "pdf_sha256": "f2209d80a241fa0ace2820957b55984d5ead533dcbe79fb00e0822453b093b16",
+    "png_sha256": "2f5d2b67b98b4ff9ba3dac05bad292ec911d56f23e235ac3159404232bd2e24a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit05-food-and-drinks-teacher.pdf": {
+    "pdf_sha256": "9e0fc66b88b5f32584e6484a6e7590faa2d1cd883d3e5e2ae22bb47109e6d487",
+    "png_sha256": "8fd026f1fd9f618c0b75c191c67e5d369c1619e7d825ce5a5d22e6ef0a32f2bf",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl05_unit06-animals-and-pets.pdf": {
+    "pdf_sha256": "d8bbed2340cbaa4c0768f2fb1acf62fecf5962065a5399d648041406ebf0fcd0",
+    "png_sha256": "228989f86e076503723f2a61495924d93e9b2b5e00f1acfb3292228dab0ce75b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit06-animals-and-pets.pdf": {
+    "pdf_sha256": "257bc1b4fd54376a204be1b6631639a85cbb94a0d16cce477b13509bef97f26e",
+    "png_sha256": "0ecc104fee403572054364cce24739d07e08504722911b7276abb35a8981e704",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit06-animals-and-pets-teacher.pdf": {
+    "pdf_sha256": "294bb599c501fc55785a3eea09907f1916ceedfc47a2bbd1d6ce3f07069fa118",
+    "png_sha256": "c3e045574b07f5706442658bd8672eb52effdfabd5a832810f5f12af19cc6cbf",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl05_unit07-weather-and-seasons.pdf": {
+    "pdf_sha256": "4bf356eca7ad8ddd80db63b543562db9be3f7fc142ece1cfe27a7ddb1ba11cda",
+    "png_sha256": "a12a22c12a908d1e87db04aa6c49e9cb017a846343047d488e6bced315b6199b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit07-weather-and-seasons.pdf": {
+    "pdf_sha256": "be63c99b4607b252c8eba0adaa00d61c33f156f5db19ff6fe94544a89c91f0c3",
+    "png_sha256": "8cfe99c071787b7c7f924c9713ec5f9df2c048ef8437c26aea78c6b25b8690e4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit07-weather-and-seasons-teacher.pdf": {
+    "pdf_sha256": "42edd437c4ea341b5da3a8d775424663ee5314f55a08fab5f5b6788baf0467e5",
+    "png_sha256": "dd475e50b408b9aa796d4f39142e19ea9c05d60411da1d7297ac22da9f83c071",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl05_unit08-hobbies-and-sports.pdf": {
+    "pdf_sha256": "b1a32033c4403101a50f8d09cb1171386afac151cf21832e9b792ef293e5d95e",
+    "png_sha256": "2a1dde5e309f2df7e12f673136f49aa299a157a740922f2750f6b87a1b5ecfd1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit08-hobbies-and-sports.pdf": {
+    "pdf_sha256": "df5d6caf761f744f30aabcad06d6f5025a13c746165e4f80c2db61c72967ffc4",
+    "png_sha256": "be4a00aa78fa39eb760e1f679108e89e704ea7a8a488d2f4f0ad57cab23e2303",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit08-hobbies-and-sports-teacher.pdf": {
+    "pdf_sha256": "b968cde4fd78f9e55349b76918ea3d2768dc1009acacf251971c5c5076abd33f",
+    "png_sha256": "cdcc126f5a8ea003a9a9e52d74dc25f56241c8f9f0f6fc711ceb5ddefc70d8b2",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl05_unit09-birthday-and-friends.pdf": {
+    "pdf_sha256": "7f7e57e7bf43bb3fdf4261c57c5d92ab2177b11698f492c36aff1c240ea30960",
+    "png_sha256": "4a41610a84cbea0dcea9331b0f737455ba6aeedfa8f3ee02eb4654ccea20b676",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit09-birthday-and-friends.pdf": {
+    "pdf_sha256": "1eb57cd8e73d82b7a50da6759d26e21d71626bdac586596bd530b98a763869e8",
+    "png_sha256": "df50e3a603139c7c82a9b42dbdffc516da5a2ff1c0722ef99894e01b272289ca",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit09-birthday-and-friends-teacher.pdf": {
+    "pdf_sha256": "f2efb4b04d9750a2410bbbd451b57f2436df67f0b501b611e9457c65d92939b5",
+    "png_sha256": "57bf532470332f9ec754177a8075181d84dc7ce3c7ecbc00169388e1672a6316",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl05_unit10-a-day-in-london.pdf": {
+    "pdf_sha256": "4f1c1038eaefa232c58e855e011b80ff60128612d54136bf3b32294ba2e31aea",
+    "png_sha256": "ee750edf3156176d48cec4e88dae160a6a8f4cdd5f7cc7ef0574275bf672a80f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit10-a-day-in-london.pdf": {
+    "pdf_sha256": "efaf636945a1988259441cd923f0a39df1559f4beec8cb5492b286b0a9d04577",
+    "png_sha256": "9c0dd700d12fb0f767ece8668f7c466c7d55ef24888b1d050300665840e87636",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit10-a-day-in-london-teacher.pdf": {
+    "pdf_sha256": "1742c2519ef259dcfead7bd1ab1da9d4cd4c241f60b3986130f0972b913ca2d3",
+    "png_sha256": "1f5f84b03b3ad960af8f75949dd44890ff48b7f71305eacaceef5a284b3bfe3c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl05_unit11-clothes-and-colours.pdf": {
+    "pdf_sha256": "1060bfbd162aaf43d760202964a565a465676b2e77b8ffcc0d2d71930ed95c99",
+    "png_sha256": "0aee5e6cb94c69c71d93eede4c92f5cf7581e7c4e807379ff066150916e63459",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit11-clothes-and-colours.pdf": {
+    "pdf_sha256": "45819fb850d291ccd42ac8d8bbc99a059068b6fb3bc1993f025fa571e6ac1c49",
+    "png_sha256": "a33cd3bac5caf9479e77eb5e80fa75a0ef657ae894e12247c01d556b80bacbf4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit11-clothes-and-colours-teacher.pdf": {
+    "pdf_sha256": "a6545ebbdc83f7f49ac3a22e8181a37d992893f218233823717e0d2345b2fa4d",
+    "png_sha256": "c50213e996e801b9c5f738e1ebe3fc5fb4ecaf96d8212f3576f78d233312ba54",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl05_unit12-review-and-show.pdf": {
+    "pdf_sha256": "93fdd0f5fd52a978f8e5047f1f7e16074267708351543445a09c300437adf53e",
+    "png_sha256": "dc3cda78888fee55ec0f3b6b0f06962039f69048dc977308b2715f161f92c07e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit12-review-and-show.pdf": {
+    "pdf_sha256": "f55303c6a69530acffc63ab6aafda048fdff422093f8f0e77418c530bb0c2e8d",
+    "png_sha256": "65b44a2095ca165d0d90086fa4fb3e2c510d4e1eed143ad3e134c350a57fd9ee",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl05_unit12-review-and-show-teacher.pdf": {
+    "pdf_sha256": "1fc1da0d73abfe65ceeca89b9955b50064187fcf0190ee22b69442460360d0e1",
+    "png_sha256": "c17f5acf72b5b200681707df31541a43751661820f8bd9944a49ee7262d3b53a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl06_unit01-a-new-year-at-school.pdf": {
+    "pdf_sha256": "f2c0e8975c14923879277e930373d4a5d4d85468f2e66ab7d91fa5856b0930eb",
+    "png_sha256": "b745e291e3e927779738f862a5d13fff06d364b34436d02b76ab65ef97ce493c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit01-a-new-year-at-school.pdf": {
+    "pdf_sha256": "7d380f1e4f3afd012119cb33a6f19759ac6f47b86c63721699ac31bbfc54f0ea",
+    "png_sha256": "d907e6cfcfe2fafc06d8e12f9c52ff4d72db5eba5827c1fe2d9016d21b8f77e1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit01-a-new-year-at-school-teacher.pdf": {
+    "pdf_sha256": "6cc4d8fc51de5826c1ef496da4931c7ca70c22778fb426e1bd40a744bbd01d33",
+    "png_sha256": "ffd3fc785b055bf72057245d5adbd5b30f52d6bc8d8daec1b65e134129eea6b7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl06_unit02-on-holiday.pdf": {
+    "pdf_sha256": "d8c16753ded0b52ca2efd192ee0269e0898a848f43ff1e4b2750cbb04a53bda4",
+    "png_sha256": "1cc3e7cdcb738a5a3817e85d03be9aaa4562da84e0a1b498d41a13449b5c1a82",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit02-on-holiday.pdf": {
+    "pdf_sha256": "31f60df511d166d1a7bc995d01f0608f0d3a4b39a8d1c106c2efd11649298cc3",
+    "png_sha256": "b4c1334197c748dbaa442583ca9278a06e0c9da77c2d1f85d3e0029d7bfc0075",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit02-on-holiday-teacher.pdf": {
+    "pdf_sha256": "898aec76ee89b4d4d46e2d676d812a7e28852deb0e3137c932029cc565956f15",
+    "png_sha256": "f9a1a5a4d40c080ceaa193dbafa37c24d70b0f7c7588d40218de4268c2cc7875",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl06_unit03-in-the-city.pdf": {
+    "pdf_sha256": "bf9d33e4508f0b0580fb0b362d6ff241e07f2e8b7a8e44f9a53930882c734240",
+    "png_sha256": "004fcd1c04413bf56aa7d4a6f487bcf21f14e4511a5abaa9f4a2d1f5d4107dec",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit03-in-the-city.pdf": {
+    "pdf_sha256": "9fe64858cd5e6ba8e8ff888c255fbfe6a7551217f51615a1a466c3179863e704",
+    "png_sha256": "ade2a49c6f0fc7c2699182dbc1b77c1d3a0bd0b516e00cfdff409f257bd76f37",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit03-in-the-city-teacher.pdf": {
+    "pdf_sha256": "aae8a60877e00548039b085c1b9aaed7834dff0d8fb30fc507f9e290af9323a0",
+    "png_sha256": "66d69246608777bdcb8b5264924ce2f3722fa14e5ea16fd5b2e40743e21522df",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl06_unit04-food-around-the-world.pdf": {
+    "pdf_sha256": "7888bd8aff4557326ea21c2fbb25e023c3f3de3c87fdfea24a0d90598393cc3d",
+    "png_sha256": "b6df1a19a26129454de02be99aa7a1bf142877115b2fde78aad3e413191241b1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit04-food-around-the-world.pdf": {
+    "pdf_sha256": "1252e6ebb49fb1b4eaa7a9892e035ad4d73898caf00e9dc2c5aa6ad51a5127f7",
+    "png_sha256": "bd86e07eb3bbab7ed625c2a192b33694a62549a10122f0d0c7b7fcd4d9391139",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit04-food-around-the-world-teacher.pdf": {
+    "pdf_sha256": "d6dd23462558cbd26b9ba0ef6a2c63eb9252582e55c1fd1e7fc4883997dc5aa6",
+    "png_sha256": "8d40fd819e289bb618d0aa4674c53fd528375f3921ae35782a417c661d891107",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl06_unit05-daily-routines.pdf": {
+    "pdf_sha256": "279349f1a84fb5d11fef7c4a6dfec21290e927710cfb00b68bc4a0ffa6b67e11",
+    "png_sha256": "edde0fa20a86806a7f8f44107273e912f9ac0276220474161d0dd39573f0fac4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit05-daily-routines.pdf": {
+    "pdf_sha256": "0dc0dd72b4ab2df6001a829cce2461d650e8a6ef3b7b44337b01b61d18a343a2",
+    "png_sha256": "7b6954502d058c03726de29b070b5c5468c1eb7c93e36441dc4d38991727ec94",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit05-daily-routines-teacher.pdf": {
+    "pdf_sha256": "1eae47dad0edd2bc35cad0c2e34ef44a098ff4e0b9eb4e3a6b9290a7e32929ec",
+    "png_sha256": "a20a13634ca4d2aad1408256de65cb5caf2ba634bd6822feaa17cf369de6e7f6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl06_unit06-friends-and-feelings.pdf": {
+    "pdf_sha256": "68fe7498536985972d164e9558151dea79a15861643486bb963ed47c7b567e46",
+    "png_sha256": "5e9b57f5fa73605cfc778465f44e7424be918f60cb04aa1c51f7e8b09bb425f0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit06-friends-and-feelings.pdf": {
+    "pdf_sha256": "4e3d2438bad8b798ef8353f3eef81ce0742a6f430030b6b3a07064b0d73cde8e",
+    "png_sha256": "fbc0057002dfc8fc2b40eae247dacb985cb82680c4a0d3acee24fb4c9f630b67",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit06-friends-and-feelings-teacher.pdf": {
+    "pdf_sha256": "d52edf7f413df9da99825ec577defc2e0a622f35e8475c10f03e9dbe1200abca",
+    "png_sha256": "6b7b15914759deef9ec9c833b099e9effcef563fc9d7fb9ca4347eb0057bec81",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl06_unit07-an-adventure-story.pdf": {
+    "pdf_sha256": "c346a1d1e892c2d9df02466b86073618d6202d45f04a2b4456b0e76665823047",
+    "png_sha256": "0540a27a3a0319b1cc06fa3bdca907a8c87181a5b0c85e1d04b1e8ca5a3576d6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit07-an-adventure-story.pdf": {
+    "pdf_sha256": "13aad798ea63835ba488db714cfa181f31a60951fb38acab5aa48e57a2e98990",
+    "png_sha256": "b06bffd4089117fad1ef0f60136e5c83764579f1be2964182ece05eb25ca3778",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit07-an-adventure-story-teacher.pdf": {
+    "pdf_sha256": "3bb9c7cb9405eab55c490c8d2e2beb89634a83351822f0b0a8f23ab765cbed94",
+    "png_sha256": "f24a1605181b164d5914e7478f926089789f307bc4028c4941afaeafbee9675b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl06_unit08-school-around-the-world.pdf": {
+    "pdf_sha256": "b179040312a36154144cc71844d55cabc245c3fc906ea9c9177a05cddf0a2284",
+    "png_sha256": "1ce6c99d418bd8cbb3bc4df5f066924a98a34e554577a6335e3c8d0167821016",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit08-school-around-the-world.pdf": {
+    "pdf_sha256": "ab8fd654498e89583ae3c751c2d3a766ba684ffd0c098c0fe52d1b7718b4e3b9",
+    "png_sha256": "e19cdd7b68aa21829702f29a0d99a8b5ce735165dcac3bb8490f9a1a23257c5a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit08-school-around-the-world-teacher.pdf": {
+    "pdf_sha256": "083925c5562f5af5e895bfad97b1461572da5cf58682763cddc5490151f58f18",
+    "png_sha256": "b01d2edd2434905b8af20a3b93a90308103c95de1c0bfe39114d77c89db7685c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl06_unit09-body-and-health.pdf": {
+    "pdf_sha256": "6f6d0497f07e45cff873e368559e79cd73e5485355ec6596148aabcc106d97ed",
+    "png_sha256": "d14c51254fbbedf2292fceea884110860025c6e8b70e9441d90be8c68c2146d4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit09-body-and-health.pdf": {
+    "pdf_sha256": "a6c5492515d62829139e87d89f5bf0d7ee2f28b43b9c3950476ce4da34bbca79",
+    "png_sha256": "065a327900575816dbc403dbd5cf0d302fbc93053a07bda00063e7702a24aac1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit09-body-and-health-teacher.pdf": {
+    "pdf_sha256": "797731c99da4bd0cd50675ad67b091a9a6995794a97681180d277ac31f60946b",
+    "png_sha256": "2e024434f283aac8ddb87e2ecf62752323c53739ac84e26fb54dbdfd03e91a7d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl06_unit10-travelling-by-train.pdf": {
+    "pdf_sha256": "ac06f339495c1e4a7d0add10750fe0e27039f4c0af69bf718ce02142b5bb2081",
+    "png_sha256": "3f9b771a94aad998b7b546853a65b666555b3d011f1f08f96c9efc3941a0d325",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit10-travelling-by-train.pdf": {
+    "pdf_sha256": "ea663bc9865b831cc5950235d8d13b59a0c2eeb2c1c5c34c3b15a1116e4b97af",
+    "png_sha256": "d0f9b8dc8381076c89f5bac42d99eb37001a642dd0781bbe7280541d7465e246",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit10-travelling-by-train-teacher.pdf": {
+    "pdf_sha256": "623ae1477b9ac9462799f0d89f341530ec2c6c1af3a54e3adfbf4ff63d567a5e",
+    "png_sha256": "330a8957b2c2285f0a70ea34afa2f6044665f7f891ac9954a429135bc5a0495b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl06_unit11-captain-codys-map.pdf": {
+    "pdf_sha256": "164e89533b84fb060729e5effc8a2977fb42f354306808e3c48ae783a4ff2afc",
+    "png_sha256": "d464d7c67416277108466c826b78a2dd4d6cc3cda122c2a96fdad751f91062c4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit11-captain-codys-map.pdf": {
+    "pdf_sha256": "26f73a21ac03c1c84b209704efed3eb4b21211771edc6828b2ffb5c5410b9552",
+    "png_sha256": "b8662b817138cb539a81b7c45b5b35686e1bc75ad36fcc4a7e3e2c831ff6c788",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit11-captain-codys-map-teacher.pdf": {
+    "pdf_sha256": "2660a3e32caeee50e78780c10dd3cf7a1acd3a4911aace89dc8157ce2b5223a4",
+    "png_sha256": "4738eb615606d18855311ae8fdd06cc797b8f20ee5d29d8b2b2288cd02c82a19",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl06_unit12-year-end-festival.pdf": {
+    "pdf_sha256": "1565952bec0df5f0bd216dcbe8894e57d0c11c6374de8ee652b947253890515e",
+    "png_sha256": "7ad3d7b9fb4d37e0c7178d1ed1f1045f903c68575d42c777d40cf67c3fbf416f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit12-year-end-festival.pdf": {
+    "pdf_sha256": "3e77c498fceb586fa07573e40655d5478bd977f7f8548f7399bff96f03aa0526",
+    "png_sha256": "efcd22bf5d5eb6b8993db657a9359e92c778ef17055096be648d82ac5f003689",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl06_unit12-year-end-festival-teacher.pdf": {
+    "pdf_sha256": "4709d4dc0c0f12af85de9bee9926d25cf69ee4d32e7646761c77b944a7f643f8",
+    "png_sha256": "32c10f5844096ed0e03130c40c191050ac2ecebef417c592d48d6b1f11ff4fce",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl07_unit01-first-day-back.pdf": {
+    "pdf_sha256": "bca1d2d77c00971f77258e90ff745376b6dc269b440faf9cbc4bb857d1e8fec6",
+    "png_sha256": "88cbf3f0a71f12caab88208c8b489acbc66cba2ed1f67e8d56e59c0c41f86ad4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit01-first-day-back.pdf": {
+    "pdf_sha256": "786103551a310d22ef71b4dc1ba93b01e64a876b1215967729eaf46868ca4f1a",
+    "png_sha256": "15d28366768f627055fab3aa521a80a6477a2fb2e5d69c0b1e73f79802e7ab35",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit01-first-day-back-teacher.pdf": {
+    "pdf_sha256": "d192537f288c8d7a2e5a060d474f5d3f9eab82d5618629b09863d5c39f85c6bf",
+    "png_sha256": "669b16a535168a49ce173a55ba6e644d9a8091138fc8490f80709ccd3f97f030",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl07_unit02-growing-up.pdf": {
+    "pdf_sha256": "b2c079811dc9613ac8873fdfdbd6c57864cddaab6bbb6793d274b7dc732245c2",
+    "png_sha256": "828079c8def1f9ca116b25673fc0ba8e470577bd0a2c42b36bf544b1af3bc8a9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit02-growing-up.pdf": {
+    "pdf_sha256": "a4563a3eb28335c38b1407b06bf69fc889fbe9942a6e53cfcf7de1137992e502",
+    "png_sha256": "2dac3568eb2ea4e0a887afc9e389ac89d9fa733712f201b089c74a2925c76655",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit02-growing-up-teacher.pdf": {
+    "pdf_sha256": "b28e26dd21b30255d1e0cd7570b60ae63fe3d1a0d4060c3f4ea779c550e4980f",
+    "png_sha256": "93b9dc8110585d8bd3db027d8ce75c367ce00f2e511e477fa692113c2f324d82",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl07_unit03-media-in-our-lives.pdf": {
+    "pdf_sha256": "5d075af0aa753eab9943a498339658db43aea0ba9c55f141a526de1fbc552b11",
+    "png_sha256": "e7ebc6918cc9a14ae14245e19d1b086f6a34821498f3425d58a566084d4a5b64",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit03-media-in-our-lives.pdf": {
+    "pdf_sha256": "bf3fe41a19ba006d89c8e88c6a853d072e9e5c388fffb7cf427f69b90fe6c089",
+    "png_sha256": "e63bd4b5df54c26c20cab44e5091be12ce361e685ca62199bbb3d013c2c423e5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit03-media-in-our-lives-teacher.pdf": {
+    "pdf_sha256": "e8f9a2f38431a47d49f254c8ae7eefc5b24047726ce34d0c8f1459658229702e",
+    "png_sha256": "a12496ba3101db346538310a11687ea64e103494845ccbca36b47c2a731278e6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl07_unit04-a-trip-to-scotland.pdf": {
+    "pdf_sha256": "69048a189b8331e7aca5ec10b6da66b1270243dc4dc47e3ccb85f8a8de237913",
+    "png_sha256": "9f70c82e0096a5fb0f94e6352c27bf942f6decce4f307636e47c19421b435418",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit04-a-trip-to-scotland.pdf": {
+    "pdf_sha256": "310732ac856f46bbc116d0ec1285def8080773a93742cf5410bf6ff82ee1b38f",
+    "png_sha256": "000b8dae71cce281dd06de08d7f0086a0bfd1a7a497267031e0b1dec25d918aa",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit04-a-trip-to-scotland-teacher.pdf": {
+    "pdf_sha256": "20b3595f42cc7175756513872ad8dd9a83f69790508ad5a293cbb2ca85236db2",
+    "png_sha256": "8e9e9f656081d442f928c05b2e9fbe8295127206fef9afbe6a22664689f49270",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl07_unit05-the-united-states-today.pdf": {
+    "pdf_sha256": "147782be3365e8892dc5d6458c358e223b4186ad26f8847b8550dc0badb33481",
+    "png_sha256": "912412e36b43bab055c9943041ecc10670d72ec1a6d7443f52cc4b0b35b7fdc1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit05-the-united-states-today.pdf": {
+    "pdf_sha256": "502ea5482a9af69df144639d7d38af5d4a001f395f8bcda34733cc27423ee4aa",
+    "png_sha256": "a042ad76ac7b79f51cf89428a29c16477912c413ec586a5e46be7f80f5293be8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit05-the-united-states-today-teacher.pdf": {
+    "pdf_sha256": "90e76a275729702311be4fb5bd302364d9f65bc9797d58b61bb9c0b8c01e7143",
+    "png_sha256": "527cb05d78e7016ce0bc761d27eaa3ec244523821b8d60c49dbc3f6ae1caf16f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl07_unit06-food-cultures.pdf": {
+    "pdf_sha256": "086e7bb69a35edb1e0daf1484423aca9920b772ee8850f3c4191b2c998d330e5",
+    "png_sha256": "e38d8fb0f3f5aad795135377c390c2ad80cb8a1875ee5f0a4e27eaedf292484c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit06-food-cultures.pdf": {
+    "pdf_sha256": "b9e177fffc6d2103937a8875b97119074071e591c7e6a7ad985799acc6e17b8c",
+    "png_sha256": "a08174bfc45e1f77067074602a4fd0cd3544b6d868f8e5d552f2bc0824def818",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit06-food-cultures-teacher.pdf": {
+    "pdf_sha256": "e69c9c6748304b00d98c988ece22013fb61f1e61baafa45053efed534c775c80",
+    "png_sha256": "d8e8a4db025e308e54807c9e6956b6e8994734e2412924e13c3918bf84bc150a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl07_unit07-being-a-friend.pdf": {
+    "pdf_sha256": "0f02d841f3d3c60ef2f3b23b55c98c8b0af69aab88070271beb20b3da56255f0",
+    "png_sha256": "9d522a73cde0a1b4d9a0e2f189b5eb13cf4acb8f4035b905e2c6631ccc30aa28",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit07-being-a-friend.pdf": {
+    "pdf_sha256": "34e2cf0bb8216aa521092638d4dbf7e8061b14dca6344acc5d51735e71a84932",
+    "png_sha256": "1eed88b838e4924a4efcdc6e2869b2146f0788a4fe81f215c1aabffce4d1a3d6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit07-being-a-friend-teacher.pdf": {
+    "pdf_sha256": "e0980c58db0d85f8f690b668fc3d506dabf110042821294fab3b570c813828d2",
+    "png_sha256": "39d16203bf4a57d3278feb0e1b36e716f2db107a498f7fa265accb2b3dc88541",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl07_unit08-first-mediation.pdf": {
+    "pdf_sha256": "dfda6d3ffb23c4a57585b56c754cb45ceafbb23971b7ee391d29de990c1b1a24",
+    "png_sha256": "b047db4b35a0db9e23b280727e6036697b874fdf35264780b8de1535d7af7ba7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit08-first-mediation.pdf": {
+    "pdf_sha256": "76b9582b4e83d86e92c7ad728bd6e9b3e6eba86ec425d6c1f0e91da9e7138742",
+    "png_sha256": "1714a21ffa46925c4213a3a57f37b7ff159d64f77b991c818197ae8a72531a01",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit08-first-mediation-teacher.pdf": {
+    "pdf_sha256": "840181baa1c4f92142656d5536a32cf3ef764390b28bbff4f5324612958f1ff9",
+    "png_sha256": "c348ca51be39f62f4ab82552502f85459b2b1d86edcb5ed36d67c405880de8b5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl07_unit09-school-rules-and-rights.pdf": {
+    "pdf_sha256": "4db26ad13dbe4416f32166cd9a876be5ebd4ec93f5915b6d1035693986a4f52b",
+    "png_sha256": "65f61579d99d195fd79e42fe280ffc7f36cc9423747ea9e28af1fe17bdc7ada7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit09-school-rules-and-rights.pdf": {
+    "pdf_sha256": "8c069677f5abe0dd7f6ca8aefde2f74690b5bb37f3e5a32cc04168c86e0a3add",
+    "png_sha256": "0cf1dccb959efec77f94f443250dd1f050c0e4a4a9e0d3f3d67a95b0d5e2c7ce",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit09-school-rules-and-rights-teacher.pdf": {
+    "pdf_sha256": "fcb0e65224bf1d06cede095ade829b288763dad8c42794c86f4d6148f9c52734",
+    "png_sha256": "b56c3750bb866e70a0e67f74e10283e0896ca54da1a779120887ef6c91b9018e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl07_unit10-a-short-story.pdf": {
+    "pdf_sha256": "9f7eea5240620f67e8087cb50b8ae2149f16f916355eb05c12d2df2a9deac18d",
+    "png_sha256": "8d5ea781cb7c70de28489ab446d360b856f53291d11a459c33be4e8a837721ad",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit10-a-short-story.pdf": {
+    "pdf_sha256": "d629d8e3faafbc823c56e906e79c053d10866a1c84e911818a0c74f6682bdcad",
+    "png_sha256": "bb1d69d1fd368a7fcb7e7759bf283000b7c3e332a085cc345a4693c8256f1bb7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit10-a-short-story-teacher.pdf": {
+    "pdf_sha256": "3f19f07ff77f1eef67963cac0277b18ca1440ed46aa95be5ed8b82f9d5d16a7a",
+    "png_sha256": "909932f10b5519d708e1596e25295c120a05999eace14b8365a966ebaed51397",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl07_unit11-plans-for-the-summer.pdf": {
+    "pdf_sha256": "1fc430bb179121c06c55ce305de5ce1a2bf273219f06e461daf8c44f496ca9ea",
+    "png_sha256": "09bf46269178d66ffe3f5580c14f4281e92843d13a89c0734432098522ef8431",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit11-plans-for-the-summer.pdf": {
+    "pdf_sha256": "d4296fe49f4575e34a0ac8a5025a3c7a298b59e8b773e588ec1bf392d6029dcf",
+    "png_sha256": "e80839c953b17833f2a75c3e0fc9cce06a7ba5afe5af0e7abcbbdd4bbd71e130",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit11-plans-for-the-summer-teacher.pdf": {
+    "pdf_sha256": "9daa6d19c177a5d12158d11dd791b43e6dbdeec684a880ba3349f27dc601b6e8",
+    "png_sha256": "a97cf3a9b8d14b55284933c6846326d68eb114709cf39429f6041acc9d5bae72",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl07_unit12-year-review-and-podcast.pdf": {
+    "pdf_sha256": "b8719015b00b88345ee5e85eb9af3d2356185085bb2d9be6a720b755baf365e8",
+    "png_sha256": "56fdd7a9f1da3224cb97dca37db822aece9ac6b341ef53399cda4bb728b948b8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit12-year-review-and-podcast.pdf": {
+    "pdf_sha256": "bc04219c99db349b331d133d73da8018e9ad73a8b69712dea2d358eb4cf959a2",
+    "png_sha256": "e918ae626672fbce79092eecea632897ba384cefde770c1722eb9b41c1ce6bc5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl07_unit12-year-review-and-podcast-teacher.pdf": {
+    "pdf_sha256": "e76462c8bed9d5cecb3e359af79b03c7a94f315ca92afd291afa131a689f3f31",
+    "png_sha256": "a0f990e1258408af57385fbea89965df4b033bc3b60f91a7ab16790ab0a34e50",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl08_unit01-identities.pdf": {
+    "pdf_sha256": "3cfd2824a092385132b0e670a0d0f1c58a9de6d34a4c3c19b41566b9a44d8bb2",
+    "png_sha256": "79fa5f05b34a6551a0c63a9685262444dd60df8e48e5d115fa65bc6538674821",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit01-identities.pdf": {
+    "pdf_sha256": "bf584c250f74bee2002e62042579fef5328fc0e591c94f19cb053716a9aad6b6",
+    "png_sha256": "c62adc72f35fc97969d775419f0254a0c87b39b2c03aded263639fce83526e61",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit01-identities-teacher.pdf": {
+    "pdf_sha256": "832c4418de88dadf70ea87d0c1fedab08643d4078e40722f3a60eae91c3a9e86",
+    "png_sha256": "e8e82cb11dd55a4ef0e7c2448b31444bd8dd847026677d1d4568ccd5d199482b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl08_unit02-school-life-elsewhere.pdf": {
+    "pdf_sha256": "77bb4fbded417d0addf734110db011f9c70c54c738c5731668c7aebe4219f654",
+    "png_sha256": "17f2ffc7e2c26b185e54f1a4763d14ddddd347aa2bd7546eaeb21c8ca3d9111c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit02-school-life-elsewhere.pdf": {
+    "pdf_sha256": "4dbe9bebe76ecfabb7d128247e6284a9868f0ae72bee2f69640a00858ab3c704",
+    "png_sha256": "6f7ca1a8d004d66b20dcd3a0d6005c9eaccc2657d48cd4f97accd3631d1731fe",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit02-school-life-elsewhere-teacher.pdf": {
+    "pdf_sha256": "77f03c711a7e00530df38d06a63c39cfe313db1e1cf46da09b13456105431b93",
+    "png_sha256": "7c7b198508ddf98e54170d2459cb4f51184aaf622185d693689ebbbaf29b43c0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl08_unit03-fairness-at-school.pdf": {
+    "pdf_sha256": "72a246783b02cebcffdbab0b9c5b7c4d28189f143846dc671a6c62af4424d2d3",
+    "png_sha256": "4029b6b582a5f6db39f34582311f82bca48993fe0486b177b3a989b9679cb4cf",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit03-fairness-at-school.pdf": {
+    "pdf_sha256": "29875a9ce1fb6c05a8683e74757871f9fb2a8a868cfcbd69909854fc7741b8ca",
+    "png_sha256": "fb5fd26494e3500e3eeba25106112f1a89c4729340ac8c892221b219f3e662d7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit03-fairness-at-school-teacher.pdf": {
+    "pdf_sha256": "3b5dcb3d72a19b0007af2737c9667ccf0a4f0ffaaaec039203950ae996dab039",
+    "png_sha256": "2784f4ed6201513b84c6d28f724bf64d82c84ec16c7386d5c34dac7e14e7b479",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl08_unit04-ireland-stories.pdf": {
+    "pdf_sha256": "06ea8217e15ee8f0d6750ae1cceab3eccf9e586eb84d2c10602e28c9924115d9",
+    "png_sha256": "09d96ed6d4954355a2892c9501675d51a11284bad6aeb61f60a6f8d8ac092e5b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit04-ireland-stories.pdf": {
+    "pdf_sha256": "43607451a02a22e1364b9f709e0e5112394c553f114bd290a1ede3dc107d13f4",
+    "png_sha256": "4e04fa367e47377b361e2f2a016923ffe564340914b379efc33f9661fb43b932",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit04-ireland-stories-teacher.pdf": {
+    "pdf_sha256": "f6b269162aeb1f9783c618f406ea43b885d380eba3b5e8359c5a97abcdcf5647",
+    "png_sha256": "28a41895bf2c27adfddc6c6602737cf54bf4bab41f75b1ae4becdefbda66ecd4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl08_unit05-digital-friendships.pdf": {
+    "pdf_sha256": "306f317550e7caa2313cb2e8cf32de5bde710965148a4b2311a8309c5990a496",
+    "png_sha256": "ab68d3b12b0f0a7252a29b4ab2ff5432eee934ad1080578d3d4c97050937295a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit05-digital-friendships.pdf": {
+    "pdf_sha256": "b243a103db961a949da399d8e06641bc1a993371df6c77890757ca4b3379371b",
+    "png_sha256": "c787845556dcf34082e49e2051847fd8c9ef04b220441907016f47d3a5835188",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit05-digital-friendships-teacher.pdf": {
+    "pdf_sha256": "99d5430a779acd7a2f407ae92bb72e306b62cefc86506aa24971685476300d47",
+    "png_sha256": "f64a955bb2ef9976c7dfb154631ab48e6f8a78c7dd6ffa9bf074690ec71ba82b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl08_unit06-opinion-writing.pdf": {
+    "pdf_sha256": "1cbd00230621adeb29c59c216c9b6555b7dc726d43940d17711921c3d502dcfb",
+    "png_sha256": "a97550a65cf16980b0bdffa2782cb5838ecb497c9b5151008aed3580a6654711",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit06-opinion-writing.pdf": {
+    "pdf_sha256": "63fb32d2ed6899d1b49461452c0ba8020628d1285c2f2ed75acd0372300a9701",
+    "png_sha256": "8967bc528503e95c4f80dea3270872c972a79de5192da93aa2f7ef919ae102b9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit06-opinion-writing-teacher.pdf": {
+    "pdf_sha256": "2e4bae6ded76300060076d73545f8032f9b722e38332380ec68bc732baecdac4",
+    "png_sha256": "93050b99184573a917efb301a3e2f9eae5f957a20e917ca353b70bada72a0683",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl08_unit07-teen-magazine-mediation.pdf": {
+    "pdf_sha256": "538ce09f2051febf0eaff0c256232e9b479fb59932a139b03c673e8053ab2d10",
+    "png_sha256": "975ef56839ec2fc328a85b7da8e799e987ca5a9f2791d1254417689f9c785e82",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit07-teen-magazine-mediation.pdf": {
+    "pdf_sha256": "764cfdcb1650086cd3487aff7de4c909bbdd84d3ede5a97f4a877674a3a7467e",
+    "png_sha256": "9a622d76fca222521ecf2227cf4f8baafa58cae835d2240e66a279ac9d34bf76",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit07-teen-magazine-mediation-teacher.pdf": {
+    "pdf_sha256": "3d60b6b383d27a27a66e0ecbfa8c96fb78b024b58916958181d1fef311937b5d",
+    "png_sha256": "8c73c7f4531c965436e80fbb9122a6d574d88d2341ddaa187f8615f2f7348d7f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl08_unit08-music-and-belonging.pdf": {
+    "pdf_sha256": "6657d9ea3f2455461484e90fe3d1530079bbd23ed577b8cb03a3930e5aef4d35",
+    "png_sha256": "46bec560bbf55161bcc94151c86a3ab99e109b5733c82be942f3d16b3a420ed5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit08-music-and-belonging.pdf": {
+    "pdf_sha256": "27eb32a4d453794ceea44285c9ca2ec68197b3580511b81fb025f9f8b3d612e8",
+    "png_sha256": "434cab57c3c831a2b95128511c8a9c6d19316de3c64b8e177eb5b201ff5f8a9e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit08-music-and-belonging-teacher.pdf": {
+    "pdf_sha256": "94658307e725f38f64f85cdceaa1a728274a37391f2da1b510da14e5efa0fa94",
+    "png_sha256": "1c7703f9cffd3a54f355f8d224325e203e689910afa2ffd3105f010bf2274247",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl08_unit09-rural-and-urban.pdf": {
+    "pdf_sha256": "90c28888c36b45905b83ec7966cbe4fd5940bd0eab58c2b9629f73ac4218f4d5",
+    "png_sha256": "9d11944108f2c08f54d1a8ba4d6c1acb8702dfc9df09d71b29afcf2f17f19910",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit09-rural-and-urban.pdf": {
+    "pdf_sha256": "1c523e76e75ca1220980d8e982d2a03e3122e5220396e868ec5d74bdd6c4fd7d",
+    "png_sha256": "6700fd9a3b022a25fea34cc6aa833dd089446d062bf4ec6365988661ddcdd2d9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit09-rural-and-urban-teacher.pdf": {
+    "pdf_sha256": "8433e3b8a42974c4fb8648fa98ab0be21234c9694db71be89e9658e9b5e3b903",
+    "png_sha256": "07d2a5c85b447a8d74c9f61593225701d91c2209d34a2d479ac7969f571ba23c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl08_unit10-a-novella-in-class.pdf": {
+    "pdf_sha256": "80a1dd20ff1671e9e29ea549b720bf457fd90daf57e449c6200d55d798cd070c",
+    "png_sha256": "7832f379cd6914f63cf7b55b997cf5db6795590e0562811e3f34ce96a5eab9d3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit10-a-novella-in-class.pdf": {
+    "pdf_sha256": "ae3193fa43374b6220a17e45bca820533f4321e64e5095ef4530bfa91a68a58e",
+    "png_sha256": "734d43208386b94ae08a1a47badf04dfb9321f563eb1670f486846d71d88c7d4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit10-a-novella-in-class-teacher.pdf": {
+    "pdf_sha256": "e618816b06f60217b99f9d78baa5d91b725026a7a6f36d569408b601c03bfa20",
+    "png_sha256": "ea108abf0160f9e24571ba37dc1c72a9bfbdf644afb53d32d676bd12e30ef479",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl08_unit11-public-speaking.pdf": {
+    "pdf_sha256": "32eaae27d737fd6dd5316276082b30a4fd9c62161f16a9a0f8128f7d574283c0",
+    "png_sha256": "28c5b2cedf490b9e1ad7a4f1b480aebf2aa124b63a566cee0e52d6e23f470dc7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit11-public-speaking.pdf": {
+    "pdf_sha256": "3febb9e3075f3cf18a3e91db8fbadf1a238476b9a7d252a7009fc41a94f3b667",
+    "png_sha256": "602bc889d10d633d8268d6c28367bd922812177b733e23f6a8b9485a7396c192",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit11-public-speaking-teacher.pdf": {
+    "pdf_sha256": "1375a09c98169613a360c693e7d1fe844646b9e14bf1e423fa0c9f9c359c161c",
+    "png_sha256": "bb97a58bba616ba702f8329fb7e73d6854333a0d2920fde7606199c860675ff1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl08_unit12-school-magazine-issue.pdf": {
+    "pdf_sha256": "643dc4a17e1e218790dd0015d033c449e989f198949ac07d748358f48209fbf4",
+    "png_sha256": "4d46ed5930591609976f9034ceff9ca4c004e961a54c2e3e0ace19f105af2259",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit12-school-magazine-issue.pdf": {
+    "pdf_sha256": "fad070391d9fc37bd6c4fde272b7b5c39e4137b74d802f945a1347f73d0bc397",
+    "png_sha256": "2805d9f2c2e99688aff3775ec7c4b631625a8d1c861858d49d5ba6c43f19881d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl08_unit12-school-magazine-issue-teacher.pdf": {
+    "pdf_sha256": "6e84db4855f687d89f3eb4b84dba9be74d2afee9a648d4ddf16fe21c609273ff",
+    "png_sha256": "5dfcd762408aa9876666a0717bd01b1c6be9548d0897f80e3bc1ba438ba0e6f7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl09_unit01-future-careers.pdf": {
+    "pdf_sha256": "eaf3cc01402345b1d18c6f75bb30c5b6aff521d3d3dc1a91de01448b234a9218",
+    "png_sha256": "3b0812e968d08b7e20eff05a1b4c377193b0b1820fb13a0ff7d13ee2761f6893",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit01-future-careers.pdf": {
+    "pdf_sha256": "c27fe56c44c7ca5b4ec03521dfe5b69e50603c0ec250c15c6ec2567683f681af",
+    "png_sha256": "7fb8c8d6ab0fbed359f9e594d43c5309585e925ff49b4ca46c8eedb360f732cb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit01-future-careers-teacher.pdf": {
+    "pdf_sha256": "0f17e994ba3290a3b5768a1f98f195f814af67403db54eb9b432fa5621abca96",
+    "png_sha256": "493570c97f7c1a530c64594cb1e23379af4e9231e034fe0807a352cec80efc18",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl09_unit02-money-and-choices.pdf": {
+    "pdf_sha256": "466f6e7aa09a2d34cad2612a281da8cfb74ce180174bbd56555223f40fbdcbd9",
+    "png_sha256": "72e569a29b186d30f217a2177e3c4a5370f134045cd64f4836db5776caa06b96",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit02-money-and-choices.pdf": {
+    "pdf_sha256": "f7dea34d28ebac806cce5d9ffb919bc4f9234fc4158710f9b69234fb042146a5",
+    "png_sha256": "f372892c87608a1a7a39bfc6cc7c61f955a95e14d239e9acd5a4328cba02f5d5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit02-money-and-choices-teacher.pdf": {
+    "pdf_sha256": "1a385d1557b817e05599d49b941ea54a07893b8f4fcdd42cb319f36c495f20fd",
+    "png_sha256": "36fb2711e04ad02be9a6b6af320a44c3a0542720af5d2c72db56a11b1ffc7ccb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl09_unit03-the-environment-locally.pdf": {
+    "pdf_sha256": "4c253536112a33d24b20a6b50c97fc14543386d6818b5ab26e088b15eff1a1ed",
+    "png_sha256": "182fa836bbdd93409e208c2a0a9007bdcfc33b158f03bcba0daec3285926b141",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit03-the-environment-locally.pdf": {
+    "pdf_sha256": "aed930ee61186bc2da1dd63f5b1f428aba7b13fde00b7b32587d6e99c6ccc884",
+    "png_sha256": "e8bac95484b465ae4e910902f66684f741fb28b694332434b6f59649fd7c0635",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit03-the-environment-locally-teacher.pdf": {
+    "pdf_sha256": "a6314e4500367bbffa877b3f030097ec7f81d87fad6e05ca471f959365bba747",
+    "png_sha256": "c862781fc9201dd521da0f284324169393d0a35a1c877b3a4b32736ad4570be9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl09_unit04-canada-perspectives.pdf": {
+    "pdf_sha256": "70b77cbf39a8ec725e4f0559084a8da5c81a9e0ab1ab6d15fa38f29d610331f1",
+    "png_sha256": "d4730cbeb7f41e7f864171e9e35ec5f3c58013b76f9361d4325938736ae0a933",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit04-canada-perspectives.pdf": {
+    "pdf_sha256": "ef4c1834f80776d0b79856d2500e4fe2e2ca71a14a1ecac51f2dda98016ef2e4",
+    "png_sha256": "9a579191f36a9a621f43c7ff07d4205431127a56f3e3b077c907b2a09c7f4dd1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit04-canada-perspectives-teacher.pdf": {
+    "pdf_sha256": "1d0d04c2d528df36fd554de21d4fb6d2c3b7790a7d61d38c8520218f970a2541",
+    "png_sha256": "97a19215bc6dd9c6f4eb2694b4eeef0478592fa88330d6ea9a70f41f53f8d6d9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl09_unit05-media-literacy.pdf": {
+    "pdf_sha256": "2039ea06d37d76ea224500e010ef04fbe1388e649ba88a96a3e389f5daf33461",
+    "png_sha256": "8bcd4169a88f7961c17cddf381a3802c75910bd22cf699efb2a1666361eb7ac9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit05-media-literacy.pdf": {
+    "pdf_sha256": "f37eaaf1a2ebdb8b3508bc7920ee076cbbcc584afea85a527b7c6f615ebdfeda",
+    "png_sha256": "6a4461ba17b3ad996099834b9d510696183c1c0abb9e33dc7d7474702d22b9a1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit05-media-literacy-teacher.pdf": {
+    "pdf_sha256": "b2511203a0c5677097d0cadfc5bc4650b327ba31da7d30b713fcef18f0f515a3",
+    "png_sha256": "458139def46aa09ccf2bcb3e242834605db7105b76c8d938a570c3ec5e6026a6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl09_unit06-interview-and-portrait.pdf": {
+    "pdf_sha256": "e08b2c3e1e69202352169104d8034c9f96c26ce3f832695a467681497e7df723",
+    "png_sha256": "1961ecf2f2531c4f9e67529ebe03347717910b575ab30409f5708676b024c002",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit06-interview-and-portrait.pdf": {
+    "pdf_sha256": "0e49a25841fd5466d1fb22b771c4bc18c9aaa40ec0a89258b13044552e2dfdae",
+    "png_sha256": "31834a5088719e16fb4f0386655cc0803a63686a24641ae0a60bd54fa459b1bb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit06-interview-and-portrait-teacher.pdf": {
+    "pdf_sha256": "4a94c04f04339b198b0ececd2d27410b9ac65c8ab7e051f99ea0efa852050281",
+    "png_sha256": "bf858b639f39d932c7f5601d51f3e69c7e36366dfefa34c84eebd47302edf2c9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl09_unit07-mediation-news-article.pdf": {
+    "pdf_sha256": "c0ee04717f3f486300731488de1f345b14bd6a77fc8094bd65f755222aebd887",
+    "png_sha256": "fb459a3aadab4f4334550706e6389ad11da6fcfb4ec16b6f1850ac2d3474e2ba",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit07-mediation-news-article.pdf": {
+    "pdf_sha256": "4da72deb087710f57793528d474ca7ed7e7c28bede69797749a86bb3e2dcb1ba",
+    "png_sha256": "ad86c6dc77bbf2b78ded4ce71b690ba1fbae369d4b2921c9f2d6c2e31e9da2f1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit07-mediation-news-article-teacher.pdf": {
+    "pdf_sha256": "1c1950b318682011dec08f9b72fd7e73ef7c624440d11f12890fc417a9da944d",
+    "png_sha256": "c228fb1af41eb1cb63bfe136470c5a5985891b5006dba6fee4b35f556e77862c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl09_unit08-inequality-and-voice.pdf": {
+    "pdf_sha256": "a8f93a5ce767d63f151d3a543795ec36b8348b97a83088ada76bf554c015f6b8",
+    "png_sha256": "ddd41a91df073df5cb45b4160e629cc1a7d66d7bca71d4e6ea304b59a0886fa5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit08-inequality-and-voice.pdf": {
+    "pdf_sha256": "22729db6d6f432fa812af8f786452e7b4597d134abb5245424ae111424023956",
+    "png_sha256": "f6b6f4de9345c09f29988aab4175a2e838888ba3a019591ca0d8a7aaf351bdc6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit08-inequality-and-voice-teacher.pdf": {
+    "pdf_sha256": "8ebc3bbb9729226da82d2aeedfe1039f8f21d0f5ed3c0fc62d329fd7593ce47b",
+    "png_sha256": "ee01e025465bca6ebb71a241750a62870e7c91ad52a775c05239050dc1df671c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl09_unit09-short-fiction.pdf": {
+    "pdf_sha256": "7edec0dd91b55eb95c4fd61f2f0588a79637877fb833449bec537307b1a98b76",
+    "png_sha256": "6e0a681d7b07c40ce110dd02b253ab8536e44bf842914f512397ce83cd51df94",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit09-short-fiction.pdf": {
+    "pdf_sha256": "e33aced2beca0df924da6de400a02301469e48371798abee2ca7ede3ca3942bf",
+    "png_sha256": "72ab2e1aa4fc38bb0f469c2030bcdf1b5d2d9ddfe7c149c30f16bf0f1fe1248b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit09-short-fiction-teacher.pdf": {
+    "pdf_sha256": "39085fb7b147841ed44b91ba6e8530a4350d83778e8d6207ed37779541b43efd",
+    "png_sha256": "cf9827833ecc169d308929e1f520bd1f097968884763b77f6c7ee918ec0ce69e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl09_unit10-application-letter.pdf": {
+    "pdf_sha256": "1bbc0d6afa70f5cbae2592fb0d515fc9eb7a5c11be6d423369205eea4e8296b1",
+    "png_sha256": "f71ecac6be1797380bb5877df1f94d421e98050bebb2f4097f526756fee4f372",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit10-application-letter.pdf": {
+    "pdf_sha256": "58d1184f1c7ad048d841d41e89ffa42856965445ec30e7d6b5fe58c159de4e31",
+    "png_sha256": "8ff67435e5e7b03106ef79b42f7e953fc7853b616aa28b46109965b9228ebbd5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit10-application-letter-teacher.pdf": {
+    "pdf_sha256": "a2ea4abd673e919042debe9965f129902c24cf019f6cfdb3f786fa38bfda2da5",
+    "png_sha256": "e3f53a22db653f6dc4e9432d87ed0e3c4030e6414bbb3e9234da980dcee03a64",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl09_unit11-debate-and-discussion.pdf": {
+    "pdf_sha256": "d706102a8b54b4881ee220fb1fa92c8526e053f9fbea53f095f676dae5ec3cac",
+    "png_sha256": "04f3faceaed93e9060c939e45b24d92b98afceec105f5313bd500fc45260165d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit11-debate-and-discussion.pdf": {
+    "pdf_sha256": "b5e222f90c43c8f19d7524b47c263d19b456ae61da1b7977d4ce5a93f4bef054",
+    "png_sha256": "a52a422b136dd9c3f080381b394a4db6f0d93f80a303d4a827bf2d3cf2c08954",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit11-debate-and-discussion-teacher.pdf": {
+    "pdf_sha256": "342ac54151d3a09c8a603d19af8c61e9bf5535c6f71c4aa70a482982789cf1df",
+    "png_sha256": "5385f49040758e330396057af6d2293bd9451e67ec6564d2f77f6361cc56c481",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl09_unit12-year-review-portfolio.pdf": {
+    "pdf_sha256": "fa5b3657a2204433084240439838418cacb9df8cdffe5af2b1cc6af17d0f3c9a",
+    "png_sha256": "b4c3e112b544040537883c13ccf13826c8beb8f4ec0e40145f09002313602f85",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit12-year-review-portfolio.pdf": {
+    "pdf_sha256": "4b8651d807bf5b94a3a748346e4ba97e14b06a03b46cbbaa5f8f84a7b5b2d12c",
+    "png_sha256": "ce4efa34ed22df44227aca657e12da8368932082442e07c9ed57e59b8aaa9c8d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl09_unit12-year-review-portfolio-teacher.pdf": {
+    "pdf_sha256": "c1698f8b16c6cfc461dc0470610270f4802a068e533f2cb237c4e73e9599bcba",
+    "png_sha256": "ad25db7201a3c6be92ed1fcf51349b74121d88d616b5396ec86c3ed7c4beb51a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl10_unit01-identity-in-a-global-world.pdf": {
+    "pdf_sha256": "6ea59b9b827abee15026ee376ce119bc9ab04887fdfa408e526121d3b4dbb163",
+    "png_sha256": "70d768952a2c0b9025ca20cb89ebf394980f419aece6f3e8a85277cfc55b9f48",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit01-identity-in-a-global-world.pdf": {
+    "pdf_sha256": "d75cf86f1f0b0b9d2d838f91b80e30b1233277766ce7a1131efa65fcfaac1d28",
+    "png_sha256": "cb50c2a34e482b28cc47830accd5a32e033dd30ab84f058bb12d87b1dacb9fe3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit01-identity-in-a-global-world-teacher.pdf": {
+    "pdf_sha256": "a989f34c4511301f1eaa99f910da89b6ea39cfcee2d25e93769019fe87878344",
+    "png_sha256": "f8600caaade12f2937069588d6d084815cb3689fa892499da15a179028321f5e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl10_unit02-the-world-of-work.pdf": {
+    "pdf_sha256": "7d1dca2c7c1672047acc469afe3f0e8c1cc67c5f95204d22cdaac8613f5e7fe0",
+    "png_sha256": "1ae0c0e9f2c9b98fbf94a25512dcc7b9b6847b31525dd16e0756cd0d3157d1e9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit02-the-world-of-work.pdf": {
+    "pdf_sha256": "e002c691353de35abec9e88f5f295aab2a250136fbc30971fe516c37678093ab",
+    "png_sha256": "44f0e6070a75bb2e1b4537eb2791d60cd2011726fb7a43aa45dd5e8dc82c48bd",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit02-the-world-of-work-teacher.pdf": {
+    "pdf_sha256": "fa7d5546cbbad11571d5eebac3ba06145820491fbb0ec072bdf3f661bbba60ad",
+    "png_sha256": "5ec25f805e935d2f7f4553329c2288d459cfdd841facb994c144db9176539bda",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl10_unit03-digital-lives.pdf": {
+    "pdf_sha256": "818f9a34d65cb0a8b7299fb07c4f178514acc7789f9c65b70a7d889b3739db10",
+    "png_sha256": "9da81a08eeec56eb47ea6af2cb546fb18a2eac2f120459b6b63d286c81a60361",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit03-digital-lives.pdf": {
+    "pdf_sha256": "f76621538550cce06f251756b0ca1275496b109f55f47ea2d5a78c3cc9236272",
+    "png_sha256": "0f2d7aad7c9aeb48251daf24b44de638f8c51f290f587573d9414caa89fa8729",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit03-digital-lives-teacher.pdf": {
+    "pdf_sha256": "d96eaabea7bd06dfb2e9e901e8d3330bfa69e3f72db382040f264d7acfaa952c",
+    "png_sha256": "828af0d72ba7c8bd44ba0f7ea205af545c110acc78fe0713acb6055f13d96ebe",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl10_unit04-australia-and-new-zealand.pdf": {
+    "pdf_sha256": "3ceac15f09a9602b012b93add9bc3d2295e3789cad4a1fa465a172ce6f4bd4b3",
+    "png_sha256": "6fab970cb3a341d3f7b2f70ee1fb6f269d9d4ca76380b77e454058046c3c7cb6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit04-australia-and-new-zealand.pdf": {
+    "pdf_sha256": "0d3f0bd98df2822aedeb02c4bb02c25694bd3973a4539391a84e868af811046f",
+    "png_sha256": "a1d6bcdb8a56ba74750ebc72e92afe58cf47eeed880d3764ee050cddfdc6438d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit04-australia-and-new-zealand-teacher.pdf": {
+    "pdf_sha256": "ba15736604afec12b66e21f41487f59f0929a9acd4437bb718b8870ba47befcf",
+    "png_sha256": "940939011dfde5e67fe1653365d9a3f24e6a6267203be2efeb73afb5ca99bcdc",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl10_unit05-media-and-democracy.pdf": {
+    "pdf_sha256": "2f04dd54104ad90121562ef202ba56fa283ecc139aa1217ccc1a540e7f0449b7",
+    "png_sha256": "75b7899411fd8ba1e6376f5e8f7ee5187a6ddf8eecb7dff8a4a531f1f8d5fd5f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit05-media-and-democracy.pdf": {
+    "pdf_sha256": "b4139a4357b6027b9ac22adf0c7ac78a1a455e3c0dc4fff08a9929a38aca30e5",
+    "png_sha256": "6fc05e8673f1fbeb6ecaefb8fa6701bff85dbfa8d684ff6d70e1568ab3c52ddd",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit05-media-and-democracy-teacher.pdf": {
+    "pdf_sha256": "d904efbd253848d21df76e3c62e42232be66adc2886ff538ed796b6b434a8e92",
+    "png_sha256": "d6db934bc3431f6926e4ace485de773859bea97f9e5e12972362de4d94e9a6d3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl10_unit06-contemporary-short-fiction.pdf": {
+    "pdf_sha256": "67986dc33993f7c507a84456ca9b9bd8830551188ecd4ed6389c587739bed8eb",
+    "png_sha256": "ce1ffdca06872bb040180d5d1b418e08255f8cbab4a3184d1a8436b96e6923e3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit06-contemporary-short-fiction.pdf": {
+    "pdf_sha256": "6097b80e133cd036efa7ece9e52bf237b19050896861b26ad5459850c60e675d",
+    "png_sha256": "8d0cc8f7dfee946ec3f6a7456a3a01f6dfb95d156228a9f4213ea745857fd444",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit06-contemporary-short-fiction-teacher.pdf": {
+    "pdf_sha256": "f2549e8defc11a4b9c537c6cd2fea46f9f8b1fa147d9880a1624f5d7839fb0f2",
+    "png_sha256": "731f04229094cc6ea3aa36fa064db122269108f73aa5d7c9ebf092b74d635ecf",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl10_unit07-mediation-feature-article.pdf": {
+    "pdf_sha256": "ab8c07f6995c80b3f696ed7ccb2296e759ddfd8cd96c45b8b51a7053b0720abb",
+    "png_sha256": "f1c1cc4d49e88729109344290d73eef5b91c8a3151eef3fc50a32d4f2b261e7c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit07-mediation-feature-article.pdf": {
+    "pdf_sha256": "7069750abac74b329d421c3bf47abadeb5371f3711233d9d29f58fbb61d4a81f",
+    "png_sha256": "369091ad26cf8abb7f5b342f0e825c8681b1bd2abd7704c31b754edb1ce02b04",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit07-mediation-feature-article-teacher.pdf": {
+    "pdf_sha256": "2e30153c16068469c809e65d891e26ffabcdf577a6ecafa217d68d6238ac67b0",
+    "png_sha256": "9dc5a95376838c6f91bdb8527d7d848f043e87e90342b79a3dee078df638b7c8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl10_unit08-science-and-society.pdf": {
+    "pdf_sha256": "d00342ef76beb3d26592f916f96c125fe2f2c7c8ffcd77ec2cbdcb8bbdde6f84",
+    "png_sha256": "32bce81501e869ba512122a707682158961589ab2ab5d91e1aa83fc8a4882ccb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit08-science-and-society.pdf": {
+    "pdf_sha256": "b9cf3cc093e887f64f488afa87606def509f2962b8e8babcbc8f211fc351b153",
+    "png_sha256": "dce0b565b2ecf193dff6e96f435f34142f7a64474d9e04bcd22e50df26ac9a27",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit08-science-and-society-teacher.pdf": {
+    "pdf_sha256": "031ac020d432ddd4cb127d6e34a6959aa90283580b5b261d9361f7726d0e29ed",
+    "png_sha256": "bbbe82ef35bd343823951082b54d8e5223ba267bdd27f97e158e7646f6756f0b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl10_unit09-youth-protest-movements.pdf": {
+    "pdf_sha256": "aa0d94335d776706a811a1a6896d66bdefc28e7c612c48cf36f8caacbacc1fcc",
+    "png_sha256": "a5fdc41aaa9a31e6c9c641e2884501d9e26c0aa9fb13cb53b11408225fadc32a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit09-youth-protest-movements.pdf": {
+    "pdf_sha256": "fdaff0fe92fe9a1e0dd457f5c46abf0c8b22d6d391abfca4ff67a832a5a2d3c3",
+    "png_sha256": "9aac37c082286f65131b9257434c36f2bfc97ed2d818220b71ef47852345caa0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit09-youth-protest-movements-teacher.pdf": {
+    "pdf_sha256": "4b978bbd95dd6e8fe46ac38adf2af080d61f87f4fcb0cca2c0b24cc169752f62",
+    "png_sha256": "89d74db6eebde0b6a44aebb44750a88fbe1d721df8c04dfe1a214b6dec94d02d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl10_unit10-a-short-novel.pdf": {
+    "pdf_sha256": "40d0c1619bf9b3cbfcfcd38061e9c79c4351222f7a5c3f5fcb5347389b03a0a8",
+    "png_sha256": "51506a5a3f4e68a02b41465f657305a28a8740e24a2e9a11e004a52a94a87d12",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit10-a-short-novel.pdf": {
+    "pdf_sha256": "14f1520ae4eef5c866cf8090bf06a555e7e2169adf6eb1776f4ec92ae11acda8",
+    "png_sha256": "dc0b364cbd60dc8fc9833016bd289b123a9b4693a1c3164cbb69aefcd4c977f1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit10-a-short-novel-teacher.pdf": {
+    "pdf_sha256": "9aa5fec2ec75a805de2f718dceca214994fb8d0a01af89c7eb598252a180db48",
+    "png_sha256": "56699e217c5eefc5c8a07d39d50810d182f0a13dfa29f193e2be554d59c8da18",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl10_unit11-public-speaking-and-debate.pdf": {
+    "pdf_sha256": "0213983b80ae789eaead0703f76756c13cdaf7668ab4e015b12d3cef223d938c",
+    "png_sha256": "0c5588d325396399fa2c41c9b9b8e68bca63b4f41b21fff94979519e99662cce",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit11-public-speaking-and-debate.pdf": {
+    "pdf_sha256": "c735155d1c29c51f7e3a839667aa1e2d11422aea5e1abb5de6860d4f77be939f",
+    "png_sha256": "4d800e30b8e1f33be037810eaa0142243310182efcb377472935fae3af8d5597",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit11-public-speaking-and-debate-teacher.pdf": {
+    "pdf_sha256": "34f04b0fcda188c9b38ecb69196c8b60af6897f9e1b398bdd6b55f07424fe70b",
+    "png_sha256": "b6678c1b3d3962c59bcf9ab33cee416455cc81a1a23b566a3dfcfda369ce42bd",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl10_unit12-year-review-toward-oberstufe.pdf": {
+    "pdf_sha256": "d6ab4cca83e11253c881bceccacb7a7da4b896ae0e357af0408674c554c473bd",
+    "png_sha256": "edb28a766ce3ad814b5ad33e25f26497f6c264713b86be553717ee12c459e03d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit12-year-review-toward-oberstufe.pdf": {
+    "pdf_sha256": "7ffece30990ed3a12d71b429d0e180daa36ef3bd52e2de397aae38114836c510",
+    "png_sha256": "47d0d22ceb8006ae89ae69a220c1fe3ec4712496665daa710c65b17987464f86",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl10_unit12-year-review-toward-oberstufe-teacher.pdf": {
+    "pdf_sha256": "e549d16adc205a46cba6bbaaaa2e481bcbadf193894e1a6f2dc6b6e8dccbcb68",
+    "png_sha256": "757beca31588a51ad70bc6a97ee4dd0a32e3938ab58d62652a1b3b86c1a82790",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl11_unit01-british-cultural-anchors.pdf": {
+    "pdf_sha256": "85f0da2b25e3432e5c088318f60654c9f14a5753e04f75f750493c15dda28025",
+    "png_sha256": "9b3169d06f786fb0466497ce182583c76a53c6522547d5ccb6cad8f380d85263",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit01-british-cultural-anchors.pdf": {
+    "pdf_sha256": "4dba0628c908b9bdc2d594a21a3df910187786c08c9351260be14800c83793d6",
+    "png_sha256": "0e9719f8b1370c8b97ba667ff3918770573488fbd2fd98f7ed6697f1274300fb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit01-british-cultural-anchors-teacher.pdf": {
+    "pdf_sha256": "87fbc003297c66ea0747361c6b2c862e8d99306cd3f917865775647f9d288ff6",
+    "png_sha256": "6f5ca80f4e290c4f2a9a80694ece5f1c8a89d6973f2cf190c974e62b6c896d0e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl11_unit02-the-american-dream.pdf": {
+    "pdf_sha256": "befd1f4a779f53b17409c32bad38f961bd491822487f297971a27b4d66a1c7ae",
+    "png_sha256": "a540e1a29a09f8028b58dd2a8126599e196ce288190101483a78cf7b0ceb9eee",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit02-the-american-dream.pdf": {
+    "pdf_sha256": "0344b626b5e8c3534c3820dc865883be1327b1e263860f73f1afc0f0914cac87",
+    "png_sha256": "c8b57e9cbec522b1dac9dc89e149d9fae5f4eb4db57160783d59b89a858788ec",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit02-the-american-dream-teacher.pdf": {
+    "pdf_sha256": "d7993ec0adb1c911532db985e71380566b5b5e0b157b544da9e0272b740b6f15",
+    "png_sha256": "d67fde3caec2cf1f62efe190c5efd5219b9de1eed4ad97d88de5ca9d2e8cc1bc",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl11_unit03-post-colonial-voices-intro.pdf": {
+    "pdf_sha256": "a516557eb1ab5fc62f06e0c9506ae4960ba2f5dd4ffc17b71e4e6093b6080511",
+    "png_sha256": "600551762329469ba5be8cc1a53267cdfb7b236c0a5c26a19d4794d8ff51bf3b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit03-post-colonial-voices-intro.pdf": {
+    "pdf_sha256": "c5f740cbc81d69734f2312f52afc0ae281dd1b007aa7303437a6d1071cd556a7",
+    "png_sha256": "7bb6bbb660e283a828d75489ed3aa8203568ef86994e65e2ec46a7747a428dfc",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit03-post-colonial-voices-intro-teacher.pdf": {
+    "pdf_sha256": "355e6c40b557290cd0e1f309fb48f405ed5fd8b6476d51eeb116e02bc32809d8",
+    "png_sha256": "e3cb3e7a5fd927707116ad2687eada3ee23d5fd0197e8160c60104823b116a3e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl11_unit04-short-stories-and-style.pdf": {
+    "pdf_sha256": "2837a0c2a4ee57873b287945f9b296f543d68b61848c288d41c736f15f7690a7",
+    "png_sha256": "2b424d8eaf03bfe59c90dd63a442a1bda49a96708fa383a5611b42efc92cdcdc",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit04-short-stories-and-style.pdf": {
+    "pdf_sha256": "3225d28f2266e0f38e2f332ca1028065bf9c9e7f97d70db71aaf9c5e21e71fba",
+    "png_sha256": "a55695b82600ffc376a10e713fab1ec307931fb4ea324834510f8ccce76d98cd",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit04-short-stories-and-style-teacher.pdf": {
+    "pdf_sha256": "10d4a315b7a85cfa8a219579197c3c733c62f8e8ecb4f1e12ece04451dd2de22",
+    "png_sha256": "7d7964981d168a5b449ab5aa8789166c84242590083f7d22ce8ed0ae7022cb9f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl11_unit05-poetry-from-the-anthology.pdf": {
+    "pdf_sha256": "6d8788aa3ef5c6ff513293bbe7f35e95c306c1cb03c88f7fabd574bd609e4e75",
+    "png_sha256": "905ddabfa3865fdbdc9afff7d0b83fc23082629fea7608f3322b5f0f48a21994",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit05-poetry-from-the-anthology.pdf": {
+    "pdf_sha256": "21cbfede318c7d02e65a565f2b6c60a3a06bf197b84faa0ba1f76a0502a9be06",
+    "png_sha256": "707cff5e14a9e0c62faf2d3ce041d2d92e216937430b2874cc91ba5be46236b9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit05-poetry-from-the-anthology-teacher.pdf": {
+    "pdf_sha256": "9aac117d321a9043ce76b16edb990bdac8894972c4380af2111185135da51031",
+    "png_sha256": "760a84a8aa63dc16eaf3f1ecdf52f3da2bb24b0c947b8937acc3b4e9322fa229",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl11_unit06-media-literacy-advanced.pdf": {
+    "pdf_sha256": "3776928300246577c561d54fa0dd7dbf69cd8cfffa13c31c0297f0e0dbce11b2",
+    "png_sha256": "0b65a2ee439b488f448deed3ad0ea788249b326de51550d24a0186f5480ddc68",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit06-media-literacy-advanced.pdf": {
+    "pdf_sha256": "2f81e74f58e195bc51e45370c9aac526ccfbb3b4db45af7afe15a8140a0e9ea4",
+    "png_sha256": "45dcd67c5ea3e356a3a153e5a6b7aa8f373f80f7b4370d94decb433a9751a362",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit06-media-literacy-advanced-teacher.pdf": {
+    "pdf_sha256": "0ce32857e34dd93316f02940825e842f2c4cc27b97922abeb59caabe735e5cf9",
+    "png_sha256": "6836d20a77a8fbd9bc1da38680c964230331f18406b9d1b497d96afc8a7cf964",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl11_unit07-mediation-as-a-skill.pdf": {
+    "pdf_sha256": "68c449598bb976a245b26cb16b56b4c2721df28ce1872a0e588d8f183921ae62",
+    "png_sha256": "cfd6edcdb984ea96fdf8f073d840a36319b9a3a2bbe4593efeec774e01c79c8b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit07-mediation-as-a-skill.pdf": {
+    "pdf_sha256": "7b4b1aab296531f1ec882d85bda73d55843d61a81d7c3a497577a014b716c7bf",
+    "png_sha256": "01b06d87c35e60094e60edc250443a43b592c4e04ccbfb38269ede6bcaa97989",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit07-mediation-as-a-skill-teacher.pdf": {
+    "pdf_sha256": "6197508a21e84bd6bafd0d42c76113ae2d0f35fc231308278410b5b86cd29f7b",
+    "png_sha256": "e91ffcc007543539d13bc03f9757437e9a199d2d18b549f775bdc6451bf23fff",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl11_unit08-opinion-essay-writing.pdf": {
+    "pdf_sha256": "b8a327de133c1b7afed776efe9fa60f219b0de5ff2b375f27d808e388ae634ba",
+    "png_sha256": "78f7799e3564c48e9c536261b285281fc6ee70138870e0f48fa7102668bcb55d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit08-opinion-essay-writing.pdf": {
+    "pdf_sha256": "226d3d3360d59d6078b0cac95273f87ada03f4c2e928a1c8572a0b3fce922edb",
+    "png_sha256": "ea907c5c1e0e4f5e7185e4fb1719d29818ce7e82273c0b956b2038dd2fdcd35a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit08-opinion-essay-writing-teacher.pdf": {
+    "pdf_sha256": "87ae45ea60043d9653fd0bbb20af685c170fec409b5d95ac64319385912d06d2",
+    "png_sha256": "330c6069ab74618de7c6264d5b04c5b365b29788ce7ad9bc8833e827e21d9e76",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl11_unit09-a-modern-novel-bf.pdf": {
+    "pdf_sha256": "a621da8fd28a9c739db26da4a22c12f796e8c191c62310bd2729a25b2c1324c7",
+    "png_sha256": "be81bcacaca2ba3531fa4b7733cf7681d3d77f8b351b1e061eddfdbf0c051e8a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit09-a-modern-novel-bf.pdf": {
+    "pdf_sha256": "f3f2ede24bb8a88eab2ef85cd08ac03f7d8c26e92144d6b04cb53f2bb8a95a4b",
+    "png_sha256": "fe56b4f1bd3725fdd6b68d36900eac79b3d5ae48ac0162602b90011b18d02737",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit09-a-modern-novel-bf-teacher.pdf": {
+    "pdf_sha256": "bedeaa224a2cbb9ea142f14f44927cbe839ff2279e88bcee7d5d5812c3f4f174",
+    "png_sha256": "041138ed38b9919e0f4882b66ba862fac9d6e24f148b9198997af224fbd29f0e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl11_unit10-a-classic-text-lf.pdf": {
+    "pdf_sha256": "881ee5014a8f4457cce8819d7100d16e8ccc2a8fac2b1a453b00ac97052dc379",
+    "png_sha256": "d68b88b0a112e3b130d1056d4dfdbe330db2eb65916e997abdcba3e07e004449",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit10-a-classic-text-lf.pdf": {
+    "pdf_sha256": "145d47772fcca4661a60016702bc18d56e6e01b188b7d1d769f23eee34f3a51e",
+    "png_sha256": "4ac78720d72a8edf34dcfd94d742ea9ed0b4d6ba8d798cde35d4007ce68191e7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit10-a-classic-text-lf-teacher.pdf": {
+    "pdf_sha256": "d973d4c9a8b72986a72636f84397cb7c60ff03a4390c0e8351384261232bc88e",
+    "png_sha256": "1b6eb16d43d80c6286a9bbfebfd27632cafd99b433bda61756d7feed72f70289",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl11_unit11-public-speaking-prep.pdf": {
+    "pdf_sha256": "d0e1183c6f71bbe2596253a83c7fd5a90f2edd6e48bb9f2a791345924cb2087c",
+    "png_sha256": "a2a1473fa998f9ea1df7c0b84cfba51cb1bc6cec9631f468ae9f947794e0bf70",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit11-public-speaking-prep.pdf": {
+    "pdf_sha256": "f3422b04cf4a598b360499fa87ae481c4dfe10552e57ff9bee2e415527c3b710",
+    "png_sha256": "3f92675ea1a6f04384e0ad056046012201ee4df6c572b4cbeff4f0da13f41889",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit11-public-speaking-prep-teacher.pdf": {
+    "pdf_sha256": "3f74a6c736336ae2f7e3b0ccdc2695a1ae638c86fad30ba7c38a0e0f1d34b9ad",
+    "png_sha256": "534e0d6e5b00bf2eea85f29e6ea973757e511d9f377bd724098084af003f7d05",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl11_unit12-klausur-prep-exam-rehearsal.pdf": {
+    "pdf_sha256": "e61f385f2477baf773508e4bbd91c620931ea46b6d65c301985986cbfa4e855b",
+    "png_sha256": "f39aa7aed6108cbd5912ac7d128b877af33408d3f9662dcbc2dd646ee04ce4b1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit12-klausur-prep-exam-rehearsal.pdf": {
+    "pdf_sha256": "6f2ca06a64f13cf6c0fc5c661def45fc856da382c1b52644c8a078436a2d2d1a",
+    "png_sha256": "4698ee69a62237145b03344e355a8180f857a139b4c9125263530dc33ad44bc4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl11_unit12-klausur-prep-exam-rehearsal-teacher.pdf": {
+    "pdf_sha256": "a03f4098150fc48f77ac45d3f712d2379f41b73b458838fee3456074afd1b9f4",
+    "png_sha256": "da6f4af8feef493e39a2ff2c30c0fce001fc1309f64b3bad5b3095a4404d4ea7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl12_unit01-dystopias.pdf": {
+    "pdf_sha256": "2483654078087a6b6ec8b5e0bc32cbf353b3a6c7cc4709930ec6e15a8aa6c45a",
+    "png_sha256": "1a7a62a622cca474a67a973e165f30dc83fb6d2a886b0972e917ab6a76014504",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit01-dystopias.pdf": {
+    "pdf_sha256": "24479adf2680ca94cb2b776279ec54a997ad0c16c0f93f1e4df77a7a01d58e25",
+    "png_sha256": "6571185536a3f671443d8efd6adee5112bbbbd03345f7c1b819c824caaf2dbd9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit01-dystopias-teacher.pdf": {
+    "pdf_sha256": "2cbd955ca62e0da31d9e97ec09c11d00e8de03af5b1dab55ea84de5304a73988",
+    "png_sha256": "d7f95169479a155bcc6db51924c83c7629ede3b8cc1b696127a8649ab3543404",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl12_unit02-globalisation-debates.pdf": {
+    "pdf_sha256": "ad8b26ed79d5819330324146deb2110809865377c427a254117418595707f2de",
+    "png_sha256": "65d030c89b54fc4c33efb1ba725d38ff5963167a262ca5f5697ede332ca5e62e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit02-globalisation-debates.pdf": {
+    "pdf_sha256": "1f26f11c22ab7a9b9113dee4546697e788c2f70fc19ed2cfe92046f86b4bc595",
+    "png_sha256": "544ba058dac4c9f16eaf0e37980002d0e1f5c7155ce01105e1293d60d1995f42",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit02-globalisation-debates-teacher.pdf": {
+    "pdf_sha256": "779cc45f9d6a118bd26bf63077019fad4567b5d0be8f5575f3fb087237a94159",
+    "png_sha256": "d12dd3d3435117aa6b973048a98aad374d7b546848c2fa3beb4d830eba407fff",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl12_unit03-science-and-ethics.pdf": {
+    "pdf_sha256": "b14809423d51058af74766c2b5ff967f1cc9c316210ba21c3b27a81865c1f83c",
+    "png_sha256": "c16d934ec8d8ad7c159e729fa0e19f18d8aae2b90093e109f4dfd4094c7db78c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit03-science-and-ethics.pdf": {
+    "pdf_sha256": "e1e6c6ea49a155e0a4a32fcf5d9e3866bc69f8d99d7a0203356cde1771d70e09",
+    "png_sha256": "2457a284cdc4fbaab53fac681a6651b2361a27d3ebbe211dc73c5be5ad6c44f6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit03-science-and-ethics-teacher.pdf": {
+    "pdf_sha256": "a14c9da0b409152cdc63fe967d8e6dc5efb804d9b9f7f7f28f6e32aebc84eb31",
+    "png_sha256": "c8ce470f9fc093ff55c9d836d77b66ddea0ad04c7217e5e5cd048ef6c8e1c5d5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl12_unit04-shakespeare-extract.pdf": {
+    "pdf_sha256": "af13ee2d0e496c63ca3afb9b156490896c66b5eb4a99cf8a305594190f93b508",
+    "png_sha256": "0d4faf07197c691ad2efeaa177a450ff02da4311d8625a97b63379da359f7485",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit04-shakespeare-extract.pdf": {
+    "pdf_sha256": "61e690798a7d492ea47b3a90288e6e14149bf2d08ba05932dc604129ce148c7b",
+    "png_sha256": "0fba46e796489c41fdae1e4462f442698c907276e3072fcf562f1398f8039d39",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit04-shakespeare-extract-teacher.pdf": {
+    "pdf_sha256": "62480f9e309fcd497ba61b635a96c8a49b488418d47b63e2289012a1e4d24456",
+    "png_sha256": "932f32141dfc4ca5f90fe69ebd2d51253af4ca5eb46a4f658055fa3980bf9c84",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl12_unit05-political-discourse.pdf": {
+    "pdf_sha256": "12cdd911e85bbdbe0111d69e119e84734f7f43a384630a603505af901c38f4a4",
+    "png_sha256": "45cad2a96d55dac3ade8853477373f8439a1d4837cafb573b1a7047d2e4af23c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit05-political-discourse.pdf": {
+    "pdf_sha256": "a509dd90a910e88a12153e4e74ffcd276c06077aee0e889cc3a4f6c630d7415d",
+    "png_sha256": "adfc972fa16cc7950237dd51b311cbbae77f915531226690503ff93211218532",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit05-political-discourse-teacher.pdf": {
+    "pdf_sha256": "3c47b649aa1d7511051ab0378332bf1e2cdf5c502a93554e843f6ee73f880ead",
+    "png_sha256": "62171981c81923b355e6997830718a3c97f1dae0c9c75a113585480072ad48a2",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl12_unit06-the-non-fiction-essay.pdf": {
+    "pdf_sha256": "8f67fc6b1867a3a746e22c9072c18c729ad201c535de40df37ee3c9eb1af2655",
+    "png_sha256": "bfedf0e8bf58edfac22bad0cec2e60eda46bd631d83cd88c7ac0a6fcf3f6881f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit06-the-non-fiction-essay.pdf": {
+    "pdf_sha256": "7d1ce92c1ef102f94d4a1ee23fe696f867334613a6de195dcbed74dea31f54d0",
+    "png_sha256": "3b462f6b0e365208e114d5182f8814f35443258cd8887a3068871eff12d41a5d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit06-the-non-fiction-essay-teacher.pdf": {
+    "pdf_sha256": "2e3fb3c402500791430f8735b7ce9b52d0fda7021a9d52cc6a316ebdd37b8a21",
+    "png_sha256": "40c75a457f3db231a237b9bf51beba7dc30e30c67ab36e0ff575da7845d6518d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl12_unit07-mediation-academic-text.pdf": {
+    "pdf_sha256": "e98a3e427f7c82ab9264388e3d75f76966bb999fb626a70bb5423086ee15975c",
+    "png_sha256": "f94e68f1d0e540fc9827f582e9ba255b10ae40bcf8919f7c7126c89dc123d883",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit07-mediation-academic-text.pdf": {
+    "pdf_sha256": "28db96041d2fcb6c8e553fb19bde4e99c67990e6b079cb680789d4753768e805",
+    "png_sha256": "4db3472f4de9bc53b2b081bd2b6186e2649e50f00b2b68b5430ced62b5a64f9f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit07-mediation-academic-text-teacher.pdf": {
+    "pdf_sha256": "3102cf8cd0681e3f3d08f608c899122bacf7d8f71a56b619e12c64f4721b87e9",
+    "png_sha256": "4225addae64bc3b71bc217f80efb54f1197c4f292b1f3fbd72f06471cd492f73",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl12_unit08-post-colonial-voices-advanced.pdf": {
+    "pdf_sha256": "b0f40eecd61d1d9636809c3817bc6482766f111efdcea036b0b34b0085141315",
+    "png_sha256": "663372ae0d4d9db3161f08b24e689280c8c83f5269daf16d7cdc836ec29fca06",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit08-post-colonial-voices-advanced.pdf": {
+    "pdf_sha256": "6c9f49f719fd2456337f3a73fbcae8e13341620b33c8b4975c5bb47b36a67993",
+    "png_sha256": "bf05918ed7eed0bbf2395fee378b105b609efc335bd91879b7f0690c168b5bb8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit08-post-colonial-voices-advanced-teacher.pdf": {
+    "pdf_sha256": "bf7c31da25a0174aba29cca01a98bc4a7bde44d728bc6a4d91bfe00ff7e76d3f",
+    "png_sha256": "77ed507659f977eea1ae0df264c161143c22fcd02bc51cd8efb27fc0d1fe5909",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl12_unit09-a-novel-in-full.pdf": {
+    "pdf_sha256": "3a50bf47dc6718455c75d98b1977dba59a9a032947229c29c6c355aad94f3473",
+    "png_sha256": "ef98f075dd268043bb82384471d77ffe9ad3b24c999ee8da17be04589f4d6156",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit09-a-novel-in-full.pdf": {
+    "pdf_sha256": "c692a45ef316ecaccff0bb4c9b5bc153f8960029e38d677cd7295d94b54c57cd",
+    "png_sha256": "f16fd1d5a2f2b8ed58a1880e9349c7668831540e9952856c76dc01182c2f0d6e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit09-a-novel-in-full-teacher.pdf": {
+    "pdf_sha256": "f4cc1e9bd30475b41fc2e5cddabca593d1df5d36b8d48191b614e4c89e41cac1",
+    "png_sha256": "422d9fcf9d3327d85d168988df25e22b9e5d688b105d4a012546d10080b51fdc",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl12_unit10-kommunikationspruefung-mock.pdf": {
+    "pdf_sha256": "9f96d7adc7fc883c882d13a316c0573159ecedf7dca42195a4d0c34c0628ca16",
+    "png_sha256": "9ff427184300f97373e03e033ec62ca0a3b6b4a1ba073e78116e1d46ec1baecf",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit10-kommunikationspruefung-mock.pdf": {
+    "pdf_sha256": "ba4d9f5bbdff6a85f949b68368f32a1fca42fe2911832063db108436458b7d63",
+    "png_sha256": "23cfc4204a634e0b0aa6c3164fd14c172d71b272897969cc312cb20ea4c60441",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit10-kommunikationspruefung-mock-teacher.pdf": {
+    "pdf_sha256": "a1d1bc0b7cf722c31a6c05e8422ff1919f847b13126a651716952ac6d4a1b673",
+    "png_sha256": "ede72ffa9b1f4f5704e848fb1158989236228b072d0795960b9036e9eb1988b0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl12_unit11-klausur-comprehension-analysis.pdf": {
+    "pdf_sha256": "76ac8c36cbcae41fd0ded54cce9b0e49383bbf40e35bbc02a9149c640f7d8b68",
+    "png_sha256": "3c123ec943e09eb74be022f2057f8cdc6191b2c21ab357f4e93d348f6ef8caf7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit11-klausur-comprehension-analysis.pdf": {
+    "pdf_sha256": "a6db2be13f29c3da30bca690bd726e5bc3862d2b945f3ee6700048174e483617",
+    "png_sha256": "34666fe599768bb2e511bb0a864fb381c5792359bcdcce34f7ee8c7530d9bb2c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit11-klausur-comprehension-analysis-teacher.pdf": {
+    "pdf_sha256": "b55afb37c31719e42d8727583f263808e1772bf9a93fb090528f35c21930ab98",
+    "png_sha256": "60082b69a7bffee81b2c213ca36759c6385d544304b11f69946f8854a2aa117d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl12_unit12-klausur-composition-and-comment.pdf": {
+    "pdf_sha256": "ad6fa894738d3af9b48ce791e54d058be67f8313fcbf34f207cb5fc01f3c8d0d",
+    "png_sha256": "90c18d1b21fd1e06b8da2fd0551cd298d8044585925b64f09408c8cb418830af",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit12-klausur-composition-and-comment.pdf": {
+    "pdf_sha256": "26bef6cd8f9c2460197d23cbe64d3614408ae93d32d357f29f5420afbb8b765b",
+    "png_sha256": "936e750a55b2437477ed3cc9e5366537d6ff0085aa45e090f31ad62cb04b3364",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl12_unit12-klausur-composition-and-comment-teacher.pdf": {
+    "pdf_sha256": "194111da2e19a2b38cb7860aa5ca461b41795404e32480e1a5f14652f4cb0060",
+    "png_sha256": "dfe86b85fff14f6bb99b859ee1008d8c578e5f2863fa9c7202625905874254d9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl13_unit01-globalisation-and-the-self.pdf": {
+    "pdf_sha256": "ebbefadcc49259641650f85f6e9292c428f8afd33f59592dc0acec0534bc3810",
+    "png_sha256": "079599ee10ba4c9b0451b773e8836b860d4f7019f340b61ad414e439c5274cb2",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit01-globalisation-and-the-self.pdf": {
+    "pdf_sha256": "eb1bbc81afcf23141acfe1ed2ad2ab5ae58d1537d39a5cca37263ee8829e909e",
+    "png_sha256": "ec83ab32c637aaf386684a5091802cc00c57d10eab4a59798f0fca8323f8737a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit01-globalisation-and-the-self-teacher.pdf": {
+    "pdf_sha256": "5a43fe34c8a4f9d4206d515cd792451893aea7e8c88e3a3727e96c6d6e02d78d",
+    "png_sha256": "590225ff06ff1102cb794758bb9c6cda4d8fd5d1170414647308cd26e90ebb8f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl13_unit02-political-discourse-advanced.pdf": {
+    "pdf_sha256": "67e288e1a7d8ba5c4ddbe29154c1467304d415b1beb8134e9808893eaab6914a",
+    "png_sha256": "8554a47fa503acfa00bf12c20179083bdcf111f9056e6a8e44384fa7bd611c14",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit02-political-discourse-advanced.pdf": {
+    "pdf_sha256": "ae188791ca9fa7443b74104827fbe5a4a39db45275b1470f9f143804c3b5c7f1",
+    "png_sha256": "d535096dbfab4281517d9e042059566e681aa9db995544d00612cfd8d6dad7b5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit02-political-discourse-advanced-teacher.pdf": {
+    "pdf_sha256": "d726561637d63e4e9dbd18172ede9da6e2e823b08bc68f878bafee65e5556e6b",
+    "png_sha256": "6ad6730209f18f6cd66d65a640b8e198e9c2dc6b7e44e1c4d4690ad44439bcac",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl13_unit03-dystopias-and-utopias.pdf": {
+    "pdf_sha256": "e6ddbf1645580acea0873d09cb8832380e224382dbeb60df1e9c46453f468e8b",
+    "png_sha256": "09d35e28365c9df6e94da9af36ad7a96da7a5a68ab26eeaa45830b296e6e44d8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit03-dystopias-and-utopias.pdf": {
+    "pdf_sha256": "cf564ec5658858060e599f826d602f190768d31bab73ab0c825202a42834327a",
+    "png_sha256": "ccdfaac36689f0f9f547e5c88eb787f2d85ce878c3e927e8e3c7f543be2926a9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit03-dystopias-and-utopias-teacher.pdf": {
+    "pdf_sha256": "84870bcd28d42b934af444dfb42f352e4876a61b8a26afe2173dd4a3170d832e",
+    "png_sha256": "ce5fa7f3dfc9995d9f43d82bdac52b47755a92d338e1e17d31b4361b9735ede0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl13_unit04-contemporary-poetry.pdf": {
+    "pdf_sha256": "109f11e8b3e927ba88d3fc2dbe879db817a05dc28f77c73e7c0a0659b34f9d57",
+    "png_sha256": "6cce837e79a58edea7ae8541cc5c4346d53e62ff06a18f88640eb11c88e81c9a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit04-contemporary-poetry.pdf": {
+    "pdf_sha256": "6ef83c337205c143ce1ee3e53b5625b5e458f67f1b9dc7c9e06ef90fcf3fb592",
+    "png_sha256": "e97980294c525695e7e178488f1849263a518e34190c3fec49ec2ad7366d5282",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit04-contemporary-poetry-teacher.pdf": {
+    "pdf_sha256": "2df383fa28b94d8875c43ce18321b4d0a53069115e2a3a0df6d7468de284542a",
+    "png_sha256": "6faeb16561c5feb83e8c11958b861da66f51ee138a1f046bc1a24e35759194f4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl13_unit05-media-and-public-opinion.pdf": {
+    "pdf_sha256": "b427d18916598c55045cf1eb0598b1b510c847a2925dda04da65f1c1814415d9",
+    "png_sha256": "a7033875ca805c96d5ecd66683e1ed2cbb1f67225c885196bc9845b78b8eb5dc",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit05-media-and-public-opinion.pdf": {
+    "pdf_sha256": "4ca9a2d82ffb9d6e6ead7a9cbfea86c1567dd736278da2d2b2e95da6bcf5fa31",
+    "png_sha256": "c4915445b477de1d7eb89a789ca3f2378be4550278b0a6fba62d6b18498189ff",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit05-media-and-public-opinion-teacher.pdf": {
+    "pdf_sha256": "6a529829b1014f1fcee41b83c6e45edff35eb4dbe8fc3b3f63f9a6b4d9ab9576",
+    "png_sha256": "7bd4fb0c9db4feee8978f03dece1f8e2102890673dcdf31cbdb2b5e9bf6118c7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl13_unit06-mediation-policy-text.pdf": {
+    "pdf_sha256": "81f681f42b8876177dba4189351a5f2cdbecaa6ff766078d57e76ba6e0315392",
+    "png_sha256": "e6b01af94b3cd4c3a20c2310edbafc43d61569345aca921671c1c7ab3a11097a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit06-mediation-policy-text.pdf": {
+    "pdf_sha256": "8dc9810e78397613a39259f9dd1332350a05c756354ca86b126edab9ba168278",
+    "png_sha256": "19642014532624917461ab864c1b0aadf2a06232df6ff700a4922ebc23407584",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit06-mediation-policy-text-teacher.pdf": {
+    "pdf_sha256": "cdf382ec5d5c66fd62243b99ba362c9907638f33011ed67b50a9335ba0d03cc2",
+    "png_sha256": "8f9bed9cb33b208abf5231d66e3fc3819a3254932085e612a40376981dc51a7a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl13_unit07-the-abitur-essay.pdf": {
+    "pdf_sha256": "c2409784302f84eb92d66d847db8b7f48f5bbdc714b071fd74e9d40cdf0813cc",
+    "png_sha256": "a86fb5b4afd8dc8ba7d04c1e569c102f6085a1ec82465ac425817d14675c47c0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit07-the-abitur-essay.pdf": {
+    "pdf_sha256": "840544a4014a30a0f70a3a27b613af5581be7f6e3d61df6af8682fd2f5151f2e",
+    "png_sha256": "342c98b0f3182f9120c300689fea6a46dd87f07091dde8cb4211ba69e3c2a0a5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit07-the-abitur-essay-teacher.pdf": {
+    "pdf_sha256": "941da97f65b0003adc86777aaaf4b2d985754e753b21201358bd01fadc6a2e4a",
+    "png_sha256": "ddba791511e218d3e5131bacb2177f5f2810a02684f3f0aa4b09c44360b1f01e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl13_unit08-the-abitur-comprehension.pdf": {
+    "pdf_sha256": "930726697bf2a83a2955ec297b211aef7a79e8a0f5da0ca28f85ce9f79754a16",
+    "png_sha256": "44f5c7992ad55742d92b60b53d3a38ffd07307577d3cd91002069372ba2059c6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit08-the-abitur-comprehension.pdf": {
+    "pdf_sha256": "4be499c93b53c56a092ee4b6179e6f186daa915f9581df711975327b6c15b83e",
+    "png_sha256": "54501994f1ba7a48da846c3647b9897d977c1351e0fb94efd83337f90a694a0d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit08-the-abitur-comprehension-teacher.pdf": {
+    "pdf_sha256": "0330232df8cf9c4610d8d5fae323b21fa86379c03103410e956ac968509c2d94",
+    "png_sha256": "c23f60f479243f76993c5fbfc3e0a8a4f9cf7e2b5e75f776c96564e52ac5a990",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl13_unit09-the-abitur-analysis.pdf": {
+    "pdf_sha256": "ce507ea49c46d7b9fb3dcc58970ececb6932ebd23ebab5888e49922fc386b81a",
+    "png_sha256": "20d7df4254178f61a80378d19876672fc49729dc8b863101bb1d679ff1fbcee7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit09-the-abitur-analysis.pdf": {
+    "pdf_sha256": "c5111fd51af3e42e24e719ff6d227b81ec0b13dd997f7aa77c88737f58d83f3e",
+    "png_sha256": "dd183cad24087c16066a3f18bf852b34e9134a373281f7ae6fa136951cd7c993",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit09-the-abitur-analysis-teacher.pdf": {
+    "pdf_sha256": "a985cd676616d46833b7abbd822628b3d289775c567cb75f9dca2cbac89894b8",
+    "png_sha256": "31e00f27a6caed0efd2f719ec07a510ced5ce4a36aaab7343c9d21feb354e2f9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl13_unit10-kommunikationspruefung-full-mock.pdf": {
+    "pdf_sha256": "8b1a8828a3e357e73d64222acb3411f7b0757986c4ba1dfe75cc6d5c0e46aeee",
+    "png_sha256": "928943750ed2915d8b26c415b89ac5a0446e42717ef4f81a2ea289dfd604caec",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit10-kommunikationspruefung-full-mock.pdf": {
+    "pdf_sha256": "6937052674ada0f22cfbac9e85036b1367f5a30b020c7bdf84eb293716a17024",
+    "png_sha256": "b7f852abb6c87cfdd6e1d316e19e9a602112a98f7539ff7c08a5912bf5624012",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit10-kommunikationspruefung-full-mock-teacher.pdf": {
+    "pdf_sha256": "11509cf022bb876e85f250e5c215914d76c1751df15b23cad9bcab2052e84794",
+    "png_sha256": "9c6c011922b1da30e7ad17976f4782a059fcba17844ddb369285b09d4676e2e3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl13_unit11-issue-framed-debate.pdf": {
+    "pdf_sha256": "722baa05d47c5d39f604eaa211756299df816abac2460e4d6a78ffcab39a61c9",
+    "png_sha256": "da193a2bf0cdca52625280b453f224e6f067408d29e6bfa18e612be556850122",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit11-issue-framed-debate.pdf": {
+    "pdf_sha256": "1fb96cc9a39db9aaae6f18dc6e554d45ecbc4d8386e9ed403013370949220bd1",
+    "png_sha256": "7e4d7d5edc46a65a60276ee4a881979483db13e5a39b646415dca00e5a3b2be4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit11-issue-framed-debate-teacher.pdf": {
+    "pdf_sha256": "ea2f4e3016647074fb8b256c57d1a5cbebeef0b075e721b1e7b0d9128ffd39f1",
+    "png_sha256": "da29363dc5ae6883052af936fa584bef67d9d18375cb273980934a98cc5e1b37",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-e_kl13_unit12-year-review-and-handover.pdf": {
+    "pdf_sha256": "f2b75b18ebc3a07d7c32c6b93f53d4fc1a0f44e7cf95842ff822762fd3f68cf4",
+    "png_sha256": "83a0894286a5c63da8b0e8d31ccd4a9012a1edd1d0b10d16508bdc9d21761e2d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit12-year-review-and-handover.pdf": {
+    "pdf_sha256": "fe04ab0c99f8a07262b81d368bb606920d3a57b63daf50168fe77727ea1c97d2",
+    "png_sha256": "7adbb62666c03745c3d07bcde500ee8e9cdc975aa73b4a0295cb9a89844a9b67",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-e_kl13_unit12-year-review-and-handover-teacher.pdf": {
+    "pdf_sha256": "d01f8808a625829524720189b4ff5e102a45b8b0a3a0e577b63983f365d0fd85",
+    "png_sha256": "4b1b8a0edab0d8ac1ca7881038e145851875acd0acde68147ee0afddd0ad9971",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl05_unit01-hello-world.pdf": {
+    "pdf_sha256": "2d0d51a150ed4805d1e13d52121b600c0a2959f148637beaeb8f74cf2a77af62",
+    "png_sha256": "79f81cb7263c2b2a0931fdf67af8c4ee624c74b8d2fefbc7ffafc8ca0268eab6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit01-hello-world.pdf": {
+    "pdf_sha256": "81c1f328b6d4b64f53c945c3d2ab34affd92e2c6e5295eca02981eec4bc31a69",
+    "png_sha256": "df5c59afff1ba3897eb7e8e31e35c392f28fd3da9d95a2121072c2efa0aa4ffa",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit01-hello-world-teacher.pdf": {
+    "pdf_sha256": "d87bfd81c89a627f9e8f1187751ed2e6c32f3880385ea5aadeed75eff7fa90f4",
+    "png_sha256": "a9fe6fa467978749b0e1c20ae1129f8cbc59df65f627c2eefa11d6ae8ede00b9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl05_unit02-my-family.pdf": {
+    "pdf_sha256": "1ce42c4d5f7db832a7b26942b56bc2a3e37039a828831946cf1631428785c953",
+    "png_sha256": "73b30bbb64cc2e396ef1731b4edd3a01e6bc94931d700174ca9b374d4a70cc43",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit02-my-family.pdf": {
+    "pdf_sha256": "194ecb15ea87d691e155bcf05b9408fb6a8171a6bf66ac42889817d3e874805e",
+    "png_sha256": "226c751fa00c60bde91aa7e7dec2645800a45e0d295d8121e468735d598770fb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit02-my-family-teacher.pdf": {
+    "pdf_sha256": "c591331390dee5d3a5b18bcb06ffc41353f6e4c0719313eca7fdf590288aab8a",
+    "png_sha256": "61e984bbc3f6673cd9126c05f01e7eda90e8e560a05f54ead15916cbbdf1b8e7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl05_unit03-home-and-room.pdf": {
+    "pdf_sha256": "b3e0e4e0ecba1df199080a12071880d13eac6ed83d1dd2c5a7204f2668e5f7ab",
+    "png_sha256": "8a54087d88229266caa7b9cb6f3227788cc2145f7c9dbac97e22bb202b029d93",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit03-home-and-room.pdf": {
+    "pdf_sha256": "768c3925e2a72fda0ee8b9f7fb6742623b37871369f3761bb82107d67d4bb8dc",
+    "png_sha256": "2e4deb859030c2b7c4654352d68f4a022a682d98d11b5ebc74a8e93b25b328a9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit03-home-and-room-teacher.pdf": {
+    "pdf_sha256": "94813f9a4cc684441c1a1d06fca7135bb0af0553929415ea706f53f7091dc588",
+    "png_sha256": "d23ad5f1d21f54deb4c1f6c13751826d4c968dcc9480b7fc87d576ffa3baa574",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl05_unit04-school-day.pdf": {
+    "pdf_sha256": "195bb59e4d6d6587b9a849e40cadf2c3ab8906d6c03d7c84057e24c368cc3e44",
+    "png_sha256": "8fcb81b67775563e8e5cef306f8e108c170a0ea5506c3aafdca8d626abd42aae",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit04-school-day.pdf": {
+    "pdf_sha256": "0cb4a8ffebca5f6672c6d73873688e7cce3b795141d6ca000a014e0569f4d294",
+    "png_sha256": "be9e07b552fc706d23c8bac04df2e29d44bb5d1f374160f7e484825b07c41e28",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit04-school-day-teacher.pdf": {
+    "pdf_sha256": "0738af25c4794d5d936b2841570391e79c46d566636c007637d45329e69d544d",
+    "png_sha256": "994ea7f27a1d7679e8844eb1efe3413e7b2cc9de5ceaf6af0396aee3a3a2dc1f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl05_unit05-food-and-drinks.pdf": {
+    "pdf_sha256": "dd999ae90fc220725c5fe4d6e539b3317434802868515467e5a098f9fb50c0df",
+    "png_sha256": "89dc0f1dc99aa9ba8f5a26919e2d34f2acc52e0851be91577c20c3fe6703ff9d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit05-food-and-drinks.pdf": {
+    "pdf_sha256": "06f31f3d49d81f95f56df4220c9be9eaca9854e943a7263bbf653c2bff946bb8",
+    "png_sha256": "ae5f3c634ef0e4a1ff82fae94e76e06686643e3d56dd11752901a96f06bc13e7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit05-food-and-drinks-teacher.pdf": {
+    "pdf_sha256": "b5206381fba8df9252baa5393895b368024907d9a17f356c5e80256c26adca78",
+    "png_sha256": "5da850f9202ef9b1dd056787427b9f4ca1c6f58b6c8456aee4ee0d3bbddd8afe",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl05_unit06-animals-and-pets.pdf": {
+    "pdf_sha256": "6d60d2d075a47c54486e0eace51f18ef534929aa6eef60efd03ccd18a92ed47a",
+    "png_sha256": "05bd59c5028d205d5552294b29b8f2d69657fff4be4d522194ed241297a44188",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit06-animals-and-pets.pdf": {
+    "pdf_sha256": "b75369b80c8ece9d950d8b2213c7b46448da3ba38ba1da73bdbcd8c58e65101a",
+    "png_sha256": "6b01b808788e3f934125ed929813bb5423a0dff787a819e0e95f50c31cb214d9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit06-animals-and-pets-teacher.pdf": {
+    "pdf_sha256": "ca1625187d063880b7b3e63c7008ef297056e1f78606d720201ede5a2f00145b",
+    "png_sha256": "666220f9a978ed69329581e66ad1937258ace28ef01c0a65659d0ad7a3310a7c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl05_unit07-weather-and-seasons.pdf": {
+    "pdf_sha256": "a350ffa5e7cf7eec1cccf300b6acaba2bbc45bdd6943ce271895ebd730a80dae",
+    "png_sha256": "426977143ea6820fc2d3392fe5f179a1d553758f7874a3bec9bc93ee768a3cf3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit07-weather-and-seasons.pdf": {
+    "pdf_sha256": "0948ec456a4095b16e2dc1a62480b32ca8527f09838dbda1172a12952eab2221",
+    "png_sha256": "3f89065b5a82021690dcdf61d6810d329a341c1fe730af5da870217668deeef2",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit07-weather-and-seasons-teacher.pdf": {
+    "pdf_sha256": "d44fd6c444105bdef148445dba235aa07ca92b09009461af1bd710c0883c267c",
+    "png_sha256": "190faa4cfa1b4c0cb138e9454f12f634e208945882c0f6b3281a50336503b78b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl05_unit08-hobbies-and-sports.pdf": {
+    "pdf_sha256": "f4774e71a8501b5d0814b28af842429bc30f7826184d1db1bf5c641981f054b4",
+    "png_sha256": "12983cb7d8bdd3744bea6545525c27b89f4b30cda9e5630986ea3ecdbb5e44d6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit08-hobbies-and-sports.pdf": {
+    "pdf_sha256": "e7f042fe18513e17102647a1a8885b7e6d70bc003afbc990ec3e256b417c6b67",
+    "png_sha256": "ade447abd9a285ec93e93ab80641e99f82b798c08bc6ee7f15b4d7aa8d775748",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit08-hobbies-and-sports-teacher.pdf": {
+    "pdf_sha256": "717594cd65d4c481d229ae84fa0755e106b407aa37a8e74364057e0a98d083eb",
+    "png_sha256": "2bc45361984d224b89f24862d4c0c0a924cbeb2a648277cf8e6ec96a30e32c4c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl05_unit09-birthday-and-friends.pdf": {
+    "pdf_sha256": "174b11ef8ed9172a443e74300ebd533d5a5feaaf4c2d2b45e553ae75aa0f2007",
+    "png_sha256": "fbea2c927b66c06c0527029036484b947725be7a0678c2b2c6871377c09210d1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit09-birthday-and-friends.pdf": {
+    "pdf_sha256": "fa574945a81cc8456d8a825033fe5151cd85df893e020d09c888cf600d6ba7e9",
+    "png_sha256": "0e8eb5ec55b6d3a164f77f5cd79a4c993b4b0037a9a3a613bbf5ff4bf005f874",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit09-birthday-and-friends-teacher.pdf": {
+    "pdf_sha256": "3fe83edf95c3d773f5ada2af6b87e8c837b95b3a24d4e229f46824433c509e34",
+    "png_sha256": "4247beec44ade4d81a1d318f9a9c57dd68517f78354ef90c9aaa90324c71d5ac",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl05_unit10-a-day-in-london.pdf": {
+    "pdf_sha256": "f31cd4a0d3793cbaa6d417dafea22070ed281f2d17d1c5d84ad4007958134493",
+    "png_sha256": "e393fea6c64c105dbe40b1b6e3b8c474d3bc92a7d8ee78877d0d38e8c2220389",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit10-a-day-in-london.pdf": {
+    "pdf_sha256": "d74325d59335b0d494c264c6546642d44e92c6219abfa2c1a9e4018fe085d07a",
+    "png_sha256": "1b783c66befaf574c2a0afc70787db3ddcc095b7876f2a558b9ace5b1261bdf1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit10-a-day-in-london-teacher.pdf": {
+    "pdf_sha256": "3282591f29b25cbc1f873890b73b40553b2b5342b2c626d85003f2093a2829f8",
+    "png_sha256": "aa1be24b16ba33600d67dcb725ffe70897f96ec383a25f6eb60a8fb96af326af",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl05_unit11-clothes-and-colours.pdf": {
+    "pdf_sha256": "c75fb9bf9146dadca7baf60f6d8b101461ea7b36ae36562c493c2d57d9a99c32",
+    "png_sha256": "f3ff831fd31e4095282268cc164354980281910eb2d361d0bae1bd0c9594c3cf",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit11-clothes-and-colours.pdf": {
+    "pdf_sha256": "cdf819b37c9d64d5cea4646a03452d30e654b2f10c96bdabacab3a843443697f",
+    "png_sha256": "fd2bf522898b6a15d0d9742958f4774bd6fa76a89fcfd146ccd16f280eab734d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit11-clothes-and-colours-teacher.pdf": {
+    "pdf_sha256": "02e329665cb2f1ff8804ffa314678b7b1a52c554881d53bb421ca4346ec83d34",
+    "png_sha256": "f12cc49bc832e674a8b659f70f2bc89c95b3ba10ed7a588d0c5fdc1c9b9d936b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl05_unit12-review-and-show.pdf": {
+    "pdf_sha256": "03ae505576eb69973d45f001186e3130679f2689e87e1759491520d4897236f5",
+    "png_sha256": "6e7726e9e5a93a10185b69a92957aa18f58aab84ad000ed4a01fc94115b2b671",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit12-review-and-show.pdf": {
+    "pdf_sha256": "f44f3160f92c08c3725c2f5542d82e26191c4ee1ae1a2a4cd47eb72873cbeb4b",
+    "png_sha256": "9e994a79bb6fd4fcf151cafe1cac9dc6234a65e4726ae301fddcdb559b3d3083",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl05_unit12-review-and-show-teacher.pdf": {
+    "pdf_sha256": "a17ad6924ee2c031fb7318e0d45454c338cc0974215c76832f6ff1f97a0ffc8f",
+    "png_sha256": "6f3c06e1f91e2e0ab79833089db83a80a6539a9811b63b9a58f04f400442e57f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl06_unit01-a-new-year-at-school.pdf": {
+    "pdf_sha256": "9b0c284a200e680d81c105aea6fda8f97e604852376fb96277bd662592dec7c6",
+    "png_sha256": "a89769304993db1105762eceb958a2813453c39af8e5239d66b3ba3ee6d2944a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit01-a-new-year-at-school.pdf": {
+    "pdf_sha256": "58bc237fc97f9769ffbf1df56a41ed13082ce81e598eb77561586969632a8fdc",
+    "png_sha256": "dae3c18dec5640af2f8923e7a3e2c5718f5257e795e4cf5d9d2f2c7752219bd8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit01-a-new-year-at-school-teacher.pdf": {
+    "pdf_sha256": "53c02ef727edb1437f695f04eff98e9ff86c9a61f0b887bcf58b3993dc92e8b5",
+    "png_sha256": "b509508ee5c7d36f631193c1a30a520305a1e48e47cbc061e848396b4b2f94a6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl06_unit02-on-holiday.pdf": {
+    "pdf_sha256": "9330b80830eeecab33ea41d092c5239832b380eb4ec5e500bd01aa1254ba7009",
+    "png_sha256": "e5d9be204825ad2ad53c46fec2f3ea7c7a6bbeaebebd2ae8af8ba1002441a5e8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit02-on-holiday.pdf": {
+    "pdf_sha256": "9988497fd03651aec3a15497df2a8f92dc1a00a2f37cd7f1f06b3a9c14124a36",
+    "png_sha256": "f7b87a8066b5af00dffe80bd2dfa289b9fba3c5ad5bc82bd942d60bf23bda39a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit02-on-holiday-teacher.pdf": {
+    "pdf_sha256": "254b1dd37953c2b4993d6f1af2fc9075837c4cd40a173235c7b061a15d4eac2f",
+    "png_sha256": "35dd7614b7a6ebb814031a46fd9929af6abc47de8b061adf9f46a50e7cf77faf",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl06_unit03-in-the-city.pdf": {
+    "pdf_sha256": "b81cfb90963df3953589d6e42d563449e449b3c5a09a62eba03e477709d2baf8",
+    "png_sha256": "d38cad11489cd1aa0e46b5314c37d90826bd1777280780929c24f799d640dff8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit03-in-the-city.pdf": {
+    "pdf_sha256": "84dd2a4403578d9858b26861bd0e306f21c4c90a2578eb907c15a66b406df1b1",
+    "png_sha256": "ebb5977e7a1c0676c39e5e5952b24087c017510130f705687f7eb9663c1e0cd1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit03-in-the-city-teacher.pdf": {
+    "pdf_sha256": "c1193b97efa7d634fd1aa58606551ce92c2428e5049502366a3272611558ed14",
+    "png_sha256": "d19cec1308bf4308b0420228ce315a8c9197d07592207c994d13f9d4d3b96b4e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl06_unit04-food-around-the-world.pdf": {
+    "pdf_sha256": "3e72be5b088fefcc8f993d5336b7a6710fb8ff97e8009efbfefcc2277d96ab72",
+    "png_sha256": "3861c3799baa577fadadd01ec193a52fbc93fc0108d315a848ee736b5aa4ebc0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit04-food-around-the-world.pdf": {
+    "pdf_sha256": "22b09c9ff7a985e1e3d84c37dff5e1effdf53895f163d1bf415fd6f501e4b740",
+    "png_sha256": "fb47e43f7a167f675904183740a35832cf9c266abab1d25d2fde9eb061ace5ce",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit04-food-around-the-world-teacher.pdf": {
+    "pdf_sha256": "2313514e9e0fb5bea8ed454895985ed183b4903267a600ffd0fdfc93ebc3c59f",
+    "png_sha256": "a9af9802ed6b021f1159b56ca7635eb5cda754cbcb3fd20ad428e097a913723a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl06_unit05-daily-routines.pdf": {
+    "pdf_sha256": "22fd0ad56152824fa2459280a2f7c99e0c6e2e698f3e9a771392e9082f970b9f",
+    "png_sha256": "9d97a10a447ee5099346c8c691af0656a513bfcb54ce069c6f2bb924f6e2a7ad",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit05-daily-routines.pdf": {
+    "pdf_sha256": "ae5587ffd04cddc517d71623f8f66c799eb60420a464b1e53f5ccf8a36aa7ac8",
+    "png_sha256": "f77f5f5bce2a7ca377f7c35b946aa3b27835c111d756aaeb94644c54f80f5ae3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit05-daily-routines-teacher.pdf": {
+    "pdf_sha256": "c5dc67893065dd3f8dfc3b1f298e6ba5cdb5f8dbcbea1324e29e22aa2cd0fb5f",
+    "png_sha256": "64f3c2ac95e1b951b49bbd0999da794bcbf97fd1c69c8c423f19b5536dde496f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl06_unit06-friends-and-feelings.pdf": {
+    "pdf_sha256": "627054b324799dcc909de8af9bbf0d982667b9a91cab582ef6a3a866d357207a",
+    "png_sha256": "9a40bc66c2495f26bcba798c1d81881c3e3f0e325733a257b875e3cfb6e2eb9a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit06-friends-and-feelings.pdf": {
+    "pdf_sha256": "1a3a59c6c2d0f0642c1e91f8dced7198f26f1eea9133b9a912b5fd66d219e8c6",
+    "png_sha256": "f0aadf443f7925053c30cb825f906ee58d2736e80c923b803e8bbc704e4fdb52",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit06-friends-and-feelings-teacher.pdf": {
+    "pdf_sha256": "b370b52993cc29bac93d46ecce5255430f7274563bfadbbdd0acfa1ce6e6b77b",
+    "png_sha256": "922ddce185281c3cbcdf07f8fdac057209ec26d36bf3944058aaff7bc427e461",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl06_unit07-an-adventure-story.pdf": {
+    "pdf_sha256": "f473ccd0572da7b247c3dd4d581372ef14ec799aed2c80b70ad4edca5d9d7e30",
+    "png_sha256": "d78020694b62f9dcd67066f1514c6462f91eb685ca122d272d51d042b20613db",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit07-an-adventure-story.pdf": {
+    "pdf_sha256": "00f0dd1644c471c26a05c5960312b363684f52aa95988e8abf1bfed6b7e1c896",
+    "png_sha256": "a85b2c9969f248c5d965f4a45157c0c04a45da49b99c79bbd054445414717168",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit07-an-adventure-story-teacher.pdf": {
+    "pdf_sha256": "8bc11f6316d71b41fc5d3e1cba9e8a0e384b86c46692e2f8f0c95e3325da3730",
+    "png_sha256": "0b75bc8ed738f7e91ea422d29f82be0dcb517ddfc55de5e924dcdea3b7b6f9c9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl06_unit08-school-around-the-world.pdf": {
+    "pdf_sha256": "f4e846caa5aeb4127655b4f9aad50ae9cb27c73ca55b0d2fbb64277e06889aa2",
+    "png_sha256": "b83a2fb9d902fd6d5d79e4b5d4c54d5d746967bdd02f08a5e520fef1b20c7055",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit08-school-around-the-world.pdf": {
+    "pdf_sha256": "4a0a5e8afc9f68409443a0be2d30cd0c4031f0e29ff4ba57d5b79e16d520d22f",
+    "png_sha256": "c534a367f08b4359a128c8611d8ef5a3853f5e201bd9c346f293d17cdacdbc54",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit08-school-around-the-world-teacher.pdf": {
+    "pdf_sha256": "061eab2554d7f67f837823a9d0a89d66a4a497bd140fc280234495b7d359d71d",
+    "png_sha256": "c1af4af6b2cbd34096afb3542002e7f39603f30bd5edee811298cdb831301f07",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl06_unit09-body-and-health.pdf": {
+    "pdf_sha256": "b45072145cfbd163e143269d1f56cb8e58d3ca0ef82554119fbc1537df83188e",
+    "png_sha256": "b9fa2a170841a0676a7b853a615ab09a94206fd619537f3c3927e12077c129a2",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit09-body-and-health.pdf": {
+    "pdf_sha256": "5b27ece8f6cfec2bedf26a013fe3ee3b9f0bf84acc7cb92086aea423a3ef9308",
+    "png_sha256": "e77a070a230e50159a2880ece3cde60a6cb0eb27e67603635b9ff4250bb0808e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit09-body-and-health-teacher.pdf": {
+    "pdf_sha256": "363fd5fca306eb005d6a49182d7d4c6deb95395938877d6513517122b4a3fe85",
+    "png_sha256": "b967c15031882765f29774ac3ed88ac45c9dc3c8327dce84c0f038fddf2b60f0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl06_unit10-travelling-by-train.pdf": {
+    "pdf_sha256": "fafa840f6b7a6d6cfc611204cf99d8f28b5e23dc2c2059c26dcac8563b9a749a",
+    "png_sha256": "0e5d28d02efeb25d56bf15e3b96600b4570816befc9d432bb45f4d834ccc1caa",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit10-travelling-by-train.pdf": {
+    "pdf_sha256": "bc560baa6dc996578386cdfd8b7e997164875aa5bffce40dde1baa57c5b0eb2e",
+    "png_sha256": "5f3b820dbcc8da495c4e4592a874ecd8b8e3373b852e49666d3c634adcb20e9f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit10-travelling-by-train-teacher.pdf": {
+    "pdf_sha256": "b9eb0e775a6b8a3584c92a67951ac6e7d386a2c60fad43adeca023bc9e41a9b9",
+    "png_sha256": "3aaf7b9bf9953eb17f304ab06a1a44fdd50366e6eb02ea37963cef27b2ae48e3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl06_unit11-captain-codys-map.pdf": {
+    "pdf_sha256": "8a9edf986bc0f9695980e0ec723dee3dcf575d848b0bf87467d4ed67505ba4d7",
+    "png_sha256": "4507dbe3f0e5feeada5bc3f30a8ff8ddd1c1223671035c50b724535b7fc09491",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit11-captain-codys-map.pdf": {
+    "pdf_sha256": "dc0032093a66ef334b98462bf8d225cae2c33e8159bdac37faa8e357b79c3fd0",
+    "png_sha256": "454ce457ffd99f320f7c3d5510cceb130b0e06e270212e3fca6d3b50e3c1baeb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit11-captain-codys-map-teacher.pdf": {
+    "pdf_sha256": "084098822b832645d8d1a58c503bdfdff24d68f042769494e082241f9fe2a2e6",
+    "png_sha256": "1457609616e1d0cec77b81320affc7bad5b2d9cda6c7766c0fdc7f3372bb1f07",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl06_unit12-year-end-festival.pdf": {
+    "pdf_sha256": "c3146236041f55145f51a941e203484e27b69e1a1b79cb25a227ae9496cc893b",
+    "png_sha256": "a35380c327fcf7fd29f42e8f854b3f98040a09718aa9815e85deba710e73ebba",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit12-year-end-festival.pdf": {
+    "pdf_sha256": "85d7ecc103ec2cd32c1934b23e168e00ed634e4443994d62ef3a613c38fcda15",
+    "png_sha256": "21a46383b3220715b4fb13c63db06dcefd8d09fec6afaa7c39eb45ead734902d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl06_unit12-year-end-festival-teacher.pdf": {
+    "pdf_sha256": "c7c154aac03d441ca605e1fd0ef71e7e55554f24a3ac7c86bfa960702b2d4311",
+    "png_sha256": "0155c97fcdbde8fe5db95b1ed132915d37abc4fcbe84b218e76bd95d88991ea0",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl07_unit01-first-day-back.pdf": {
+    "pdf_sha256": "082cf81b030bcbb32e3f6a17bf9526ec520882c14986e1eb662fe5fe3b5c0c78",
+    "png_sha256": "1d647b6de6350e00e4a970e3b87842bdb34b28224c3d84180ac7e1cb22b14abc",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit01-first-day-back.pdf": {
+    "pdf_sha256": "f689eb68ca741a050434b264aaa93cc8495fcc138b8c7626d7162c421aa63c6a",
+    "png_sha256": "078aad5d8c89709e1855fadf3c177d0fc8f7c0e7815b8d1a2d484917cd1388b9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit01-first-day-back-teacher.pdf": {
+    "pdf_sha256": "678082194088ab42b0da89a08eae22749e33bb11aab0e2338ee724b92a9bddcc",
+    "png_sha256": "93906fc77b994c4bc25b9eb5ab5de6ee3088c299df6699ec675129aa3a008518",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl07_unit02-growing-up.pdf": {
+    "pdf_sha256": "aeba477cf08faa05011a778ba7f0e20ad43f26d4e39a0cc92a7fac91429b2395",
+    "png_sha256": "5d5133a95caec5181d92c9de7663d27f14595d9803469acc4ffd1115a3ac18b1",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit02-growing-up.pdf": {
+    "pdf_sha256": "ae4d0d167c42eaababae49be5a030ab6da8a7143a1ca6471a6934ad6a7915a68",
+    "png_sha256": "5d5f3d92e93ecb3fed76160e3e15230e4c53061fbf90e6c8369d14ded5be0d27",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit02-growing-up-teacher.pdf": {
+    "pdf_sha256": "eb5a467eae7a81cd5d25018a100f25c86a39323f2f2ad1f9b8b9513e6e40bea0",
+    "png_sha256": "0b5623537df2f43757b41daba4491f24a5c1173294aa7a204a70463565c2a901",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl07_unit03-media-in-our-lives.pdf": {
+    "pdf_sha256": "449f1adf5dedcd5f159850c6ff54639f1d7c8a172c1f90c5e4cb7afc7db80e51",
+    "png_sha256": "4a9e0f2590c07acc654a6c7b715b920fe2ba5d7bea035a3da1e93a69b5429873",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit03-media-in-our-lives.pdf": {
+    "pdf_sha256": "072ef8970e5a0a18070dbd6720a58c96efb78091f7aed071d215da18eacc6c60",
+    "png_sha256": "95030a70ca1b2f6f09cd93549fa567b5c58c0fe19f518091e0d1065715ca8da7",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit03-media-in-our-lives-teacher.pdf": {
+    "pdf_sha256": "cce86fdc2c6de925bc0796f3b64773605739f1df2a4ba415179d3ebc75f9a347",
+    "png_sha256": "bd3dd44a3b5a2d90f3cb3ca999a54f78d2d1d8146c2bd7304fcdbe598d1f4b69",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl07_unit04-a-trip-to-scotland.pdf": {
+    "pdf_sha256": "76909528562c8acf3508d7614f4f5ee5df599690da8984846403f1006b61dc75",
+    "png_sha256": "37062abe509b544ff4899501dd2769112fcbaa485813aff5d11576dcf42c92cc",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit04-a-trip-to-scotland.pdf": {
+    "pdf_sha256": "47c112d13ac3b442c8e6fc739b6b2175c99ea153e46d8e7af3165509d74643f4",
+    "png_sha256": "4c2cef7cc637143b034416e4e20cfdb9d9c89c7e89bb4e3145e29d887d375234",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit04-a-trip-to-scotland-teacher.pdf": {
+    "pdf_sha256": "eb96f611e71c99f945ce51582ac44b5af6a20db2da82311f9a98495c0770b84c",
+    "png_sha256": "642610adb18f31b79bb8c3eb51ff61f236afa46fb9b730d1113f3880729dc2a8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl07_unit05-the-united-states-today.pdf": {
+    "pdf_sha256": "7677944390d551081b1f7868f8b273a458f022105ecfc5af541783325e2d8b84",
+    "png_sha256": "c0760cebf46d9dbc8d6831a81eafab49b9aa3bd201ef8b520f77debd4688dac5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit05-the-united-states-today.pdf": {
+    "pdf_sha256": "3a482065f660b82bc2486200591c3b0dd76921641958deece2fa28c7929ec953",
+    "png_sha256": "a9f75311ad11ac40fb30602fb0d39f8d646c50d28fdebbfead892420c9cb29cd",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit05-the-united-states-today-teacher.pdf": {
+    "pdf_sha256": "56fc3323f4f8524a79185ba29ddfb913354ead774fcc063be172a6c869fec8d4",
+    "png_sha256": "9844fc500f004263240d45883cd629f50d00cc5afa8301921604a39291ff7f3a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl07_unit06-food-cultures.pdf": {
+    "pdf_sha256": "384e8aa2312c2f48cb02c43aa40397acb39ba7e999a5316b4eee31c45f1139ef",
+    "png_sha256": "5633c68936e353e8558d863d9ca92ded3ea30a352a3e31285575cd78d3b0a374",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit06-food-cultures.pdf": {
+    "pdf_sha256": "619c4b3c836a48e43a2a723f88cb26ee3f33f0707d4986360981798f597b6e83",
+    "png_sha256": "c31249a2b1f9ae0f0ef61ce54a9a45425a58237b92bf74846d138697047d082c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit06-food-cultures-teacher.pdf": {
+    "pdf_sha256": "631ff27ea441d88e3cb817db4ff62944e87d33a79f58d0a1bef35e433030ad59",
+    "png_sha256": "3eb0b0aac0a63128b60d0e8b6012c2b2645ed221472bc12ed4e1756cfab48fec",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl07_unit07-being-a-friend.pdf": {
+    "pdf_sha256": "cbaa41317e6407b4cec8931a15d20bd586fd5e31fe9e3f074c430a9476f9ca74",
+    "png_sha256": "f6b0f76506ca5410440a199cbda8988a60e2c5e88877a72ae14724440e9f0188",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit07-being-a-friend.pdf": {
+    "pdf_sha256": "b8dce1c32f57b684b68fdff4041e51dba0cee2023cec1a6870016117269ea474",
+    "png_sha256": "6b0f65e519a9fe2bc17f5513c2e2077316e2791c2988a6dff114f77eafd5853d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit07-being-a-friend-teacher.pdf": {
+    "pdf_sha256": "e3a6e2aa0f011acb8a06f64f2c49deb26bce9a29149b3bd6719dd39e7d8a71bb",
+    "png_sha256": "c7e57d4b696534af3b736307fa54c53d185a174809e2474a8d84f1f0980ad852",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl07_unit08-first-mediation.pdf": {
+    "pdf_sha256": "33d25cdd7ea8baf636ed11370625845652c9338b6fc502f63c315c8f132cd8f9",
+    "png_sha256": "5900556e82ae09dcca9cccba39b789759f837cada0bb5f8ede5b155d3d06c31c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit08-first-mediation.pdf": {
+    "pdf_sha256": "36704cb2589140b90f3027588922dc49ef44728a54dc5d223ce1a96c23fd627d",
+    "png_sha256": "38ac94ea425123211ac7231e928d7ffe7ef692fd7cfd19ea66f1d1ed34edc1e8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit08-first-mediation-teacher.pdf": {
+    "pdf_sha256": "fe402a21fa34b94c0a56bde7787f17fca918aec50047cfa7fdc65c7dc91f99ab",
+    "png_sha256": "b288dd4b6358a2a7e29ba0d48c6af5042d39ab98adbeea755b60efc6bc90025d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl07_unit09-school-rules-and-rights.pdf": {
+    "pdf_sha256": "b5c230a68eacd38bfc3cb184abef3309e88f94375146207c3e7ac93658a770c1",
+    "png_sha256": "0debdc3b2b20eb9a5e825a1fb7a5ff6cbfeac4344c32b0fec5f778c30695eb37",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit09-school-rules-and-rights.pdf": {
+    "pdf_sha256": "a46c531d8a8ec335ee6f662700eedf25c3deab3f2caf5c44f316628b0e2dd89a",
+    "png_sha256": "0298991601002be5006de866974f5a2b177785177bbd3e7453e0199df158fa4d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit09-school-rules-and-rights-teacher.pdf": {
+    "pdf_sha256": "87146d504ffe9393c6f61f48387eba8509e3796dd355fcdc9183f34294ff4bbd",
+    "png_sha256": "a20a26bec2e7b10d882bd5bd6a05b449f58c8ff4a0fcc24d033a2f2680c63219",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl07_unit10-a-short-story.pdf": {
+    "pdf_sha256": "e2d62c90f12dcb62ef18663656d10c5cce6b882ced8f5a995d3256e3776afd1c",
+    "png_sha256": "07b908ca218e9ff39918439c77fb49458b99797b0ee0f21a4c25ad6cfd8d36ec",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit10-a-short-story.pdf": {
+    "pdf_sha256": "77b77db8c4b67c748fe3ae2bcc6142837807694d3f4c8445c05630333508e4d8",
+    "png_sha256": "464f2c7ca0054e81b42cc83cdca296d6bef08cd5679408fb6a020a3711f78f66",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit10-a-short-story-teacher.pdf": {
+    "pdf_sha256": "afeb1807610992d4a7c1535bfda2505b99d6f2b7e2602cc1b4e9bf775696ea71",
+    "png_sha256": "724dd226c509961f42466f5ec69e594587168fa3ba531f9c9200cd20e22984e5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl07_unit11-plans-for-the-summer.pdf": {
+    "pdf_sha256": "3d6ebe3e8c98600e17d9b993da4e00d1648fb9e85269b3138b2eac8de904c6a7",
+    "png_sha256": "d282e026d99619c0af35d2bd60cccc7a4ca092e553da0374e8cfe85cc4ba13fb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit11-plans-for-the-summer.pdf": {
+    "pdf_sha256": "f486f0a978caa089656e83adb8b1203f0699dc758e48da279b66cb7a0e117ab8",
+    "png_sha256": "3dbda0c38819270431c466bedab8f39a17cdd4a93cdbec6c7b4a710833a92a0d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit11-plans-for-the-summer-teacher.pdf": {
+    "pdf_sha256": "d07b8c9995a51e86f083cf4818ba4dce956578a5010a0de56a90c064ceef2d17",
+    "png_sha256": "02a0c56a95d9d60530afabd6283107a533605810f91d5479aa3326f044c1b57a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl07_unit12-year-review-and-podcast.pdf": {
+    "pdf_sha256": "12d08251e9770b1c1229cac0cd449c74b43d002543bad8370274c25fcbbb6df6",
+    "png_sha256": "031cb1e53afeec2ec14ce6e7baf96c705640f6cadc1c0ee64586f7792eea8730",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit12-year-review-and-podcast.pdf": {
+    "pdf_sha256": "bde782bc8780c2763e639d920ea6ab48e843b10148de59f5205e1634e5a4cb50",
+    "png_sha256": "e4edb22cd7009ed3031e77f717307e1c16f5dea88dcad8b3145100e3d8074196",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl07_unit12-year-review-and-podcast-teacher.pdf": {
+    "pdf_sha256": "e43d3f72f06ef8b5db1792fea87287163282d7d9ad486e35f0f54e9959278187",
+    "png_sha256": "4d5d7a6be0868bdc032040e017d27331a98e2445d37bbf8edcb7b2a0e03df9ad",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl08_unit01-identities.pdf": {
+    "pdf_sha256": "1b2928d9e97308c49125b4e58ed70419b655e5be17decd08930a94a7e3ff1886",
+    "png_sha256": "79291af89449547c6ec860e9b84fa322d5b7b98ef0ffba4e7b1bc5727965b1fa",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit01-identities.pdf": {
+    "pdf_sha256": "e25f37921cf28687124b227d8822f248f34eb3c156a6855415263d907c7e0517",
+    "png_sha256": "d921aac755dff9adcbdfaa9ca5dd160bf6f7c821f1fcbff80f7ba390fad4c6d4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit01-identities-teacher.pdf": {
+    "pdf_sha256": "2e1669974fd76873e3f31d85216648dff793371d50db1cb5be609af4899ad927",
+    "png_sha256": "fd148c62ccdc7ba721d807c9250bcd652642136341b84577aec90ec2e87a2c76",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl08_unit02-school-life-elsewhere.pdf": {
+    "pdf_sha256": "67eebfbf791e007e284a24601e0debc6def84c821c23aa1bbb8a45a6626bdf4e",
+    "png_sha256": "c5bbfb23f3114d13524adc6b03548bd97ce600b9d15fe0150a18f5fa64fb0bd4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit02-school-life-elsewhere.pdf": {
+    "pdf_sha256": "bea58789f597211243a8b04c55f36c393bb7e1bff1296d161518b9638daae0ad",
+    "png_sha256": "af5f54028c567c1a3890ef93e6703499307b626574d265d21fd7c3c577318ea4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit02-school-life-elsewhere-teacher.pdf": {
+    "pdf_sha256": "a507a4c444e9b6fbfab00413029bebc8a46db013bc8390fd8f1e78eb9e74da88",
+    "png_sha256": "2b69ca167ede6fae501043eedeeb0573650853b3928b68c3c304305413d50860",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl08_unit03-fairness-at-school.pdf": {
+    "pdf_sha256": "7a6fe27840b6c35372e9758f325140f1f1244ca8ce142e9d1b69ea146fca4c6a",
+    "png_sha256": "99f8fd1b8fb74d7d89f6d972c61de8f0ed5318c25316102876293f875902d849",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit03-fairness-at-school.pdf": {
+    "pdf_sha256": "658da566f57e4bd60147275fd3105854dde2bc4e828830bc33e3ba260dfadf3d",
+    "png_sha256": "6fae8e9174b4cb8adaf55c136dd1d1d8c8f7520fc67dff0fdc3767ff21017df4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit03-fairness-at-school-teacher.pdf": {
+    "pdf_sha256": "9ce247cf9ae29c8e31fa8648a83167f69d09279e91e329500c530c9c28007ca9",
+    "png_sha256": "870c06c825223ad5aaabfafd8c83f6f3a4626f2356344e30c738f8efca4de601",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl08_unit04-ireland-stories.pdf": {
+    "pdf_sha256": "2555f9562796cefc67bb63e12e6556ce69216055fc0d8d430d4bf5709fc3634a",
+    "png_sha256": "9ff7d6eac285d0e6866ff1e414c54bb67f56ed990865f8f5ced8285b821f24c6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit04-ireland-stories.pdf": {
+    "pdf_sha256": "8635db724b6a55bc109242a656b10cd9a527039a42419274782a9f62e78421dd",
+    "png_sha256": "60634e42d79fa468ab542ca30086b2537aac556ecf762cd67d9738e080d4085b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit04-ireland-stories-teacher.pdf": {
+    "pdf_sha256": "cd4ecdc7bc34c6a3ae758491bf2813cf67733e389023afacfc79011d0b219583",
+    "png_sha256": "d07dbc10c6467fa62f92b6fa65835bb74a2f604c70af87efb19ecc8e6bd36363",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl08_unit05-digital-friendships.pdf": {
+    "pdf_sha256": "b8199c2d46201a253f9924326e31cf3b74bf6c5fd16bd982d044b034d26dd0f3",
+    "png_sha256": "297f2f9b93fc3190e44ffb2370988ac8201566220cedd40f3f8ba009ddbe2886",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit05-digital-friendships.pdf": {
+    "pdf_sha256": "febe86d0d6442969908d687df93c8c860ce79f67fe02badbfd578fe666236b5d",
+    "png_sha256": "74af3801dd9a3636b0ea26350767ff981a8a53cc921a213e2214b5e91b7a6b1e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit05-digital-friendships-teacher.pdf": {
+    "pdf_sha256": "0d0cd9aa2d2ab3501866bd02d604193e602d35f352eb880d2cd688fd5e9c3ff7",
+    "png_sha256": "daed9e594220e2d6470c1f8f1dde9297ebb05e672de27c39d674e07cf1e7389e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl08_unit06-opinion-writing.pdf": {
+    "pdf_sha256": "6c56ba2a15388583b13b3a961b2ade4ee4d779ac69fedaa7f5f300c43ad2498d",
+    "png_sha256": "7e9f37bd18b877d756ba3995ce99d3a8796f671ef9248e058c3167882d9cf6f8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit06-opinion-writing.pdf": {
+    "pdf_sha256": "3b2dadaf68bf45837d043c5661cbb405151805cd2349b37655d3a14ab9b62ff6",
+    "png_sha256": "d0d00c7723e1c0c740a507bf75218e25b8c581359083960b7ce2da8561c58b1e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit06-opinion-writing-teacher.pdf": {
+    "pdf_sha256": "e05833632e8225fb7f2fcce8572bccfc5d8e32c763e4d91bea5940abf0d1bccd",
+    "png_sha256": "118f05a0e908cf208800d639a1fb43bc7dbed5267ab26a7f854d4b2fe3bf3fc3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl08_unit07-teen-magazine-mediation.pdf": {
+    "pdf_sha256": "1a05d21bc18850c69faa14d40720c1921084fc3cc2dae0c3863e68379524afee",
+    "png_sha256": "3bd52810b4a9a5ff60a5775d8bff2f29e51deac3549f2692c74129aa159ff4a6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit07-teen-magazine-mediation.pdf": {
+    "pdf_sha256": "2c611ed6ce1ccba1d92e716df74e610559380e0e3a46c3017a2f7c7e8441dca1",
+    "png_sha256": "04f6f6a4e8bd133777a3e47bcdf0d7214f0d505e0725d6ebcd427b9645805ab4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit07-teen-magazine-mediation-teacher.pdf": {
+    "pdf_sha256": "32015202305a21a014f4574c3cfd0caccb902db45b664acc010887d84a9bb5e5",
+    "png_sha256": "b71901971f0700033e826e9200d42aeb6a823ef4df0e12bbfb8b7a3a1b16c55d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl08_unit08-music-and-belonging.pdf": {
+    "pdf_sha256": "6c8120c2745ab4fc3311779dc50a3f4ff613b0d9dd9b47939ea0a33635a94353",
+    "png_sha256": "e0174a4bec82c00a1999de51f4a6d67ba9be8812771b8ecdc422c15715931340",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit08-music-and-belonging.pdf": {
+    "pdf_sha256": "d2c20db205159f2c6a3f4ccdbb1831fac84a0e87ba702aff3b87e770dd81bd96",
+    "png_sha256": "c0889c93d9dd505896bbf1be471d26a45b9d0900fbca9c368c0a4583c6c6c40f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit08-music-and-belonging-teacher.pdf": {
+    "pdf_sha256": "8b17b7e8843f53b71f5b707be2bdcfce9f0d773452499b1fbc99275ca4c0ff21",
+    "png_sha256": "7ceaf65782cf807c75eecd1599b88cc8fe6fddf72b6922732430f66a96f20c75",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl08_unit09-rural-and-urban.pdf": {
+    "pdf_sha256": "868d2371083fe9e9b0b5673243381c65b917acfe6b992062c3a5fd43be6dd018",
+    "png_sha256": "84dc6565662bc5e7a4ed19347352c8584fcf367cba6a5327b515d38a25dddb4d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit09-rural-and-urban.pdf": {
+    "pdf_sha256": "3c3584f4e084a5532a231b6ffc3b115fed1dadfaf46792cd3e88b1cee696e359",
+    "png_sha256": "ba2edf3245fe0b5d40e38baa552abbde5778265e2b6852af1c62046331c1ec35",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit09-rural-and-urban-teacher.pdf": {
+    "pdf_sha256": "655886300023f858aba2213a64ab2ac5cd9a1ea8bffcc18c87d13222f02581ec",
+    "png_sha256": "0af0cf5f92d361419679563c29519bcc31075a28b2cfa98c60613dc66dc21c23",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl08_unit10-a-novella-in-class.pdf": {
+    "pdf_sha256": "dd4aecbb1c9190a5206bf32f0b6ca8549118131e3875c9772116870d7f92560d",
+    "png_sha256": "cc6b45861d7f07b31e912b82c8b6bf01220f38a01ac104eac727deee8c5f820d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit10-a-novella-in-class.pdf": {
+    "pdf_sha256": "2c2f9ba419e25f0e49e965eb0fecd8fe6d9e5f77ecce35410ff74e13e5a6d6c8",
+    "png_sha256": "e4ccd5772cb5194a67618e9bde481155331eb92e72e03af6cda11dbe736d6d08",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit10-a-novella-in-class-teacher.pdf": {
+    "pdf_sha256": "c8d8888cd93f02df8ea763a1de1883d1c52a0698dd9e38e630c1671f8e62b326",
+    "png_sha256": "e54d4c4f5b0f61e9bd91cb33d2e87cdae355250d9dae0a48ffd19c48deaa9cfb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl08_unit11-public-speaking.pdf": {
+    "pdf_sha256": "c0f96249daed72454b65d8fa0a7a79a0725f8dffaa37e1df13d3e8cd7633c0cc",
+    "png_sha256": "f0e5f998eda1f49917234db5f25bf2639f147771c0e3c2e292a1e1209fd4b45c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit11-public-speaking.pdf": {
+    "pdf_sha256": "929e8faa8f78ab27b9aa1aa3ef71264c503972141173e7435c07e5e354d35616",
+    "png_sha256": "8abedced550bb405fe15ae62fc5476567c920a469e03a20ed160f100c3406f97",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit11-public-speaking-teacher.pdf": {
+    "pdf_sha256": "b66e8aee5ec5bedf6730e3ab812cb9356bf63467759b079426805adab69215b7",
+    "png_sha256": "8ebdef33f3022a5150039c0e3094f5ca3bf79b8c5d5eb8583fffab34be611480",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl08_unit12-school-magazine-issue.pdf": {
+    "pdf_sha256": "db2ab092a01936fda3e8026ac5505526cf534d049e100df06da6e5f35e4c9f6e",
+    "png_sha256": "7f008f536d3c45cba1ce358e3a4ea5114bc128a30f8c8706574d5db315347bbb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit12-school-magazine-issue.pdf": {
+    "pdf_sha256": "0b3c20b49c8c025894dd0fecb6e8718fb9731d3936f4c99dfce96657c0488d28",
+    "png_sha256": "2da456b6e23cc97b50aac41d2648e1d4718e4de3f6c64eb881cf31030c14718e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl08_unit12-school-magazine-issue-teacher.pdf": {
+    "pdf_sha256": "1f72af043ed92a8ac8adfb9cb95fd63a8803cc11685363322894554e9971c96a",
+    "png_sha256": "85b8f82ed1025403c6c0855a098614e7db3f862ac976c2c45d348bb92445acf8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl09_unit01-future-careers.pdf": {
+    "pdf_sha256": "a7126366de03c16584c6565342055d516fbe910a0f6a738688e27014aaeb1448",
+    "png_sha256": "402035c9d8f2299c38aec9dd098b316ffc40a21c5554af056951d5ca86a1b44e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit01-future-careers.pdf": {
+    "pdf_sha256": "203a87d0df7e78ff2c2e538ece6576b547a5d347c3b9dc918439fbf56c231e53",
+    "png_sha256": "6a6fe49f85896b06b5a3b43a8bef4bd9c7679b0bb2161086b76df653d87bde23",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit01-future-careers-teacher.pdf": {
+    "pdf_sha256": "7105ae5e872f42c58afb9aa0eda34ad79327ac3377abf63503c3cfb7e7767f8c",
+    "png_sha256": "424fe735503dc9c2bcc6ce5f9d9c6e48ccc16a1fb3d73c0bad47e9e134c60a1d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl09_unit02-money-and-choices.pdf": {
+    "pdf_sha256": "ffbf166e09a9a310cb26d523e59a4bee2b6092a80d1d0a27b01f94c4f338497f",
+    "png_sha256": "9c5e4fdfa04ddd2c78725daeed02cd2b0331de800a246d269e164b358203adab",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit02-money-and-choices.pdf": {
+    "pdf_sha256": "8abccd2fc2204d3a6dc0b2ca6c4158f27fa781cf1942ab4fc7cadf2e8786920d",
+    "png_sha256": "31189a3c5ad289ede6a91783b388f0726156a4d96c3713dea260ed413fbf05ce",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit02-money-and-choices-teacher.pdf": {
+    "pdf_sha256": "510c339e7f5b1703b1c3f20989f6a96d9e65fe86261208436851981017a17ad0",
+    "png_sha256": "837d8838062685de0f0aa02678fed02f2b4510181dba8466e0858a8ff5fb6bfb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl09_unit03-the-environment-locally.pdf": {
+    "pdf_sha256": "c8ee448dd536a0cc0266a481fdd7e6c04cc99dac1c42c37da8a5057cdefd466b",
+    "png_sha256": "931bd11798813ffff85e66d76ddcd9aaef2412e85a9029d62fddc4ec81d3e65b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit03-the-environment-locally.pdf": {
+    "pdf_sha256": "a26f72af1570e03dea2a86f31eafafac6af657c40cebb74f08690d5378e89d57",
+    "png_sha256": "d584a1a5561bb24cfa3f3c9c70b84867028597c29e25ed64eba831b67b077623",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit03-the-environment-locally-teacher.pdf": {
+    "pdf_sha256": "b0393cbbf669495a996028f8817821fc641676df739e4ec7290607e669038764",
+    "png_sha256": "0c8ac1b71a93a733ad342e6efccd76cbeb9ed8b1a7bc2a6388077ecb5ba1a39e",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl09_unit04-canada-perspectives.pdf": {
+    "pdf_sha256": "ebd4ed48d16234a6df2846f3561710e2d461a9745dcb6044d7a731c7fec84e83",
+    "png_sha256": "60e42a3aa730346ad83851e954c43c90baaa8776ffd80b414dc6a1784011a897",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit04-canada-perspectives.pdf": {
+    "pdf_sha256": "22ba620ca6263961522b38b62418fcd6769b451441bc7084da38bbd87578bd3f",
+    "png_sha256": "d79a7c3b1643ad11899d85ac45828501771994f2c3b31e49a29280642343a1fe",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit04-canada-perspectives-teacher.pdf": {
+    "pdf_sha256": "4ebabe49cc597a5dd5ba3e75098fa063e978b8cc9cb61162aaacb929e2088b4a",
+    "png_sha256": "6aca7bbf7d25c5fa36ecd4802a7d4c8b4a63dd1bd7fb23ad9f920c4851505a99",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl09_unit05-media-literacy.pdf": {
+    "pdf_sha256": "b0bc7bc4c608c8b62f513f96791d8ec5924fb8baf6b2c07cd429b23388645abb",
+    "png_sha256": "d62e649947be88118e6f2b7176b1fecc560752eb83915f2177b4376a4f1f50d5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit05-media-literacy.pdf": {
+    "pdf_sha256": "a585c20ad8a30ea1325a41663e4778108d2d9b1e2043a8ce0f6ecbeb9f62b04c",
+    "png_sha256": "514739403dcaa4d96e955722097958950a11c6edb077cd17eb741f3dec3a43b5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit05-media-literacy-teacher.pdf": {
+    "pdf_sha256": "4eac38c65329d8e052131110298887133ab24a508378380124c260005ae98713",
+    "png_sha256": "accdbbf4c7974f6d9f7ef6365088746a8ef66b0fafdb41f6e4f59e4517986425",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl09_unit06-interview-and-portrait.pdf": {
+    "pdf_sha256": "adcebddc3132127e99cd42ff1fab784510c2d450b735e22c1a77be56646263d9",
+    "png_sha256": "1513150552f73452afef0474124e65628d7ae9f93674272833cb571e96f6499a",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit06-interview-and-portrait.pdf": {
+    "pdf_sha256": "5bba69aafc4bc74f18422a973ff5dad46b042d871e6cbb98e876edf965a341ae",
+    "png_sha256": "0d402fc458b04dd53999a9e1fbae242d44fb62d70fd71222ff4f6f397d39378d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit06-interview-and-portrait-teacher.pdf": {
+    "pdf_sha256": "1e72b43c29682bcbc465a47ce97bc98e488aadf31596c5cc0dbbdd7b2f1fcbb2",
+    "png_sha256": "4fb050b9d003c5cc9ea9e6f7f911e4670b773da54fd2a952b68daf25880bdb51",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl09_unit07-mediation-news-article.pdf": {
+    "pdf_sha256": "08c292cd8d88f904fbd283845bb1d2183119f293c625e1f6f8edd7afb51ccd16",
+    "png_sha256": "c807cc5e0d3e82490ab7c92b6c23c4bba61b2947246c0098f005ec250ab31d0b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit07-mediation-news-article.pdf": {
+    "pdf_sha256": "15ddd4f4fd7485431ddb7a927fe862ad8627b7da5816cec3b61cf1d6cf24475f",
+    "png_sha256": "eae807807a7b473cf9b69925538d83c32c5317f00c52839dfe1bac8b99bd9bf8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit07-mediation-news-article-teacher.pdf": {
+    "pdf_sha256": "f5295b62b7664b140e61e3ba52ce8683c73a024a38e04b0b32077670bc107ded",
+    "png_sha256": "80c2fb2fa36beb94e89a159617ea88afddb39deca505e15b0811c51442e7bf63",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl09_unit08-inequality-and-voice.pdf": {
+    "pdf_sha256": "6b98e7cac51154a78f64afa12d05b27b1c7f781f66c773773a86f8c88591bb4c",
+    "png_sha256": "df28af96a1702a963119fb0362c2ad5a6766f72031a3a960cb749b7d4cc75b64",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit08-inequality-and-voice.pdf": {
+    "pdf_sha256": "75a905e8dcf8b6785332a44ae7989ac17336fcba9bc30fd2e265f036fff01b5b",
+    "png_sha256": "5858c4af2fa29e3e2b3b9268c1cadb57ebca4d5e017709bddedaafce801a7ba6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit08-inequality-and-voice-teacher.pdf": {
+    "pdf_sha256": "4fbd509746d3972edf5f8aab6d69af97d8709a2a896a0d14def3ad8a74f444aa",
+    "png_sha256": "7f45bdc642fdbf372a773e7a92889520febc1b8bec7588331281dbd3231ea643",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl09_unit09-short-fiction.pdf": {
+    "pdf_sha256": "f0dfb617b0d50dffa945264d729b520260b91b76bfca76e2e9c745148442b420",
+    "png_sha256": "dfc113319f30ced4aa8763f475742ccdc4272cc6342225301f48af2d7e8a98e4",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit09-short-fiction.pdf": {
+    "pdf_sha256": "73793318a2596a62497e5b1617a637264b1b9bbd3a5c94516f85708d6f516015",
+    "png_sha256": "ab9137226a33cb48781342459b36d587bd67b122e964a065194b944e43c4d1e9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit09-short-fiction-teacher.pdf": {
+    "pdf_sha256": "7791f5fd6b7002a7a11ad25533718ebb3e267c550ebf63b327757aea7c3ddb3c",
+    "png_sha256": "86533c699694399d8ffdbd1cb5adecea9cf6ab6858c37896ce8c25be4b9be6f2",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl09_unit10-application-letter.pdf": {
+    "pdf_sha256": "c01f2d6323c8f0538726ceddf7e133b18424533fc51cd2a27d98cc096d544d78",
+    "png_sha256": "cae1b34ce3c0006016f145a11ebeeb50046d359cf6d255ddcfd925d57b9f881d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit10-application-letter.pdf": {
+    "pdf_sha256": "2585d90311eb0815f406056d813f8a0083e758542c8d438586d6fb70eaea2a53",
+    "png_sha256": "a075ef65434938b0033cbb90ac51ea8e932a04b1a8fef6eb3f36b28d475e04b2",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit10-application-letter-teacher.pdf": {
+    "pdf_sha256": "1f7a16b342eeae30308c93ef9cedd52fc90eba8b838a8ef8e49542f187b606bc",
+    "png_sha256": "099f9ddeb1a39faf1e301434e8be6cc5a5b16fb6a6a401ea993b789a717d5d22",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl09_unit11-debate-and-discussion.pdf": {
+    "pdf_sha256": "ebed9002b0adafe35ed9c1b9200bc3e2ae9ecbfda4d6ac1ae84b8cb893741d9c",
+    "png_sha256": "7fdcd995c619d6d96bffbbe8e745054838512f1b04d81c65bed37ba1ff17017c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit11-debate-and-discussion.pdf": {
+    "pdf_sha256": "7505ea7641c503c05062ab305dcff495ca786400e15c8b0f8d95487f3c0e1705",
+    "png_sha256": "c6e0298740c2ed64e9b3df0ec71117fa2c2867cf6deb5760831b33a627fd18bb",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit11-debate-and-discussion-teacher.pdf": {
+    "pdf_sha256": "71f7c51a15d745e6e2f9aa378e5263e919650f9b5331d32f77747ad29638c772",
+    "png_sha256": "fa46671220335f77ccdbd08760e3fc06b0376acf0f145019c0a8a206880aaf2f",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl09_unit12-year-review-portfolio.pdf": {
+    "pdf_sha256": "6225f561fa28034b1fcd19bf4fe72fac0c16e961d53d63a35013d0db53f7b907",
+    "png_sha256": "23230222405a5a8b9eb6f30a48d8fec0b0bd8e4042f31ec694588720a9cbf3e6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit12-year-review-portfolio.pdf": {
+    "pdf_sha256": "c104b48247c814ab8ae1ef5544d37b0405ac15f6beacdb9bb98a4fbef86fefdb",
+    "png_sha256": "76f7271afe3d0374f4dab9cd92359a047d8e6489934bd1052696ed3891bc64d6",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl09_unit12-year-review-portfolio-teacher.pdf": {
+    "pdf_sha256": "a5c0cd9897540eecbe50a40012a30a1a6ffb7dac1cbac2c2fe930e7829222a27",
+    "png_sha256": "6d64deffa23382952e9a278080a13ab2e5ddab1b8f7abe1c585235a440e973ed",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl10_unit01-transition-after-grade-10.pdf": {
+    "pdf_sha256": "5e80af60f1aa7f480b7c7969454b3b2e26a9ac551b0297d9d7fa6831d92224af",
+    "png_sha256": "bb9307941b05c426823e2ecdc09db9024f60190256aa2fc7bf149b258f607342",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit01-transition-after-grade-10.pdf": {
+    "pdf_sha256": "6572aa0d227b15e90c49e3debc901e248f5a04c0ba12a439b6fa759c8f03f7db",
+    "png_sha256": "572539f1c90f6087909e733af7aea35401e107ff02845419007e85302afa1591",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit01-transition-after-grade-10-teacher.pdf": {
+    "pdf_sha256": "1ef41ab03913c20cad3265a6ec8d4f71c81e56753936e9ea78f54d503f05103d",
+    "png_sha256": "68af22d306ec21b7786a5d065f19984f5f0e0271864550cfd95a7f4b781d2371",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl10_unit02-the-world-of-work.pdf": {
+    "pdf_sha256": "32430ccc9385d5b6ec80d8b77dc8084d8c7e228665fb096307d5b677d19c2bf4",
+    "png_sha256": "c39f1055f0276025c2d10aefde62a287d7473c9094f624f0f70ca1229d709616",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit02-the-world-of-work.pdf": {
+    "pdf_sha256": "9b8856138ddd86df82cc93649039b95d6bd3dda6acce907f751eac4bfe840609",
+    "png_sha256": "5e57ad720e8f82af5db03d81cd287df4a36a6f3765e44d9a6473c91f740d8765",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit02-the-world-of-work-teacher.pdf": {
+    "pdf_sha256": "c37fbcadc8876c00d50a616ad2c7628725ef6267be99a8bf95049c08c6f63c4d",
+    "png_sha256": "4dbda2566cd6b0fd002059c2c852e6fa30b844d5e4bbde2ddf5708d045b71c64",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl10_unit03-digital-lives-at-work.pdf": {
+    "pdf_sha256": "7d832c07536a39e5330eb4f52155ed295ccc78c6d5d58a621f196262f97e5c22",
+    "png_sha256": "633fd2067ec28389494b260ae35d979a388266757a85de2c0261dcd5dedcd6e8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit03-digital-lives-at-work.pdf": {
+    "pdf_sha256": "47c9e981e74cb9f6e9280fd88e5bcff64977889cd0c1ccc46d3109ef86e1101d",
+    "png_sha256": "c99eeca6d164c25f842c5441940db1d11a429bfab30bf4d2ae2574c089a978c8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit03-digital-lives-at-work-teacher.pdf": {
+    "pdf_sha256": "9bc2982a0d46a83f5988ca93baa804e6bcae919aebfea53d24ac7ebc5611c8a4",
+    "png_sha256": "88bebe0dd1d4cc7d331cd614b97486ade09f9a124cd8c28457c4fd07f030e35c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl10_unit04-australia-now.pdf": {
+    "pdf_sha256": "f287fdb6bbc43e05850fb825c784eb6986672ee62b746b44ab4f8ed86183d85e",
+    "png_sha256": "734e579b0bfdbc30eae00e77aa222b129eaaa7f8f14d3107db87faeaf59e0293",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit04-australia-now.pdf": {
+    "pdf_sha256": "087f12e78a36b38ffd330a347b8c687b5a1dd4cd6f0ce5e7cb745d4b5a842846",
+    "png_sha256": "0530ae02c338447dd8b515a42c3b4f27b854c57c58057f25e8aa5d083d64b1e3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit04-australia-now-teacher.pdf": {
+    "pdf_sha256": "2bef0612ff9c863fee45808c50ad701ae9e7eed855b307f021c2a28330d40ece",
+    "png_sha256": "d544808d80ef094c5c15e30ee03a7dd644c47b1dca143af71efcf83f93275c36",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl10_unit05-media-and-truth.pdf": {
+    "pdf_sha256": "41746cf8e66bde0dc999f57a5982cd5672381240cfe0c7369401dd3e0b6cec97",
+    "png_sha256": "1ca556454490361324f42601eefd0df864ed4d21d139d420fcd76cbf77f69688",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit05-media-and-truth.pdf": {
+    "pdf_sha256": "dbade867e585ef0a0049da046efc2dc385ed2093815fa1eccf706bdaff64b42a",
+    "png_sha256": "a1f6f4db456cf3d40c173536e5c0e1db1571b467d80f2b44de590ffe27890a18",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit05-media-and-truth-teacher.pdf": {
+    "pdf_sha256": "d42546d6dee115cc2c1df2969f723ab17ce2481b030298695a2f9918a9e89c8e",
+    "png_sha256": "e96a99ee6dbdce1f0c9c201c1e0249917c3283bb309c5f6d6854592ffdf75561",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl10_unit06-contemporary-short-fiction.pdf": {
+    "pdf_sha256": "06777a6001e917fbc12daeea2c4105750d7f0c54eba64af2602fdd4edfeafb96",
+    "png_sha256": "16b93167bf153fb0b35da66a25b401f331ae7d58435559f705436ec297496511",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit06-contemporary-short-fiction.pdf": {
+    "pdf_sha256": "0ec8ddacb09c8bad4315492235b684cbc6614b99674238ab5d69402bd4cef389",
+    "png_sha256": "2cbc99711b7350b486e378443fe70a89d68bda19d40c0493457dd5a23cc3856b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit06-contemporary-short-fiction-teacher.pdf": {
+    "pdf_sha256": "767fa16879a188bedcc91ab9ad0f7abe77b1172b42c2515dbf3d03f6ae6d082c",
+    "png_sha256": "3cd00a95bfab156b000b7e35a32188ccc8891cc4981d067c0fcfcb69b2fc8916",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl10_unit07-mediation-workplace-text.pdf": {
+    "pdf_sha256": "29dc2ac8a0956ff583b193b9da6ae74465770d065e7345d7f8dffcecebd2efae",
+    "png_sha256": "0f73bad64a61e16710a2d431fe3317ebd23f4772d93ad364bcad7fb9d5f7c6b5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit07-mediation-workplace-text.pdf": {
+    "pdf_sha256": "8db254ea72c7670d3e9c6bf8998aca332ab6f6b1030931784c0412b12bfa033e",
+    "png_sha256": "5d492d2e7db6d26c62aae474db60893872737fb3d2a1e9e917ae25e0149f1d17",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit07-mediation-workplace-text-teacher.pdf": {
+    "pdf_sha256": "36083840e2859dd17597c820826c540b0e4dc2b110f1e3563cf4addcd0186250",
+    "png_sha256": "37cd0439881dd0623c332c0bffb90cc3252df2eee7f6e260ab9b1f0d56b1c9d8",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl10_unit08-civic-english.pdf": {
+    "pdf_sha256": "1fcaffbe8067af7eb35960e0b21e824bdf5becc021c1a763d3017ffc84c1efec",
+    "png_sha256": "0fc3a53745d64e802a42add838b78e65c106d5d2dc21776d5d29860b82f6da89",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit08-civic-english.pdf": {
+    "pdf_sha256": "cd8a76d13b282ac790a8b8a9542bb5d76eea3147416c8106397fa95bd2455993",
+    "png_sha256": "29d143d5868511f671fb5c51a274a524d02595f7c75ac3500dd0690d30a879c9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit08-civic-english-teacher.pdf": {
+    "pdf_sha256": "f6a7ed253d70f9a94338fbeb1130e12cf1ae3772cd9fd62f54670f54434633af",
+    "png_sha256": "aad420b45079bf0dc8d602355290631bdfb327cc6dd66c90e8712ca1b178d6f9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl10_unit09-youth-and-the-future.pdf": {
+    "pdf_sha256": "b36ad91e13df9b1ae70731ea282fd11d9e72082146d5b0ac43058aba38c8d232",
+    "png_sha256": "75880b21b329eeb4d25f10589e8569c20e7952549d350dedcfc12ed709958afd",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit09-youth-and-the-future.pdf": {
+    "pdf_sha256": "8ab2039ad375fb05d136cfaef5a2cb4c8c665277f0b7821f784671c5138cb97a",
+    "png_sha256": "4f8387de0b481b6b49925dff446bc399b253dea88de8fa3389b898e7f1a012ec",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit09-youth-and-the-future-teacher.pdf": {
+    "pdf_sha256": "a57d3a1722f46416e417b6d20416531c37e1863b27b3aa0f6fe9c09ea961a79d",
+    "png_sha256": "ee211432c8c950fb8686a1f47c3f1d97db613a05cd1cb51ba55e2b31859f8de5",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl10_unit10-project-and-presentation.pdf": {
+    "pdf_sha256": "2d590b4a80889156670681466825d72345919d53317e33764e23942ab80a7313",
+    "png_sha256": "be8a6667ee4ed99d2abb967160754ae12922ff6fe3faf48019a4bd659eb6fd7d",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit10-project-and-presentation.pdf": {
+    "pdf_sha256": "602a35f04223cd343bbc2960de1d58be08cbd4c55d5da25f4d8498815357422f",
+    "png_sha256": "7e81625d19997e0bcd9a8ae7cd6f2cb58cbc3835eeddac966687dfb4c8298135",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit10-project-and-presentation-teacher.pdf": {
+    "pdf_sha256": "f3274ccb1e3040967a53ff7f0a5b7b9f68d7c890b341ce577caae3fc8b202836",
+    "png_sha256": "46861c49fd7fc15bcf71d0f573b3bf56d7bbfc124500ef75c59f9b8e3b610bac",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl10_unit11-a-short-novel.pdf": {
+    "pdf_sha256": "a84bf087a180f941c6ff68058171fa67478fcdd4aee42a1c068565f950a01b37",
+    "png_sha256": "3a5021520d2b929c1352b7777b3db4d4cb2c058c3d8d69d18edcb69dd4e6d43b",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit11-a-short-novel.pdf": {
+    "pdf_sha256": "bef168f76329b7c3550a18f5d6e184b347e1c85b65fd868523ec02199d20f937",
+    "png_sha256": "8ddd3959b8de410b64f17c158126e481d9b1d08595bdcca615d356d25be4213c",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit11-a-short-novel-teacher.pdf": {
+    "pdf_sha256": "d1b766faac4d13b2936444409bda187c9f4e5c7a12af673d4a1a92df8e6d62ec",
+    "png_sha256": "dbcec2492b1964e21b84bd6ed1e1144e9f0c3eb32b4badf14f01fefb33151bad",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/presentations/track-gm_kl10_unit12-year-review-graduation.pdf": {
+    "pdf_sha256": "477b882ea6c8ce773a4d6887360769c256b67a62b3912d64421aebba5d12fcee",
+    "png_sha256": "57db30b25cce51eda148301e740ab64e791281ed6ba5b7daf3411627494f56a9",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit12-year-review-graduation.pdf": {
+    "pdf_sha256": "5aba7a76cc30e36e61d36ebf5bc6da69b580818d53ecea6d7ec2b2c90a900415",
+    "png_sha256": "adc9a399bee41836a8313aad3d4074c85e2b360da09c7265957856b1d5d12aa3",
+    "width": 1000,
+    "standard": "1000px"
+  },
+  "static/materials/worksheets/track-gm_kl10_unit12-year-review-graduation-teacher.pdf": {
+    "pdf_sha256": "eb08b155363c079597765f5945cda37a5cd231bbd1a0cd67bac193f36c1092fb",
+    "png_sha256": "36e41c4c4dd2454cca8ce1e7c821b24ec9efcdeef6b2c154ad97206baacb0a2c",
+    "width": 1000,
+    "standard": "1000px"
+  }
+}

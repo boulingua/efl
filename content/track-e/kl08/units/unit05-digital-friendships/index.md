@@ -9,17 +9,17 @@ track: "e"
 unit_nr: 5
 material_slug: "track-e_kl08_unit05-digital-friendships"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.1 Hör-/Hörsehverstehen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
-  - "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.1 Hör-/Hörsehverstehen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - listening
-  - writing
-  - language_awareness
+- listening
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl08/units/unit05_digital-friendships.html
+- /track_e_kl08/units/unit05_digital-friendships.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl08_unit05-digital-friendships.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl08_unit05-digital-friendships.png"
@@ -35,13 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.LING.orthographic-control.01
-    - A2.PROD.sustained-monologue-giving-information.01
-    - A2.REC.reading-as-a-leisure-activity.04
-    - A2.PROD.sustained-monologue-putting-a-case.01
-    - A2.MED.overall-mediation.02
+  - A2.LING.orthographic-control.01
+  - A2.PROD.sustained-monologue-giving-information.01
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.PROD.sustained-monologue-putting-a-case.01
+  - A2.MED.overall-mediation.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl08_unit05-digital-friendships
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl08/units/unit05-digital-friendships-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - listening
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl08_unit05-digital-friendships-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl08_unit05-digital-friendships-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -71,12 +107,10 @@ curriculum:
 
 Jonas has a friend in Iceland whom he has never met in person. They have been writing to each other on a shared map app for two years. They have already exchanged 287 photos of clouds. They have not yet spoken on the phone. Jonas says, "It's a friendship. It just looks weird."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Quick poll.** Stand up if you have ever played a game online with someone you don't know in person. Sit if you have never. Notice. No comment yet.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Listening — *The Cloud-Sender*
 
 *Jonas and his Icelandic friend Ari started writing to each other on a map app two years ago. Each one drops photos of the sky in their location. Jonas has sent 287 cloud photos. Ari has answered 287 times. They have never met. They have not yet spoken on the phone. Jonas says he just doesn't see the point of phones for this kind of friendship.*
@@ -92,8 +126,7 @@ Form: *have/has + past participle*.
 **already** (sooner than expected): *We have already exchanged 287 photos.*
 **yet** (not yet completed, in negatives/Q): *We haven't spoken on the phone yet.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Insert *for* or *since*: I have known him __________ two years. I have lived here __________ 2024.
@@ -110,70 +143,25 @@ Form: *have/has + past participle*.
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Reflection, 120 words.** Write about a friendship that exists mostly online (or one you imagine could exist). Use 4 present-perfect structures and one *because*-clause.
 
 ### Sample
 
 *I have been writing to Ari for almost two years. We started because of a school project, but we have kept writing because his cloud photos make my afternoons better. We have already exchanged 287 photos. We have never spoken on the phone. We just don't need to. Sometimes I worry that I haven't met him yet, and that the friendship will stay flat. Then he sends another photo of a strange-shaped cloud and I laugh, and the worry feels like the wrong size for the situation.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can use present perfect with *for/since/ever/never/just/already/yet*.
 - [ ] I can describe a digital friendship in 120 words.
 - [ ] I can spot when present perfect is wrong (with past time markers).
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl08/units/unit05-digital-friendships-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "Jonas has been writing to Ari for almost two years. They have never met. They have already exchanged 287 photos of clouds. They haven't spoken on the phone yet. Jonas says they just don't need to."
-
-1. How long: ___ . 2. Met in person: ___ . 3. Photos: ___ . 4. Phone: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read.
-
-> "I have known my best friend Lia for six years. We met in primary school. Last year she moved to Munich. Since then we have written every week and have already met up three times. We haven't decided yet which Christmas to spend together."
-
-1. How long: ___ . 2. Where met: ___ . 3. Move: ___ . 4. Christmas: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Present perfect.**
-
-1. I __________ (know) him for two years.
-2. We __________ (not / meet) yet.
-3. They __________ (already / send) 287 photos.
-4. ___ you ___ (ever / play) chess online?
-
-### Task 4 — Writing (13 BE)
-
-Write 120 words about an online friendship (real or imagined). Use 4 present-perfect structures.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** almost two years, never, 287 cloud photos, not yet — they don't need to.
-**T2.** six years, primary school, to Munich last year, not yet decided.
-**T3.** 1. have known, 2. haven't met, 3. have already sent, 4. Have … ever played.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

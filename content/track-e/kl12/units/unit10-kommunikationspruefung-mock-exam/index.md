@@ -54,7 +54,7 @@ Read the sample monologue above.
 
 **Mediation prompt:** A 200-word German Klimawandel-Rede excerpt. Mediate the speaker's rhetorical stance for an English-speaking climate-policy reader. (Source provided in class.)
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. 2025 photograph (flooded Bangladesh street with rickshaws); 2. (a) documenting climate-induced displacement (b) resisting passive framing; 3. system handles 80 % of seasonal events without major disruption (2015-2025); 4. *what have these countries taught us that we have not yet absorbed?*
 **Analysis.** documenting + resisting passive framing; *not saying flooding isn't a crisis — saying Western framing crops out adaptation*; vulnerability + rickshaw-economy waist-height limit; international policy frames are ten years behind the photographs.
 **Composition.** Open.
