@@ -1,0 +1,101 @@
+{{ define "title" }}{{ .Title }} · {{ .Site.Title }}{{ end }}
+{{ define "content" }}
+{{/* Lists and filters load immediately; graph rendering loads on request. */}}
+{{- $entry := resources.Get "js/network/main.js" | js.Build (dict
+      "minify" hugo.IsProduction
+      "format" "esm"
+      "targetPath" "js/network.bundle.js"
+   ) -}}
+{{- if hugo.IsProduction -}}{{- $entry = $entry | fingerprint -}}{{- end -}}
+
+{{ $graph := resources.Get "js/network/graph.js" | js.Build (dict "minify" true "format" "esm") | fingerprint }}
+
+<section class="container network-page">
+  <article>
+    <header><h1 class="title">{{ .Title }}</h1></header>
+    {{ partial "render-content.html" . }}
+
+    <div class="network-search" role="search">
+      <input id="network-search-input"
+             type="search"
+             placeholder="Search by title, tag, or course…"
+             aria-label="Search materials"
+             autocomplete="off">
+      <span class="network-search-shortcut" aria-hidden="true">/</span>
+    </div>
+
+    <div class="network-shell">
+      <aside class="network-rail" id="network-rail" aria-label="Filter rail">
+        <noscript>
+          Filters require JavaScript. The full list of materials is below.
+        </noscript>
+      </aside>
+      <div class="network-graph"
+           id="network-graph"
+           data-module-url="{{ $graph.RelPermalink }}"
+           role="figure"
+           aria-label="Discovery network for {{ .Title }}">
+        <div class="network-graph-skeleton">Loading network…</div>
+      </div>
+    </div>
+
+    <p class="network-status" role="status">
+      <span id="network-status-text">{{ len (where .Site.RegularPages "Params.page_type" "eq" "unit") }} units</span>
+    </p>
+
+    <ul class="network-grid" id="network-list" aria-label="Filtered materials"></ul>
+
+    {{- /* DOM-nav fallback for a11y + sub-768px viewports. Always
+           rendered. Visually hidden on desktop (network-fallback CSS).
+           Grouped course -> topic -> type so a screen reader walks the
+           same hierarchy a sighted user gets from the graph. */ -}}
+    <details class="network-fallback"><summary>Browse every unit and download</summary><nav aria-label="All materials">
+      {{- $units := where (where .Site.RegularPages "Section" "in" (slice "track-e" "track-gm")) "Params.page_type" "eq" "unit" -}}
+      {{- $byCourse := dict -}}
+      {{- range $units -}}
+        {{- $key := printf "%s/kl%02d" .Params.track (int .Params.klassenstufe) -}}
+        {{- $list := default slice (index $byCourse $key) -}}
+        {{- $byCourse = merge $byCourse (dict $key ($list | append .)) -}}
+      {{- end -}}
+      {{- $courseKeys := slice -}}
+      {{- range $k, $_ := $byCourse }}{{ $courseKeys = $courseKeys | append $k }}{{ end -}}
+      {{- range $course := sort $courseKeys -}}
+        {{- $items := index $byCourse $course -}}
+        {{- $tm := findRE `^track-(e|gm)/kl(\d{2})$` $course 1 -}}
+        <section aria-labelledby="course-{{ replace $course "/" "-" }}">
+          <h2 id="course-{{ replace $course "/" "-" }}">
+            {{- if hasPrefix $course "track-gm" }}Track G+M{{ else }}Track E{{ end }} ·
+            Klasse {{ index (split (index (split $course "/") 1) "kl") 1 }}
+          </h2>
+          <ul>
+          {{- range $items }}
+            <li>
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              <span> — {{ .Params.topic }}</span>
+              {{- if .Params.presentation -}}
+                · <a href="{{ index .Params.presentation "file" }}" download>presentation</a>
+              {{- end -}}
+              {{- if .Params.worksheet -}}
+                · <a href="{{ index .Params.worksheet "file" }}" download>worksheet</a>
+              {{- end -}}
+            </li>
+          {{- end }}
+          </ul>
+        </section>
+      {{- end }}
+    </nav></details>
+  </article>
+</section>
+
+<script>
+  // Resolve build-time URLs once. The bundle picks these up so it works
+  // under any baseURL — root deploys, GitHub Pages subpaths (/efl/),
+  // or future moves don't require a JS recompile.
+  window.__EFL_GRAPH_URL    = "{{ printf "%sgraph.json" .RelPermalink }}";
+  window.__EFL_PAGEFIND_URL = "{{ "pagefind/pagefind.js" | relURL }}";
+</script>
+<script type="module" src="{{ $entry.RelPermalink }}"
+        {{- with $entry.Data.Integrity }} integrity="{{ . }}"{{ end -}}
+></script>
+
+{{ end }}

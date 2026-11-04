@@ -1,4 +1,5 @@
 ---
+layout: discovery
 page_type: section
 title: "Materials"
 author: "S. Le Boulanger"

@@ -38,6 +38,8 @@ export class List {
     this.data = graphData;
     this.store = store;
     this.cardsByNode = new Map();
+    this.limit = ARTICLE_PAGE_SIZE;
+    this.lastFilter = null;
     store.subscribe((s) => this._onState(s));
   }
 
@@ -46,17 +48,18 @@ export class List {
   }
 
   _onState(s) {
-    this._render(s);
+    if (this.lastFilter !== s.filteredNodeIds) { this.limit = ARTICLE_PAGE_SIZE; this._render(s); }
     this._applyHover(s.hovered);
   }
 
   _render(s) {
     const filtered = s.filteredNodeIds;
+    this.lastFilter = filtered;
     // Group: one card per article, rolling up its pres/ws as type chips.
     const articles = [];
     for (const n of this.data.nodes) {
       if (n.type !== "article") continue;
-      if (!filtered.has(n.id)) continue;
+      if (!filtered.has(n.id) && !(n.related || []).some(id => filtered.has(id))) continue;
       articles.push(n);
     }
     articles.sort((a, b) => a.title.localeCompare(b.title));
@@ -65,7 +68,7 @@ export class List {
     if (articles.length === 0) {
       html.push(this._emptyState(s));
     } else {
-      const shown = articles.slice(0, ARTICLE_PAGE_SIZE);
+      const shown = articles.slice(0, this.limit);
       for (const a of shown) {
         const presId = a.related && a.related[0];
         const wsId   = a.related && a.related[1];
@@ -94,11 +97,14 @@ export class List {
         html.push(`</li>`);
       }
       if (articles.length > shown.length) {
-        html.push(`<li class="network-card" style="grid-column: span 3; text-align:center; color:var(--network-text-meta)">+${articles.length - shown.length} more match. Refine filters or search to narrow.</li>`);
+        html.push(`<li class="network-more"><button type="button" data-action="show-more">Show more (${articles.length - shown.length} remaining)</button></li>`);
       }
     }
 
     this.container.innerHTML = html.join("");
+    this.container.querySelector('[data-action="show-more"]')?.addEventListener('click', () => {
+      this.limit += ARTICLE_PAGE_SIZE; this._render(this.store.get());
+    });
     this.cardsByNode.clear();
     this.container.querySelectorAll("li[data-node-id]").forEach((li) => {
       this.cardsByNode.set(li.dataset.nodeId, li);

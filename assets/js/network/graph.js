@@ -26,7 +26,7 @@ const TYPE_SHAPES = {
 
 /** Read a CSS custom property from :root and trim whitespace. */
 function cssVar(name, fallback) {
-  const v = getComputedStyle(document.documentElement)
+  const v = getComputedStyle(document.body)
     .getPropertyValue(name)
     .trim();
   return v || fallback;
@@ -174,7 +174,7 @@ export class NetworkGraph {
     });
 
     // Theme toggle: re-apply stylesheet when Coder switches color scheme.
-    const root = document.documentElement;
+    const root = document.body;
     const observer = new MutationObserver(() => {
       this.cy.style().fromJson(buildStylesheet()).update();
     });

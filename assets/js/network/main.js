@@ -17,7 +17,6 @@
  * + list still work over the DOM. The search index is the same Pagefind
  * artefact regardless of viewport.
  */
-import { NetworkGraph } from "./graph.js";
 import { Filters } from "./filters.js";
 import { Search, patchFiltersForSearch } from "./search.js";
 import { List } from "./list.js";
@@ -80,6 +79,14 @@ async function init() {
   // Desktop: instantiate Cytoscape and bridge filter+hover state.
   let graph = null;
   if (isDesktop) {
+    const button = document.createElement('button');
+    button.type = 'button'; button.textContent = 'Show network';
+    container.replaceChildren(button);
+    button.addEventListener('click', async () => {
+    button.disabled = true;
+    try {
+    const { NetworkGraph } = await import(container.dataset.moduleUrl);
+    container.replaceChildren();
     graph = new NetworkGraph(container, data);
     await graph.render();
     // Filter changes -> dim non-matching nodes.
@@ -104,6 +111,12 @@ async function init() {
           if (n) n.addClass("hovered");
         }
       });
+    });
+    window.__efl_network.graph = graph;
+    } catch (error) {
+      container.replaceChildren(button); button.disabled = false;
+      button.textContent = 'Network unavailable — retry';
+    }
     });
   } else {
     container.innerHTML = "";
