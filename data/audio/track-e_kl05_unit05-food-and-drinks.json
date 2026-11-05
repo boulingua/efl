@@ -1,0 +1,17 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl05_unit05-food-and-drinks/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Frida the fox sits at a cafe table that is too tall for her. The waiter is professional. He does not comment on the fox. \"Good afternoon. What can I get you?\" Frida considers. \"A cup of tea, please. And a small piece of cake — preferably the kind with apple in it.\" Mia, at the next table, mouths thank you to the waiter for not laughing.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl05/units/unit05-food-and-drinks/index.md",
+    "source_body_sha256": "56b688a0851d53b866b9b52943257b1195e0159c9ae746d1666b8e3c4c90c8b9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]

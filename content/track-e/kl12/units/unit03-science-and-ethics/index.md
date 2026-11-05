@@ -41,6 +41,7 @@ curriculum:
     - B2.MED.overall-mediation.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl12_unit03-science-and-ethics
 ---
 
 {{< callout type="note" >}}

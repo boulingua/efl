@@ -1,0 +1,17 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl05_unit03-home-and-room/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Theo opens the front door. The hallway smells of bread and rain. To the right is the kitchen, with its loud fridge and quiet kettle. The living room has a large window onto the courtyard. Down the hall is Mia's bedroom — door always almost shut, never quite open. Frida the fox arrives at the back door, wet and polite. \"I won't go in,\" she says. \"I just like to be invited.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl05/units/unit03-home-and-room/index.md",
+    "source_body_sha256": "974fdd9378975cd34c135966dc9b72b3598921c34bb678d2dd2adf94636859e7",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]

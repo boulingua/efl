@@ -42,6 +42,7 @@ curriculum:
     - A2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl07_unit11-plans-for-the-summer
 ---
 
 {{< callout type="note" >}}

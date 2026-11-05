@@ -42,6 +42,7 @@ curriculum:
     - A2.PROD.creative-writing.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl09_unit04-canada-perspectives
 ---
 
 {{< callout type="note" >}}

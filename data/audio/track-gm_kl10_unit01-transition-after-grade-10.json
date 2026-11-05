@@ -1,0 +1,48 @@
+[
+  {
+    "file": "/efl/materials/audio/track-gm_kl10_unit01-transition-after-grade-10/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Sam, who is back after a year abroad with his cousins, is sitting in the Klasse 10 corridor. He is reconsidering everything. Maja, who is more decisive on principle, has already chosen an apprenticeship — though she keeps reading Berufsbildung pamphlets just in case. Mr. Yilmaz says, every Klasse 10 corridor has at least one person re-reading a leaflet they have already memorised.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit01-transition-after-grade-10/index.md",
+    "source_body_sha256": "290291f2b539619ed55cb6a2ae982c81ff994b967e529fd40fd8e75a72247928",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl10_unit01-transition-after-grade-10/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "apprenticeship · vocational training (Berufsausbildung) · FOS/BOS (Fachoberschule / Berufsoberschule) · gap year · internship · certificate · application · deadline · shortlist · interview · on-the-job training · dual system · employer reference",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit01-transition-after-grade-10/index.md",
+    "source_body_sha256": "290291f2b539619ed55cb6a2ae982c81ff994b967e529fd40fd8e75a72247928",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "apprenticeship.\nvocational training (Berufsausbildung).\nFOS/BOS (Fachoberschule / Berufsoberschule).\ngap year.\ninternship.\ncertificate.\napplication.\ndeadline.\nshortlist.\ninterview.\non-the-job training.\ndual system.\nemployer reference."
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl10_unit01-transition-after-grade-10/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Three students from Maja's class chose three different paths. Lukas signed an apprenticeship contract with a local electrician. Lina applied to the FOS in Stuttgart. Adam took a gap year and wrote that a year of working as a forest ranger had changed his sense of time.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit01-transition-after-grade-10/index.md",
+    "source_body_sha256": "290291f2b539619ed55cb6a2ae982c81ff994b967e529fd40fd8e75a72247928",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]

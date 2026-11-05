@@ -42,6 +42,7 @@ curriculum:
     - A2.REC.reading-for-information-and-argument.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl07_unit08-first-mediation
 ---
 
 {{< callout type="note" >}}

@@ -42,6 +42,7 @@ curriculum:
     - B1.MED.overall-mediation.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl10_unit08-science-and-society
 ---
 
 {{< callout type="note" >}}

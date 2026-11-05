@@ -1,0 +1,33 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl12_unit01-dystopias/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "The class opened the dystopia unit with three short extracts, one from each of 1984 (Orwell, 1949), Brave New World (Huxley, 1932), and The Handmaid's Tale (Atwood, 1985). The shared question: by what means does each regime control its citizens? The class noticed quickly that the answer was different in each — surveillance, conditioning, and ritual were not interchangeable.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit01-dystopias/index.md",
+    "source_body_sha256": "f56be335e70b1a284bedbd0c1d24568e11143b136df55f302ba2066aa5fefd4b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl12_unit01-dystopias/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "surveillance · complicity · conditioning · dehumanisation · ritualisation · language control · doublespeak · totalitarianism · theocracy · biopolitics · complicity-of-the-comfortable · disciplinary apparatus · internal exile",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit01-dystopias/index.md",
+    "source_body_sha256": "f56be335e70b1a284bedbd0c1d24568e11143b136df55f302ba2066aa5fefd4b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "surveillance.\ncomplicity.\nconditioning.\ndehumanisation.\nritualisation.\nlanguage control.\ndoublespeak.\ntotalitarianism.\ntheocracy.\nbiopolitics.\ncomplicity-of-the-comfortable.\ndisciplinary apparatus.\ninternal exile."
+  }
+]

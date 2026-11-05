@@ -42,6 +42,7 @@ curriculum:
     - A2.PROD.sustained-monologue-describing-experience.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl09_unit09-short-fiction
 ---
 
 {{< callout type="note" >}}

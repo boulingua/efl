@@ -42,6 +42,7 @@ curriculum:
     - B2.REC.reading-as-a-leisure-activity.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl11_unit03-post-colonial-voices-intro
 ---
 
 {{< callout type="note" >}}

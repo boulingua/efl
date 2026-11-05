@@ -41,6 +41,7 @@ curriculum:
     - A2.MED.processing-text.06
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl08_unit12-school-magazine-issue
 ---
 
 {{< callout type="note" >}}

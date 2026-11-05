@@ -41,6 +41,7 @@ curriculum:
     - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl05_unit12-review-and-show
 ---
 
 {{< callout type="note" >}}

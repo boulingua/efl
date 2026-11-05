@@ -1,0 +1,49 @@
+[
+  {
+    "file": "/efl/materials/audio/track-gm_kl07_unit06-food-cultures/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Aisha's grandmother does not measure things. She measures by\nlook, smell, and the angle of her wooden spoon. Aisha has tried\nto write down the recipe for the family rice three times. Each\ntime, her grandmother has read the recipe and said, very gently,\n\"This is wrong.\" When Aisha asked what was wrong, her grandmother\nsaid, \"It says one teaspoon of salt. There is no teaspoon. There\nis only your hand.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit06-food-cultures/index.md",
+    "source_body_sha256": "078c6460fe5f0da520cc83c89d2c69650aefe63c53fbc42d09fcf34777d2a415",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl07_unit06-food-cultures/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Anya's grandfather makes the same dish every Sunday: rice,\nchicken, a sauce with herbs the family will not name in English\nbecause the English name does not feel right. The dish has\nmigrated with the family for two generations. In the village,\nit was made with a chicken from the yard. In the city, it is\nmade with a chicken from the supermarket. The taste is mostly\nthe same. Sundays are the day Anya's grandfather speaks the\nmost. The dish, he says, is what the family is. Every other\nday they argue about everything. On Sundays they argue about\nthe chicken.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit06-food-cultures/index.md",
+    "source_body_sha256": "078c6460fe5f0da520cc83c89d2c69650aefe63c53fbc42d09fcf34777d2a415",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Anya's grandfather makes the same dish every Sunday: rice, chicken, a sauce with herbs the family will not name in English because the English name does not feel right. The dish has migrated with the family for two generations. In the village, it was made with a chicken from the yard. In the city, it is made with a chicken from the supermarket. The taste is mostly the same. Sundays are the day Anya's grandfather speaks the most. The dish, he says, is what the family is. Every other day they argue about everything. On Sundays they argue about the chicken."
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl07_unit06-food-cultures/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "to chop · a knife, a board · to slice · a slice · to peel · the peel · to boil · a pot · to fry · a pan · to bake · an oven · to season · salt, pepper, herbs, spices · to taste · a taste · to stir · a spoon · to serve · a plate, a bowl",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit06-food-cultures/index.md",
+    "source_body_sha256": "078c6460fe5f0da520cc83c89d2c69650aefe63c53fbc42d09fcf34777d2a415",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "to chop.\na knife, a board.\nto slice.\na slice.\nto peel.\nthe peel.\nto boil.\na pot.\nto fry.\na pan.\nto bake.\nan oven.\nto season.\nsalt, pepper, herbs, spices.\nto taste.\na taste.\nto stir.\na spoon.\nto serve.\na plate, a bowl."
+  }
+]

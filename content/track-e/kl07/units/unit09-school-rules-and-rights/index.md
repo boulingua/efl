@@ -43,6 +43,7 @@ curriculum:
     - A2.REC.identifying-cues-and-inferring.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl07_unit09-school-rules-and-rights
 ---
 
 {{< callout type="note" >}}

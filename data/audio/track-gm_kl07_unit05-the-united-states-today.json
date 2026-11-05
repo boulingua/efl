@@ -1,0 +1,33 @@
+[
+  {
+    "file": "/efl/materials/audio/track-gm_kl07_unit05-the-united-states-today/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Maya stepped off the plane in Phoenix, Arizona. She had imagined\nthe United States as a single image: tall buildings, yellow taxis,\na song her grandmother liked. The air at the gate of the airport\nwas warm. The air outside the airport was something else — like\nopening an oven with your face. Her cousin Jorge was waiting in\nthe parking lot in a small white car. The car had been running,\nwith the air conditioning on, for fifteen minutes. \"Welcome to\nthe desert,\" he said. \"We don't sit outside here in July. We\nmove from box to box.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit05-the-united-states-today/index.md",
+    "source_body_sha256": "59a89f3b85ccd539f6bb30c68018d8eb3703fe999648f65f33bfb0fc758bf964",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl07_unit05-the-united-states-today/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "The first thing Maya noticed in Phoenix was the sound of the\nair conditioning. It was everywhere: in the supermarket, in the\ncar, in the hotel lobby. Outside, the heat had a sound too —\nthe steady drone of cicadas in the desert trees. Her cousins\nsaid you stop hearing the cicadas after about a week. She did\nnot believe them. By the end of the third day, she realised\nthey were right. The desert had its own kind of silence, and it\nwas full of noises she would not have called noises a week\nearlier.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit05-the-united-states-today/index.md",
+    "source_body_sha256": "59a89f3b85ccd539f6bb30c68018d8eb3703fe999648f65f33bfb0fc758bf964",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "The first thing Maya noticed in Phoenix was the sound of the air conditioning. It was everywhere: in the supermarket, in the car, in the hotel lobby. Outside, the heat had a sound too — the steady drone of cicadas in the desert trees. Her cousins said you stop hearing the cicadas after about a week. She did not believe them. By the end of the third day, she realised they were right. The desert had its own kind of silence, and it was full of noises she would not have called noises a week earlier."
+  }
+]

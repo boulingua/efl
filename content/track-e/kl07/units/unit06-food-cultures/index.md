@@ -43,6 +43,7 @@ curriculum:
     - A2.MED.analysis-and-criticism-of-creative-texts.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl07_unit06-food-cultures
 ---
 
 {{< callout type="note" >}}

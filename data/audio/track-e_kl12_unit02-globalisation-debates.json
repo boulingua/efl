@@ -1,0 +1,48 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl12_unit02-globalisation-debates/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "The class read a 2025 review piece in The Economist summarising twenty years of globalisation debates. The piece opened with a number — world trade as a share of GDP rose from 39 % in 1990 to 60 % by 2008 — and a counter-number — and has plateaued since. The class spent the lesson learning to read those two numbers as the same fact.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit02-globalisation-debates/index.md",
+    "source_body_sha256": "ce60dd296c9dd3979945444a0fafcfdd7910ad3019d7f7891e6f95b428392c4d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl12_unit02-globalisation-debates/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "World trade as a share of GDP rose from 39 % in 1990 to 60 % by 2008. It has plateaued since. The supporters of the post-1990 trade order point to the lifting of approximately one billion people out of extreme poverty over the same period — predominantly in East and South Asia. Critics respond that intra-country inequality in advanced economies grew sharply, that supply-chain fragility was severely under-priced before 2020, and that environmental externalities were systematically exported. Both sides hang on empirical claims that are roughly correct.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit02-globalisation-debates/index.md",
+    "source_body_sha256": "ce60dd296c9dd3979945444a0fafcfdd7910ad3019d7f7891e6f95b428392c4d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl12_unit02-globalisation-debates/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "supply chain · comparative advantage · regulatory race / race to the bottom · externality · intra-country inequality · trade order · deindustrialisation · reshoring · near-shoring · friend-shoring · decoupling · fragmentation · geo-economic",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit02-globalisation-debates/index.md",
+    "source_body_sha256": "ce60dd296c9dd3979945444a0fafcfdd7910ad3019d7f7891e6f95b428392c4d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "supply chain.\ncomparative advantage.\nregulatory race / race to the bottom.\nexternality.\nintra-country inequality.\ntrade order.\ndeindustrialisation.\nreshoring.\nnear-shoring.\nfriend-shoring.\ndecoupling.\nfragmentation.\ngeo-economic."
+  }
+]

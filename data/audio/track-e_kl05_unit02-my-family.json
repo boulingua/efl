@@ -1,0 +1,33 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl05_unit02-my-family/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Mia draws her family on paper. Mother — doctor. Father — works at home. Brother Theo — football. Pepper the cat. Then her two grandmothers, both alive, both stubborn. \"Don't forget your aunt in Hamburg,\" Theo says. Mia adds the aunt. Frida the fox watches from the window. \"My family,\" she says, \"is a lot of foxes in one den. None of us draw.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl05/units/unit02-my-family/index.md",
+    "source_body_sha256": "55283fd9cebde2c492f1935064bda6868263a9497d0f8cbc2c587d5e88785a7f",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl05_unit02-my-family/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "mother · father · parents · sister · brother · siblings · grandmother · grandfather · grandparents · aunt · uncle · cousin · niece · nephew · stepmother · stepfather · half-brother · half-sister",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl05/units/unit02-my-family/index.md",
+    "source_body_sha256": "55283fd9cebde2c492f1935064bda6868263a9497d0f8cbc2c587d5e88785a7f",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "mother.\nfather.\nparents.\nsister.\nbrother.\nsiblings.\ngrandmother.\ngrandfather.\ngrandparents.\naunt.\nuncle.\ncousin.\nniece.\nnephew.\nstepmother.\nstepfather.\nhalf-brother.\nhalf-sister."
+  }
+]

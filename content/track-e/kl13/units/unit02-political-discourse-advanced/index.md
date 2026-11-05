@@ -41,6 +41,7 @@ curriculum:
     - B2.LING.general-linguistic-range.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl13_unit02-political-discourse-advanced
 ---
 
 {{< callout type="note" >}}

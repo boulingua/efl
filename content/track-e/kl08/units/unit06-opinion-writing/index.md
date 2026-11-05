@@ -42,6 +42,7 @@ curriculum:
     - A2.PROD.reports-and-essays.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl08_unit06-opinion-writing
 ---
 
 {{< callout type="note" >}}

@@ -1,0 +1,48 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl10_unit02-the-world-of-work/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Maja is preparing for a one-week internship at a small architecture firm in Stuttgart. She has read the firm's portfolio twice. She has prepared four questions and one polite refusal in case the coffee they offer is, as her aunt warned, the kind that looks like coffee but isn't.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit02-the-world-of-work/index.md",
+    "source_body_sha256": "127969e3444b7a4acc0a533f2c60bad6dbc23b1df8d64d3d456d4fff9c0d8b61",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl10_unit02-the-world-of-work/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "The firm has been working on small-scale public buildings — kindergartens, libraries, a community centre — for the past fifteen years. The senior architect, who founded the firm at 31, says the biggest professional change of her career has been the shift from drawing on paper to building on screen. The biggest skill, she adds, has not changed: listening to a brief twice before answering once.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit02-the-world-of-work/index.md",
+    "source_body_sha256": "127969e3444b7a4acc0a533f2c60bad6dbc23b1df8d64d3d456d4fff9c0d8b61",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl10_unit02-the-world-of-work/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "portfolio · brief · milestone · deliverable · stakeholder · senior / junior · line manager · probation · performance review · mentor · mentee · feedback loop · pivot · lateral move · soft skills · hard skills",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit02-the-world-of-work/index.md",
+    "source_body_sha256": "127969e3444b7a4acc0a533f2c60bad6dbc23b1df8d64d3d456d4fff9c0d8b61",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "portfolio.\nbrief.\nmilestone.\ndeliverable.\nstakeholder.\nsenior / junior.\nline manager.\nprobation.\nperformance review.\nmentor.\nmentee.\nfeedback loop.\npivot.\nlateral move.\nsoft skills.\nhard skills."
+  }
+]

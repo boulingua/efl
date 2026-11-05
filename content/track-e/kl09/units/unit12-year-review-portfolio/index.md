@@ -41,6 +41,7 @@ curriculum:
     - A2.MED.processing-text.06
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl09_unit12-year-review-portfolio
 ---
 
 {{< callout type="note" >}}

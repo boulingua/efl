@@ -1,0 +1,33 @@
+[
+  {
+    "file": "/efl/materials/audio/track-gm_kl07_unit01-first-day-back/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Aisha drags her schoolbag up the corridor. It is heavier than she\nremembers. The summer was six weeks of bike rides, late breakfasts,\nand a heat wave that made the asphalt sticky in the afternoons.\nNow her shoes squeak on freshly polished floors and a small,\nhopeful poster says Welcome back, Year 7! in three different\ncolours. Ben is already in the classroom, adjusting his chair\ntwice and pretending to read the timetable. Their new homeroom\nteacher, Ms. Reyes, looks up from her desk, smiles, and says,\n\"Right. Tell me one good thing about your summer — one. Then we\nstart.\" Aisha takes a breath. She has many things. The trick is\nchoosing.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit01-first-day-back/index.md",
+    "source_body_sha256": "e9c948d47010baa9194f35662843fa2eadd6d9f0db672e7a0518efd2f1d9f06b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl07_unit01-first-day-back/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Ms. Reyes. Welcome back, Year 7. Aisha, you go first. One\ngood thing about your summer — go.\\\nAisha. I went to my grandmother's village for two weeks. We\nmade bread every morning.\\\nMs. Reyes. Bread every morning? That sounds like work. Did\nyou enjoy it?\\\nAisha. Yes, but my arms got tired.\\\nMs. Reyes. Ben?\\\nBen. I, um — I built a bike ramp in the garden. With my\ncousin.\\\nMs. Reyes. And did it work?\\\nBen. It worked twice. Then it broke.\\\nMs. Reyes. Twice is enough for a story.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit01-first-day-back/index.md",
+    "source_body_sha256": "e9c948d47010baa9194f35662843fa2eadd6d9f0db672e7a0518efd2f1d9f06b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Ms. Reyes. Welcome back, Year 7. Aisha, you go first. One good thing about your summer — go.\\ Aisha. I went to my grandmother's village for two weeks. We made bread every morning.\\ Ms. Reyes. Bread every morning? That sounds like work. Did you enjoy it?\\ Aisha. Yes, but my arms got tired.\\ Ms. Reyes. Ben?\\ Ben. I, um — I built a bike ramp in the garden. With my cousin.\\ Ms. Reyes. And did it work?\\ Ben. It worked twice. Then it broke.\\ Ms. Reyes. Twice is enough for a story."
+  }
+]

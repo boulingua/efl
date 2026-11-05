@@ -1,0 +1,32 @@
+[
+  {
+    "file": "/efl/materials/audio/track-gm_kl10_unit04-australia-now/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Maja's older cousin moved to Brisbane two years ago. Her postcards have stopped pretending. They no longer say the weather is brilliant. They now say things like I have learned to wear sunscreen as a religion and the heat is not a season here, it is a relative. Maja keeps the postcards in her desk drawer.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit04-australia-now/index.md",
+    "source_body_sha256": "15a59e4222df2a7adc97fdf4d12ab70c517151fd8bf8e7e524137df06d012c26",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl10_unit04-australia-now/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Australia is more urban than its myth. About 86 % of Australians live in cities. Multiculturalism is real and complicated — Brisbane is home to large Vietnamese and Lebanese communities, and First Nations languages are taught in some primary schools. The bushfire season has lengthened over the past two decades. Sunscreen is not a luxury; it is a habit closer to brushing teeth.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit04-australia-now/index.md",
+    "source_body_sha256": "15a59e4222df2a7adc97fdf4d12ab70c517151fd8bf8e7e524137df06d012c26",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]

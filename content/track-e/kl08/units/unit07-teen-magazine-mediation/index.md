@@ -41,6 +41,7 @@ curriculum:
     - A2.REC.reading-as-a-leisure-activity.04
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl08_unit07-teen-magazine-mediation
 ---
 
 {{< callout type="note" >}}

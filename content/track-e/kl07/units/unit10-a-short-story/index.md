@@ -42,6 +42,7 @@ curriculum:
     - A2.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl07_unit10-a-short-story
 ---
 
 {{< callout type="note" >}}

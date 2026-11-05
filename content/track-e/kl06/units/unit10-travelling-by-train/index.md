@@ -41,6 +41,7 @@ curriculum:
     - A1.SOC.sociolinguistic-appropriateness.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl06_unit10-travelling-by-train
 ---
 
 {{< callout type="note" >}}

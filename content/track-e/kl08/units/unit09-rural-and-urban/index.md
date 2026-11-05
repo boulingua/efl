@@ -42,6 +42,7 @@ curriculum:
     - A2.LING.general-linguistic-range.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl08_unit09-rural-and-urban
 ---
 
 {{< callout type="note" >}}

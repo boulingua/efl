@@ -42,6 +42,7 @@ curriculum:
     - A1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl05_unit06-animals-and-pets
 ---
 
 {{< callout type="note" >}}

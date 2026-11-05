@@ -43,6 +43,7 @@ curriculum:
     - A2.PROD.sustained-monologue-giving-information.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl07_unit04-a-trip-to-scotland
 ---
 
 {{< callout type="note" >}}

@@ -41,6 +41,7 @@ curriculum:
     - A1.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl05_unit02-my-family
 ---
 
 {{< callout type="note" >}}

@@ -1,0 +1,55 @@
+[
+  {
+    "file": "/efl/materials/audio/track-gm_kl07_unit08-first-mediation/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Aisha's mother forwarded an e-mail from the school. The e-mail\nwas in German. Aisha needed to explain it to her cousin in\nManchester before the weekend, because the school trip date had\nmoved. The e-mail had four paragraphs and one list. Aisha did not\nneed to translate them. She only had to tell her cousin what to\nput in his diary.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit08-first-mediation/index.md",
+    "source_body_sha256": "14e271fbe8b523c802baec47bded15a5f01d7b27fd58dec32675889178a75aca",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [
+      "Task 2 — Mediation B: short German blog post (15 BE)"
+    ]
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl07_unit08-first-mediation/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Liebe Eltern, der ursprünglich für den 14. Juni geplante\nWandertag wird auf den 21. Juni verschoben. Treffpunkt bleibt\nder Hauptbahnhof, jedoch 15 Minuten früher als ursprünglich\nangegeben. Wer den Zug um 7:45 Uhr verpasst, kann an der\nWanderung leider nicht mehr teilnehmen. Bitte denken Sie daran,\ndass festes Schuhwerk und eine Regenjacke verpflichtend sind.\nMit freundlichen Grüßen, die school administration (Schulleitung).",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit08-first-mediation/index.md",
+    "source_body_sha256": "14e271fbe8b523c802baec47bded15a5f01d7b27fd58dec32675889178a75aca",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [
+      "Task 2 — Mediation B: short German blog post (15 BE)"
+    ],
+    "tts": "Liebe Eltern, der ursprünglich für den 14. Juni geplante Wandertag wird auf den 21. Juni verschoben. Treffpunkt bleibt der Hauptbahnhof, jedoch 15 Minuten früher als ursprünglich angegeben. Wer den Zug um 7:45 Uhr verpasst, kann an der Wanderung leider nicht mehr teilnehmen. Bitte denken Sie daran, dass festes Schuhwerk und eine Regenjacke verpflichtend sind. Mit freundlichen Grüßen, die school administration (Schulleitung)."
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl07_unit08-first-mediation/texte3.ogg",
+    "label": "Text 3",
+    "transcript": "\"Hi Tom, the school hike has been moved from June 14 to June 21.\nWe meet at the main station fifteen minutes earlier — at 7:30.\nIf you miss the train, you can't come, so don't forget good\nshoes and a rain jacket.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit08-first-mediation/index.md",
+    "source_body_sha256": "14e271fbe8b523c802baec47bded15a5f01d7b27fd58dec32675889178a75aca",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [
+      "Task 2 — Mediation B: short German blog post (15 BE)"
+    ],
+    "tts": "\"Hi Tom, the school hike has been moved from June 14 to June 21. We meet at the main station fifteen minutes earlier — at 7:30. If you miss the train, you can't come, so don't forget good shoes and a rain jacket.\""
+  }
+]

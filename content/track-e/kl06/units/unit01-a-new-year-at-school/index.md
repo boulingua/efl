@@ -41,6 +41,7 @@ curriculum:
     - A1.REC.understanding-conversation-between-other-people.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl06_unit01-a-new-year-at-school
 ---
 
 {{< callout type="note" >}}

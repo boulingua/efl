@@ -1,0 +1,17 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl13_unit10-kommunikationspruefung-full-mock/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Today is the full-format Kommunikationsprüfung mock. Mr. Yilmaz has invited a colleague to play the examiner-pair so the format matches the actual Abitur. 15 minutes per candidate. Stimulus drawn at random. Bewertungsraster (grading grid) used. The mock is itself the lesson.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl13/units/unit10-kommunikationspruefung-full-mock/index.md",
+    "source_body_sha256": "d1b553b71ca8b63dea5d01f9143bd26f70b78124b74933891516851d904f046c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]

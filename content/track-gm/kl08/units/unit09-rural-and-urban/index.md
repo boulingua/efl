@@ -42,6 +42,7 @@ curriculum:
     - A2.LING.orthographic-control.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl08_unit09-rural-and-urban
 ---
 
 {{< callout type="note" >}}

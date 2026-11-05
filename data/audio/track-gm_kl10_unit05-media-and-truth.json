@@ -1,0 +1,48 @@
+[
+  {
+    "file": "/efl/materials/audio/track-gm_kl10_unit05-media-and-truth/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Sam's class made a Five-Minute Fact-Check board on the wall. Each Friday, every student pinned one viral claim to the board, with three columns: source / evidence / what would change my mind. By March, the wall was full. Mr. Yilmaz did not say I told you so. He just looked at the wall sideways and smiled.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit05-media-and-truth/index.md",
+    "source_body_sha256": "43bc0b03c5aceb70d800a85379d54fdced1bba01b74c8248dba01f55b057cd44",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl10_unit05-media-and-truth/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Most viral claims feel true because they fit a pattern we already believe. The fact-checker's job is small but stubborn: ask three questions. Where is this from? What is the actual evidence? What would change my mind? If a claim cannot survive these questions, it does not belong in your shareable list.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit05-media-and-truth/index.md",
+    "source_body_sha256": "43bc0b03c5aceb70d800a85379d54fdced1bba01b74c8248dba01f55b057cd44",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl10_unit05-media-and-truth/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "verify · source · primary source · secondary source · fact-check · peer-reviewed · citation · anecdote · correlation vs. causation · statistical sample · bias · framing · context · viral · debunked · retracted",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit05-media-and-truth/index.md",
+    "source_body_sha256": "43bc0b03c5aceb70d800a85379d54fdced1bba01b74c8248dba01f55b057cd44",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "verify.\nsource.\nprimary source.\nsecondary source.\nfact-check.\npeer-reviewed.\ncitation.\nanecdote.\ncorrelation vs. causation.\nstatistical sample.\nbias.\nframing.\ncontext.\nviral.\ndebunked.\nretracted."
+  }
+]

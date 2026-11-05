@@ -41,6 +41,7 @@ curriculum:
     - A1.INT.correspondence.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl05_unit07-weather-and-seasons
 ---
 
 {{< callout type="note" >}}

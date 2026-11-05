@@ -1,0 +1,33 @@
+[
+  {
+    "file": "/efl/materials/audio/track-gm_kl07_unit07-being-a-friend/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Ben sat down beside Aisha at lunch and pushed his tray away\nwithout eating. \"I think Marius hates me,\" he said. Aisha put\ndown her sandwich. \"Did you ask him?\" \"No.\" \"Then technically you\nhave invented a person who hates you. Maybe try the real one\nfirst.\" Ben rolled his eyes, but he also smiled — which is what\nAisha was waiting for.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit07-being-a-friend/index.md",
+    "source_body_sha256": "0d51f3a8d2205b829cfb078e42eba3695e3e4ff2abd0cc85bb794432c34e716c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl07_unit07-being-a-friend/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Ben. Aisha, can I tell you something without you laughing?\\\nAisha. Probably not. But I'll try.\\\nBen. I think Marius is mad at me. He didn't talk to me at\nlunch.\\\nAisha. Did you ask him why?\\\nBen. No. I just decided he hates me now.\\\nAisha. Ben. Sometimes people just have a bad lunch. Go ask\nhim tomorrow before you spend the whole evening building a\ntheory.\\\nBen. That sounds annoyingly sensible.\\\nAisha. I am annoyingly sensible. That's why you tell me\nthings.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit07-being-a-friend/index.md",
+    "source_body_sha256": "0d51f3a8d2205b829cfb078e42eba3695e3e4ff2abd0cc85bb794432c34e716c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Ben. Aisha, can I tell you something without you laughing?\\ Aisha. Probably not. But I'll try.\\ Ben. I think Marius is mad at me. He didn't talk to me at lunch.\\ Aisha. Did you ask him why?\\ Ben. No. I just decided he hates me now.\\ Aisha. Ben. Sometimes people just have a bad lunch. Go ask him tomorrow before you spend the whole evening building a theory.\\ Ben. That sounds annoyingly sensible.\\ Aisha. I am annoyingly sensible. That's why you tell me things."
+  }
+]

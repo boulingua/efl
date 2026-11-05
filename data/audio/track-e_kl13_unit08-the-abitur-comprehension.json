@@ -1,0 +1,17 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl13_unit08-the-abitur-comprehension/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Second of three Abitur-prep Units. Today's focus: the Comprehension task — the section that students most often over-spend on at the expense of later sections. 60 minutes. Three sub-questions of varying BE-weight. Submit. Debrief against Bewertungsraster (grading grid).",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl13/units/unit08-the-abitur-comprehension/index.md",
+    "source_body_sha256": "f1d67b938fb5762c28ba0d240ebf1a49b25f91f363de56e55f925fae0cd609a3",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]

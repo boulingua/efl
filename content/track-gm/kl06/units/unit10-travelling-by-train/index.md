@@ -41,6 +41,7 @@ curriculum:
     - A1.INT.information-exchange.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl06_unit10-travelling-by-train
 ---
 
 {{< callout type="note" >}}

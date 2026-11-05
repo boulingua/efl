@@ -1,0 +1,32 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl10_unit03-digital-lives/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Maja read an article in which the author claimed that digital life is now a redundant phrase, because life has, for nearly all the people she knows, become digital and offline at the same time, woven together rather than alternating. Maja agreed with most of this, disagreed with the for nearly all, and was annoyed by the certainty of the phrase redundant.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit03-digital-lives/index.md",
+    "source_body_sha256": "8d26e7651371791da60710d9720d9f292f275287bceec850c86e2025ff976032",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl10_unit03-digital-lives/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "The phrase 'digital life' is increasingly redundant. For most readers under 30, the digital and the offline are no longer alternating modes; they are woven together. While this can be a problem for attention, it is rarely the catastrophe older commentators describe. Even though there are real harms — the steep, well-documented effects on sleep, for instance — the picture is more local and more specific than 'a generation ruined by phones'.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit03-digital-lives/index.md",
+    "source_body_sha256": "8d26e7651371791da60710d9720d9f292f275287bceec850c86e2025ff976032",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]

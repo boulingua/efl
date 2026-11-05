@@ -1,0 +1,17 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl11_unit11-public-speaking-prep/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Klasse 11 begins formal preparation for the oral exam (\"Kommunikationsprüfung\"). Mr. Yilmaz set the format: 4-minute monologue from a stimulus + 4-minute examiner dialogue + 2-minute closing. The class is rehearsing in pairs. Maja drew a stimulus card on the future of work; the dialogue partner is to ask one supportive and one sharp follow-up.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit11-public-speaking-prep/index.md",
+    "source_body_sha256": "01b6cf186a41eecb3f64b8458f6e9a2dec8e3520bf8a3bd8181704dc0c3700f2",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]

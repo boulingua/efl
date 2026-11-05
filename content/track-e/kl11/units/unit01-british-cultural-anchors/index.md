@@ -42,6 +42,7 @@ curriculum:
     - B2.LING.general-linguistic-range.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl11_unit01-british-cultural-anchors
 ---
 
 {{< callout type="note" >}}

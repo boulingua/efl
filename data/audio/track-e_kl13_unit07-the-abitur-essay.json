@@ -1,0 +1,17 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl13_unit07-the-abitur-essay/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "First of three Abitur-prep Units. Today's focus: the Composition / Comment task. Mr. Yilmaz set a real-format prompt linked to a 1,000-word source extract. 90 minutes. Submit. Class debriefs against the official Bewertungsraster (grading grid) — Inhalt and Sprache scored separately.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl13/units/unit07-the-abitur-essay/index.md",
+    "source_body_sha256": "30a5e2e746c3cad0cd6f7abbf9e565b65e4963ec10fe974e24f47c404e857611",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]

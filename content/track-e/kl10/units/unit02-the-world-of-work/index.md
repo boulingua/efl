@@ -42,6 +42,7 @@ curriculum:
     - B1.LING.general-linguistic-range.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl10_unit02-the-world-of-work
 ---
 
 {{< callout type="note" >}}

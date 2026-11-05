@@ -42,6 +42,7 @@ curriculum:
     - A2.PROD.overall-oral-production.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl09_unit03-the-environment-locally
 ---
 
 {{< callout type="note" >}}

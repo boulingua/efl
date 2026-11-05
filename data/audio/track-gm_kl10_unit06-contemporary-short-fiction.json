@@ -1,0 +1,32 @@
+[
+  {
+    "file": "/efl/materials/audio/track-gm_kl10_unit06-contemporary-short-fiction/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "The class read The Note Under the Door by an imagined contemporary author. Six pages. One narrator. One small noise that turns out not to be small. Maja wrote in the margin of her copy: the house is a character. Mr. Yilmaz read the margin note before he read the essay.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit06-contemporary-short-fiction/index.md",
+    "source_body_sha256": "7236278000c693e2eaa9a8eb0afd35f0dba70506590124346a15b2ed26557b04",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl10_unit06-contemporary-short-fiction/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "The note, which someone had pushed under the door at 3 a.m., was written in pencil on a small piece of card. The handwriting, which I did not recognise, looked tired. The card said: 'I'm sorry about the cat.' I read it three times. We do not have a cat. The cat, I realised, was someone else's idea of an apology — delivered by accident to my door, the kind of delivery that explains nothing but rearranges the room.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit06-contemporary-short-fiction/index.md",
+    "source_body_sha256": "7236278000c693e2eaa9a8eb0afd35f0dba70506590124346a15b2ed26557b04",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]

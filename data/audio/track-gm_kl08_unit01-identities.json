@@ -1,0 +1,48 @@
+[
+  {
+    "file": "/efl/materials/audio/track-gm_kl08_unit01-identities/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Hawa's class made a wall called Who Am I, Today? Each student pinned three small cards to the wall: a country, a language, a thing they like. Hawa pinned Nigeria, Yoruba, my grandmother's stew. Jonas pinned Germany, Polish, my brother's old skateboard. The wall, by Friday, looked like an unusually honest atlas.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl08/units/unit01-identities/index.md",
+    "source_body_sha256": "b63f34e58ceaac3bdf1d42d68c42bc74403c25c5bf379abaceb7fd2b06120f55",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl08_unit01-identities/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "The wall changed every week. People added new cards, moved old ones, sometimes took one down and never explained why. Mr. Ade said the wall was \"a working draft of the class\". I think identity is also a working draft. We are who we are right now, plus the things we are still trying out, plus the things we haven't told anyone yet.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl08/units/unit01-identities/index.md",
+    "source_body_sha256": "b63f34e58ceaac3bdf1d42d68c42bc74403c25c5bf379abaceb7fd2b06120f55",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl08_unit01-identities/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "roots · heritage · language · belonging · hometown · background · identity · multilingual · bilingual · first language · mother tongue · second language · tradition · custom · community",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl08/units/unit01-identities/index.md",
+    "source_body_sha256": "b63f34e58ceaac3bdf1d42d68c42bc74403c25c5bf379abaceb7fd2b06120f55",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "roots.\nheritage.\nlanguage.\nbelonging.\nhometown.\nbackground.\nidentity.\nmultilingual.\nbilingual.\nfirst language.\nmother tongue.\nsecond language.\ntradition.\ncustom.\ncommunity."
+  }
+]

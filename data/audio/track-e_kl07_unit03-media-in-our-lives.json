@@ -1,0 +1,49 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl07_unit03-media-in-our-lives/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Aisha put her phone in a drawer for one week. The first evening\nfelt like a small earthquake. The kitchen was suddenly very loud:\nthe fridge, the cat, her brother chewing carrots. By Wednesday it\nwas quiet again, in a different way — the kind of quiet you\nchoose, not the kind you escape. She read aloud to her cat,\nbecause the cat did not check her grammar. Ben said, \"I could not\ndo that,\" and Aisha said, \"I almost couldn't either.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl07/units/unit03-media-in-our-lives/index.md",
+    "source_body_sha256": "c34bfa56031cb92d93aa6974deedcda17105dec7a69993ac76df3ad83e4d1b77",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl07_unit03-media-in-our-lives/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Aisha. I tried something this week. No phone after dinner.\nJust for one week.\\\nBen. Just for one week? That sounds impossible.\\\nAisha. It was hard for two days. After that, it was kind\nof nice.\\\nMs. Reyes. What did you do with the time you would have\nspent on the phone?\\\nAisha. I made dinner once. I drew badly. I went to bed\nearlier. The earlier bed was the biggest change.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl07/units/unit03-media-in-our-lives/index.md",
+    "source_body_sha256": "c34bfa56031cb92d93aa6974deedcda17105dec7a69993ac76df3ad83e4d1b77",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Aisha. I tried something this week. No phone after dinner. Just for one week.\\ Ben. Just for one week? That sounds impossible.\\ Aisha. It was hard for two days. After that, it was kind of nice.\\ Ms. Reyes. What did you do with the time you would have spent on the phone?\\ Aisha. I made dinner once. I drew badly. I went to bed earlier. The earlier bed was the biggest change."
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl07_unit03-media-in-our-lives/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "screen time · to scroll · notification · to swipe · feed · to post · message · to message · stream · to stream · story · to share · news · to follow / unfollow",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl07/units/unit03-media-in-our-lives/index.md",
+    "source_body_sha256": "c34bfa56031cb92d93aa6974deedcda17105dec7a69993ac76df3ad83e4d1b77",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "screen time.\nto scroll.\nnotification.\nto swipe.\nfeed.\nto post.\nmessage.\nto message.\nstream.\nto stream.\nstory.\nto share.\nnews.\nto follow / unfollow."
+  }
+]

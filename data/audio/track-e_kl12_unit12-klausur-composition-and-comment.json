@@ -1,0 +1,17 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl12_unit12-klausur-composition-and-comment/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Second of two Klausur-prep Units. Today's focus: Composition + Mediation — the two sections most reliant on producing original text under time pressure. The class is using the same source as Unit 11 to build a complete 90-BE Klausur experience across the two Units.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit12-klausur-composition-and-comment/index.md",
+    "source_body_sha256": "67f892935987578d3280beb979390760d7dd8ff4534402df723e5f609d782a5e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]

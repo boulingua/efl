@@ -1,0 +1,33 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl09_unit02-money-and-choices/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Eli is saving for a second-hand bicycle. Naima is saving for a one-week language course in Dublin. They are both keeping notebooks. Eli's is a small green ledger; Naima's is a sticky note that has migrated five times in two months. Mr. Yilmaz, who has watched this, says: \"How you keep the record is part of the discipline.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl09/units/unit02-money-and-choices/index.md",
+    "source_body_sha256": "21a061d7c1e2b04b07d8b6af04edf66a98f3f84d80033dadb06a9ea467613376",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl09_unit02-money-and-choices/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "to save up · to spend · to waste · to budget · to lend · to borrow · to owe · salary · wage · pocket money · interest · debt · savings account · ATM · cash · card · digital wallet",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl09/units/unit02-money-and-choices/index.md",
+    "source_body_sha256": "21a061d7c1e2b04b07d8b6af04edf66a98f3f84d80033dadb06a9ea467613376",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "to save up.\nto spend.\nto waste.\nto budget.\nto lend.\nto borrow.\nto owe.\nsalary.\nwage.\npocket money.\ninterest.\ndebt.\nsavings account.\nATM.\ncash.\ncard.\ndigital wallet."
+  }
+]

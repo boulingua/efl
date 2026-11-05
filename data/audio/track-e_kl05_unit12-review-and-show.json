@@ -1,0 +1,17 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl05_unit12-review-and-show/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Mr. Flint sets up two small microphones in the corner of the classroom. \"At the end of Klasse 5,\" he says, \"each of you stands here for a minute and says something true in English. Bullets, not full text.\" Frida the fox sits at the back, taking imaginary notes. \"Will you speak too?\" Mia asks. Frida says, \"Foxes don't talk\" — in perfect English.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl05/units/unit12-review-and-show/index.md",
+    "source_body_sha256": "2c51b56cebd5db07dcb87470bc7b88f88cfff1ed176fc32a0305305e555fefc7",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]

@@ -41,6 +41,7 @@ curriculum:
     - A1.REC.understanding-announcements-and-instructions.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl06_unit05-daily-routines
 ---
 
 {{< callout type="note" >}}

@@ -1,0 +1,33 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl09_unit01-future-careers/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Eli pinned a job ad on the wall above his desk: marine biologist, southern Spain, fluent English required, must enjoy boats. He has neither a degree, nor a passport, nor — by his own admission — sea legs. Mr. Yilmaz says, \"Eli, the ad isn't hiring you. The ad is keeping you company.\" Eli nods, leaves it on the wall.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl09/units/unit01-future-careers/index.md",
+    "source_body_sha256": "c07858ecb5e86c922313a6ebdd49d72aa126721c5637598442ae519cc8ecb09c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl09_unit01-future-careers/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "career · profession · vocational training · apprenticeship · internship · employer · employee · CV · cover letter · salary · full-time · part-time · freelance · self-employed · qualification · skills · soft skills · hard skills",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl09/units/unit01-future-careers/index.md",
+    "source_body_sha256": "c07858ecb5e86c922313a6ebdd49d72aa126721c5637598442ae519cc8ecb09c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "career.\nprofession.\nvocational training.\napprenticeship.\ninternship.\nemployer.\nemployee.\nCV.\ncover letter.\nsalary.\nfull-time.\npart-time.\nfreelance.\nself-employed.\nqualification.\nskills.\nsoft skills.\nhard skills."
+  }
+]

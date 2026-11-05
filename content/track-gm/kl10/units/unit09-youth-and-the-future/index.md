@@ -42,6 +42,7 @@ curriculum:
     - B1.LING.orthographic-control.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl10_unit09-youth-and-the-future
 ---
 
 {{< callout type="note" >}}

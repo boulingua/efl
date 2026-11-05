@@ -42,6 +42,7 @@ curriculum:
     - B1.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl10_unit03-digital-lives-at-work
 ---
 
 {{< callout type="note" >}}

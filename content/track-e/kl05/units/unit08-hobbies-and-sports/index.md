@@ -41,6 +41,7 @@ curriculum:
     - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl05_unit08-hobbies-and-sports
 ---
 
 {{< callout type="note" >}}

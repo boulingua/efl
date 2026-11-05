@@ -41,6 +41,7 @@ curriculum:
     - A1.REC.overall-reading-comprehension.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl05_unit09-birthday-and-friends
 ---
 
 {{< callout type="note" >}}

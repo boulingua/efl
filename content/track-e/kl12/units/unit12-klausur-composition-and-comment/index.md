@@ -39,6 +39,7 @@ curriculum:
     - B2.PRAG.coherence-and-cohesion.04
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl12_unit12-klausur-composition-and-comment
 ---
 
 {{< callout type="note" >}}

@@ -42,6 +42,7 @@ curriculum:
     - A1.INT.correspondence.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl05_unit06-animals-and-pets
 ---
 
 {{< callout type="note" >}}

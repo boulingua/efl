@@ -42,6 +42,7 @@ curriculum:
     - B1.PLUR.plurilingual-comprehension.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl10_unit05-media-and-truth
 ---
 
 {{< callout type="note" >}}

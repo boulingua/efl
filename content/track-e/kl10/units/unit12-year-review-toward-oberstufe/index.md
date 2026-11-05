@@ -41,6 +41,7 @@ curriculum:
     - B1.MED.explaining-data.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl10_unit12-year-review-toward-oberstufe
 ---
 
 {{< callout type="note" >}}

@@ -1,0 +1,48 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl12_unit06-the-non-fiction-essay/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Mr. Yilmaz handed out a 1,200-word non-fiction essay by Zadie Smith — Speaking in Tongues (2009). The class spent the lesson learning to track the essay's central move: an anecdote that becomes an argument, an argument that opens onto a moral turn, a moral turn that returns to the anecdote. Maja wrote in the margin: the essay walks like a small animal that knows the route.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit06-the-non-fiction-essay/index.md",
+    "source_body_sha256": "f1a5e464f0d6cf9d878d38e8176f513a7f6e13cb4d73ae9e4c1e3436dea57b00",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl12_unit06-the-non-fiction-essay/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "The essayist begins with a small autobiographical scene: code-switching between two voices in her own family. The anecdote is small, specific, domestic. By the third paragraph, the anecdote has become an argument about voice and authenticity. By the fifth, the argument has opened onto a moral turn — that single voice is a political demand, not a personal achievement. The closing returns to the autobiographical scene with new resonance.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit06-the-non-fiction-essay/index.md",
+    "source_body_sha256": "f1a5e464f0d6cf9d878d38e8176f513a7f6e13cb4d73ae9e4c1e3436dea57b00",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl12_unit06-the-non-fiction-essay/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "premise · claim · qualification · anecdote-as-argument · register shift · moral turn · essayist's I · address · periodic sentence · elliptical close",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit06-the-non-fiction-essay/index.md",
+    "source_body_sha256": "f1a5e464f0d6cf9d878d38e8176f513a7f6e13cb4d73ae9e4c1e3436dea57b00",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "premise.\nclaim.\nqualification.\nanecdote-as-argument.\nregister shift.\nmoral turn.\nessayist's I.\naddress.\nperiodic sentence.\nelliptical close."
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "file": "/efl/materials/audio/track-gm_kl10_unit07-mediation-workplace-text/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Sam's mother forwarded a German policy update from her company. Sam's English-speaking cousin in Toronto, who is starting a similar job, asked for a quick gist. Sam rewrote it in seven sentences. He kept the modals. He dropped the company-letterhead language.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit07-mediation-workplace-text/index.md",
+    "source_body_sha256": "ffb7a90abcb39806839344c94f7e01d450768b4fa9b0f18630351862485a1b8c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [
+      "Source — *German workplace policy (excerpt)*"
+    ]
+  }
+]

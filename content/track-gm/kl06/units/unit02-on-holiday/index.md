@@ -41,6 +41,7 @@ curriculum:
     - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl06_unit02-on-holiday
 ---
 
 {{< callout type="note" >}}

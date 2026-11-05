@@ -42,6 +42,7 @@ curriculum:
     - A1.INT.correspondence.03
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl06_unit04-food-around-the-world
 ---
 
 {{< callout type="note" >}}

@@ -1,0 +1,33 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl05_unit04-school-day/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Mia's timetable is taped to the inside of her locker door. Monday: maths, German, English, biology, sport, music. The lockers are new this year. They click when they shut. Theo says the click is the best sound in the school. Frida the fox watches the lockers from the corridor. \"I would like a locker,\" she says. \"Foxes also need a private space.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl05/units/unit04-school-day/index.md",
+    "source_body_sha256": "f3d6de9d1dc9433e948e62da4065a44e0799b76000a4de328cfb61f2fd1b167a",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl05_unit04-school-day/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "English · German · French · Spanish · Maths · Biology · Physics · Chemistry · History · Geography · Religion · Ethics · Music · Art · PE / Sport · IT",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl05/units/unit04-school-day/index.md",
+    "source_body_sha256": "f3d6de9d1dc9433e948e62da4065a44e0799b76000a4de328cfb61f2fd1b167a",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "English.\nGerman.\nFrench.\nSpanish.\nMaths.\nBiology.\nPhysics.\nChemistry.\nHistory.\nGeography.\nReligion.\nEthics.\nMusic.\nArt.\nPE / Sport.\nIT."
+  }
+]

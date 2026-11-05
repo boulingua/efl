@@ -41,6 +41,7 @@ curriculum:
     - A2.MED.streamlining-a-text.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl09_unit06-interview-and-portrait
 ---
 
 {{< callout type="note" >}}

@@ -41,6 +41,7 @@ curriculum:
     - B1.PLUR.plurilingual-comprehension.02
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-gm_kl10_unit01-transition-after-grade-10
 ---
 
 {{< callout type="note" >}}

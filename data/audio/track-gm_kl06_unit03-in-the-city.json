@@ -1,0 +1,33 @@
+[
+  {
+    "file": "/efl/materials/audio/track-gm_kl06_unit03-in-the-city/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Sam and Lina meet at the fountain in the market square. The square smells of fresh bread and old rain. They have one hour before the bus and a list of three errands. The bookshop, the post office, and a bakery that supposedly sells the best apple pastry in town.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl06/units/unit03-in-the-city/index.md",
+    "source_body_sha256": "9a6e02fb35cc6ba7ceafe6c3d1a1fdec574e370dc0e438ce0147c82c82614e76",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl06_unit03-in-the-city/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "supermarket · bakery · butcher · post office · library · museum · cinema · theatre · town hall · market square · bus stop · train station · playground · sports centre · bookshop · pharmacy · hospital · cafe",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl06/units/unit03-in-the-city/index.md",
+    "source_body_sha256": "9a6e02fb35cc6ba7ceafe6c3d1a1fdec574e370dc0e438ce0147c82c82614e76",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "supermarket.\nbakery.\nbutcher.\npost office.\nlibrary.\nmuseum.\ncinema.\ntheatre.\ntown hall.\nmarket square.\nbus stop.\ntrain station.\nplayground.\nsports centre.\nbookshop.\npharmacy.\nhospital.\ncafe."
+  }
+]

@@ -42,6 +42,7 @@ curriculum:
     - B1.LING.orthographic-control.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl10_unit05-media-and-democracy
 ---
 
 {{< callout type="note" >}}

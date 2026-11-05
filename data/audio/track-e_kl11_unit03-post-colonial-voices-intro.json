@@ -1,0 +1,62 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl11_unit03-post-colonial-voices-intro/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "The class opened a short anthology of post-colonial writing with three openings: Chinua Achebe (1958), Chimamanda Ngozi Adichie (2003), and V. S. Naipaul (1979). Three voices, three decades, one shared problem: how to write in English without writing as the English. The class did not finish the argument that day, which Mr. Yilmaz said was a sign the books were working.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit03-post-colonial-voices-intro/index.md",
+    "source_body_sha256": "b5ce7331395f4a48fbd851dda21feec383306cc89bda4329c467c32a624a7f38",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl11_unit03-post-colonial-voices-intro/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Achebe (1958, Things Fall Apart): Okonkwo was well known throughout the nine villages and even beyond. His fame rested on solid personal achievements.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit03-post-colonial-voices-intro/index.md",
+    "source_body_sha256": "b5ce7331395f4a48fbd851dda21feec383306cc89bda4329c467c32a624a7f38",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl11_unit03-post-colonial-voices-intro/texte3.ogg",
+    "label": "Text 3",
+    "transcript": "Adichie (2003, Purple Hibiscus): Things started to fall apart at home when my brother, Jaja, did not go to communion and Papa flung his heavy missal across the room and broke the figurines on the étagère.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit03-post-colonial-voices-intro/index.md",
+    "source_body_sha256": "b5ce7331395f4a48fbd851dda21feec383306cc89bda4329c467c32a624a7f38",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl11_unit03-post-colonial-voices-intro/texte4.ogg",
+    "label": "Text 4",
+    "transcript": "Naipaul (1979, A Bend in the River): The world is what it is; men who are nothing, who allow themselves to become nothing, have no place in it.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit03-post-colonial-voices-intro/index.md",
+    "source_body_sha256": "b5ce7331395f4a48fbd851dda21feec383306cc89bda4329c467c32a624a7f38",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]

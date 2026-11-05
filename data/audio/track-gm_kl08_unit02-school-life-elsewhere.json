@@ -1,0 +1,17 @@
+[
+  {
+    "file": "/efl/materials/audio/track-gm_kl08_unit02-school-life-elsewhere/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Mr. Ade pinned three printed e-mails to the noticeboard. One from a school in Lagos. One from a school in Helsinki. One from a school in São Paulo. Three students were assigned to read them and report back. Hawa read all three twice before lunch.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl08/units/unit02-school-life-elsewhere/index.md",
+    "source_body_sha256": "a84701f34055fba737933d89b6273ddca6a6504828d3083985b7136ea38b3234",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]

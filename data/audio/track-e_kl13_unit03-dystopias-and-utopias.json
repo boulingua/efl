@@ -1,0 +1,33 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl13_unit03-dystopias-and-utopias/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "The class returns to The Handmaid's Tale alongside two utopian extracts: Thomas More's Utopia (1516) and Ursula K. Le Guin's The Dispossessed (1974). Mr. Yilmaz set the question: what does Le Guin's subtitle — \"An Ambiguous Utopia\" — tell us about what utopia is allowed to look like?",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl13/units/unit03-dystopias-and-utopias/index.md",
+    "source_body_sha256": "0929c46158aa54ae6eca856df43188aeab720ae974154ba80896b277d24fe4d4",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl13_unit03-dystopias-and-utopias/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "positive utopia · ambiguous utopia · eutopia (good place / nowhere) · dystopia · dystopian inversion · the imaginary blueprint · social engineering · informal coercion · homogeneity-as-control",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl13/units/unit03-dystopias-and-utopias/index.md",
+    "source_body_sha256": "0929c46158aa54ae6eca856df43188aeab720ae974154ba80896b277d24fe4d4",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "positive utopia.\nambiguous utopia.\neutopia (good place / nowhere).\ndystopia.\ndystopian inversion.\nthe imaginary blueprint.\nsocial engineering.\ninformal coercion.\nhomogeneity-as-control."
+  }
+]

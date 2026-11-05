@@ -1,0 +1,33 @@
+[
+  {
+    "file": "/efl/materials/audio/track-gm_kl05_unit04-school-day/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Mia's timetable is on the fridge. Monday: maths, German, English, sport, music. Theo's timetable is the same, but with Latin instead of music. Frida the fox cannot read the timetable. \"Foxes don't go to school,\" she says. \"We just go.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl05/units/unit04-school-day/index.md",
+    "source_body_sha256": "19c760fff0dd84fc9fc09dab8b5a8805fe9969853ae7487a6ea3240e40e1bc81",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl05_unit04-school-day/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "English · German · French · Maths · Biology · Physics · Chemistry · History · Geography · Music · Art · PE / Sport · Religion · Ethics",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl05/units/unit04-school-day/index.md",
+    "source_body_sha256": "19c760fff0dd84fc9fc09dab8b5a8805fe9969853ae7487a6ea3240e40e1bc81",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "English.\nGerman.\nFrench.\nMaths.\nBiology.\nPhysics.\nChemistry.\nHistory.\nGeography.\nMusic.\nArt.\nPE / Sport.\nReligion.\nEthics."
+  }
+]

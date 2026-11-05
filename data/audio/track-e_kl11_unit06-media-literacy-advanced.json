@@ -1,0 +1,48 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl11_unit06-media-literacy-advanced/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Maja read a 1,200-word piece by an English-language outlet on a contested local protest. She underlined the verbs of attribution. By the end she had counted: said 11 times, insisted 3, claimed 4, denied 1, added 2. She wrote in the margin: verbs of attribution are votes.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit06-media-literacy-advanced/index.md",
+    "source_body_sha256": "8247e29adadf4f61cbca7387159515422b899313334eae711f417a7169e1feb3",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl11_unit06-media-literacy-advanced/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Long-form journalism is, mostly, a question of framing and verbs. The frame is what the article treats as the question; everything before the subhead is doing frame work. The verbs of attribution carry, accordingly, more weight than their dictionary definitions suggest. Said is neutral; claimed signals doubt; insisted signals stubbornness; added signals subordination. A reader who counts the verbs already knows half the writer's argument before they reach the conclusion.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit06-media-literacy-advanced/index.md",
+    "source_body_sha256": "8247e29adadf4f61cbca7387159515422b899313334eae711f417a7169e1feb3",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl11_unit06-media-literacy-advanced/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "frame · framing effect · agenda-setting · sourcing · anonymous source · on-the-record · off-the-record · attribution verb · lede · nut graf · disclosure · conflict of interest · false balance · both-sidesing · structural balance",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit06-media-literacy-advanced/index.md",
+    "source_body_sha256": "8247e29adadf4f61cbca7387159515422b899313334eae711f417a7169e1feb3",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "frame.\nframing effect.\nagenda-setting.\nsourcing.\nanonymous source.\non-the-record.\noff-the-record.\nattribution verb.\nlede.\nnut graf.\ndisclosure.\nconflict of interest.\nfalse balance.\nboth-sidesing.\nstructural balance."
+  }
+]

@@ -41,6 +41,7 @@ curriculum:
     - B2.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: derived
+audio_manifest: track-e_kl12_unit01-dystopias
 ---
 
 {{< callout type="note" >}}

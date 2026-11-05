@@ -1,0 +1,32 @@
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl10_unit10-a-short-novel/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "The class read three chapters of an imagined contemporary novel called The Slow Hour. Six characters, one bus stop, three weeks. By the end of chapter three, half the class had decided it was a love story; the other half, a small civic tragedy; Mr. Yilmaz said it was both, depending on which character you read most carefully.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit10-a-short-novel/index.md",
+    "source_body_sha256": "095ee46a61d341ed2173999dc9d48216360977b3844dda12cc04ba0719b8d7cf",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl10_unit10-a-short-novel/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "By the third week, the bus stop had become a small kingdom. The same six people, every weekday morning, in the same approximate order. Anya, who could predict each arrival down to the second, had stopped predicting; the predictability itself had become the comfort. Nevertheless, on Wednesday, one of the six was missing. Anya did not yet know that the missing person was the one who had, without telling anyone, been keeping the kingdom together.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit10-a-short-novel/index.md",
+    "source_body_sha256": "095ee46a61d341ed2173999dc9d48216360977b3844dda12cc04ba0719b8d7cf",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]
