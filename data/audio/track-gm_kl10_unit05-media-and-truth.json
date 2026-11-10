@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit05-media-and-truth/index.md",
-    "source_body_sha256": "43bc0b03c5aceb70d800a85379d54fdced1bba01b74c8248dba01f55b057cd44",
+    "source_body_sha256": "88d80885d8307010638ca0466b7940023918ff1d94edb7efeda9171d49253a61",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit05-media-and-truth/index.md",
-    "source_body_sha256": "43bc0b03c5aceb70d800a85379d54fdced1bba01b74c8248dba01f55b057cd44",
+    "source_body_sha256": "88d80885d8307010638ca0466b7940023918ff1d94edb7efeda9171d49253a61",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit05-media-and-truth/index.md",
-    "source_body_sha256": "43bc0b03c5aceb70d800a85379d54fdced1bba01b74c8248dba01f55b057cd44",
+    "source_body_sha256": "88d80885d8307010638ca0466b7940023918ff1d94edb7efeda9171d49253a61",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "verify.\nsource.\nprimary source.\nsecondary source.\nfact-check.\npeer-reviewed.\ncitation.\nanecdote.\ncorrelation vs. causation.\nstatistical sample.\nbias.\nframing.\ncontext.\nviral.\ndebunked.\nretracted."

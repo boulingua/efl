@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit03-post-colonial-voices-intro/index.md",
-    "source_body_sha256": "b5ce7331395f4a48fbd851dda21feec383306cc89bda4329c467c32a624a7f38",
+    "source_body_sha256": "5ae04383090cedc88ffb5cc8c716ce190fa875f6ca6108560b474e749375a165",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit03-post-colonial-voices-intro/index.md",
-    "source_body_sha256": "b5ce7331395f4a48fbd851dda21feec383306cc89bda4329c467c32a624a7f38",
+    "source_body_sha256": "5ae04383090cedc88ffb5cc8c716ce190fa875f6ca6108560b474e749375a165",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit03-post-colonial-voices-intro/index.md",
-    "source_body_sha256": "b5ce7331395f4a48fbd851dda21feec383306cc89bda4329c467c32a624a7f38",
+    "source_body_sha256": "5ae04383090cedc88ffb5cc8c716ce190fa875f6ca6108560b474e749375a165",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -55,7 +55,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit03-post-colonial-voices-intro/index.md",
-    "source_body_sha256": "b5ce7331395f4a48fbd851dda21feec383306cc89bda4329c467c32a624a7f38",
+    "source_body_sha256": "5ae04383090cedc88ffb5cc8c716ce190fa875f6ca6108560b474e749375a165",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

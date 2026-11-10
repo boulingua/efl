@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl08/units/unit04-ireland-stories/index.md",
-    "source_body_sha256": "edbd10742b41fa5ed57e017ba41a9ab86c2012f505ac3f6cfcd51b62ab10ca34",
+    "source_body_sha256": "d217cca7f1fe34099dc9387b5e94bb77812de67f380ac6229e1b2f3a3d271b93",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl08/units/unit04-ireland-stories/index.md",
-    "source_body_sha256": "edbd10742b41fa5ed57e017ba41a9ab86c2012f505ac3f6cfcd51b62ab10ca34",
+    "source_body_sha256": "d217cca7f1fe34099dc9387b5e94bb77812de67f380ac6229e1b2f3a3d271b93",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

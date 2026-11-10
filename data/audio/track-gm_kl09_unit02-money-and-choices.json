@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl09/units/unit02-money-and-choices/index.md",
-    "source_body_sha256": "85bd2d03a0477fe303d588557d56f346bf266b1d8514aebdb4926a5d38d78bb9",
+    "source_body_sha256": "e469c18680d66a4f9ff735e2fc1997fa82e98b823b16afa15dec66f0575145b2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl09/units/unit02-money-and-choices/index.md",
-    "source_body_sha256": "85bd2d03a0477fe303d588557d56f346bf266b1d8514aebdb4926a5d38d78bb9",
+    "source_body_sha256": "e469c18680d66a4f9ff735e2fc1997fa82e98b823b16afa15dec66f0575145b2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "to save up.\nto spend.\nto waste.\nto budget.\nto lend.\nto borrow.\nto owe.\nsalary.\nwage.\npocket money.\ninterest.\ndebt.\nsavings account.\nATM.\ncash.\ncard.\ndigital wallet."

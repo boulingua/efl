@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl09/units/unit06-interview-and-portrait/index.md",
-    "source_body_sha256": "135079bda94243b70cd03c6cd07483427d9b8661d72b5c8f469564d74f4d0563",
+    "source_body_sha256": "5acb6f70ad4587ef538875b32f4fb2ff31acb3e5eaf7b7a2d595cdcb6b45085e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl09/units/unit06-interview-and-portrait/index.md",
-    "source_body_sha256": "135079bda94243b70cd03c6cd07483427d9b8661d72b5c8f469564d74f4d0563",
+    "source_body_sha256": "5acb6f70ad4587ef538875b32f4fb2ff31acb3e5eaf7b7a2d595cdcb6b45085e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "interview.\ninterviewer.\ninterviewee.\nopen question (Wh-).\nclosed question (yes/no).\nfollow-up.\ntranscript.\noff the record.\non the record.\nquote.\nparaphrase."

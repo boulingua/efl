@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl07/units/unit05-the-united-states-today/index.md",
-    "source_body_sha256": "59a89f3b85ccd539f6bb30c68018d8eb3703fe999648f65f33bfb0fc758bf964",
+    "source_body_sha256": "bee4ea55bc64f160ee84654a4f4a69a3589a378818cdebea9ba5a2358275e774",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl07/units/unit05-the-united-states-today/index.md",
-    "source_body_sha256": "59a89f3b85ccd539f6bb30c68018d8eb3703fe999648f65f33bfb0fc758bf964",
+    "source_body_sha256": "bee4ea55bc64f160ee84654a4f4a69a3589a378818cdebea9ba5a2358275e774",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "The first thing Maya noticed in Phoenix was the sound of the air conditioning. It was everywhere: in the supermarket, in the car, in the hotel lobby. Outside, the heat had a sound too — the steady drone of cicadas in the desert trees. Her cousins said you stop hearing the cicadas after about a week. She did not believe them. By the end of the third day, she realised they were right. The desert had its own kind of silence, and it was full of noises she would not have called noises a week earlier."

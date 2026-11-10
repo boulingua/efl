@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit07-mediation-academic-text/index.md",
-    "source_body_sha256": "e7e7f98273802bd800c5355348a7f02e35e853e443b5b3b3f6ab8399dd854f4d",
+    "source_body_sha256": "643f96af0a484f88ffeb13d0a1243180ddb6a7d8df385ae21d441c1d26ed81d5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

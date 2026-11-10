@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl09/units/unit03-the-environment-locally/index.md",
-    "source_body_sha256": "5218e28eec0652cf023b419d50999fbb678b2bf3a197af24411931c6e900306d",
+    "source_body_sha256": "b828671f5689e4f2405400527836b3cc98931b20f09e6af22d7c01d7629a667f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl09/units/unit03-the-environment-locally/index.md",
-    "source_body_sha256": "5218e28eec0652cf023b419d50999fbb678b2bf3a197af24411931c6e900306d",
+    "source_body_sha256": "b828671f5689e4f2405400527836b3cc98931b20f09e6af22d7c01d7629a667f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "pollution.\nlitter.\nrecycling.\nsingle-use plastic.\ncompost.\nemissions.\ncarbon footprint.\nbiodiversity.\nhabitat.\nextinction.\nsustainable.\nrenewable.\nlocal authority.\ncouncil.\npetition.\ncampaign."

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit04-short-stories-and-style/index.md",
-    "source_body_sha256": "b872d98a127d5d73e358b0360edadbf37ffd5c44c69437ec89fcb47c3a4d93fc",
+    "source_body_sha256": "1ffb6518b7b106ab23fa9d8d70ba66c5446dafb2044f3aab8d7540dc1901ccb1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit04-short-stories-and-style/index.md",
-    "source_body_sha256": "b872d98a127d5d73e358b0360edadbf37ffd5c44c69437ec89fcb47c3a4d93fc",
+    "source_body_sha256": "1ffb6518b7b106ab23fa9d8d70ba66c5446dafb2044f3aab8d7540dc1901ccb1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

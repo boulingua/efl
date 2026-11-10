@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit01-globalisation-and-the-self/index.md",
-    "source_body_sha256": "741d72ffbe45e506e9272f1d93e9ad52692a8daad0fdfb7fa8681d827a40bdc0",
+    "source_body_sha256": "175bd8307e36e617a6c0eccc0a58734accbd067a095215b0137edfd34c45c865",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit01-globalisation-and-the-self/index.md",
-    "source_body_sha256": "741d72ffbe45e506e9272f1d93e9ad52692a8daad0fdfb7fa8681d827a40bdc0",
+    "source_body_sha256": "175bd8307e36e617a6c0eccc0a58734accbd067a095215b0137edfd34c45c865",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "plural identity.\nrooted cosmopolitanism.\nhospitality.\nthe moral horizon.\nsituated identity.\ncontributory belonging.\nessentialism.\nidentitarian.\nthe politics of recognition."

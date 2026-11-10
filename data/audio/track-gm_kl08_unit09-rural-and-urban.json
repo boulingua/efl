@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl08/units/unit09-rural-and-urban/index.md",
-    "source_body_sha256": "4877bfe02335fe672e3046a5c6a59a98b63ab83e3cf6d776e0cd1dcb13035804",
+    "source_body_sha256": "c748e06386e3728a293f690cdadadb200ab5e7d2765932803064b473b4caf7fc",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl08/units/unit09-rural-and-urban/index.md",
-    "source_body_sha256": "4877bfe02335fe672e3046a5c6a59a98b63ab83e3cf6d776e0cd1dcb13035804",
+    "source_body_sha256": "c748e06386e3728a293f690cdadadb200ab5e7d2765932803064b473b4caf7fc",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

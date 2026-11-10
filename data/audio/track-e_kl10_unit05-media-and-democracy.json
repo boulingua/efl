@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit05-media-and-democracy/index.md",
-    "source_body_sha256": "f281b1e6a657b955fa2c17eaa8304c0e57fe0fe855da36be09a5e81b618ee019",
+    "source_body_sha256": "b3d52dcdc0146342402abe8fe909350e700615130a29f1ef723d3e1207cceb5c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit05-media-and-democracy/index.md",
-    "source_body_sha256": "f281b1e6a657b955fa2c17eaa8304c0e57fe0fe855da36be09a5e81b618ee019",
+    "source_body_sha256": "b3d52dcdc0146342402abe8fe909350e700615130a29f1ef723d3e1207cceb5c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit05-media-and-democracy/index.md",
-    "source_body_sha256": "f281b1e6a657b955fa2c17eaa8304c0e57fe0fe855da36be09a5e81b618ee019",
+    "source_body_sha256": "b3d52dcdc0146342402abe8fe909350e700615130a29f1ef723d3e1207cceb5c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "free press.\npress freedom.\naccountability.\nscrutiny.\noversight.\nopinion vs. reporting.\neditorial independence.\nconflict of interest.\nsponsored content.\npublic-interest journalism.\ncivic information.\nlocal press desert."

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl09/units/unit05-media-literacy/index.md",
-    "source_body_sha256": "bad14bb74fc00350816e590791f569aa5a3e660305d61c3cbadf97c81b920693",
+    "source_body_sha256": "b4af822b389deaa713bad6c9d88786d5d5694c6358adf5ff8d6ac0eb4a9df66b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl09/units/unit05-media-literacy/index.md",
-    "source_body_sha256": "bad14bb74fc00350816e590791f569aa5a3e660305d61c3cbadf97c81b920693",
+    "source_body_sha256": "b4af822b389deaa713bad6c9d88786d5d5694c6358adf5ff8d6ac0eb4a9df66b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "source.\nclaim.\nevidence.\nfact-check.\nmisinformation.\ndisinformation.\nbias.\nheadline.\nclickbait.\nstudy.\nstatistic.\nanecdote.\nprimary source.\npeer-reviewed.\nfake news.\nviral."

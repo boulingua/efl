@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl06/units/unit02-on-holiday/index.md",
-    "source_body_sha256": "c9adc1c7ee06adfac81caa27f7ea4b6f68846f30f256d78424683fea62aec37c",
+    "source_body_sha256": "aedb36a582e6f15e37a79dd79514f7dcac7290900f75282b82e30bb90556ab9c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl06/units/unit02-on-holiday/index.md",
-    "source_body_sha256": "c9adc1c7ee06adfac81caa27f7ea4b6f68846f30f256d78424683fea62aec37c",
+    "source_body_sha256": "aedb36a582e6f15e37a79dd79514f7dcac7290900f75282b82e30bb90556ab9c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "seaside.\nbeach.\ncliffs.\nmountains.\ncountryside.\ncity break.\ncampsite.\nhotel.\nhostel.\nsuitcase.\npassport.\nsouvenir.\npostcard.\nsunscreen.\nlife jacket.\nlighthouse.\nharbour.\nferry."

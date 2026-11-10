@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit10-a-day-in-london/index.md",
-    "source_body_sha256": "3fa24a0aff6781253f374823a00738127942414d4806624670c485f980680099",
+    "source_body_sha256": "a5f81d9ab06c3d2e248d6810fc1610ffddbd4315b51024c0477635a692ca8928",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit10-a-day-in-london/index.md",
-    "source_body_sha256": "3fa24a0aff6781253f374823a00738127942414d4806624670c485f980680099",
+    "source_body_sha256": "a5f81d9ab06c3d2e248d6810fc1610ffddbd4315b51024c0477635a692ca8928",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Big Ben.\nthe Tower of London.\nTower Bridge.\nBuckingham Palace.\nTrafalgar Square.\nthe British Museum.\nthe London Eye.\nthe Thames."

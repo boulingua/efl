@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit02-globalisation-debates/index.md",
-    "source_body_sha256": "ce60dd296c9dd3979945444a0fafcfdd7910ad3019d7f7891e6f95b428392c4d",
+    "source_body_sha256": "6081b105d87f1b9e3207e68c35a4c9ab1498cb9090da7b738a0b822e68bae1ba",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit02-globalisation-debates/index.md",
-    "source_body_sha256": "ce60dd296c9dd3979945444a0fafcfdd7910ad3019d7f7891e6f95b428392c4d",
+    "source_body_sha256": "6081b105d87f1b9e3207e68c35a4c9ab1498cb9090da7b738a0b822e68bae1ba",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit02-globalisation-debates/index.md",
-    "source_body_sha256": "ce60dd296c9dd3979945444a0fafcfdd7910ad3019d7f7891e6f95b428392c4d",
+    "source_body_sha256": "6081b105d87f1b9e3207e68c35a4c9ab1498cb9090da7b738a0b822e68bae1ba",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "supply chain.\ncomparative advantage.\nregulatory race / race to the bottom.\nexternality.\nintra-country inequality.\ntrade order.\ndeindustrialisation.\nreshoring.\nnear-shoring.\nfriend-shoring.\ndecoupling.\nfragmentation.\ngeo-economic."

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl07/units/unit09-school-rules-and-rights/index.md",
-    "source_body_sha256": "aa0828498451b28de13f4b1a53baba190dd9de2f3e1e0fbd955ae6630850603d",
+    "source_body_sha256": "54bbc5f974bb96c2a16d83ee257902ec8a577d9b3df317fdfbefa8db4cb16bd4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl07/units/unit09-school-rules-and-rights/index.md",
-    "source_body_sha256": "aa0828498451b28de13f4b1a53baba190dd9de2f3e1e0fbd955ae6630850603d",
+    "source_body_sha256": "54bbc5f974bb96c2a16d83ee257902ec8a577d9b3df317fdfbefa8db4cb16bd4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ardenfield Comprehensive in Manchester has a \"phones-in-pouches\" rule. Every morning, students put their phones into a magnetic pouch and keep the pouch with them all day. The pouch can only be unlocked by a teacher or in the office. The headteacher, Mr Atta, says the rule has cut bullying messages and fights at break time. Some pupils complain it feels like a prison rule. Mr Atta replies: \"We are open to a different rule. Bring me one that works.\""

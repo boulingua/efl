@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit02-my-family/index.md",
-    "source_body_sha256": "930bdf9b123829cdceb49bec06e4effdc9b7ddd077a2a1bb3fca62074e143afb",
+    "source_body_sha256": "3e015508a18a9fdeb0780f367e389b1ae366d2df490509405e2d8c041a4b51cd",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit02-my-family/index.md",
-    "source_body_sha256": "930bdf9b123829cdceb49bec06e4effdc9b7ddd077a2a1bb3fca62074e143afb",
+    "source_body_sha256": "3e015508a18a9fdeb0780f367e389b1ae366d2df490509405e2d8c041a4b51cd",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "mother / mum.\nfather / dad.\nsister.\nbrother.\ngrandmother / grandma.\ngrandfather / grandpa.\naunt.\nuncle.\ncousin.\nparents."

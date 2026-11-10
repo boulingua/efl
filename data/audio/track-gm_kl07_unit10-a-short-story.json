@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl07/units/unit10-a-short-story/index.md",
-    "source_body_sha256": "fc1cb57316da201eedaa3170ca3b3f86b0ecf0cc1f16e57bf790a6dbae15e621",
+    "source_body_sha256": "8330b68e0ef44f217c6559f476c0fe0643e48517477bc6c345ff806a16d47d7d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl07/units/unit10-a-short-story/index.md",
-    "source_body_sha256": "fc1cb57316da201eedaa3170ca3b3f86b0ecf0cc1f16e57bf790a6dbae15e621",
+    "source_body_sha256": "8330b68e0ef44f217c6559f476c0fe0643e48517477bc6c345ff806a16d47d7d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Salim missed the last bus by two minutes. He could see the red tail-lights at the corner; then they were gone. The shelter smelled of rain. There was an old man in a coat that was too big, holding a paper cup. Salim sat on the cold metal bench and stared at his shoes. \"First time?\" the old man said. \"First time what?\" \"First time you missed the last bus.\" Salim almost laughed. \"Yes.\" The old man nodded. \"Sit. Walk later. The walk is always longer than you think, and a little better than you remember.\""
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl07/units/unit10-a-short-story/index.md",
-    "source_body_sha256": "fc1cb57316da201eedaa3170ca3b3f86b0ecf0cc1f16e57bf790a6dbae15e621",
+    "source_body_sha256": "8330b68e0ef44f217c6559f476c0fe0643e48517477bc6c345ff806a16d47d7d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "place, time, weather, mood.\nprotagonist, narrator, stranger.\nevent, problem, turning point, resolution.\nquiet, tense, hopeful, melancholy, warm.\ndetail, dialogue, sensory image, repetition."

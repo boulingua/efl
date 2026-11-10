@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit06-friends-and-feelings/index.md",
-    "source_body_sha256": "ef74f71fd3ce070e1bccf2fe84bf819b7aa75c42e42829b375b7714f8e6442ff",
+    "source_body_sha256": "bb77322ce966235561baebc35372fb87e1c2545780912df7db08f8e76f3d8b0a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit06-friends-and-feelings/index.md",
-    "source_body_sha256": "ef74f71fd3ce070e1bccf2fe84bf819b7aa75c42e42829b375b7714f8e6442ff",
+    "source_body_sha256": "bb77322ce966235561baebc35372fb87e1c2545780912df7db08f8e76f3d8b0a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "happy.\nsad.\ntired.\nexcited.\nproud.\nnervous.\nscared.\nangry.\njealous.\ncalm.\nsurprised.\ndisappointed.\nembarrassed.\ngrateful."

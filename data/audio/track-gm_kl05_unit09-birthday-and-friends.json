@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit09-birthday-and-friends/index.md",
-    "source_body_sha256": "0fe138e25437d3058ecbc756436cbd2c44030d6b7c6d5c8a4f15929bb2c440f2",
+    "source_body_sha256": "c4c7302711bd37c3a695d2f9b5f48b0de3864938cede74a22f3bccbaca148b4b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

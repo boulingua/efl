@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit11-clothes-and-colours/index.md",
-    "source_body_sha256": "99b8625c35669fb86b58348f44b4227c1466e93dcc54c3a46cf4f6874c6b36c9",
+    "source_body_sha256": "0a49410134fb187bfadc86d0f56e6cb21c10b234ed3020d35029bbe0fa06750f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

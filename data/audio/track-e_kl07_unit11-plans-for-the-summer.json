@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl07/units/unit11-plans-for-the-summer/index.md",
-    "source_body_sha256": "028088cce33c038422e74c4b5006f8875ef689c42a20b41b0a2233a0bb1e1b60",
+    "source_body_sha256": "7c6a7c14bdba1e72580976d3bae82deddd3af833be9e086f26878336c0e16643",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl07/units/unit11-plans-for-the-summer/index.md",
-    "source_body_sha256": "028088cce33c038422e74c4b5006f8875ef689c42a20b41b0a2233a0bb1e1b60",
+    "source_body_sha256": "7c6a7c14bdba1e72580976d3bae82deddd3af833be9e086f26878336c0e16643",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Aisha. What are you doing this summer?\\ Ben. I'm spending two weeks at my grandma's farm. We're going to fix her old greenhouse.\\ Marius. I'm not doing anything special. My family will be here all summer. I'll probably read a lot and finally learn to ride a skateboard.\\ Aisha. That counts as something special, Marius. Most people only plan trips. You're planning a skill."

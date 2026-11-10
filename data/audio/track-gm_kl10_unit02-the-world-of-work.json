@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit02-the-world-of-work/index.md",
-    "source_body_sha256": "9695b1eb60cd6e14a149db99f524db8f0848c5a445ef745f2ef43f4efd4aec59",
+    "source_body_sha256": "12eaf4a08bd0300c9f3a38ffede93a5f68becfe928d8e4480c2b0fa1cb577861",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit02-the-world-of-work/index.md",
-    "source_body_sha256": "9695b1eb60cd6e14a149db99f524db8f0848c5a445ef745f2ef43f4efd4aec59",
+    "source_body_sha256": "12eaf4a08bd0300c9f3a38ffede93a5f68becfe928d8e4480c2b0fa1cb577861",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "shift.\nline manager.\ncolleague.\ndeadline.\nexpectation.\nsalary.\nwage.\ncontract.\nprobation.\nfeedback.\npromotion.\nperformance review.\nheadquarters.\nbranch.\nfreelance.\ngig work.\nremote.\nhybrid."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit02-the-world-of-work/index.md",
-    "source_body_sha256": "9695b1eb60cd6e14a149db99f524db8f0848c5a445ef745f2ef43f4efd4aec59",
+    "source_body_sha256": "12eaf4a08bd0300c9f3a38ffede93a5f68becfe928d8e4480c2b0fa1cb577861",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl06/units/unit07-an-adventure-story/index.md",
-    "source_body_sha256": "4b9ba0753e3ea689dea2ac9d28021cf485dc4f7100ba6195ce1c0e8b6c8ebb8b",
+    "source_body_sha256": "13a6f5ce4fa1fe4cb043423d1e3bb81bbb03220c5098f1aa733a13070afbd11b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl06/units/unit07-an-adventure-story/index.md",
-    "source_body_sha256": "4b9ba0753e3ea689dea2ac9d28021cf485dc4f7100ba6195ce1c0e8b6c8ebb8b",
+    "source_body_sha256": "13a6f5ce4fa1fe4cb043423d1e3bb81bbb03220c5098f1aa733a13070afbd11b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

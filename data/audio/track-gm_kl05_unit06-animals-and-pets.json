@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit06-animals-and-pets/index.md",
-    "source_body_sha256": "c3776e501de8d861ebf56ec1830753185ee80c78f7024ece611969b4bc49e987",
+    "source_body_sha256": "cdc7e679798cb40b1c7f2e059014d283176e87012bafadd585ea8f0738d4b87d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit06-animals-and-pets/index.md",
-    "source_body_sha256": "c3776e501de8d861ebf56ec1830753185ee80c78f7024ece611969b4bc49e987",
+    "source_body_sha256": "cdc7e679798cb40b1c7f2e059014d283176e87012bafadd585ea8f0738d4b87d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "cat.\ndog.\nmouse.\nhamster.\nrabbit.\nfish.\nbird.\nfox.\nwolf.\nbear.\ncow.\nhorse.\nsheep.\npig.\nduck.\nchicken.\nowl.\nsnake.\nfrog.\nlizard."

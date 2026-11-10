@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl07/units/unit04-a-trip-to-scotland/index.md",
-    "source_body_sha256": "812c9c39c1f1cb6607f55a71a70870d08a9130069f7fce86ef9f37b087aeac9f",
+    "source_body_sha256": "ab4e8866253a1f43b6c2e6feab8ac5f586fea5c558b9a46f4baecf124c9733eb",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl07/units/unit04-a-trip-to-scotland/index.md",
-    "source_body_sha256": "812c9c39c1f1cb6607f55a71a70870d08a9130069f7fce86ef9f37b087aeac9f",
+    "source_body_sha256": "ab4e8866253a1f43b6c2e6feab8ac5f586fea5c558b9a46f4baecf124c9733eb",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "\"Ladies and gentlemen, this is the train manager. We are now arriving at Edinburgh Waverley, our final stop. Please take all your belongings with you. The exit for the city centre is on the right; for the bus station, take the lifts on the left. Travellers heading to the Highlands should change here for the 14:05 to Inverness, platform four.\""
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl07/units/unit04-a-trip-to-scotland/index.md",
-    "source_body_sha256": "812c9c39c1f1cb6607f55a71a70870d08a9130069f7fce86ef9f37b087aeac9f",
+    "source_body_sha256": "ab4e8866253a1f43b6c2e6feab8ac5f586fea5c558b9a46f4baecf124c9733eb",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Frances had only seen Scotland on postcards. The hills, in the postcards, were always green and the sky was always grey. The hills, in real life, were also green, but the green changed every twenty minutes — sometimes a tired green, sometimes a green so bright it looked wet. The sky was less grey than expected. It was more like an enormous changing mood. By the end of the first day, Frances had stopped trying to predict the weather and had started enjoying it instead."
@@ -57,7 +57,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl07/units/unit04-a-trip-to-scotland/index.md",
-    "source_body_sha256": "812c9c39c1f1cb6607f55a71a70870d08a9130069f7fce86ef9f37b087aeac9f",
+    "source_body_sha256": "ab4e8866253a1f43b6c2e6feab8ac5f586fea5c558b9a46f4baecf124c9733eb",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "platform.\nconnection.\nreturn / single (BrE).\nHighlands.\nLowlands.\nloch.\nfirth."

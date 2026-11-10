@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl05/units/unit01-hello-world/index.md",
-    "source_body_sha256": "b1247f0d2288715940a7601d55a43b8964be954c55bb529fdd3f7db09e0881a9",
+    "source_body_sha256": "0010616ad096b40149c0d11e85554f9b4263ef7afba158b4bddc2a4a9104a567",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl05/units/unit01-hello-world/index.md",
-    "source_body_sha256": "b1247f0d2288715940a7601d55a43b8964be954c55bb529fdd3f7db09e0881a9",
+    "source_body_sha256": "0010616ad096b40149c0d11e85554f9b4263ef7afba158b4bddc2a4a9104a567",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Hello.\nhi.\ngood morning.\ngood afternoon.\ngood evening.\ngoodbye.\nsee you later.\nplease.\nthank you.\nyou're welcome.\nnice to meet you.\nhow do you do.\nwhat's your name.\nwhere are you from."

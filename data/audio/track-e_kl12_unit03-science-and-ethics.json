@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit03-science-and-ethics/index.md",
-    "source_body_sha256": "d2f3b66f33ce95f0e8e0c85e9f15d486d2da2c6b306fbd151a290eaa309c11ce",
+    "source_body_sha256": "04b8aa118c30f4119c3b5af136540a6b1d507b9a78a630b35ead68af1f97d6e6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit03-science-and-ethics/index.md",
-    "source_body_sha256": "d2f3b66f33ce95f0e8e0c85e9f15d486d2da2c6b306fbd151a290eaa309c11ce",
+    "source_body_sha256": "04b8aa118c30f4119c3b5af136540a6b1d507b9a78a630b35ead68af1f97d6e6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit03-science-and-ethics/index.md",
-    "source_body_sha256": "d2f3b66f33ce95f0e8e0c85e9f15d486d2da2c6b306fbd151a290eaa309c11ce",
+    "source_body_sha256": "04b8aa118c30f4119c3b5af136540a6b1d507b9a78a630b35ead68af1f97d6e6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "precautionary principle.\ndual-use research.\ninformed consent.\nmoratorium.\ngovernance.\nirreversibility.\nexternality.\nstakeholder engagement.\ntransparency.\npeer review.\nreplication.\nbioethics committee.\nIRB."

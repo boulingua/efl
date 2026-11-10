@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit02-the-world-of-work/index.md",
-    "source_body_sha256": "127969e3444b7a4acc0a533f2c60bad6dbc23b1df8d64d3d456d4fff9c0d8b61",
+    "source_body_sha256": "0671f29bf2e735c48276348ef14db4f1191fa66aaaf42b428f65231d8c68dc88",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit02-the-world-of-work/index.md",
-    "source_body_sha256": "127969e3444b7a4acc0a533f2c60bad6dbc23b1df8d64d3d456d4fff9c0d8b61",
+    "source_body_sha256": "0671f29bf2e735c48276348ef14db4f1191fa66aaaf42b428f65231d8c68dc88",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit02-the-world-of-work/index.md",
-    "source_body_sha256": "127969e3444b7a4acc0a533f2c60bad6dbc23b1df8d64d3d456d4fff9c0d8b61",
+    "source_body_sha256": "0671f29bf2e735c48276348ef14db4f1191fa66aaaf42b428f65231d8c68dc88",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "portfolio.\nbrief.\nmilestone.\ndeliverable.\nstakeholder.\nsenior / junior.\nline manager.\nprobation.\nperformance review.\nmentor.\nmentee.\nfeedback loop.\npivot.\nlateral move.\nsoft skills.\nhard skills."

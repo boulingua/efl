@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl09/units/unit12-year-review-portfolio/index.md",
-    "source_body_sha256": "432161236d9c36a5c1b65bfbf19c52a468bdb700d048773d9d489f7aa28aaaba",
+    "source_body_sha256": "fa7916799bdfe3914c96a84b03995c5adefff381db4c1fd22b3836978567e306",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

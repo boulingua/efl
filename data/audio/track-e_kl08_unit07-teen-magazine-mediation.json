@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl08/units/unit07-teen-magazine-mediation/index.md",
-    "source_body_sha256": "c94e1deca402b443abddaba5f5de3c848e6fda44814177e83ac6d1faad0a7715",
+    "source_body_sha256": "08542db1421ce1f29759ac71bae2289f57e619072a2a1b284687f7fd2bd4fa32",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "Source — *German teen-mag article (excerpt)*"

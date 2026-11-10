@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl09/units/unit01-future-careers/index.md",
-    "source_body_sha256": "55132e152a71f1c92b0c54b070f61fb2a7d778ca89dcb0e21839a3089589f12b",
+    "source_body_sha256": "afd1487e63f88b0b7833e03a93f4b88ee83bad20ee23b3ddb25dc812e85fbca2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl09/units/unit01-future-careers/index.md",
-    "source_body_sha256": "55132e152a71f1c92b0c54b070f61fb2a7d778ca89dcb0e21839a3089589f12b",
+    "source_body_sha256": "afd1487e63f88b0b7833e03a93f4b88ee83bad20ee23b3ddb25dc812e85fbca2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "career.\nprofession.\nvocational training.\napprenticeship.\ninternship.\nemployer.\nemployee.\nCV.\ncover letter.\nsalary.\nfull-time.\npart-time.\nfreelance.\nself-employed.\nqualification.\nskills.\nsoft skills.\nhard skills."

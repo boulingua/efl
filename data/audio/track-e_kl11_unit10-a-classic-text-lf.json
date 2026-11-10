@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit10-a-classic-text-lf/index.md",
-    "source_body_sha256": "ee2eff1a0c44e49b38beb697818bfeccca73dd45ff8b6d5548627a8d1aaa8e64",
+    "source_body_sha256": "42f3a72fa84b03f00bcbc3a8e051f2f453648f2f5b4041096aa7fcdf96e50b26",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

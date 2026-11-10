@@ -2,7 +2,7 @@
   {
     "file": "/efl/materials/audio/track-e_kl13_unit06-mediation-policy-text/texte1.ogg",
     "label": "Text 1",
-    "transcript": "Final mediation Unit. The source is a 600-word extract from the 2027 federal report on Bildungsgerechtigkeit in Germany. The addressee: an English-speaking comparative-education researcher writing for the OECD. The task: mediate honestly enough that the OECD reader can decide whether to commission a full translation.",
+    "transcript": "Final mediation Unit. The source is a short fictional policy-style passage written for this exercise. Its sample size, findings and study period are invented; it is not a federal report or evidence about German education. Imagine an English-speaking comparative-education researcher as your addressee. The task is to convey only what this passage says, including its uncertainty and limits. Do not invent the contents of a longer report.",
     "source": "tts",
     "voice": "en_GB-cori-medium",
     "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit06-mediation-policy-text/index.md",
-    "source_body_sha256": "98b4a253c4a880893846e1a5993c5552772b6d411a53022daa933aeda7dd8d4e",
+    "source_body_sha256": "b6d630a5cb6074e7e777f226641522b6a0e8e597278769cde8d58b383746609b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

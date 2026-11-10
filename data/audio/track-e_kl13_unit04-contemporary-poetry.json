@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit04-contemporary-poetry/index.md",
-    "source_body_sha256": "be75c5da515a152605a3b09398a30b29bae22324ae195aaf6254bc6a73a886eb",
+    "source_body_sha256": "071e764269c20ad980107e67ce6ed653f9c0553730f555209b4a731a0756be54",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit04-contemporary-poetry/index.md",
-    "source_body_sha256": "be75c5da515a152605a3b09398a30b29bae22324ae195aaf6254bc6a73a886eb",
+    "source_body_sha256": "071e764269c20ad980107e67ce6ed653f9c0553730f555209b4a731a0756be54",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "document poem (or documentary poetics).\nfragmentary lyric.\nprose poem.\npolyvocal lyric.\nfound poem.\nekphrastic poem.\nthe broken line.\nthe white space.\npolyphony.\nironised I.\nelliptical lyric."

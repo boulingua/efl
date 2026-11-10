@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit06-contemporary-short-fiction/index.md",
-    "source_body_sha256": "7236278000c693e2eaa9a8eb0afd35f0dba70506590124346a15b2ed26557b04",
+    "source_body_sha256": "fe7cba006a3b6027db49662bf75f5ba31dd7bc1fa9260246130de2b57c498491",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit06-contemporary-short-fiction/index.md",
-    "source_body_sha256": "7236278000c693e2eaa9a8eb0afd35f0dba70506590124346a15b2ed26557b04",
+    "source_body_sha256": "fe7cba006a3b6027db49662bf75f5ba31dd7bc1fa9260246130de2b57c498491",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit01-transition-after-grade-10/index.md",
-    "source_body_sha256": "290291f2b539619ed55cb6a2ae982c81ff994b967e529fd40fd8e75a72247928",
+    "source_body_sha256": "d4d0939e9c8cb6827eb9edf1d21a9cb27ab761016f79d124a623320b6c660797",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit01-transition-after-grade-10/index.md",
-    "source_body_sha256": "290291f2b539619ed55cb6a2ae982c81ff994b967e529fd40fd8e75a72247928",
+    "source_body_sha256": "d4d0939e9c8cb6827eb9edf1d21a9cb27ab761016f79d124a623320b6c660797",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "apprenticeship.\nvocational training (Berufsausbildung).\nFOS/BOS (Fachoberschule / Berufsoberschule).\ngap year.\ninternship.\ncertificate.\napplication.\ndeadline.\nshortlist.\ninterview.\non-the-job training.\ndual system.\nemployer reference."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit01-transition-after-grade-10/index.md",
-    "source_body_sha256": "290291f2b539619ed55cb6a2ae982c81ff994b967e529fd40fd8e75a72247928",
+    "source_body_sha256": "d4d0939e9c8cb6827eb9edf1d21a9cb27ab761016f79d124a623320b6c660797",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

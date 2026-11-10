@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit01-british-cultural-anchors/index.md",
-    "source_body_sha256": "2276e2a7691d45f708a02229de22f08959cc2832bc8f6f75a49f65933fbdf3d8",
+    "source_body_sha256": "42f39e3987ff478baaf90ad94947b09349b783babbb54fdbd848414b42fd512b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit01-british-cultural-anchors/index.md",
-    "source_body_sha256": "2276e2a7691d45f708a02229de22f08959cc2832bc8f6f75a49f65933fbdf3d8",
+    "source_body_sha256": "42f39e3987ff478baaf90ad94947b09349b783babbb54fdbd848414b42fd512b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit01-british-cultural-anchors/index.md",
-    "source_body_sha256": "2276e2a7691d45f708a02229de22f08959cc2832bc8f6f75a49f65933fbdf3d8",
+    "source_body_sha256": "42f39e3987ff478baaf90ad94947b09349b783babbb54fdbd848414b42fd512b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "charter.\nmandate.\npublic-service.\nbroadcaster.\nlicence fee.\ndevolved.\npost-war.\nfounding moment.\nsettlement.\ninstitutional resilience.\nsoft power."

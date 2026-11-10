@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit03-digital-lives-at-work/index.md",
-    "source_body_sha256": "f50f81ea98b806ed880e75fe02ee882141eab53dd44caccdbde51b731cec22ed",
+    "source_body_sha256": "ef4ff7d5100b6ad09d1784ac22ae1a51b8fa1b6cc3a17df67bc0d58bdef29b91",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit03-digital-lives-at-work/index.md",
-    "source_body_sha256": "f50f81ea98b806ed880e75fe02ee882141eab53dd44caccdbde51b731cec22ed",
+    "source_body_sha256": "ef4ff7d5100b6ad09d1784ac22ae1a51b8fa1b6cc3a17df67bc0d58bdef29b91",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "remote work.\nhybrid.\non-site.\nvideo call.\nasynchronous.\nsynchronous.\ntime zone.\nwork-life balance.\ndigital fatigue.\ncoworking space.\nfreelance.\nteam channel.\ndeliverable.\nmilestone."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit03-digital-lives-at-work/index.md",
-    "source_body_sha256": "f50f81ea98b806ed880e75fe02ee882141eab53dd44caccdbde51b731cec22ed",
+    "source_body_sha256": "ef4ff7d5100b6ad09d1784ac22ae1a51b8fa1b6cc3a17df67bc0d58bdef29b91",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

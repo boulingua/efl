@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl08/units/unit02-school-life-elsewhere/index.md",
-    "source_body_sha256": "a84701f34055fba737933d89b6273ddca6a6504828d3083985b7136ea38b3234",
+    "source_body_sha256": "7ea854aac8819cdb96f2af8be3bb76cba4aa5acc47a72fff37e03d49bb69a9ef",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl05/units/unit06-animals-and-pets/index.md",
-    "source_body_sha256": "2be85e591886211fd5271f8efa3c09915a35d48873db223a994c212b27ade473",
+    "source_body_sha256": "72ab587e6562c6907e60a1ded73c2d75af238d7b75ac9e1bc43ec8bfa1079df9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl06/units/unit05-daily-routines/index.md",
-    "source_body_sha256": "029ec9f8f1ccf7a71c0fba5edf4e1f3d04cf4c47b44d7fd7c9b7fea740c08ee9",
+    "source_body_sha256": "261b16e114372b55c30ddc9c370e69b9ed3918f09ee4ea8025d85725d22fb10b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl06/units/unit05-daily-routines/index.md",
-    "source_body_sha256": "029ec9f8f1ccf7a71c0fba5edf4e1f3d04cf4c47b44d7fd7c9b7fea740c08ee9",
+    "source_body_sha256": "261b16e114372b55c30ddc9c370e69b9ed3918f09ee4ea8025d85725d22fb10b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "get up.\nwake up.\nbrush my teeth.\nget dressed.\nhave a shower.\nhave breakfast.\nleave home.\ntake the bus.\nstart school.\nhave a break.\nhave lunch.\nfinish school.\ndo homework.\nhave dinner.\nwatch TV.\nread.\ngo to bed."

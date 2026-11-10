@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit01-identity-in-a-global-world/index.md",
-    "source_body_sha256": "740b60225c1ba0260d7a19889c50ea4e977dcca277a7f78bcef7355b075a6b14",
+    "source_body_sha256": "39497fa4b07fe888667becfc557b23d5ff73880aa3c86df3133aed5d1d353912",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit01-identity-in-a-global-world/index.md",
-    "source_body_sha256": "740b60225c1ba0260d7a19889c50ea4e977dcca277a7f78bcef7355b075a6b14",
+    "source_body_sha256": "39497fa4b07fe888667becfc557b23d5ff73880aa3c86df3133aed5d1d353912",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

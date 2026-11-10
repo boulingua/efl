@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl08/units/unit12-school-magazine-issue/index.md",
-    "source_body_sha256": "23f928df416747fb8884d6743dc793f3d6afe9836cc18596d11f54e75625e003",
+    "source_body_sha256": "b61fa8186189696a6f8d97691551b7045a8d663fd491498689211d37dbcff808",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

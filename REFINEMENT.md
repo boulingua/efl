@@ -109,3 +109,5 @@ mapping and the 31 October analytics wording recorded above; D6 now passes.
 its recording: `track-e/kl13/units/unit06-mediation-policy-text`. Before release
 it needs a new recording of the revised text, or a decision to keep the recorded
 wording.
+
+**Resolution (10 November 2026).** The revised text was kept. Its changed clip (`track-e_kl13_unit06-mediation-policy-text/texte1.ogg`) was regenerated with the audited course voice `en_GB-cori-medium` (speaker 0; model/config digests as in kit `audio/auditions/efl.md`), using kit v2.0.2 `audio/build_audio.py 'content/**/index.md' --all --speaker 0 --persistent-model` with the same Piper 1.8.0 / ONNX Runtime 1.31.1 / FFmpeg 7.1 toolchain as the 5 November recordings. The synthesis cache limited synthesis to clips whose spoken input changed; every other recording is byte-for-byte unchanged. All 180 manifests were refreshed to the current source-body digests. D6 passes. No separate listening review of the regenerated clips is claimed.

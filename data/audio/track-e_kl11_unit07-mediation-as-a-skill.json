@@ -10,10 +10,10 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit07-mediation-as-a-skill/index.md",
-    "source_body_sha256": "64be3f8c3caa977557c9fce3e0a46669b1833a37f873e2f8b7232a4069b5f99e",
+    "source_body_sha256": "1ee43e19df18bc9e9a34c587645bc624eab5462f0514cec7b8f27c19c19096c3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
-      "Source — *German feature on Mietpreisbremse*"
+      "Source — *Fictional German teaching passage on Mietpreisbremse*"
     ]
   }
 ]

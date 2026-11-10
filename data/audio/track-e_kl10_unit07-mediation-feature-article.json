@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit07-mediation-feature-article/index.md",
-    "source_body_sha256": "ce5df545050870a2104cdbc7493b95872d70aa84e5d47df56fcb3f18325cc20b",
+    "source_body_sha256": "427966839c7033c91a97d20841dcd3db9b1d78cd5f30149e51cb459f9c8c608c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "Source — *German feature article (excerpt)*"

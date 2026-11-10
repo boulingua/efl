@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl05/units/unit07-weather-and-seasons/index.md",
-    "source_body_sha256": "fdff64d2e0723fe0a358f48434cc0b51af26d56aa20b3d2d915d22079e42a04e",
+    "source_body_sha256": "52caebb25c8f0bc5d207c0787145e41aa7b8117a90930f5af522aa5023d8c371",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit03-digital-lives/index.md",
-    "source_body_sha256": "8d26e7651371791da60710d9720d9f292f275287bceec850c86e2025ff976032",
+    "source_body_sha256": "0a3910e96491048005cbf566c83edd2c8f2ff7f00b37380a156d23f30bfd6774",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit03-digital-lives/index.md",
-    "source_body_sha256": "8d26e7651371791da60710d9720d9f292f275287bceec850c86e2025ff976032",
+    "source_body_sha256": "0a3910e96491048005cbf566c83edd2c8f2ff7f00b37380a156d23f30bfd6774",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

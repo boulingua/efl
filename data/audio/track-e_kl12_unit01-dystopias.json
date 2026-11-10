@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit01-dystopias/index.md",
-    "source_body_sha256": "f56be335e70b1a284bedbd0c1d24568e11143b136df55f302ba2066aa5fefd4b",
+    "source_body_sha256": "eb12e323ab10e6f5296a023e67cdd3912b02f2bbd2c25de4d1c2d7376d26f08e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit01-dystopias/index.md",
-    "source_body_sha256": "f56be335e70b1a284bedbd0c1d24568e11143b136df55f302ba2066aa5fefd4b",
+    "source_body_sha256": "eb12e323ab10e6f5296a023e67cdd3912b02f2bbd2c25de4d1c2d7376d26f08e",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "surveillance.\ncomplicity.\nconditioning.\ndehumanisation.\nritualisation.\nlanguage control.\ndoublespeak.\ntotalitarianism.\ntheocracy.\nbiopolitics.\ncomplicity-of-the-comfortable.\ndisciplinary apparatus.\ninternal exile."

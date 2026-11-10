@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit04-food-around-the-world/index.md",
-    "source_body_sha256": "a6882591b841908e7cbed2b4ec0d139d424a7af9ec0541bf2dc12999496751e7",
+    "source_body_sha256": "b674bf9830f075dbbd71bd8fb478b288efd83038c239a9b157b6d62084a7573c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit04-food-around-the-world/index.md",
-    "source_body_sha256": "a6882591b841908e7cbed2b4ec0d139d424a7af9ec0541bf2dc12999496751e7",
+    "source_body_sha256": "b674bf9830f075dbbd71bd8fb478b288efd83038c239a9b157b6d62084a7573c",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "sushi (Japan).\npizza (Italy).\npasta (Italy).\npaella (Spain).\ncurry (India).\npierogi (Poland).\nfalafel (Middle East).\ntacos (Mexico).\njollof rice (West Africa).\nSpätzle (Germany).\ngoulash (Hungary).\nnoodles (China)."

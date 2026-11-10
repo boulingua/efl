@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit12-year-review-and-handover/index.md",
-    "source_body_sha256": "40b7d18b34d93e3cc76eb404d1452836fde399030a0d3bf829f0bc4417639491",
+    "source_body_sha256": "4ad4e4ed636fa42e4f7fba05bbc7acbabb8c4be1e1126b83b5d440cfc02b47ff",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

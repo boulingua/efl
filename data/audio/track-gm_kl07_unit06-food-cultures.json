@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl07/units/unit06-food-cultures/index.md",
-    "source_body_sha256": "078c6460fe5f0da520cc83c89d2c69650aefe63c53fbc42d09fcf34777d2a415",
+    "source_body_sha256": "8aeb78f76373e769b0a26bc163b69be51f27cea930da177d3d068db7081387c6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl07/units/unit06-food-cultures/index.md",
-    "source_body_sha256": "078c6460fe5f0da520cc83c89d2c69650aefe63c53fbc42d09fcf34777d2a415",
+    "source_body_sha256": "8aeb78f76373e769b0a26bc163b69be51f27cea930da177d3d068db7081387c6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Anya's grandfather makes the same dish every Sunday: rice, chicken, a sauce with herbs the family will not name in English because the English name does not feel right. The dish has migrated with the family for two generations. In the village, it was made with a chicken from the yard. In the city, it is made with a chicken from the supermarket. The taste is mostly the same. Sundays are the day Anya's grandfather speaks the most. The dish, he says, is what the family is. Every other day they argue about everything. On Sundays they argue about the chicken."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl07/units/unit06-food-cultures/index.md",
-    "source_body_sha256": "078c6460fe5f0da520cc83c89d2c69650aefe63c53fbc42d09fcf34777d2a415",
+    "source_body_sha256": "8aeb78f76373e769b0a26bc163b69be51f27cea930da177d3d068db7081387c6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "to chop.\na knife, a board.\nto slice.\na slice.\nto peel.\nthe peel.\nto boil.\na pot.\nto fry.\na pan.\nto bake.\nan oven.\nto season.\nsalt, pepper, herbs, spices.\nto taste.\na taste.\nto stir.\na spoon.\nto serve.\na plate, a bowl."

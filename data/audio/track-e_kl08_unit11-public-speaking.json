@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl08/units/unit11-public-speaking/index.md",
-    "source_body_sha256": "f686e804cab6644d96bb6852a5bde8a18628b7059a1d1df006cfdfb21673ba6d",
+    "source_body_sha256": "a474974c496d9797ae69c59d1a807e219d610d4d6df908535ae88d9c0abc60d6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

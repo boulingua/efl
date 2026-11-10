@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit11-issue-framed-debate/index.md",
-    "source_body_sha256": "f153b6369db424d182983e471c67c50e2e651ed5e7a7a80fb7001fed9e15efa2",
+    "source_body_sha256": "85cca21354b13af24a83f2a6e4834d3925b9bb002f9008a9ff21c98fd3ca3e01",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

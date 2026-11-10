@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit12-year-review-toward-oberstufe/index.md",
-    "source_body_sha256": "bdbb72b0a9c1c007a0d87676103dc84f21a02de0adf7708169622407a4925f04",
+    "source_body_sha256": "27772bc73d5a0f8a6acd866cd058fa4815a668094b53bc95b81793bc0771bbbe",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

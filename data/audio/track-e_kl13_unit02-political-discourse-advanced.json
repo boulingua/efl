@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit02-political-discourse-advanced/index.md",
-    "source_body_sha256": "a0b6e4877d6b51cd4d407ed440b3484c01bc43b02c8382b7ddeac29995ea1bd5",
+    "source_body_sha256": "feae4c83d42dc54e3589e96c0ab70a7d424bedce18a9bc4a1a420a736d8e2e17",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit02-political-discourse-advanced/index.md",
-    "source_body_sha256": "a0b6e4877d6b51cd4d407ed440b3484c01bc43b02c8382b7ddeac29995ea1bd5",
+    "source_body_sha256": "feae4c83d42dc54e3589e96c0ab70a7d424bedce18a9bc4a1a420a736d8e2e17",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "dog whistle.\nframing battle.\nscripted spontaneity.\nagenda-control.\nloaded antithesis.\nad hominem.\nwhataboutism.\nideological scaffolding.\nprebuttal.\ntalking-point discipline.\nregister-shifting."

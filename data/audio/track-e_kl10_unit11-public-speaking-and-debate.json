@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit11-public-speaking-and-debate/index.md",
-    "source_body_sha256": "1871e7cb0dc0109fcf0ea590b5b7110921c459614e6a429557f341588eae3bb4",
+    "source_body_sha256": "e7d3a68432e7951e0effa7fa0ae9dd3cbbe45094040648a4445b1f009463ce72",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl06/units/unit10-travelling-by-train/index.md",
-    "source_body_sha256": "ac7ac6d877e70574a846976fc56ef13b6e8eae25a7828cc87d1b6d60da65d973",
+    "source_body_sha256": "eb2ecf4a840f0c90ffc15ac8eb41fbe668400c1eff8d96319f63049620ce2e86",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl06/units/unit10-travelling-by-train/index.md",
-    "source_body_sha256": "ac7ac6d877e70574a846976fc56ef13b6e8eae25a7828cc87d1b6d60da65d973",
+    "source_body_sha256": "eb2ecf4a840f0c90ffc15ac8eb41fbe668400c1eff8d96319f63049620ce2e86",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "platform.\nticket office.\nsingle (BrE) / one-way (AmE).\nreturn (BrE) / round-trip (AmE).\nconnection.\ndeparture.\narrival.\ndelay.\ncancelled.\non time.\nlost property.\nthe guard.\nthe ticket inspector.\nthe trolley.\nthe waiting room.\noff-peak / peak."

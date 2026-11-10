@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit10-travelling-by-train/index.md",
-    "source_body_sha256": "b7e1ae6f578f3ae673e27e9fc35ffb729527e48187c1c80d730a9e1e9c08f96a",
+    "source_body_sha256": "b0b564f68b36897f1d7eddb2f6c707f749bdd87d0eeb065e899d58ad827e4d9b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit10-travelling-by-train/index.md",
-    "source_body_sha256": "b7e1ae6f578f3ae673e27e9fc35ffb729527e48187c1c80d730a9e1e9c08f96a",
+    "source_body_sha256": "b0b564f68b36897f1d7eddb2f6c707f749bdd87d0eeb065e899d58ad827e4d9b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "platform.\nticket office.\nsingle (BrE) / one-way (AmE).\nreturn (BrE) / round-trip (AmE).\nconnection.\ndeparture.\narrival.\ndelay.\ncancelled.\non time.\nlost property.\nthe guard.\nthe ticket inspector.\nthe trolley.\nthe waiting room."

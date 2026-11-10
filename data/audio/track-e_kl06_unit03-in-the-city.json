@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl06/units/unit03-in-the-city/index.md",
-    "source_body_sha256": "f69a7eea32ebc4786158d85fe5e3fcc93543df3ef91b9943eb628456778d4194",
+    "source_body_sha256": "a70bbbee5a57b00ea4f96d08e955941968ef3a60d2d40c226ccf8a3731f2aa7d",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

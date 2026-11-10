@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit03-in-the-city/index.md",
-    "source_body_sha256": "9a6e02fb35cc6ba7ceafe6c3d1a1fdec574e370dc0e438ce0147c82c82614e76",
+    "source_body_sha256": "5007a5e47bf85f5575efcd2b1c0ad02aa8022581d88d5e651d7295e9e541f91b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit03-in-the-city/index.md",
-    "source_body_sha256": "9a6e02fb35cc6ba7ceafe6c3d1a1fdec574e370dc0e438ce0147c82c82614e76",
+    "source_body_sha256": "5007a5e47bf85f5575efcd2b1c0ad02aa8022581d88d5e651d7295e9e541f91b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "supermarket.\nbakery.\nbutcher.\npost office.\nlibrary.\nmuseum.\ncinema.\ntheatre.\ntown hall.\nmarket square.\nbus stop.\ntrain station.\nplayground.\nsports centre.\nbookshop.\npharmacy.\nhospital.\ncafe."
