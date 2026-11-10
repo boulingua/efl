@@ -30,7 +30,7 @@ milestone: M0                   # no page carries implements yet; A2 warns
 
 gates:
   network_graph: true           # materials-network graph + JS budget
-  pagefind: true               # built by kit build; full-text search at /search/
+  pagefind: true                # build the index used by discovery search
   bildungsplan: true            # 180 pages carry a bildungsplan block
   curriculum: warn
 

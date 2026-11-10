@@ -1,10 +1,17 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl06_unit03-in-the-city/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"Excuse me, how do I get to the train station? Walk straight on for three minutes. Then turn left at the church. The station is on your right, opposite a small cafe.\""
-  },
-  {
-    "label": "Text 2",
-    "transcript": "\"My favourite place in town is the small bakery next to the library. They open at 6 a.m. and the bread is still warm. The owner knows everyone's name and remembers everyone's favourite pastry.\""
+    "transcript": "Sam and Lina meet at the fountain in the market square. The square smells of fresh bread and yesterday's rain. They have one hour before the bus and a list of three errands: the bookshop (a thank-you card), the post office (one stamp, one parcel), and a small bakery that supposedly sells the best apple pastry in town. They argue, briefly, about which to do first.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl06/units/unit03-in-the-city/index.md",
+    "source_body_sha256": "f69a7eea32ebc4786158d85fe5e3fcc93543df3ef91b9943eb628456778d4194",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

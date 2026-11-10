@@ -1,13 +1,33 @@
 [
   {
-    "label": "Vocabulary 1",
-    "transcript": "bedroom · kitchen · living room · bathroom · bed · desk · chair · window · door · poster · shelf · lamp",
-    "file": "/efl/materials/audio/unit03-home-and-room/vocab1.ogg",
-    "tts": "bedroom.\nkitchen.\nliving room.\nbathroom.\nbed.\ndesk.\nchair.\nwindow.\ndoor.\nposter.\nshelf.\nlamp."
+    "file": "/efl/materials/audio/track-gm_kl05_unit03-home-and-room/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Mia opens the door of her room. The bed is on the right. The desk is on the left. There is a poster of a fox over the bed. There is a small green plant on the desk. Frida the fox jumps onto the windowsill. \"Tidy room,\" she says. \"For now,\" Mia says.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl05/units/unit03-home-and-room/index.md",
+    "source_body_sha256": "0f5e6a5566e5276ffc82cbe1e78968504fa9cd053f065169cc7c5db4d824d597",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
-    "label": "Text 1",
-    "transcript": "\"In my room there is a bed and a desk. There are two windows. The cat is under the bed. There is a green plant on the desk.\"",
-    "file": "/efl/materials/audio/unit03-home-and-room/texte1.ogg"
+    "file": "/efl/materials/audio/track-gm_kl05_unit03-home-and-room/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "bedroom · kitchen · living room · bathroom · bed · desk · chair · window · door · poster · shelf · lamp",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl05/units/unit03-home-and-room/index.md",
+    "source_body_sha256": "0f5e6a5566e5276ffc82cbe1e78968504fa9cd053f065169cc7c5db4d824d597",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "bedroom.\nkitchen.\nliving room.\nbathroom.\nbed.\ndesk.\nchair.\nwindow.\ndoor.\nposter.\nshelf.\nlamp."
   }
 ]

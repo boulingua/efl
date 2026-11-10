@@ -1,12 +1,32 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl06_unit07-an-adventure-story/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"Sam was reading in the library when the lights suddenly went out. While he was waiting in the dark, he heard a quiet sound. Someone was opening the door very slowly.\"",
-    "file": "/efl/materials/audio/unit07-an-adventure-story/texte1.ogg"
+    "transcript": "Sam found an old envelope behind the bookshelf. The paper was thick and yellow. Inside there was one page, half a map, and the signature Captain Cody — 1782. The map showed an island that did not appear on any modern atlas. Sam decided not to mention it to anyone. Yet.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl06/units/unit07-an-adventure-story/index.md",
+    "source_body_sha256": "4b9ba0753e3ea689dea2ac9d28021cf485dc4f7100ba6195ce1c0e8b6c8ebb8b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
+    "file": "/efl/materials/audio/track-e_kl06_unit07-an-adventure-story/texte2.ogg",
     "label": "Text 2",
-    "transcript": "\"Lina found a small key in her grandmother's drawer. While she was studying it, the light caught the metal in a strange way. When she turned the key in her hand, she noticed letters carved on the side.\"",
-    "file": "/efl/materials/audio/unit07-an-adventure-story/texte2.ogg"
+    "transcript": "Dear traveller. If you are reading this, the envelope has waited a long time. The map is incomplete. The other half is hidden in a place where books and silence keep each other company. Bring courage. Bring biscuits. Don't bring a phone — it spoils the mood. Yours, Cody.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl06/units/unit07-an-adventure-story/index.md",
+    "source_body_sha256": "4b9ba0753e3ea689dea2ac9d28021cf485dc4f7100ba6195ce1c0e8b6c8ebb8b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

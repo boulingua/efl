@@ -1,7 +1,17 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl12_unit07-mediation-academic-text/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"Diese Arbeit untersucht intergenerationale Einkommensmobilität in 18 OECD-Ländern. Methodisch nutzen wir verlinkte Steuerregisterdaten. Die Hauptergebnisse legen nahe, dass die Mobilität in Kontinentaleuropa höher ist als in den USA. Der Abstand zwischen Kohorten ist in Deutschland und Frankreich gewachsen.\"",
-    "file": "/efl/materials/audio/unit07-mediation-academic-text/texte1.ogg"
+    "transcript": "The class received a 500-word German social-science abstract from a 2026 paper on intergenerational income mobility in OECD countries. The addressee: an English-speaking PhD-track economist who reads abstracts to triage what to read in full. The task: mediate the abstract honestly enough that the researcher can decide whether to read the full paper.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit07-mediation-academic-text/index.md",
+    "source_body_sha256": "e7e7f98273802bd800c5355348a7f02e35e853e443b5b3b3f6ab8399dd854f4d",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

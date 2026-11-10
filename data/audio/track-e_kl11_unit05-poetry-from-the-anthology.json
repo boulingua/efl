@@ -1,7 +1,48 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl11_unit05-poetry-from-the-anthology/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"The poem is fourteen lines in two stanzas. Line-breaks fall before strong stresses. There are three half-rhymes — light / late, door / floor, gone / alone — at the close of the second stanza. The pronoun shifts from they to we in the final couplet.\"",
-    "file": "/efl/materials/audio/unit05-poetry-from-the-anthology/texte1.ogg"
+    "transcript": "Mr. Yilmaz handed out a single poem of fourteen lines, no title given. The class spent twenty minutes reading it silently, then ten minutes arguing about whether the line-breaks were doing any actual work. They agreed they were. They disagreed about which one was doing the most.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit05-poetry-from-the-anthology/index.md",
+    "source_body_sha256": "af9369906d90805a7230600c1d3e1a574e917afd6cded0092cea58000b3d4493",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl11_unit05-poetry-from-the-anthology/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Fourteen lines, two stanzas. The first is the outside; the second is what is overheard. The line-breaks fall, mostly, before strong stresses, so that each line ends on a small held breath. There are no full rhymes. There are three half-rhymes — light / late, door / floor, gone / alone — that sit at the close of the second stanza, where the speaker turns inward. The persona is not named. The pronoun shifts from they to we in the final couplet, which is the moment the poem decides what it has been doing all along.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit05-poetry-from-the-anthology/index.md",
+    "source_body_sha256": "af9369906d90805a7230600c1d3e1a574e917afd6cded0092cea58000b3d4493",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl11_unit05-poetry-from-the-anthology/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "line · line-break · enjambment · stanza · couplet · image · image cluster · simile · metaphor · personification · persona · voice · tone · meter · iambic · half-rhyme / slant rhyme · full rhyme · alliteration · assonance · caesura",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit05-poetry-from-the-anthology/index.md",
+    "source_body_sha256": "af9369906d90805a7230600c1d3e1a574e917afd6cded0092cea58000b3d4493",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "line.\nline-break.\nenjambment.\nstanza.\ncouplet.\nimage.\nimage cluster.\nsimile.\nmetaphor.\npersonification.\npersona.\nvoice.\ntone.\nmeter.\niambic.\nhalf-rhyme / slant rhyme.\nfull rhyme.\nalliteration.\nassonance.\ncaesura."
   }
 ]

@@ -1,7 +1,32 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl08_unit06-opinion-writing/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"In my view, school should start later. Firstly, teenagers' biological clocks are different from adults'. Secondly, students who sleep more do better in school. On the other hand, many parents leave for work early. In conclusion, a thirty-minute later start would help most.\"",
-    "file": "/efl/materials/audio/unit06-opinion-writing/texte1.ogg"
+    "transcript": "Hawa's class is writing opinion pieces for a school blog. The topic: Should pupils have a say in choosing school books? Mr. Ade pinned a single-page guide on the wall: Claim. One reason. One counter. Conclusion. Hawa stared at it. \"Four moves,\" she said. \"That's almost a dance.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl08/units/unit06-opinion-writing/index.md",
+    "source_body_sha256": "09bd1f548f93afbc7d02d5a135f45ec47566b9b18f262ba38b3d98b91e0fb790",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl08_unit06-opinion-writing/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "In my view, pupils should help choose at least one of the books we read each year. Firstly, when students are part of the choice, they are more likely to actually read the book. Secondly, the school benefits because more voices are involved. On the other hand, teachers know the curriculum better than students do, and that knowledge matters. In conclusion, a small say — perhaps one book in three — would be a fair compromise.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl08/units/unit06-opinion-writing/index.md",
+    "source_body_sha256": "09bd1f548f93afbc7d02d5a135f45ec47566b9b18f262ba38b3d98b91e0fb790",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

@@ -1,40 +1,65 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl07_unit04-a-trip-to-scotland/texte1.ogg",
     "label": "Text 1",
+    "transcript": "Aisha's aunt sent two postcards from Scotland. One showed a green\nhill with a single cow on it. The other showed a castle in fog.\nOn the back, the aunt had written, in her thin handwriting,\n\"Pictures lie. Bring a coat.\" Aisha put the postcards on the\nfridge and looked at them every morning before school. By the end\nof the week, the cow on the hill had become a kind of friend.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl07/units/unit04-a-trip-to-scotland/index.md",
+    "source_body_sha256": "47539117e0dc4bdfebeed2cae5706ce4ce70634f97240de150fb881d2057ea27",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl07_unit04-a-trip-to-scotland/texte2.ogg",
+    "label": "Text 2",
     "transcript": "\"Ladies and gentlemen, this is the train manager. We are now\narriving at Edinburgh Waverley, our final stop. Please take all\nyour belongings with you. The exit for the city centre is on\nthe right; for the bus station, take the lifts on the left.\nTravellers heading to the Highlands should change here for the\n14:05 to Inverness, platform four.\"",
-    "file": "/efl/materials/audio/unit04-a-trip-to-scotland/texte1.ogg"
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl07/units/unit04-a-trip-to-scotland/index.md",
+    "source_body_sha256": "47539117e0dc4bdfebeed2cae5706ce4ce70634f97240de150fb881d2057ea27",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "\"Ladies and gentlemen, this is the train manager. We are now arriving at Edinburgh Waverley, our final stop. Please take all your belongings with you. The exit for the city centre is on the right; for the bus station, take the lifts on the left. Travellers heading to the Highlands should change here for the 14:05 to Inverness, platform four.\""
   },
   {
-    "label": "Text 2",
-    "transcript": "Frances had only seen Scotland on postcards. The hills, in the\npostcards, were always green and the sky was always grey. The\nhills, in real life, were also green, but the green changed\nevery twenty minutes — sometimes a tired green, sometimes a\ngreen so bright it looked wet. The sky was less grey than\nexpected. It was more like an enormous changing mood. By the\nend of the first day, Frances had stopped trying to predict the\nweather and had started enjoying it instead.",
-    "file": "/efl/materials/audio/unit04-a-trip-to-scotland/texte2.ogg"
-  },
-  {
-    "label": "Vocabulary 1",
-    "transcript": "eat · see · take · fly · go · have · start · arrive",
-    "file": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab1.ogg",
-    "tts": "eat.\nsee.\ntake.\nfly.\ngo.\nhave.\nstart.\narrive."
-  },
-  {
-    "label": "Vocabulary 2",
-    "transcript": "platform · connection · return / single (BrE) · Highlands · Lowlands · loch · firth",
-    "file": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab2.ogg",
-    "tts": "platform.\nconnection.\nreturn / single (BrE).\nHighlands.\nLowlands.\nloch.\nfirth."
-  },
-  {
+    "file": "/efl/materials/audio/track-e_kl07_unit04-a-trip-to-scotland/texte3.ogg",
     "label": "Text 3",
-    "transcript": "\"Ladies and gentlemen, this is the train manager. We are now\narriving at Edinburgh Waverley, our final stop. Please take all\nyour belongings with you. The exit for the city centre is on\nthe right; for the bus station, take the lifts on the left.\nTravellers heading to the Highlands should change here for the\n14:05 to Inverness, platform four. Thank you for travelling\nwith ScotRail.\"",
-    "file": "/efl/materials/audio/unit04-a-trip-to-scotland/texte3.ogg"
-  },
-  {
-    "label": "Text 2",
     "transcript": "Frances had only seen Scotland on postcards. The hills, in the\npostcards, were always green and the sky was always grey. The\nhills, in real life, were also green, but the green changed\nevery twenty minutes — sometimes a tired green, sometimes a\ngreen so bright it looked wet. The sky was less grey than\nexpected. It was more like an enormous changing mood. By the\nend of the first day, Frances had stopped trying to predict the\nweather and had started enjoying it instead.",
-    "file": "/efl/materials/audio/unit04-a-trip-to-scotland/texte2.ogg"
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl07/units/unit04-a-trip-to-scotland/index.md",
+    "source_body_sha256": "47539117e0dc4bdfebeed2cae5706ce4ce70634f97240de150fb881d2057ea27",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Frances had only seen Scotland on postcards. The hills, in the postcards, were always green and the sky was always grey. The hills, in real life, were also green, but the green changed every twenty minutes — sometimes a tired green, sometimes a green so bright it looked wet. The sky was less grey than expected. It was more like an enormous changing mood. By the end of the first day, Frances had stopped trying to predict the weather and had started enjoying it instead."
   },
   {
-    "label": "Vocabulary 3",
-    "transcript": "56–60 · 49–55 · 40–48 · 30–39 · 18–29 · 0–17",
-    "file": "/efl/materials/audio/unit04-a-trip-to-scotland/vocab3.ogg",
-    "tts": "56–60.\n49–55.\n40–48.\n30–39.\n18–29.\n0–17."
+    "file": "/efl/materials/audio/track-e_kl07_unit04-a-trip-to-scotland/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "platform · connection · return / single (BrE) · Highlands · Lowlands · loch · firth",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl07/units/unit04-a-trip-to-scotland/index.md",
+    "source_body_sha256": "47539117e0dc4bdfebeed2cae5706ce4ce70634f97240de150fb881d2057ea27",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "platform.\nconnection.\nreturn / single (BrE).\nHighlands.\nLowlands.\nloch.\nfirth."
   }
 ]

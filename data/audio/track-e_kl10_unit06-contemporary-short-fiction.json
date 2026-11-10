@@ -1,6 +1,32 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl10_unit06-contemporary-short-fiction/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"Walking home, she heard the bus pull away two minutes early. The shelter was empty except for an old man with a paper cup. Having noticed her, he slid the cup toward her without speaking. The cup was full of warm tea.\""
+    "transcript": "The class read an imagined contemporary short story called Late Bus, Cold Bench. By page two, half the class had decided it was about loneliness. By page three, the other half had decided it was about kindness. By the end, both halves agreed it was about a thing that happens between strangers when no one is performing.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit06-contemporary-short-fiction/index.md",
+    "source_body_sha256": "c983bbb43ef98f1256b83a94d7a8de9c60b2ea7b7f0857d4bf53844f6cafd547",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl10_unit06-contemporary-short-fiction/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Walking home through the empty plaza, she heard the bus pull away two minutes early. The shelter was empty except for an old man drinking from a paper cup. She sat down, pulled her coat over her knees, and admitted, silently, that the universe had designed this evening for her. The man, having noticed her sitting, slid the paper cup toward her without speaking. The cup was full of warm tea.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit06-contemporary-short-fiction/index.md",
+    "source_body_sha256": "c983bbb43ef98f1256b83a94d7a8de9c60b2ea7b7f0857d4bf53844f6cafd547",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

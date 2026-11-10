@@ -1,4 +1,5 @@
 ---
+layout: discovery
 page_type: section
 layout: discovery
 title: "Materials"

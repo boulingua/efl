@@ -1,7 +1,32 @@
 [
   {
+    "file": "/efl/materials/audio/track-gm_kl10_unit11-a-short-novel/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"Running, like reading, is a way of staying still while you move. By the third week, the narrator had discovered that the slow kilometres were doing the work. Whereas fast intervals felt like proof, the slow lanes felt like the actual training.\"",
-    "file": "/efl/materials/audio/unit11-a-short-novel/texte1.ogg"
+    "transcript": "The class read three chapters of The Slow Lane by an imagined contemporary author — a short novel about a teenage long-distance runner. By chapter three, half the class had stopped seeing it as a sports book. Maja underlined the line running, like reading, is a way of staying still while you move. She showed the line to nobody for a week.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit11-a-short-novel/index.md",
+    "source_body_sha256": "0cd5ea02ab40824f88c6a641f2493f20898682e1c0d14dd0389c9ac6753c9334",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl10_unit11-a-short-novel/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Running, like reading, is a way of staying still while you move. By the third week of training, I had discovered something I hadn't expected: the slow kilometres were the ones doing the work. Whereas the fast intervals felt like proof, the slow lanes felt like the actual training. Moreover, I learned that everyone faster than me said the same thing.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit11-a-short-novel/index.md",
+    "source_body_sha256": "0cd5ea02ab40824f88c6a641f2493f20898682e1c0d14dd0389c9ac6753c9334",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

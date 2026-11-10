@@ -1,28 +1,33 @@
 [
   {
+    "file": "/efl/materials/audio/track-gm_kl07_unit09-school-rules-and-rights/texte1.ogg",
     "label": "Text 1",
-    "transcript": "Ardenfield Comprehensive in Manchester has a \"phones-in-pouches\"\nrule. Every morning, students put their phones into a magnetic\npouch and keep the pouch with them all day. The pouch can only\nbe unlocked by a teacher or in the office. The headteacher,\nMr Atta, says the rule has cut bullying messages and fights at\nbreak time. Some pupils complain it feels like a prison rule.\nMr Atta replies: \"We are open to a different rule. Bring me one\nthat works.\"",
-    "file": "/efl/materials/audio/unit09-school-rules-and-rights/texte1.ogg"
+    "transcript": "Ms. Reyes wrote the new school rules on the board: phones in\nboxes at the gate, no caps in lessons, no soft drinks in the\nclassrooms. The class read the list. Aisha put up her hand. \"Who\nmade these rules?\" Ms. Reyes said, \"Adults.\" Aisha said,\n\"Adults who go to school here?\" Ms. Reyes paused. \"That's a fair\nquestion. We should put it on the agenda.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit09-school-rules-and-rights/index.md",
+    "source_body_sha256": "a8c7c21e26132a214cb5f9f99c8dbc9741208a325eac8ad3e4860cf9565261ea",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
-    "label": "Vocabulary 1",
-    "transcript": "must · mustn't · should · shouldn't · can · can't · have to",
-    "file": "/efl/materials/audio/unit09-school-rules-and-rights/vocab1.ogg",
-    "tts": "must.\nmustn't.\nshould.\nshouldn't.\ncan.\ncan't.\nhave to."
-  },
-  {
+    "file": "/efl/materials/audio/track-gm_kl07_unit09-school-rules-and-rights/texte2.ogg",
     "label": "Text 2",
-    "transcript": "One rule I would keep is the no-running rule in the corridors.\nThe corridors are crowded between lessons, and someone could\neasily get hurt. Pupils must walk and step aside for younger\nstudents. One rule I would change is the cap rule. Caps are\nbanned in lessons, but they don't disturb anyone. I think pupils\nshould be allowed to wear them in winter when the heating is\noff, although I would also accept a rule that says caps are\nonly allowed if the windows are open. The point is that small\nrules are noticed every day. Big ones are easier to forget.",
-    "file": "/efl/materials/audio/unit09-school-rules-and-rights/texte2.ogg"
-  },
-  {
-    "label": "Text 1",
     "transcript": "Ardenfield Comprehensive in Manchester has a \"phones-in-pouches\"\nrule. Every morning, students put their phones into a magnetic\npouch and keep the pouch with them all day. The pouch can only\nbe unlocked by a teacher or in the office. The headteacher,\nMr Atta, says the rule has cut bullying messages and fights at\nbreak time. Some pupils complain it feels like a prison rule.\nMr Atta replies: \"We are open to a different rule. Bring me one\nthat works.\"",
-    "file": "/efl/materials/audio/unit09-school-rules-and-rights/texte1.ogg"
-  },
-  {
-    "label": "Text 4",
-    "transcript": "\"Wir diskutieren ein Handyverbot an der Schule. Manche Eltern\nsind dafür, andere finden, dass die Schüler lernen müssen, mit\nHandys umzugehen, statt sie wegzusperren.\"",
-    "file": "/efl/materials/audio/unit09-school-rules-and-rights/texte4.ogg"
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit09-school-rules-and-rights/index.md",
+    "source_body_sha256": "a8c7c21e26132a214cb5f9f99c8dbc9741208a325eac8ad3e4860cf9565261ea",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Ardenfield Comprehensive in Manchester has a \"phones-in-pouches\" rule. Every morning, students put their phones into a magnetic pouch and keep the pouch with them all day. The pouch can only be unlocked by a teacher or in the office. The headteacher, Mr Atta, says the rule has cut bullying messages and fights at break time. Some pupils complain it feels like a prison rule. Mr Atta replies: \"We are open to a different rule. Bring me one that works.\""
   }
 ]

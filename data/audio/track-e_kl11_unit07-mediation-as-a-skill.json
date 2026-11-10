@@ -1,7 +1,19 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl11_unit07-mediation-as-a-skill/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"Die Mietpreisbremse wurde 2015 eingeführt. Befürworter sagen, dass die Mieten weniger schnell steigen. Kritikerinnen entgegnen, dass die Bremse Investitionen bremst. Die Bundesregierung hat im Mai 2027 die Verlängerung um sechs Jahre beschlossen.\"",
-    "file": "/efl/materials/audio/unit07-mediation-as-a-skill/texte1.ogg"
+    "transcript": "The class has been working on mediation for years. In Klasse 11, mediation becomes a formal Abitur-task category. The shift is from useful explaining to useful explaining with audited register: who is reading, what register do they speak, what do I translate, what do I keep in German with a brief explanation, and what do I drop entirely?",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit07-mediation-as-a-skill/index.md",
+    "source_body_sha256": "64be3f8c3caa977557c9fce3e0a46669b1833a37f873e2f8b7232a4069b5f99e",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [
+      "Source — *German feature on Mietpreisbremse*"
+    ]
   }
 ]

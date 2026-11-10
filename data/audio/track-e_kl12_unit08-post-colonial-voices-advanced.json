@@ -1,7 +1,33 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl12_unit08-post-colonial-voices-advanced/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"The narrator's two surnames sit side by side on a London library card. The library card itself is a postcolonial artefact: two languages, two empires, one borrower.\"",
-    "file": "/efl/materials/audio/unit08-post-colonial-voices-advanced/texte1.ogg"
+    "transcript": "Klasse 12 returns to post-colonial writing with a longer reach: an extract from Salman Rushdie's East / West (1994), one from Tsitsi Dangarembga's Nervous Conditions (1988), and one from Arundhati Roy's non-fiction The Algebra of Infinite Justice (2002). The class spent the lesson learning to read hybridity not as celebration but as a working condition.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit08-post-colonial-voices-advanced/index.md",
+    "source_body_sha256": "6d0bbf9156dac028f434ea5a1a4d743cc4bfaa21640a7f017a677b6f9e22ccea",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl12_unit08-post-colonial-voices-advanced/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "hybridity (Bhabha) · mimicry (Bhabha) · the subaltern (Spivak) · double consciousness (Du Bois) · world-Anglophone · decolonisation · the imperial archive · code-switching · situated knowledge · epistemic violence · contrapuntal reading (Said)",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit08-post-colonial-voices-advanced/index.md",
+    "source_body_sha256": "6d0bbf9156dac028f434ea5a1a4d743cc4bfaa21640a7f017a677b6f9e22ccea",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "hybridity (Bhabha).\nmimicry (Bhabha).\nthe subaltern (Spivak).\ndouble consciousness (Du Bois).\nworld-Anglophone.\ndecolonisation.\nthe imperial archive.\ncode-switching.\nsituated knowledge.\nepistemic violence.\ncontrapuntal reading (Said)."
   }
 ]

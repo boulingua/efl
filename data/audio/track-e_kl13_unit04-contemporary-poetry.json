@@ -1,7 +1,33 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl13_unit04-contemporary-poetry/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"The fragmentary lyric refuses syntactic completeness; lines break off mid-thought; the white space is part of the meaning. The document poem uses found material — court transcripts, treaties — and the I is ironised. The polyvocal lyric allows multiple speakers without quote marks.\"",
-    "file": "/efl/materials/audio/unit04-contemporary-poetry/texte1.ogg"
+    "transcript": "Klasse 13 returns to poetry with three contemporary lyric forms. Mr. Yilmaz set the question: what is contemporary poetry doing that 19th-century lyric could not do? The class spent the lesson noticing the document poem, the fragmentary lyric, and the polyvocal lyric — three forms that share a refusal of the unified Romantic I.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl13/units/unit04-contemporary-poetry/index.md",
+    "source_body_sha256": "be75c5da515a152605a3b09398a30b29bae22324ae195aaf6254bc6a73a886eb",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl13_unit04-contemporary-poetry/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "document poem (or documentary poetics) · fragmentary lyric · prose poem · polyvocal lyric · found poem · ekphrastic poem · the broken line · the white space · polyphony · ironised I · elliptical lyric",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl13/units/unit04-contemporary-poetry/index.md",
+    "source_body_sha256": "be75c5da515a152605a3b09398a30b29bae22324ae195aaf6254bc6a73a886eb",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "document poem (or documentary poetics).\nfragmentary lyric.\nprose poem.\npolyvocal lyric.\nfound poem.\nekphrastic poem.\nthe broken line.\nthe white space.\npolyphony.\nironised I.\nelliptical lyric."
   }
 ]

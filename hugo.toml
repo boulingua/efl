@@ -304,7 +304,7 @@ publishDir = "public"
   # head/extensions.html stubs win, the kit is never reached, and every VG Wort
   # pixel leaves the site on a green build.
   [[module.imports]]
-    path = "github.com/boulingua/kit"
+    path = "github.com/boulingua/kit/v2"
   [[module.imports]]
     path = "github.com/luizdepra/hugo-coder"
 

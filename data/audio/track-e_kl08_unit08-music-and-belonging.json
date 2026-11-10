@@ -1,12 +1,33 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl08_unit08-music-and-belonging/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"This song could be by Adele — it has the same kind of voice. But the chorus is different, so it might be someone newer. The drum sounds programmed rather than live, which means it can't be a stripped-back acoustic version.\"",
-    "file": "/efl/materials/audio/unit08-music-and-belonging/texte1.ogg"
+    "transcript": "Hawa is preparing a class playlist. The rule: each song must mean belonging in some way. Jonas chose an Icelandic instrumental that sounds like wind. Hawa chose a Yoruba song her grandmother sings. Mr. Ade, uninvited, contributed a 1980s German pop song that no one had asked for. He smiled. \"Belonging,\" he said, \"is sometimes a guilty pleasure.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl08/units/unit08-music-and-belonging/index.md",
+    "source_body_sha256": "404261c16a85f0c90bb25f4b27bbed279a51129a5b0eb00b7985a2a2a1b1d4ce",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
-    "label": "Text 2",
-    "transcript": "\"My favourite song must be the one my grandmother sings every Sunday. It might be 50 years old, or it could be older — no one in the family is sure. There is a small drum and her voice. It can't be heard on any streaming app.\"",
-    "file": "/efl/materials/audio/unit08-music-and-belonging/texte2.ogg"
+    "file": "/efl/materials/audio/track-e_kl08_unit08-music-and-belonging/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "genre · beat · rhythm · lyrics · melody · harmony · verse · chorus · bridge · solo · instrumental · acoustic · electric · bass · drums · percussion · vocals · hook · fade out",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl08/units/unit08-music-and-belonging/index.md",
+    "source_body_sha256": "404261c16a85f0c90bb25f4b27bbed279a51129a5b0eb00b7985a2a2a1b1d4ce",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "genre.\nbeat.\nrhythm.\nlyrics.\nmelody.\nharmony.\nverse.\nchorus.\nbridge.\nsolo.\ninstrumental.\nacoustic.\nelectric.\nbass.\ndrums.\npercussion.\nvocals.\nhook.\nfade out."
   }
 ]

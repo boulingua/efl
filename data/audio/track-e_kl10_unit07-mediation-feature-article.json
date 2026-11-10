@@ -1,7 +1,19 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl10_unit07-mediation-feature-article/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"Bürgermeisterin Vogel rebuilt her town's library with a near-zero budget. She organised Sunday workshops in which residents sorted books and built shelves. She admitted she hadn't expected it to work. Critics argue the model is not scalable.\"",
-    "file": "/efl/materials/audio/unit07-mediation-feature-article/texte1.ogg"
+    "transcript": "Maja's German aunt forwarded a feature article from a national paper about a small-town mayor who had rebuilt the local library on a near-zero budget. Maja's English-speaking pen-pal in Toronto, who is studying public administration, asked for a real summary, not a textbook one.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit07-mediation-feature-article/index.md",
+    "source_body_sha256": "ce5df545050870a2104cdbc7493b95872d70aa84e5d47df56fcb3f18325cc20b",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [
+      "Source — *German feature article (excerpt)*"
+    ]
   }
 ]

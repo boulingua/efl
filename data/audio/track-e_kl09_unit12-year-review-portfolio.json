@@ -1,7 +1,17 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl09_unit12-year-review-portfolio/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"At the start of Klasse 9 I wrote short, repetitive sentences. By December I had started to vary them. The piece I am proudest of is the application letter. The piece that didn't work was my Canada reflection. If I rewrote it now, I would pick one detail.\"",
-    "file": "/efl/materials/audio/unit12-year-review-portfolio/texte1.ogg"
+    "transcript": "Mr. Yilmaz handed out an empty A3 sheet. \"This is your portfolio,\" he said. \"Pick four pieces from this year. One you are proud of. One that surprised you. One that didn't work. One that you would write differently now.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl09/units/unit12-year-review-portfolio/index.md",
+    "source_body_sha256": "d4a9be5b9d34d39c63ac1256b45255d9ddd8024b2c905996a7b8086b2e68f173",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

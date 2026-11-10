@@ -1,40 +1,33 @@
 [
   {
+    "file": "/efl/materials/audio/track-gm_kl07_unit02-growing-up/texte1.ogg",
     "label": "Text 1",
-    "transcript": "When Ben turned twelve, he stopped fitting his old jacket. The\nsleeves used to cover his hands; now they ended above his\nwrists. His mother laughed and said, \"I didn't see this coming.\"\nThe strange thing was that nothing else in the house had\nchanged: the kitchen table, the loud fridge, the cat asleep on\nthe radiator. Only Ben was different. He used to like the\njacket because the pockets were enormous. He still liked the\npockets. But now they sat too high on his ribs to be useful.\nAisha said the same thing happened to her shoes. They used to\nfeel like boats. Now they felt like sleeping bags two sizes too\nsmall. \"Maybe we should swap,\" Ben said. \"I'll take your old\nshoes; you take my old jacket.\" Aisha frowned. \"We are not the\nsame shape, Ben.\"\nShe was right. They never were.",
-    "file": "/efl/materials/audio/unit02-growing-up/texte1.ogg"
+    "transcript": "Ben opens his old jacket on a hanger in the hallway. It looks\nshorter than he remembers. He puts it on, just to check, and the\nsleeves stop above his wrists like two embarrassed flags. Last\nwinter, the same jacket was a kind of cave. He used to push his\nhands deep into the pockets and forget about the cold. Now the\npockets sit somewhere near his ribs, like two extra pencil cases\nthat have lost their place. Aisha is standing in the doorway with\nher bag on her shoulder. She looks at the jacket and says, \"Did\nthe jacket shrink?\" Ben says, \"No. I think I grew.\" Ms. Reyes\nwalks past and nods. \"Welcome to seventh year,\" she says. \"Half\nof you will need new shoes by Christmas.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit02-growing-up/index.md",
+    "source_body_sha256": "00caccfde5d77dc12f8359b123893007b69c3c782c1278b665bad5cb93a610ee",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
-    "label": "Vocabulary 1",
-    "transcript": "short (1 syll.) · ending -y · 2+ syll. · irregular",
-    "file": "/efl/materials/audio/unit02-growing-up/vocab1.ogg",
-    "tts": "short (1 syll.).\nending -y.\n2+ syll..\nirregular."
-  },
-  {
-    "label": "Vocabulary 2",
-    "transcript": "1. Ben used to fit his old jacket. · 2. The sleeves used to cover his hands. · 3. Ben's bedroom used to be full of toys. · 4. Aisha used to wear small shoes.",
-    "file": "/efl/materials/audio/unit02-growing-up/vocab2.ogg",
-    "tts": "1. Ben used to fit his old jacket..\n2. The sleeves used to cover his hands..\n3. Ben's bedroom used to be full of toys..\n4. Aisha used to wear small shoes.."
-  },
-  {
+    "file": "/efl/materials/audio/track-gm_kl07_unit02-growing-up/texte2.ogg",
     "label": "Text 2",
-    "transcript": "When I was in primary school, I used to ride my bike to the\nbakery every Saturday morning. I used to buy two pretzels: one\nfor me and one for my brother, who is now taller than me. The\nbakery was closer to our old house, so the trip used to be\nshorter. Now we live further away and the bakery feels like a\nserious expedition. My bike is also smaller than it used to\nfeel — I think the bike has stayed the same and I have grown.\nThe pretzels are still warm and salty, though, and that part is\nbetter than ever. Some things are worth a longer ride.",
-    "file": "/efl/materials/audio/unit02-growing-up/texte2.ogg"
-  },
-  {
-    "label": "Text 3",
-    "transcript": "When Ben turned twelve, he stopped fitting his old jacket. The\nsleeves used to cover his hands; now they ended above his\nwrists. His mother laughed and said, \"I didn't see this coming.\"\nThe strange thing was that nothing else in the house had\nchanged: the kitchen table, the loud fridge, the cat asleep on\nthe radiator. Only Ben was different. He used to like the\njacket because the pockets were enormous. He still liked the\npockets. But now they sat too high on his ribs to be useful.",
-    "file": "/efl/materials/audio/unit02-growing-up/texte3.ogg"
-  },
-  {
-    "label": "Text 4",
-    "transcript": "\"Lukas ist plötzlich zehn Zentimeter größer als letztes Jahr.\nEr hat keinen Pulli mehr, der ihm passt. Wir müssen am\nWochenende einkaufen gehen.\"",
-    "file": "/efl/materials/audio/unit02-growing-up/texte4.ogg"
-  },
-  {
-    "label": "Vocabulary 3",
-    "transcript": "56–60 · 49–55 · 40–48 · 30–39 · 18–29 · 0–17",
-    "file": "/efl/materials/audio/unit02-growing-up/vocab3.ogg",
-    "tts": "56–60.\n49–55.\n40–48.\n30–39.\n18–29.\n0–17."
+    "transcript": "When Ben turned twelve, he stopped fitting his old jacket. The\nsleeves used to cover his hands; now they ended above his\nwrists. His mother laughed and said, \"I didn't see this coming.\"\nThe strange thing was that nothing else in the house had\nchanged: the kitchen table, the loud fridge, the cat asleep on\nthe radiator. Only Ben was different. He used to like the\njacket because the pockets were enormous. He still liked the\npockets. But now they sat too high on his ribs to be useful.\nAisha said the same thing happened to her shoes. They used to\nfeel like boats. Now they felt like sleeping bags two sizes too\nsmall. \"Maybe we should swap,\" Ben said. \"I'll take your old\nshoes; you take my old jacket.\" Aisha frowned. \"We are not the\nsame shape, Ben.\"\nShe was right. They never were.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl07/units/unit02-growing-up/index.md",
+    "source_body_sha256": "00caccfde5d77dc12f8359b123893007b69c3c782c1278b665bad5cb93a610ee",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "When Ben turned twelve, he stopped fitting his old jacket. The sleeves used to cover his hands; now they ended above his wrists. His mother laughed and said, \"I didn't see this coming.\" The strange thing was that nothing else in the house had changed: the kitchen table, the loud fridge, the cat asleep on the radiator. Only Ben was different. He used to like the jacket because the pockets were enormous. He still liked the pockets. But now they sat too high on his ribs to be useful. Aisha said the same thing happened to her shoes. They used to feel like boats. Now they felt like sleeping bags two sizes too small. \"Maybe we should swap,\" Ben said. \"I'll take your old shoes; you take my old jacket.\" Aisha frowned. \"We are not the same shape, Ben.\" She was right. They never were."
   }
 ]

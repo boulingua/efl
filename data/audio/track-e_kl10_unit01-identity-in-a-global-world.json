@@ -1,7 +1,32 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl10_unit01-identity-in-a-global-world/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"Identity is no longer a single sticker on a passport. It is closer to a set of overlapping memberships, some of which contradict each other without being false. If my parents had not moved when they did, I would not be living between two cities now.\"",
-    "file": "/efl/materials/audio/unit01-identity-in-a-global-world/texte1.ogg"
+    "transcript": "Maja's older cousin lives in Brisbane, works for a company headquartered in Singapore, holds a German passport, and dreams in English. When asked at customs where she is from, she sometimes says Stuttgart, sometimes Brisbane, sometimes the airport waiting lounge. None of these is a joke. All of them are true.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit01-identity-in-a-global-world/index.md",
+    "source_body_sha256": "740b60225c1ba0260d7a19889c50ea4e977dcca277a7f78bcef7355b075a6b14",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl10_unit01-identity-in-a-global-world/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "The question 'where are you from?' is rarely as simple as the asker thinks. For many people, the honest answer involves three places, two languages and one airport. Identity, in a more globalised world, has stopped being a single sticker on a passport. It is now closer to a set of overlapping memberships, some of which contradict each other without being false. The interesting question is no longer 'which one are you?' but 'how do these get on together?'",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit01-identity-in-a-global-world/index.md",
+    "source_body_sha256": "740b60225c1ba0260d7a19889c50ea4e977dcca277a7f78bcef7355b075a6b14",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

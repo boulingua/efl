@@ -1,10 +1,33 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl06_unit02-on-holiday/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"Last summer Lina went to Cornwall with her family. They stayed in a small hotel near the harbour. The sea was cold but the sun was warm. They saw seals from the cliffs. They ate fish and chips on the beach.\""
+    "transcript": "Lina spent a week at the seaside in Cornwall. The sea was cold even in August. Her cousin caught one tiny crab and released it three minutes later, looking slightly betrayed. Sam stayed home and finally cleaned his desk. The desk was deeply impressed. Both of them claim to have had the better holiday, with no clear winner.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl06/units/unit02-on-holiday/index.md",
+    "source_body_sha256": "c9adc1c7ee06adfac81caa27f7ea4b6f68846f30f256d78424683fea62aec37c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
-    "label": "Text 2",
-    "transcript": "\"Sam stayed at home last summer. He cleaned his desk, read three books, learned how to bake bread, and started a small notebook of recipes. He didn't travel, but he says it was the calmest summer of his life.\""
+    "file": "/efl/materials/audio/track-e_kl06_unit02-on-holiday/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "seaside · beach · cliffs · mountains · countryside · city break · campsite · hotel · hostel · suitcase · passport · souvenir · postcard · sunscreen · life jacket · lighthouse · harbour · ferry",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl06/units/unit02-on-holiday/index.md",
+    "source_body_sha256": "c9adc1c7ee06adfac81caa27f7ea4b6f68846f30f256d78424683fea62aec37c",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "seaside.\nbeach.\ncliffs.\nmountains.\ncountryside.\ncity break.\ncampsite.\nhotel.\nhostel.\nsuitcase.\npassport.\nsouvenir.\npostcard.\nsunscreen.\nlife jacket.\nlighthouse.\nharbour.\nferry."
   }
 ]

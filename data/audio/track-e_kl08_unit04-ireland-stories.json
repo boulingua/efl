@@ -1,7 +1,32 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl08_unit04-ireland-stories/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"Galway is a city on the west coast of Ireland that is famous for music. The pub which I love has live music every lunchtime. My pen-pal, who is called Niamh, sends letters about it.\"",
-    "file": "/efl/materials/audio/unit04-ireland-stories/texte1.ogg"
+    "transcript": "Hawa's pen-pal Niamh lives in Galway, on the west coast of Ireland. Her e-mails are mostly about wind, music, and people who walk faster than they talk. Hawa printed one and read it aloud at the breakfast table. Her father said: \"That's the kind of place where you'd lose three umbrellas in a week.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl08/units/unit04-ireland-stories/index.md",
+    "source_body_sha256": "edbd10742b41fa5ed57e017ba41a9ab86c2012f505ac3f6cfcd51b62ab10ca34",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl08_unit04-ireland-stories/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Hi Hawa, today the wind tried to take my school bag along Salthill prom. I won. Galway is the kind of city where you can walk into a pub at lunchtime and find three musicians playing for the joy of it. My grandmother, who learned Irish (Gaeilge) as a first language, says the language is louder than ever. The shops where the staff speak only Irish are still rare, but they exist. I'll write more on Tuesday, which is when I'm meant to be doing homework but I'll probably write to you instead.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl08/units/unit04-ireland-stories/index.md",
+    "source_body_sha256": "edbd10742b41fa5ed57e017ba41a9ab86c2012f505ac3f6cfcd51b62ab10ca34",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

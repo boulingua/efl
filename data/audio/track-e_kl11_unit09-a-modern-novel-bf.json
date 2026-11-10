@@ -1,7 +1,32 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl11_unit09-a-modern-novel-bf/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"By chapter four, Klara has been established as a narrator whose limitation is also her reliability. Her reports are literal-minded and quietly devastating. The deceptive plainness — the Sun would always come into the store, no matter the weather — is the novel's signature register.\"",
-    "file": "/efl/materials/audio/unit09-a-modern-novel-bf/texte1.ogg"
+    "transcript": "The Basisfach (basic course) Englisch class has been reading Kazuo Ishiguro's Klara and the Sun (2021) across two chapters per week. Today is the four-chapter checkpoint. Students have been keeping a single-page reading log per chapter — not a summary, but one quote, one question, one stylistic move. Mr. Yilmaz called the logs the slow lane of Oberstufe reading.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit09-a-modern-novel-bf/index.md",
+    "source_body_sha256": "c0d765acd2ef54b26e12a2af9ba0cf2587d9c21dde5b897aa689570de15d0f89",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl11_unit09-a-modern-novel-bf/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "The Sun would always come into the store, no matter the weather, and so would the dust on the windows of the Slow Lane. The girl who looked at me longest was the one who did not buy. I learned, in that first month, that my best customers were the ones who walked away.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit09-a-modern-novel-bf/index.md",
+    "source_body_sha256": "c0d765acd2ef54b26e12a2af9ba0cf2587d9c21dde5b897aa689570de15d0f89",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

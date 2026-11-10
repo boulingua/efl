@@ -1,7 +1,62 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl11_unit02-the-american-dream/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"The 1776 line speaks of the pursuit of Happiness. The 1931 phrase, by contrast, speaks of outcomes — that life should be better and richer and fuller for everyone. The 2024 critique points out that intergenerational income mobility in the US is now lower than in most of comparable Western Europe.\"",
-    "file": "/efl/materials/audio/unit02-the-american-dream/texte1.ogg"
+    "transcript": "The class read three short extracts: the pursuit of happiness line from 1776; James Truslow Adams's 1931 phrase American Dream in The Epic of America; and a 2024 critique by an economist who argued that the phrase has outlived its statistical basis. The class spent the lesson asking: which of these is the real one?",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit02-the-american-dream/index.md",
+    "source_body_sha256": "85ec242c1b8597acdbaa96895f40ec914dfbdb2d32345b1f1e797391e66756e8",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl11_unit02-the-american-dream/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "1776 (Declaration of Independence): We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit02-the-american-dream/index.md",
+    "source_body_sha256": "85ec242c1b8597acdbaa96895f40ec914dfbdb2d32345b1f1e797391e66756e8",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl11_unit02-the-american-dream/texte3.ogg",
+    "label": "Text 3",
+    "transcript": "1931 (Adams, The Epic of America): The American Dream is that dream of a land in which life should be better and richer and fuller for everyone.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit02-the-american-dream/index.md",
+    "source_body_sha256": "85ec242c1b8597acdbaa96895f40ec914dfbdb2d32345b1f1e797391e66756e8",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl11_unit02-the-american-dream/texte4.ogg",
+    "label": "Text 4",
+    "transcript": "2024 (economist, popular essay): Whatever else the American Dream is, it has, since the 1980s, outlived its statistical basis. Intergenerational income mobility in the United States is now lower than in most of comparable Western Europe.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl11/units/unit02-the-american-dream/index.md",
+    "source_body_sha256": "85ec242c1b8597acdbaa96895f40ec914dfbdb2d32345b1f1e797391e66756e8",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

@@ -1,10 +1,33 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl05_unit01-hello-world/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"Hi, my name is Lina. I am ten years old. I live in Stuttgart. I have one brother and a small dog. I love books and bike rides.\""
+    "transcript": "Mia stands at the door of Klasse 5e. The room is freshly painted. Theo sits in the back row, swinging his feet. A small red fox is sitting on the windowsill — which is unusual. The fox waves. Mia hesitates, then waves back. \"Hello,\" the fox says. \"My name is Frida. I'm here to learn English with you. Foxes need second languages too.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl05/units/unit01-hello-world/index.md",
+    "source_body_sha256": "b1247f0d2288715940a7601d55a43b8964be954c55bb529fdd3f7db09e0881a9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
-    "label": "Text 2",
-    "transcript": "\"Hi, I'm Theo. I am eleven. My favourite colour is blue. My best friend is Mia. We have a cat called Pepper. I play football on Saturdays.\""
+    "file": "/efl/materials/audio/track-e_kl05_unit01-hello-world/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "Hello · hi · good morning · good afternoon · good evening · goodbye · see you later · please · thank you · you're welcome · nice to meet you · how do you do · what's your name · where are you from",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl05/units/unit01-hello-world/index.md",
+    "source_body_sha256": "b1247f0d2288715940a7601d55a43b8964be954c55bb529fdd3f7db09e0881a9",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Hello.\nhi.\ngood morning.\ngood afternoon.\ngood evening.\ngoodbye.\nsee you later.\nplease.\nthank you.\nyou're welcome.\nnice to meet you.\nhow do you do.\nwhat's your name.\nwhere are you from."
   }
 ]

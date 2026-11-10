@@ -1,7 +1,48 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl10_unit05-media-and-democracy/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"More than 200 local UK papers have closed. The evidence suggests this is linked to lower voter turnout and less scrutiny of councils. The link is not necessarily causal — affected districts also tend to be under economic stress. The link is, however, consistent across studies.\"",
-    "file": "/efl/materials/audio/unit05-media-and-democracy/texte1.ogg"
+    "transcript": "Maja's class read a one-page essay about local newspapers. The essay opened with a fact that surprised most of the class: more than 200 local UK papers have closed in the past two decades, and research has linked their absence to lower voter turnout in the affected districts. Maja underlined the verb has linked. \"Linked is not caused,\" she said. \"Useful word.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit05-media-and-democracy/index.md",
+    "source_body_sha256": "f281b1e6a657b955fa2c17eaa8304c0e57fe0fe855da36be09a5e81b618ee019",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl10_unit05-media-and-democracy/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "More than 200 local newspapers in the UK have closed in the past two decades. Research has linked their disappearance to lower voter turnout, less scrutiny of local councils and slower response to local environmental issues. The link is not necessarily causal — districts that lose papers are also often districts under broader economic stress — but it is consistent across studies. In some contexts, hyper-local newsletters and citizen journalism have replaced the papers; in others, they have not.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit05-media-and-democracy/index.md",
+    "source_body_sha256": "f281b1e6a657b955fa2c17eaa8304c0e57fe0fe855da36be09a5e81b618ee019",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl10_unit05-media-and-democracy/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "free press · press freedom · accountability · scrutiny · oversight · opinion vs. reporting · editorial independence · conflict of interest · sponsored content · public-interest journalism · civic information · local press desert",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl10/units/unit05-media-and-democracy/index.md",
+    "source_body_sha256": "f281b1e6a657b955fa2c17eaa8304c0e57fe0fe855da36be09a5e81b618ee019",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "free press.\npress freedom.\naccountability.\nscrutiny.\noversight.\nopinion vs. reporting.\neditorial independence.\nconflict of interest.\nsponsored content.\npublic-interest journalism.\ncivic information.\nlocal press desert."
   }
 ]

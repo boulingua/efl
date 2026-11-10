@@ -1,41 +1,49 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl07_unit06-food-cultures/texte1.ogg",
     "label": "Text 1",
-    "transcript": "Anya's grandfather makes the same dish every Sunday: rice,\nchicken, a sauce with herbs the family will not name in English\nbecause the English name does not feel right. The dish has\nmigrated with the family for two generations. In the village,\nit was made with a chicken from the yard. In the city, it is\nmade with a chicken from the supermarket. The taste is mostly\nthe same. Sundays are the day Anya's grandfather speaks the\nmost. The dish, he says, is what the family is. Every other\nday they argue about everything. On Sundays they argue about\nthe chicken.",
-    "file": "/efl/materials/audio/unit06-food-cultures/texte1.ogg"
+    "transcript": "Aisha's grandmother does not measure things. She measures by\nlook, smell, and the angle of her wooden spoon. Aisha has tried\nto write down the recipe for the family rice three times. Each\ntime, her grandmother has read the recipe and said, very gently,\n\"This is wrong.\" When Aisha asked what was wrong, her grandmother\nsaid, \"It says one teaspoon of salt. There is no teaspoon. There\nis only your hand.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl07/units/unit06-food-cultures/index.md",
+    "source_body_sha256": "f24d7c41db4b6ad822366f0a4741f62bb903581184ad4d9a8523b6dcbe6e7e47",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
-    "label": "Vocabulary 1",
-    "transcript": "to chop · to slice · to peel · to boil · to fry · to bake · to season · to taste · to stir · to serve",
-    "file": "/efl/materials/audio/unit06-food-cultures/vocab1.ogg",
-    "tts": "to chop.\nto slice.\nto peel.\nto boil.\nto fry.\nto bake.\nto season.\nto taste.\nto stir.\nto serve."
-  },
-  {
-    "label": "Vocabulary 2",
-    "transcript": "some · any · many · much · a few · a little · a lot of / lots of",
-    "file": "/efl/materials/audio/unit06-food-cultures/vocab2.ogg",
-    "tts": "some.\nany.\nmany.\nmuch.\na few.\na little.\na lot of / lots of."
-  },
-  {
-    "label": "Vocabulary 3",
-    "transcript": "1. to chop · 2. to bake · 3. to fry · 4. to boil",
-    "file": "/efl/materials/audio/unit06-food-cultures/vocab3.ogg",
-    "tts": "1. to chop.\n2. to bake.\n3. to fry.\n4. to boil."
-  },
-  {
+    "file": "/efl/materials/audio/track-e_kl07_unit06-food-cultures/texte2.ogg",
     "label": "Text 2",
-    "transcript": "Anya's grandfather makes the same dish every Sunday: rice, chicken,\na sauce with herbs the family will not name in English because\nthe English name does not feel right. The dish has migrated\nwith the family for two generations. In the village, it was\nmade with a chicken from the yard. In the city, it is made with\na chicken from the supermarket. The taste is mostly the same.\nSundays are the day Anya's grandfather speaks the most. The\ndish, he says, is what the family is. Every other day they\nargue about everything. On Sundays they argue about the\nchicken.",
-    "file": "/efl/materials/audio/unit06-food-cultures/texte2.ogg"
+    "transcript": "Anya's grandfather makes the same dish every Sunday: rice,\nchicken, a sauce with herbs the family will not name in English\nbecause the English name does not feel right. The dish has\nmigrated with the family for two generations. In the village,\nit was made with a chicken from the yard. In the city, it is\nmade with a chicken from the supermarket. The taste is mostly\nthe same. Sundays are the day Anya's grandfather speaks the\nmost. The dish, he says, is what the family is. Every other\nday they argue about everything. On Sundays they argue about\nthe chicken.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl07/units/unit06-food-cultures/index.md",
+    "source_body_sha256": "f24d7c41db4b6ad822366f0a4741f62bb903581184ad4d9a8523b6dcbe6e7e47",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "Anya's grandfather makes the same dish every Sunday: rice, chicken, a sauce with herbs the family will not name in English because the English name does not feel right. The dish has migrated with the family for two generations. In the village, it was made with a chicken from the yard. In the city, it is made with a chicken from the supermarket. The taste is mostly the same. Sundays are the day Anya's grandfather speaks the most. The dish, he says, is what the family is. Every other day they argue about everything. On Sundays they argue about the chicken."
   },
   {
-    "label": "Text 3",
-    "transcript": "\"Bei uns gibt es jeden Sonntag Maultaschen mit Brühe. Mama sagt,\nes geht nicht ums Essen, sondern darum, dass alle am Tisch\nsitzen. Mein Bruder isst trotzdem heimlich Pizza.\"",
-    "file": "/efl/materials/audio/unit06-food-cultures/texte3.ogg"
-  },
-  {
-    "label": "Vocabulary 4",
-    "transcript": "56–60 · 49–55 · 40–48 · 30–39 · 18–29 · 0–17",
-    "file": "/efl/materials/audio/unit06-food-cultures/vocab4.ogg",
-    "tts": "56–60.\n49–55.\n40–48.\n30–39.\n18–29.\n0–17."
+    "file": "/efl/materials/audio/track-e_kl07_unit06-food-cultures/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "to chop · a knife, a board · to slice · a slice · to peel · the peel · to boil · a pot · to fry · a pan · to bake · an oven · to season · salt, pepper, herbs, spices · to taste · a taste · to stir · a spoon · to serve · a plate, a bowl",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl07/units/unit06-food-cultures/index.md",
+    "source_body_sha256": "f24d7c41db4b6ad822366f0a4741f62bb903581184ad4d9a8523b6dcbe6e7e47",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "to chop.\na knife, a board.\nto slice.\na slice.\nto peel.\nthe peel.\nto boil.\na pot.\nto fry.\na pan.\nto bake.\nan oven.\nto season.\nsalt, pepper, herbs, spices.\nto taste.\na taste.\nto stir.\na spoon.\nto serve.\na plate, a bowl."
   }
 ]

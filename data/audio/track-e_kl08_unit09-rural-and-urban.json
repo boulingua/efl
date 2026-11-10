@@ -1,7 +1,32 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl08_unit09-rural-and-urban/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"My grandmother lives in a small village. The internet is not as reliable as in the city. The local shop sells almost everything but is not as cheap as a big supermarket. The night is as quiet as a library.\"",
-    "file": "/efl/materials/audio/unit09-rural-and-urban/texte1.ogg"
+    "transcript": "Jonas spent a week with his uncle on a farm outside Stuttgart. The cows were less interested in him than he was in them. The internet was unreliable. The stars at night were noisier in their silence than the city ever managed in its noise. By Friday, Jonas was writing in a notebook, which surprised everyone.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl08/units/unit09-rural-and-urban/index.md",
+    "source_body_sha256": "ada699b16ee7572ec912ef8ff8b9921cf758f6f8652fbe09ea4f7c8af30b17d7",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl08_unit09-rural-and-urban/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "The cows were less interested in me than I was in them. The internet was as unreliable as the weather forecast. The night was the loudest silence I had ever heard. By the second day I had stopped checking my phone, partly because it didn't work and partly because the stars were doing better.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl08/units/unit09-rural-and-urban/index.md",
+    "source_body_sha256": "ada699b16ee7572ec912ef8ff8b9921cf758f6f8652fbe09ea4f7c8af30b17d7",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

@@ -1,7 +1,48 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl12_unit03-science-and-ethics/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"Consequentialism asks what produces the best outcomes; deontology asks what we are required to do regardless of consequences; virtue ethics asks what kind of researcher we want to be. Real debates combine all three.\"",
-    "file": "/efl/materials/audio/unit03-science-and-ethics/texte1.ogg"
+    "transcript": "Mr. Yilmaz set three short ethics-of-science texts: one on CRISPR germline editing, one on large language models and academic integrity, one on climate intervention research (stratospheric aerosol injection). The class noticed quickly that all three debates rotated around the same question — who decides what we are not allowed to find out?",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit03-science-and-ethics/index.md",
+    "source_body_sha256": "d2f3b66f33ce95f0e8e0c85e9f15d486d2da2c6b306fbd151a290eaa309c11ce",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl12_unit03-science-and-ethics/texte2.ogg",
+    "label": "Text 2",
+    "transcript": "Consequentialism asks what produces the best outcomes? — including risks, who bears them, and across what time horizon. Deontology asks what are we required to do regardless of consequences? — informed consent, dignity, irreversible-harm thresholds. Virtue ethics asks what kind of researcher / institution do we want to be?. Real-world ethics-of-science debates almost always combine all three; pretending the debate is purely consequentialist is itself a philosophical position.*",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit03-science-and-ethics/index.md",
+    "source_body_sha256": "d2f3b66f33ce95f0e8e0c85e9f15d486d2da2c6b306fbd151a290eaa309c11ce",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  },
+  {
+    "file": "/efl/materials/audio/track-e_kl12_unit03-science-and-ethics/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "precautionary principle · dual-use research · informed consent · moratorium · governance · irreversibility · externality · stakeholder engagement · transparency · peer review · replication · bioethics committee · IRB",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl12/units/unit03-science-and-ethics/index.md",
+    "source_body_sha256": "d2f3b66f33ce95f0e8e0c85e9f15d486d2da2c6b306fbd151a290eaa309c11ce",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "precautionary principle.\ndual-use research.\ninformed consent.\nmoratorium.\ngovernance.\nirreversibility.\nexternality.\nstakeholder engagement.\ntransparency.\npeer review.\nreplication.\nbioethics committee.\nIRB."
   }
 ]

@@ -1,34 +1,33 @@
 [
   {
+    "file": "/efl/materials/audio/track-e_kl07_unit05-the-united-states-today/texte1.ogg",
     "label": "Text 1",
-    "transcript": "The first thing Maya noticed in Phoenix was the sound of the\nair conditioning. It was everywhere: in the supermarket, in the\ncar, in the hotel lobby. Outside, the heat had a sound too —\nthe steady drone of cicadas in the desert trees. Her cousins\nsaid you stop hearing the cicadas after about a week. She did\nnot believe them. By the end of the third day, she realised\nthey were right. The desert had its own kind of silence, and it\nwas full of noises she would not have called noises a week\nearlier.",
-    "file": "/efl/materials/audio/unit05-the-united-states-today/texte1.ogg"
+    "transcript": "Maya stepped off the plane in Phoenix, Arizona. She had imagined\nthe United States as a single image: tall buildings, yellow taxis,\na song her grandmother liked. The air at the gate of the airport\nwas warm. The air outside the airport was something else — like\nopening an oven with your face. Her cousin Jorge was waiting in\nthe parking lot in a small white car. The car had been running,\nwith the air conditioning on, for fifteen minutes. \"Welcome to\nthe desert,\" he said. \"We don't sit outside here in July. We\nmove from box to box.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl07/units/unit05-the-united-states-today/index.md",
+    "source_body_sha256": "a905c473936b791ea5f250d93432ff6ac7b89b31be359749977c236c9f876484",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
-    "label": "Vocabulary 1",
-    "transcript": "oceans, seas, rivers (the Atlantic, the Mississippi) · mountain ranges (the Alps, the Rockies) · named regions (the Midwest, the South, the Highlands) · named buildings (the White House)",
-    "file": "/efl/materials/audio/unit05-the-united-states-today/vocab1.ogg",
-    "tts": "oceans, seas, rivers (the Atlantic, the Mississippi).\nmountain ranges (the Alps, the Rockies).\nnamed regions (the Midwest, the South, the Highlands).\nnamed buildings (the White House)."
-  },
-  {
+    "file": "/efl/materials/audio/track-e_kl07_unit05-the-united-states-today/texte2.ogg",
     "label": "Text 2",
-    "transcript": "I would visit New Orleans because of the music. I already know\nit is a city in the south of the United States, and that it is\nbelow sea level in some parts. I imagine the daily life is\nslower than in big northern cities, with longer evenings on the\nporch and people who actually talk to each other on the street.\nI would want to find out whether the music is everywhere all\nthe time or whether the postcards exaggerate. If I save enough\nmoney next year, I am going to spend three days there with my\naunt, who speaks French and English and used to live two\nstreets from a famous saxophonist.",
-    "file": "/efl/materials/audio/unit05-the-united-states-today/texte2.ogg"
-  },
-  {
-    "label": "Text 1",
     "transcript": "The first thing Maya noticed in Phoenix was the sound of the\nair conditioning. It was everywhere: in the supermarket, in the\ncar, in the hotel lobby. Outside, the heat had a sound too —\nthe steady drone of cicadas in the desert trees. Her cousins\nsaid you stop hearing the cicadas after about a week. She did\nnot believe them. By the end of the third day, she realised\nthey were right. The desert had its own kind of silence, and it\nwas full of noises she would not have called noises a week\nearlier.",
-    "file": "/efl/materials/audio/unit05-the-united-states-today/texte1.ogg"
-  },
-  {
-    "label": "Text 4",
-    "transcript": "\"Meine Tante schickt jeden Sommer Fotos aus Texas. Es sieht\nimmer extrem heiß aus. Ich verstehe nicht, wie die Menschen\ndort wohnen können, ohne den ganzen Tag im Schatten zu\nsitzen.\"",
-    "file": "/efl/materials/audio/unit05-the-united-states-today/texte4.ogg"
-  },
-  {
-    "label": "Vocabulary 2",
-    "transcript": "56–60 · 49–55 · 40–48 · 30–39 · 18–29 · 0–17",
-    "file": "/efl/materials/audio/unit05-the-united-states-today/vocab2.ogg",
-    "tts": "56–60.\n49–55.\n40–48.\n30–39.\n18–29.\n0–17."
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl07/units/unit05-the-united-states-today/index.md",
+    "source_body_sha256": "a905c473936b791ea5f250d93432ff6ac7b89b31be359749977c236c9f876484",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "The first thing Maya noticed in Phoenix was the sound of the air conditioning. It was everywhere: in the supermarket, in the car, in the hotel lobby. Outside, the heat had a sound too — the steady drone of cicadas in the desert trees. Her cousins said you stop hearing the cicadas after about a week. She did not believe them. By the end of the third day, she realised they were right. The desert had its own kind of silence, and it was full of noises she would not have called noises a week earlier."
   }
 ]

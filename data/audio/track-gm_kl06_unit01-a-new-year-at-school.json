@@ -1,12 +1,33 @@
 [
   {
+    "file": "/efl/materials/audio/track-gm_kl06_unit01-a-new-year-at-school/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"In Klasse 6 we have biology twice a week, music once a week, and PE on Friday afternoon. We never have homework on Wednesday. Lunch is always at 12:30.\"",
-    "file": "/efl/materials/audio/unit01-a-new-year-at-school/texte1.ogg"
+    "transcript": "Sam stands in the corridor of the new building. Klasse 6 has a different floor. Bigger lockers. A real chemistry room with real bunsen burners. Lina finds Sam. \"Same class, different planet,\" she says. Mr. Flint walks past with a tray of test tubes. \"Welcome back,\" he says, without slowing down.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl06/units/unit01-a-new-year-at-school/index.md",
+    "source_body_sha256": "dcb8f431538bffae7a6ee46de90f11c3fce5bbb21a8b0dc7173cee8104ef82e7",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
-    "label": "Text 2",
-    "transcript": "\"Sam usually walks to school. Sometimes he takes the bus when it rains. He never gets a lift from his parents. He often arrives ten minutes early to talk to Lina.\"",
-    "file": "/efl/materials/audio/unit01-a-new-year-at-school/texte2.ogg"
+    "file": "/efl/materials/audio/track-gm_kl06_unit01-a-new-year-at-school/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "lockers · the chemistry lab · the staff room · the headteacher's office · period (= Stunde) · break time · free period · homework diary · blazer (BrE) · uniform",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl06/units/unit01-a-new-year-at-school/index.md",
+    "source_body_sha256": "dcb8f431538bffae7a6ee46de90f11c3fce5bbb21a8b0dc7173cee8104ef82e7",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "lockers.\nthe chemistry lab.\nthe staff room.\nthe headteacher's office.\nperiod (= Stunde).\nbreak time.\nfree period.\nhomework diary.\nblazer (BrE).\nuniform."
   }
 ]

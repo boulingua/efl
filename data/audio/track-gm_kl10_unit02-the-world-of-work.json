@@ -1,12 +1,48 @@
 [
   {
+    "file": "/efl/materials/audio/track-gm_kl10_unit02-the-world-of-work/texte1.ogg",
     "label": "Text 1",
-    "transcript": "\"Mrs Dahl has been running the bakery for 32 years. She has been kneading dough by hand for most of that time. Her three apprentices have been showing up at five every morning, six days a week.\"",
-    "file": "/efl/materials/audio/unit02-the-world-of-work/texte1.ogg"
+    "transcript": "Sam is doing a one-day work-shadowing visit at a small bakery in the city. He arrives at 5 a.m. The owner, a woman called Mrs Dahl, is already kneading. \"You're early,\" she says. \"For me,\" Sam says, \"this is early. For you, it's mid-morning.\" She smiles. Welcome, she says, to the only profession where 'mid-morning' is at five.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit02-the-world-of-work/index.md",
+    "source_body_sha256": "9695b1eb60cd6e14a149db99f524db8f0848c5a445ef745f2ef43f4efd4aec59",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   },
   {
+    "file": "/efl/materials/audio/track-gm_kl10_unit02-the-world-of-work/vocab1.ogg",
+    "label": "Vocabulary 1",
+    "transcript": "shift · line manager · colleague · deadline · expectation · salary · wage · contract · probation · feedback · promotion · performance review · headquarters · branch · freelance · gig work · remote · hybrid",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit02-the-world-of-work/index.md",
+    "source_body_sha256": "9695b1eb60cd6e14a149db99f524db8f0848c5a445ef745f2ef43f4efd4aec59",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": [],
+    "tts": "shift.\nline manager.\ncolleague.\ndeadline.\nexpectation.\nsalary.\nwage.\ncontract.\nprobation.\nfeedback.\npromotion.\nperformance review.\nheadquarters.\nbranch.\nfreelance.\ngig work.\nremote.\nhybrid."
+  },
+  {
+    "file": "/efl/materials/audio/track-gm_kl10_unit02-the-world-of-work/texte2.ogg",
     "label": "Text 2",
-    "transcript": "\"Sam has been visiting different workplaces this term: a bakery, a small electrician's, a graphic-design studio. He has been writing one paragraph after each visit. So far the bakery has surprised him most — because of the silence at 5 a.m.\"",
-    "file": "/efl/materials/audio/unit02-the-world-of-work/texte2.ogg"
+    "transcript": "Mrs Dahl has been running the bakery for thirty-two years. She has been kneading dough by hand for most of that time. Her three apprentices have been showing up at five every morning, six days a week. \"It is not romantic,\" she said when Sam asked, \"but it is honest.\"",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-gm/kl10/units/unit02-the-world-of-work/index.md",
+    "source_body_sha256": "9695b1eb60cd6e14a149db99f524db8f0848c5a445ef745f2ef43f4efd4aec59",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
   }
 ]

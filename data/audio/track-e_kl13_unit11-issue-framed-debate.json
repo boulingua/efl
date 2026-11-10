@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "file": "/efl/materials/audio/track-e_kl13_unit11-issue-framed-debate/texte1.ogg",
+    "label": "Text 1",
+    "transcript": "Final speaking Unit. Mr. Yilmaz set up an issue-framed debate at quasi-Oxford-Union format: two teams of three, each speaker has 5 minutes, plus a 3-minute team closing. The motion: This house would treat platform algorithms as public utilities subject to mandatory transparency. The debate lasts 30 minutes and is chaired by a student.",
+    "source": "tts",
+    "voice": "en_GB-cori-medium",
+    "model_sha256": "1899f98e5fb8310154f3c2973f4b8a929ba7245e722b3d3a85680b833d95f10d",
+    "config_sha256": "e262c16d7f192f69d4edd6b4ef8a5915379e67495fcc402f1ab15eeb33da3d36",
+    "speaker_id": 0,
+    "synthesis_backend": "piper-python/1thread",
+    "source_path": "content/track-e/kl13/units/unit11-issue-framed-debate/index.md",
+    "source_body_sha256": "f153b6369db424d182983e471c67c50e2e651ed5e7a7a80fb7001fed9e15efa2",
+    "extraction_policy": "learner-input-v3",
+    "withheld_foreign_sections": []
+  }
+]
