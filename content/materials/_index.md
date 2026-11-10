@@ -1,7 +1,6 @@
 ---
 layout: discovery
 page_type: section
-layout: discovery
 title: "Materials"
 author: "S. Le Boulanger"
 description: "Per-Unit slide decks and worksheets, downloadable for classroom use."
