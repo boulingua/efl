@@ -96,3 +96,16 @@ sets, updates consumers/checksums together and retains rollback inputs. Separate
 read-only candidate CI can validate immutable pre-release commits without release
 tags or deployment rights. Hosted execution and new foundation publication remain
 unobserved. See the org `docs/release-pins.md`.
+
+## Integration with main — 10 November 2026
+
+This branch was updated by merging `main` before integration. Main's published
+foundation set (org v2.0.1, kit v2.0.2, curriculum v1.3.0), its regenerated
+lesson recordings and audio manifests (5 November) and the analytics section of
+its privacy notice replace the historical pins, the earlier audio manifest
+mapping and the 31 October analytics wording recorded above; D6 now passes.
+
+1 unit whose recorded input text was revised on this branch no longer matches
+its recording: `track-e/kl13/units/unit06-mediation-policy-text`. Before release
+it needs a new recording of the revised text, or a decision to keep the recorded
+wording.
