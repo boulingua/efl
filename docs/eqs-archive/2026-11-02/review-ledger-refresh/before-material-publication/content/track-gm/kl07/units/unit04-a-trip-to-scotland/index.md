@@ -1,0 +1,333 @@
+---
+page_type: unit
+title: "Unit 4 — A Trip to Scotland"
+author: "S. Le Boulanger"
+subtitle: "Track G+M · Klasse 7 · Niveau G/M"
+niveau: "G+M"
+klassenstufe: 7
+track: "gm"
+unit_nr: 4
+material_slug: "track-gm_kl07_unit04-a-trip-to-scotland"
+bildungsplan:
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.2 Interkulturelle kommunikative Kompetenz"
+- "3.2.3.1 Hör-/Hörsehverstehen"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.2.4 Text- und Medienkompetenz"
+skills_focus:
+- reading
+- listening
+- intercultural
+aliases:
+- /track_gm_kl07/units/unit04_a-trip-to-scotland.html
+presentation:
+  file: "/efl/materials/presentations/track-gm_kl07_unit04-a-trip-to-scotland.pdf"
+  thumbnail: "/efl/materials/presentations/track-gm_kl07_unit04-a-trip-to-scotland.png"
+worksheet:
+  file: "/efl/materials/worksheets/track-gm_kl07_unit04-a-trip-to-scotland.pdf"
+  thumbnail: "/efl/materials/worksheets/track-gm_kl07_unit04-a-trip-to-scotland.png"
+tags:
+- reading
+- listening
+- intercultural
+topic: interkulturell
+curriculum:
+  framework: boulingua-curriculum
+  level: A2
+  implements:
+  - A2.REC.reading-as-a-leisure-activity.04
+  - A2.SOC.sociolinguistic-appropriateness.03
+  - A2.MED.overall-mediation.01
+  - A2.REC.overall-reading-comprehension.01
+  - A2.PROD.sustained-monologue-giving-information.01
+  implements_basis: proposed
+  level_basis: derived
+audio_manifest: track-gm_kl07_unit04-a-trip-to-scotland
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl07/units/unit04-a-trip-to-scotland-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 60
+  skills:
+  - reading
+  - listening
+  - intercultural
+---
+
+{{< callout type="note" >}}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** G/M parallel. class test ("Klassenarbeit") at Niveau M.
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can understand a short station announcement and pick out
+  destination, platform, and direction.*
+- *I can read a short narrative about Scotland and identify two
+  things that surprised the visitor.*
+- *I can use the past perfect (had + past participle) to order
+  events in a story.*
+
+## Bildungsplan alignment
+
+- **3.2.1 Soziokulturelles Orientierungswissen / Themen** — life
+  in the United Kingdom; the regions of Britain.
+- **3.2.2 Interkulturelle kommunikative Kompetenz** — comparing
+  expectations with reality.
+- **3.2.3.1 Hör-/Hörsehverstehen** — public-transport
+  announcements.
+- **3.2.3.2 Leseverstehen** — short first-person narrative.
+- **3.2.3.8 Grammatik** — past perfect in narrative sequencing.
+- **3.2.4 Text- und Medienkompetenz** — recognise the difference
+  between an idealised image (postcard) and the writer's lived
+  experience.
+
+(Source: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/SEK1/E1>)
+
+## Lead-in story
+
+Aisha's aunt sent two postcards from Scotland. One showed a green
+hill with a single cow on it. The other showed a castle in fog.
+On the back, the aunt had written, in her thin handwriting,
+*"Pictures lie. Bring a coat."* Aisha put the postcards on the
+fridge and looked at them every morning before school. By the end
+of the week, the cow on the hill had become a kind of friend.
+
+## 1. Activate {#activate}
+**Picture prompt.** Look at the two postcards on the slide. With
+your partner, write down:
+
+- *Three things you expect Scotland to look like.*
+- *Three things you expect Scotland to feel like.*
+- *One thing you would want to ask someone who has been there.*
+
+Share with another pair.
+
+## 2. Input {#input}
+### Listening — *Welcome to Edinburgh Waverley*
+
+Listen to the announcement with closed books.
+
+> "Ladies and gentlemen, this is the train manager. We are now
+> arriving at Edinburgh Waverley, our final stop. Please take all
+> your belongings with you. The exit for the city centre is on
+> the right; for the bus station, take the lifts on the left.
+> Travellers heading to the Highlands should change here for the
+> 14:05 to Inverness, platform four."
+
+Quick listening check:
+
+- Where is the city-centre exit?
+- Where is the bus-station exit?
+- What time is the Inverness train, and from which platform?
+
+### Reading — *Postcards and Hills*
+
+> Frances had only seen Scotland on postcards. The hills, in the
+> postcards, were always green and the sky was always grey. The
+> hills, in real life, were also green, but the green changed
+> every twenty minutes — sometimes a tired green, sometimes a
+> green so bright it looked wet. The sky was less grey than
+> expected. It was more like an enormous changing mood. By the
+> end of the first day, Frances had stopped trying to predict the
+> weather and had started enjoying it instead.
+
+### Language focus — past perfect
+
+We use the **past perfect** (*had* + past participle) when one
+past event happened **before another past event**. The earlier
+event takes the past perfect; the later event takes the simple
+past.
+
+- *When Frances arrived in Edinburgh, the sun had already set.*
+  → first the sun set, then Frances arrived.
+- *By the time we found the hotel, the rain had started again.*
+  → first the rain started, then we found the hotel.
+
+Forms.
+
+| Verb | Past simple | Past participle |
+|------|-------------|-----------------|
+| eat | ate | eaten |
+| see | saw | seen |
+| take | took | taken |
+| fly | flew | flown |
+| go | went | gone |
+| have | had | had |
+| start | started | started |
+| arrive | arrived | arrived |
+
+{{< callout type="note" >}}
+**Word order trap.** *Already* sits between *had* and the past
+participle: *He had already eaten.* — not *He already had
+eaten.*
+{{< /callout >}}
+
+### Vocabulary cluster — UK travel
+
+| Word | Meaning |
+|------|---------|
+| platform | the stretch of track-side concrete you board from |
+| connection | a second train or bus you change to |
+| return / single (BrE) | round-trip / one-way ticket |
+| Highlands | the mountainous north of Scotland |
+| Lowlands | the southern, flatter part of Scotland |
+| loch | a lake (Scottish English) |
+| firth | a long sea inlet |
+
+## 3. Practise {#practise}
+### Niveau G — controlled
+
+**A. Past simple or past perfect?**
+
+1. When we __________ (arrive) at the station, the train __________
+   (already / leave).
+2. After she __________ (read) the postcard, Aisha __________ (put)
+   it on the fridge.
+3. The bus driver __________ (smile) when he __________ (see) our
+   tickets.
+
+**B. Match the announcement to its purpose.**
+
+| Announcement | Purpose |
+|--------------|---------|
+| 1. "Mind the gap." | a. tell people where to change train |
+| 2. "Change here for Inverness." | b. final destination |
+| 3. "This is the last stop." | c. safety on the platform |
+
+### Niveau M — productive
+
+**C. Rewrite using past perfect for the earlier event.**
+
+4. The film started. We arrived at the cinema. → By the time we
+   ___ , the film ___ .
+5. Aisha put the postcards up. Then her cousin came to visit. →
+   When her cousin ___ , Aisha ___ .
+6. The rain stopped. Then we left the hotel. → After the rain ___ ,
+   we ___ .
+
+**D. Two-line dialogue.** Imagine you are at Edinburgh Waverley.
+Write a two-line dialogue between you and a member of staff,
+using one direction word (*right / left / lift / platform*) and
+one connection time.
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**Niveau G**
+
+A. 1. arrived / had already left, 2. had read / put, 3. smiled / saw.\
+B. 1–c, 2–a, 3–b.
+
+**Niveau M**
+
+4. By the time we arrived at the cinema, the film had started.
+5. When her cousin came to visit, Aisha had (already) put the
+   postcards up.
+6. After the rain had stopped, we left the hotel.
+7. Open answers; check correct directional vocabulary.
+{{< /callout >}}
+
+## 4. Produce {#apply}
+**Reading-to-speaking.** In pairs, role-play a short conversation
+between Frances and a friendly stranger she meets in Edinburgh on
+her first day. Cover:
+
+- *one thing about Scotland that surprised her,*
+- *one question she still has,*
+- *one piece of advice from the stranger.*
+
+Two minutes each direction.
+
+{{< callout type="tip" >}}
+For Niveau M, ask one of the speakers to use the past perfect at
+least once: *"I had imagined Scotland as one big rainy place …"*
+{{< /callout >}}
+
+## 5. Reflect {#reflect}
+- [ ] I can understand a short station announcement and pick out
+  three details.
+- [ ] I can read a short narrative about Scotland and explain two
+  surprises.
+- [ ] I can use the past perfect to put two past events in order.
+
+**One sentence in your notebook:** *What is one thing I now know
+about Scotland that I did not know before this lesson?*
+
+## Exam example {#exam}
+
+[Open the separate assessment]({{< relref "track-gm/kl07/units/unit04-a-trip-to-scotland-exam" >}}).
+
+## Teacher notes {#teacher-notes}
+
+{{< downloads >}}
+
+<div class="notes">
+**Slide deck timing.** 45 minutes total.
+
+- *Title + Lead-in (4 min).* Two postcards on screen — green hill
+  with cow, castle in fog. Read aloud the aunt's note: "Pictures
+  lie. Bring a coat."
+- *Activate (6 min).* Pair brainstorm; one pair shares with
+  another pair.
+- *Input — listening + reading + grammar (15 min).* Announcement
+  twice (once for gist, once for detail). Then *Postcards and
+  Hills*; brief past-perfect mini-lesson on the board.
+- *Practise (10 min).* Niveau split.
+- *Produce (8 min).* Pair role-play; circulate and prompt for
+  one past-perfect line.
+- *Reflect (2 min).* Self-tick + one sentence.
+
+**Differentiation.** For Niveau G: print a past-participle list
+(go/gone, see/seen, eat/eaten). For learners above Niveau M:
+require two past-perfect uses in the role-play and one
+because-clause.
+
+**Cultural note.** Avoid "Scotland = bagpipes + kilts" stereotypes.
+The text grounds Scotland in weather, hills, and travel
+practicalities. Save Highland Games etc. for a later Unit if at
+all.
+</div>
+
+## Common pitfalls
+
+- Past participles confused with simple past: *I have went* → ✗ /
+  *I have gone* → ✓.
+- *Already* placement: *He already had eaten* → ✗ / *He had
+  already eaten* → ✓.
+- *Loch* pronounced like English *lock* — Scots use a fricative
+  /x/ that sounds closer to German *Bach*. A quick model from the
+  teacher helps.
+- *Britain / England / UK / Scotland* — keep these separate.
+  Scotland is in the United Kingdom; it is not part of England.
+
+## Further reading / listening
+
+- BBC Travel — *Scotland*. <https://www.bbc.com/travel/destination/scotland>
+- VisitScotland — accessible introductions for young readers.
+  <https://www.visitscotland.com>
+- Robert Louis Stevenson, *Kidnapped* — short extracts as
+  follow-up reading for keen Niveau-M learners.
+  <https://www.gutenberg.org/ebooks/421>

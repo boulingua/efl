@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 6
 material_slug: "track-gm_kl09_unit06-interview-and-portrait"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.4 Text- und Medienkompetenz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.2.3.5 Schreiben"
+- "3.2.4 Text- und Medienkompetenz"
 skills_focus:
-  - speaking
-  - writing
-  - language_awareness
+- speaking
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl09/units/unit06_interview-and-portrait.html
+- /track_gm_kl09/units/unit06_interview-and-portrait.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl09_unit06-interview-and-portrait.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl09_unit06-interview-and-portrait.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.correspondence.05
-    - A2.LING.orthographic-control.01
-    - A2.PROD.sustained-monologue-describing-experience.01
-    - A2.INT.overall-oral-interaction.01
-    - A2.PRAG.coherence-and-cohesion.01
+  - A2.INT.correspondence.05
+  - A2.LING.orthographic-control.01
+  - A2.PROD.sustained-monologue-describing-experience.01
+  - A2.INT.overall-oral-interaction.01
+  - A2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl09_unit06-interview-and-portrait
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl09/units/unit06-interview-and-portrait-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - speaking
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl09_unit06-interview-and-portrait-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl09_unit06-interview-and-portrait-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +105,10 @@ audio_manifest: track-gm_kl09_unit06-interview-and-portrait
 
 Naima is interviewing the school caretaker, Mrs. Brock, who has worked at the school for 21 years and claims to remember every student's name. She is almost certainly exaggerating. Naima has prepared eight open questions and one fall-back question, *tell me about a student you remember*, in case the interview stalls.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Open vs. closed.** On the slide are six interview questions. With your partner, mark each as *open* or *closed*. Rewrite two closed ones as open ones.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Interview vocabulary
 
 *interview, interviewer, interviewee, open question (Wh-), closed question (yes/no), follow-up, transcript, off the record, on the record, quote, paraphrase.*
@@ -95,8 +128,7 @@ Direct: *"I remember the day," she said.*
 Reported: *She said she remembered the day.*
 Mixed (allowed in journalism): use one short direct quote per paragraph + reported speech around it.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Mark open or closed: *Did you enjoy your job? — Tell me about your first day. — How long have you been here?*
@@ -113,68 +145,25 @@ Mixed (allowed in journalism): use one short direct quote per paragraph + report
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Interview + 150-word portrait.** In pairs, run a 5-minute interview based on 8 open questions. Then write a 150-word portrait of your interviewee with at least one direct quote and 4 sentences of reported speech.
 
 ### Sample
 
 *Mrs. Brock has worked at our school for 21 years. She says she remembers every student's name, and the way she said this, leaning forward slightly, made me almost believe her. "You forget faces but you remember voices," she told me. She came to the school because her sister-in-law had worked here in the 90s. She added, smiling, that her favourite part of the job was the empty corridor between 7:30 and 7:55 in the morning. "Best minutes of the building," she said. "Everything is about to start, and nothing has gone wrong yet."*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can prepare 8 open interview questions.
 - [ ] I can run a 5-minute interview.
 - [ ] I can write a 150-word portrait with one direct quote.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl09/units/unit06-interview-and-portrait-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "Tell me about your first year here, Mrs. Brock. — It was a strange year. The boiler broke twice, but the children were calm. — What do you remember most? — The day the heating failed in February — we wore coats in lessons."
-
-1. Open question 1: ___ . 2. First-year fact: ___ . 3. Open question 2: ___ . 4. Memorable day: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the portrait sample above. Answer.
-
-1. Years at school: ___ . 2. One direct quote: ___ . 3. How she came to the school: ___ . 4. Favourite minutes: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Direct → reported.**
-
-1. "I remember every name," she said. → ___
-2. "Where do you live?" he asked. → ___
-3. "Did you enjoy it?" he asked. → ___
-4. "I am proud of the children," she said. → ___
-
-### Task 4 — Writing (13 BE)
-
-Write a 150-word portrait of a real person you can imagine interviewing. Include one direct quote.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** *Tell me about your first year.*; boiler broke twice / children calm; *What do you remember most?*; February — heating failed.
-**T2.** 21 years; *"You forget faces but you remember voices"* / *"Best minutes of the building"*; her sister-in-law had worked there in the 90s; 7:30–7:55 morning corridor.
-**T3.** *She said she remembered every name. He asked where I lived. He asked if I had enjoyed it. She said she was proud of the children.*
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

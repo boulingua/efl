@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 2
 material_slug: "track-gm_kl06_unit02-on-holiday"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.2 Interkulturelle kommunikative Kompetenz"
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.2 Interkulturelle kommunikative Kompetenz"
+- "3.1.3.1 Hör-/Hörsehverstehen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
 skills_focus:
-  - listening
-  - speaking
-  - intercultural
+- listening
+- speaking
+- intercultural
 aliases:
-  - /track_gm_kl06/units/unit02_on-holiday.html
+- /track_gm_kl06/units/unit02_on-holiday.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl06_unit02-on-holiday.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl06_unit02-on-holiday.png"
@@ -34,14 +34,48 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.information-exchange.02
-    - A1.PROD.sustained-monologue-describing-experience.02
-    - A1.REC.overall-reading-comprehension.01
-    - A1.SOC.sociolinguistic-appropriateness.01
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.INT.information-exchange.02
+  - A1.PROD.sustained-monologue-describing-experience.02
+  - A1.REC.overall-reading-comprehension.01
+  - A1.SOC.sociolinguistic-appropriateness.01
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl06_unit02-on-holiday
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl06/units/unit02-on-holiday-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - listening
+  - speaking
+  - intercultural
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-gm_kl06_unit02-on-holiday-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl06_unit02-on-holiday-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +104,10 @@ audio_manifest: track-gm_kl06_unit02-on-holiday
 
 Lina spent a week at the seaside in Cornwall. The sea was cold even in August. Her cousin caught one tiny crab and released it three minutes later. Sam stayed home and finally cleaned his desk. Both of them claim to have had the better holiday.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Map prompt.** On the slide there is a blank world map. Mark with sticky notes: *one place I have been, one I want to visit, one I never want to visit.*
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — holidays
 
 *seaside, beach, mountains, countryside, city break, campsite, hotel, hostel, suitcase, passport, souvenir, postcard, sunscreen.*
@@ -86,8 +118,7 @@ Lina spent a week at the seaside in Cornwall. The sea was cold even in August. H
 **Irregular** verbs change form: *go → went, see → saw, eat → ate, swim → swam, take → took, have → had.*
 Negatives & questions: *did + base verb*: *Did you go? / I didn't go.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Past simple: I __________ (visit) my grandmother. We __________ (go) to the sea. We __________ (eat) fish.
@@ -104,70 +135,25 @@ Negatives & questions: *did + base verb*: *Did you go? / I didn't go.*
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair speaking — *Holiday Interview*.** 90 sec each direction. Cover: where, when, who with, weather, best moment.
 
 ### Sample
 
 *— Where did you go?* — *I went to Cornwall with my family.* — *How was the weather?* — *Cold but sunny.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can use past simple in positive, negative, and questions.
 - [ ] I can describe a place with 5 adjectives.
 - [ ] I can ask 6 holiday questions.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl06/units/unit02-on-holiday-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "Last summer Lina went to Cornwall with her family. They stayed in a small hotel. The sea was cold but the sun was warm. They saw seals from the cliffs. They ate fish and chips on the beach."
-
-1. Where: ___ . 2. Stay: ___ . 3. Animal: ___ . 4. Food: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "Sam stayed at home last summer. He cleaned his desk, read three books, and learned how to bake bread. He didn't go on a trip but he says it was the calmest summer of his life."
-
-1. Did Sam travel? ___ . 2. Three things he did: ___ . 3. New skill: ___ . 4. How did he describe the summer? ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Past simple.**
-
-1. We __________ (visit) Cornwall.
-2. They __________ (not / go) to Spain.
-3. ___ you ___ (see) the sea?
-4. He __________ (eat) fish and chips.
-
-### Task 4 — Writing (6 BE)
-
-Write 5–6 sentences about a real or imagined holiday.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** Cornwall, small hotel, seals, fish and chips.
-**T2.** No, cleaned desk / read three books / learned to bake bread, baking bread, the calmest of his life.
-**T3.** 1. visited, 2. didn't go, 3. Did … see, 4. ate.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

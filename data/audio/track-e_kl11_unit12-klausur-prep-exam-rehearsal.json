@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit12-klausur-prep-exam-rehearsal/index.md",
-    "source_body_sha256": "7aeb8c9d585a5ef04c833dfd9b43ba2066809789b8c2c9bbeaac8719c6e9c346",
+    "source_body_sha256": "679a53adef7802367bb984741d60186d97f359f1478ddc8588d7dcdf0f3723cc",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

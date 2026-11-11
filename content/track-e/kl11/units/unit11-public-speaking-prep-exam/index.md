@@ -61,7 +61,7 @@ Read the sample monologue above.
 
 Write a 4-minute Komm-Prüfung-style monologue script (~300 words) on a stimulus of your choice. Use 5 spoken-academic phrases.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **T1.** half-right; the claim is generalised from white-collar to all sectors; care / retail / manufacturing; *the future of office work is hybrid by 2030*.
 **T2.** white-collar hybrid is real and spreading + the *2030 hybrid* claim is over-generalised; cultural effects on city planning / commute / lunch traffic; *not saying it's a fad — saying the future is plural*; policy should focus on frontline-job flexibility (sick leave, predictable scheduling, training).
 **T3.** I would argue / The picture, however / Let me concede / If I had to commit.

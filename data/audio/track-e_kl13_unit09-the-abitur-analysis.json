@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit09-the-abitur-analysis/index.md",
-    "source_body_sha256": "e39a112d17a3b576bb82a64bb93c9ee68bb4ae0c8bdc0fc8e830aa100f7cf55b",
+    "source_body_sha256": "d1c3a99dd5ea5ce2a622d834215e6b3c3d28f90ecec602273b91b74840abc886",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

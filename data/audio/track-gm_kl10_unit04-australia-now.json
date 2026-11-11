@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit04-australia-now/index.md",
-    "source_body_sha256": "15a59e4222df2a7adc97fdf4d12ab70c517151fd8bf8e7e524137df06d012c26",
+    "source_body_sha256": "058659c6c3b1f9d85f2e6fc285bcb2f41835a8097fd349f340fd9cd9f6250ed2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit04-australia-now/index.md",
-    "source_body_sha256": "15a59e4222df2a7adc97fdf4d12ab70c517151fd8bf8e7e524137df06d012c26",
+    "source_body_sha256": "058659c6c3b1f9d85f2e6fc285bcb2f41835a8097fd349f340fd9cd9f6250ed2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

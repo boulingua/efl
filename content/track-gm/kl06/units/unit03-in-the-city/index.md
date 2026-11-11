@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 3
 material_slug: "track-gm_kl06_unit03-in-the-city"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.2 Leseverstehen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - reading
-  - speaking
-  - language_awareness
+- reading
+- speaking
+- language_awareness
 aliases:
-  - /track_gm_kl06/units/unit03_in-the-city.html
+- /track_gm_kl06/units/unit03_in-the-city.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl06_unit03-in-the-city.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl06_unit03-in-the-city.png"
@@ -34,14 +34,48 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.01
-    - A1.LING.orthographic-control.01
-    - A1.PROD.creative-writing.01
-    - A1.REC.reading-correspondence.02
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.INT.correspondence.01
+  - A1.LING.orthographic-control.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.reading-correspondence.02
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl06_unit03-in-the-city
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl06/units/unit03-in-the-city-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - reading
+  - speaking
+  - language_awareness
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-gm_kl06_unit03-in-the-city-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl06_unit03-in-the-city-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +104,10 @@ audio_manifest: track-gm_kl06_unit03-in-the-city
 
 Sam and Lina meet at the fountain in the market square. The square smells of fresh bread and old rain. They have one hour before the bus and a list of three errands. The bookshop, the post office, and a bakery that supposedly sells the best apple pastry in town.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **City map.** Quick-draw your home street and three places nearby (shop, school, park). Label them in English.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — places in town
 
 *supermarket, bakery, butcher, post office, library, museum, cinema, theatre, town hall, market square, bus stop, train station, playground, sports centre, bookshop, pharmacy, hospital, cafe.*
@@ -88,8 +120,7 @@ Sam and Lina meet at the fountain in the market square. The square smells of fre
 - *It's on your left, opposite the post office.*
 - *Is it far?* — *About five minutes on foot.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Match place to activity: post office — buy stamps; bakery — bread; pharmacy — medicine; library — books. (T / F)
@@ -105,70 +136,25 @@ Sam and Lina meet at the fountain in the market square. The square smells of fre
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair role-play — *Lost Tourist*.** Two minutes. One asks for three places; the other gives directions. Swap.
 
 ### Sample
 
 *— Excuse me, where is the bookshop?* — *Go straight on for two minutes. Take the first street on the right. It is opposite the post office.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 12 places in town.
 - [ ] I can ask and give simple directions.
 - [ ] I can describe my favourite local place.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl06/units/unit03-in-the-city-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "Excuse me, how do I get to the train station? Walk straight on for three minutes. Then turn left at the church. The station is on your right."
-
-1. Place: ___ . 2. Walk for: ___ . 3. Turn at: ___ . 4. Station is on the: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "My favourite place in town is the small bakery next to the library. They open at 6 a.m. and the bread is still warm. The owner knows everyone's name."
-
-1. Where: ___ . 2. Open at: ___ . 3. Bread is: ___ . 4. Owner knows: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in the right preposition.**
-
-1. The library is ___ the bookshop. (next to)
-2. The bank is ___ the church. (opposite)
-3. The cafe is ___ the corner. (on)
-4. Walk ___ on. (straight)
-
-### Task 4 — Writing (6 BE)
-
-Write 5 sentences describing a path from your school to your favourite place in town. Use 3 direction phrases.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** train station, 3 minutes, the church, right.
-**T2.** next to library, 6 a.m., still warm, everyone's name.
-**T3.** next to / opposite / on / straight.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

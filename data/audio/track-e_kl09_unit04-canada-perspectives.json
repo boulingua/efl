@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl09/units/unit04-canada-perspectives/index.md",
-    "source_body_sha256": "1d72546eb2b20801bd2f9158b7941d4dc20b04b41e29cf00189c494f30e36a74",
+    "source_body_sha256": "79c62a26c9503447eeb76e33ff9f58edce7dd86c5a05f6ecbb048baae10dbc93",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl09/units/unit04-canada-perspectives/index.md",
-    "source_body_sha256": "1d72546eb2b20801bd2f9158b7941d4dc20b04b41e29cf00189c494f30e36a74",
+    "source_body_sha256": "79c62a26c9503447eeb76e33ff9f58edce7dd86c5a05f6ecbb048baae10dbc93",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

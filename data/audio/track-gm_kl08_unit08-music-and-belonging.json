@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl08/units/unit08-music-and-belonging/index.md",
-    "source_body_sha256": "c963285a88c0df1d217e434b2364b2bae9af97b4a0998df6ede3035c95020bfc",
+    "source_body_sha256": "53f76bbe6f55c91c421dc7988da2ff1c0e99539b0bd4f51638d008d0897de7f6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl08/units/unit08-music-and-belonging/index.md",
-    "source_body_sha256": "c963285a88c0df1d217e434b2364b2bae9af97b4a0998df6ede3035c95020bfc",
+    "source_body_sha256": "53f76bbe6f55c91c421dc7988da2ff1c0e99539b0bd4f51638d008d0897de7f6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "genre.\nbeat.\nrhythm.\nlyrics.\nmelody.\nharmony.\nverse.\nchorus.\nbridge.\nsolo.\ninstrumental.\nacoustic.\nelectric.\nbass.\ndrums.\npercussion.\nvocals.\nhook.\nfade out."

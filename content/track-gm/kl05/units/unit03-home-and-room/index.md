@@ -9,17 +9,17 @@ track: "gm"
 unit_nr: 3
 material_slug: "track-gm_kl05_unit03-home-and-room"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
-  - "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.2 Leseverstehen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl05/units/unit03_home-and-room.html
+- /track_gm_kl05/units/unit03_home-and-room.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl05_unit03-home-and-room.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl05_unit03-home-and-room.png"
@@ -35,14 +35,48 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.LING.general-linguistic-range.02
-    - A1.PROD.creative-writing.02
-    - A1.REC.understanding-conversation-between-other-people.02
-    - A1.PROD.sustained-monologue-describing-experience.02
-    - A1.INT.correspondence.03
+  - A1.LING.general-linguistic-range.02
+  - A1.PROD.creative-writing.02
+  - A1.REC.understanding-conversation-between-other-people.02
+  - A1.PROD.sustained-monologue-describing-experience.02
+  - A1.INT.correspondence.03
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl05_unit03-home-and-room
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl05/units/unit03-home-and-room-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-gm_kl05_unit03-home-and-room-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl05_unit03-home-and-room-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,12 +106,10 @@ audio_manifest: track-gm_kl05_unit03-home-and-room
 
 Mia opens the door of her room. The bed is on the right. The desk is on the left. There is a poster of a fox over the bed. There is a small green plant on the desk. Frida the fox jumps onto the windowsill. "Tidy room," she says. "For now," Mia says.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Quick-draw.** Draw your room in 30 seconds. Mark four things: bed, desk, window, door. Show your partner.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — rooms and furniture
 
 | English | Deutsch |
@@ -109,8 +141,7 @@ Use **there is** with a singular noun, **there are** with plural.
 
 *on, under, in, next to, between, behind, in front of, above*. Quick map: *The cat is on the bed. The shoes are under the bed. The lamp is next to the desk.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. There __________ a desk in my room. (is / are)
@@ -132,16 +163,14 @@ Use **there is** with a singular noun, **there are** with plural.
 7. *The desk is under the window.*
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **My-room poster.** Draw your room on A4 paper. Label six things in English. Write four sentences underneath using *there is / there are* and one preposition.
 
 ### Sample
 
 *This is my room. There is a bed in the corner. There are two posters on the wall. The desk is next to the window. My books are on the shelf above the desk.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 12 room words.
 - [ ] I can use *there is / there are* correctly.
 - [ ] I can write four sentences about my room.
@@ -149,60 +178,11 @@ Use **there is** with a singular noun, **there are** with plural.
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl05/units/unit03-home-and-room-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-The teacher reads about Mia's room twice. Tick the right answers.
-
-> "In my room there is a bed and a desk. There are two windows. The cat is under the bed. There is a green plant on the desk."
-
-1. There is a __________ . (bed / sofa)
-2. There are __________ windows. (one / two)
-3. The cat is __________ the bed. (on / under)
-4. The plant is __________ . (red / green)
-
-### Task 2 — Reading (8 BE)
-
-Read about Theo's room. Write **true** or **false**.
-
-> "In my room there is a desk under the window. There are three football posters on the wall. There is no TV in my room."
-
-1. The desk is under the window. (T / F)
-2. There are two posters. (T / F)
-3. There is no TV. (T / F)
-4. The posters show football. (T / F)
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in *there is / there are*.**
-
-1. __________ a chair next to the desk.
-2. __________ four books on the shelf.
-3. __________ no lamp in this room.
-4. __________ two windows in the kitchen.
-
-### Task 4 — Writing (6 BE)
-
-Draw your room and write 4 sentences. Use *there is / there are* and one preposition (*on, under, next to*).
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** bed, two, under, green.
-**T2.** T, F, T, T.
-**T3.** 1. There is, 2. There are, 3. There is, 4. There are.
-**T4.** Open. 1 BE per correct sentence + 2 BE language.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

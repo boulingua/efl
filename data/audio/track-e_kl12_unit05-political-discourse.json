@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit05-political-discourse/index.md",
-    "source_body_sha256": "0d3387962c341417860fa2a92b178c35d4a22230f6741f7e51748ac43ee4ca73",
+    "source_body_sha256": "4d1e46781afa42bef36da5bfa2a259eed8f7b1ae9cb9a0a2a1d3f184e8a354b2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit05-political-discourse/index.md",
-    "source_body_sha256": "0d3387962c341417860fa2a92b178c35d4a22230f6741f7e51748ac43ee4ca73",
+    "source_body_sha256": "4d1e46781afa42bef36da5bfa2a259eed8f7b1ae9cb9a0a2a1d3f184e8a354b2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit05-political-discourse/index.md",
-    "source_body_sha256": "0d3387962c341417860fa2a92b178c35d4a22230f6741f7e51748ac43ee4ca73",
+    "source_body_sha256": "4d1e46781afa42bef36da5bfa2a259eed8f7b1ae9cb9a0a2a1d3f184e8a354b2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -55,7 +55,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit05-political-discourse/index.md",
-    "source_body_sha256": "0d3387962c341417860fa2a92b178c35d4a22230f6741f7e51748ac43ee4ca73",
+    "source_body_sha256": "4d1e46781afa42bef36da5bfa2a259eed8f7b1ae9cb9a0a2a1d3f184e8a354b2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -70,7 +70,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit05-political-discourse/index.md",
-    "source_body_sha256": "0d3387962c341417860fa2a92b178c35d4a22230f6741f7e51748ac43ee4ca73",
+    "source_body_sha256": "4d1e46781afa42bef36da5bfa2a259eed8f7b1ae9cb9a0a2a1d3f184e8a354b2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "ethos / pathos / logos.\nkairos (the right moment).\nanaphora (repeated opening).\nantithesis (balanced opposition).\ntricolon (three-part structure).\nparallelism.\nframe-setting.\nregister shift.\nperiodic sentence.\nasyndeton."

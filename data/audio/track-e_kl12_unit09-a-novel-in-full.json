@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit09-a-novel-in-full/index.md",
-    "source_body_sha256": "14e58ca3318ce9fbd019d3ac066465837b2923ea071edf07e4078544d830e35e",
+    "source_body_sha256": "c150237d595f5432f99f0bebd47e600266f810448a3aa4cb4c8939252145de33",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit09-a-novel-in-full/index.md",
-    "source_body_sha256": "14e58ca3318ce9fbd019d3ac066465837b2923ea071edf07e4078544d830e35e",
+    "source_body_sha256": "c150237d595f5432f99f0bebd47e600266f810448a3aa4cb4c8939252145de33",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "motif.\nleitmotif.\nstructural argument.\nnarrative arc.\nchapter rhythm.\nframing device.\nepigraph.\nframe narrative.\nunreliable narrator.\npolyphony.\nfocalisation."

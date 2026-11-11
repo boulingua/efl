@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl09/units/unit10-application-letter/index.md",
-    "source_body_sha256": "ea917ee9a3e5ef280481e75f76f091e66337164533abe73f1002a7123635302c",
+    "source_body_sha256": "592d97614219459f994599c5c584879aa0dc2d4a8a840756dbc8e11a78ac3cf0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl09/units/unit10-application-letter/index.md",
-    "source_body_sha256": "ea917ee9a3e5ef280481e75f76f091e66337164533abe73f1002a7123635302c",
+    "source_body_sha256": "592d97614219459f994599c5c584879aa0dc2d4a8a840756dbc8e11a78ac3cf0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

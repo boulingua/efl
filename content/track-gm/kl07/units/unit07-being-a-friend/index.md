@@ -9,17 +9,17 @@ track: "gm"
 unit_nr: 7
 material_slug: "track-gm_kl07_unit07-being-a-friend"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.1 Hör-/Hörsehverstehen"
-  - "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.1 Hör-/Hörsehverstehen"
+- "3.2.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - speaking
-  - writing
-  - language_awareness
+- speaking
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl07/units/unit07_being-a-friend.html
+- /track_gm_kl07/units/unit07_being-a-friend.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl07_unit07-being-a-friend.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl07_unit07-being-a-friend.png"
@@ -35,14 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.understanding-an-interlocutor.03
-    - A2.LING.general-linguistic-range.02
-    - A2.PROD.overall-oral-production.01
-    - A2.INT.correspondence.05
-    - A2.MED.overall-mediation.02
+  - A2.INT.understanding-an-interlocutor.03
+  - A2.LING.general-linguistic-range.02
+  - A2.PROD.overall-oral-production.01
+  - A2.INT.correspondence.05
+  - A2.MED.overall-mediation.02
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl07_unit07-being-a-friend
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl07/units/unit07-being-a-friend-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 60
+  skills:
+  - speaking
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl07_unit07-being-a-friend-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl07_unit07-being-a-friend-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -82,8 +117,7 @@ have invented a person who hates you. Maybe try the real one
 first." Ben rolled his eyes, but he also smiled — which is what
 Aisha was waiting for.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Pair brainstorm.** With your partner, write three things on
 sticky notes:
 
@@ -94,8 +128,7 @@ sticky notes:
 Stick them on the board. Read three notes from people you do not
 know.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Listening — *Two Best Friends*
 
 Listen with closed books.
@@ -143,8 +176,7 @@ need to be learned together, like a single word.
 the pair, not the preposition alone.
 {{< /callout >}}
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G — controlled
 
 **A. First conditional gap-fill.**
@@ -189,8 +221,7 @@ will survive.*\
 D. Open answers; check the right preposition.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Pair speaking — *The Wise One.*** Each pair takes one of these
 prompts and runs a 2-minute conversation. One person describes a
 small friendship problem; the other gives advice using **at least
@@ -208,8 +239,7 @@ to them"), and a single exchange of disagreement (*"Yeah but
 …"*) before resolution.
 {{< /callout >}}
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can pick out who is asking, reassuring, and advising in a
   short dialogue.
 - [ ] I can give advice with a first-conditional if-clause.
@@ -218,108 +248,11 @@ to them"), and a single exchange of disagreement (*"Yeah but
 **One sentence in your notebook:** *What is one thing I want to do
 differently as a friend this month?*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Materials allowed.** A monolingual dictionary (Niveau M only).\
-**Time.** 45 minutes.\
-**Total.** 60 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl07/units/unit07-being-a-friend-exam" >}}).
 
-### Task 1 — Listening (12 BE)
-
-The teacher reads aloud the dialogue *Two Best Friends*. Answer in
-full sentences.
-
-> **Ben.** Aisha, can I tell you something without you laughing?\
-> **Aisha.** Probably not. But I'll try.\
-> **Ben.** I think Marius is mad at me. He didn't talk to me at
-> lunch.\
-> **Aisha.** Did you ask him why?\
-> **Ben.** No. I just decided he hates me now.\
-> **Aisha.** Ben. Sometimes people just have a bad lunch. Go ask
-> him tomorrow before you spend the whole evening building a
-> theory.\
-> **Ben.** That sounds annoyingly sensible.\
-> **Aisha.** I am annoyingly sensible. That's why you tell me
-> things.
-
-1. What does Ben think Marius did? (2)
-2. Did Ben ask Marius why? (2)
-3. What does Aisha advise him to do? (3)
-4. What does Aisha mean when she calls herself "annoyingly
-   sensible"? (5)
-
-### Task 2 — Use of English (15 BE)
-
-**A. If-clauses Type 1 (8 BE).** Complete.
-
-1. If you __________ (ask) him, you __________ (find) out the truth.
-2. If we __________ (not / talk), the problem __________ (get) worse.
-3. If she __________ (text) me first, I __________ (be) happy.
-4. If they __________ (apologise), we __________ (forgive) them.
-
-**B. Adjective + preposition (7 BE).** Insert the missing
-preposition.
-
-5. Ben is afraid __________ asking the wrong question.
-6. Aisha is good __________ giving sensible advice.
-7. They are excited __________ the school trip.
-8. Marius is annoyed __________ a small thing.
-
-### Task 3 — Mediation (10 BE)
-
-Your German cousin sends you this WhatsApp message:
-
-> "Lena hat heute beim Mittagessen nicht mit mir geredet. Ich
-> glaube, sie ist sauer auf mich, aber ich weiß nicht warum. Was
-> soll ich tun?"
-
-Write **three sentences in English** to your English-speaking
-friend explaining the situation and giving simple advice. Do not
-translate every word.
-
-### Task 4 — Writing (23 BE)
-
-Write 100–120 words about **a small misunderstanding** between
-you and a friend (real or imagined) and how it was resolved. Use:
-
-- at least two if-clauses,
-- at least one *adjective + preposition* combination,
-- one direct quote (a single line of speech).
-
-{{< callout type="tip" title="Expected answer key — class test (\"Klassenarbeit\")" collapse="true" >}}
-**Task 1 (12 BE).**\
-1. He thinks Marius didn't talk to him at lunch and is angry. (2)
-2. No, he just decided Marius hates him. (2)
-3. She tells him to ask Marius the next day, before building a
-   theory. (3)
-4. Sample: *She is direct, gives unwelcome but useful advice, and
-   both of them know it; the joke makes it easier for Ben to
-   accept her advice.* (5)
-
-**Task 2 (15 BE).**\
-A. 1. ask / will find. 2. don't talk / will get. 3. texts / will be.
-   4. apologise / will forgive.\
-B. 5. of, 6. at, 7. about, 8. by/about/at (accept any reasonable).
-
-**Task 3 (10 BE).** Sample: *"Lena didn't talk to me at lunch
-today. I think she's annoyed with me, but I don't know why. What
-should I do?"* — Or, advisor voice: *"Just ask her tomorrow before
-you imagine the worst."* Award for: gist (4), addressee-fit (2),
-correct grammar (4).
-
-**Task 4 (23 BE).** Inhalt 12 / Sprache 11.
-{{< /callout >}}
-
-{{< callout type="tip" title="Rubric — grading scale (Notenschlüssel)" collapse="true" >}}
-| Punkte (von 60) | Note |
-|-----------------|------|
-| 56–60 | 1 | 49–55 | 2 | 40–48 | 3 |
-| 30–39 | 4 | 18–29 | 5 | 0–17  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl08/units/unit10-a-novella-in-class/index.md",
-    "source_body_sha256": "79061e74103d6af207ef39ef5cadc91db2d47b2e85d1ad5e1961030b80b1a5e7",
+    "source_body_sha256": "4253114eecbedaa0ac0a8d3767f02bb8e7d133c11f8e3e44d97bce2ff441afa0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl08/units/unit10-a-novella-in-class/index.md",
-    "source_body_sha256": "79061e74103d6af207ef39ef5cadc91db2d47b2e85d1ad5e1961030b80b1a5e7",
+    "source_body_sha256": "4253114eecbedaa0ac0a8d3767f02bb8e7d133c11f8e3e44d97bce2ff441afa0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

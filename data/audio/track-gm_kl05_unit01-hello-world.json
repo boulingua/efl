@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit01-hello-world/index.md",
-    "source_body_sha256": "2d5dcc0912b45f25142f7f58cd6a238d5fecf00e31f143f0d61801584b3087c7",
+    "source_body_sha256": "cbc9d4c29f91c95e9c1525c23c798d4a7f5d5a989f1fd2fab943b0d577a5dec3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit01-hello-world/index.md",
-    "source_body_sha256": "2d5dcc0912b45f25142f7f58cd6a238d5fecf00e31f143f0d61801584b3087c7",
+    "source_body_sha256": "cbc9d4c29f91c95e9c1525c23c798d4a7f5d5a989f1fd2fab943b0d577a5dec3",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Hello / Hi.\nGood morning.\nGoodbye / Bye.\nPlease.\nThank you.\nNice to meet you.\nWhat's your name?.\nHow old are you?.\nWhere do you live?."

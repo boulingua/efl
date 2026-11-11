@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 10
 material_slug: "track-e_kl13_unit10-kommunikationspruefung-full-mock"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen"
-  - "3.4.3.3 / 3.5.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.4.3.4 / 3.5.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.1 / 3.5.3.1 Hör-/Hörsehverstehen"
+- "3.4.3.3 / 3.5.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.4.3.4 / 3.5.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
 skills_focus:
-  - speaking
-  - listening
-  - language_awareness
+- speaking
+- listening
+- language_awareness
 aliases:
-  - /track_e_kl13/units/unit10_kommunikationspruefung-full-mock.html
+- /track_e_kl13/units/unit10_kommunikationspruefung-full-mock.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl13_unit10-kommunikationspruefung-full-mock.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl13_unit10-kommunikationspruefung-full-mock.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.INT.correspondence.03
-    - B2.LING.general-linguistic-range.01
-    - B2.PROD.compensating.01
-    - B2.REC.overall-reading-comprehension.01
-    - B2.MED.managing-interaction.03
+  - B2.INT.correspondence.03
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.compensating.01
+  - B2.REC.overall-reading-comprehension.01
+  - B2.MED.managing-interaction.03
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl13_unit10-kommunikationspruefung-full-mock
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl13/units/unit10-kommunikationspruefung-full-mock-exam
+  format: existing-assessment
+  duration_minutes: 8
+  points:
+  skills:
+  - speaking
+  - listening
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl13_unit10-kommunikationspruefung-full-mock-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl13_unit10-kommunikationspruefung-full-mock-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -74,12 +109,10 @@ course (Leistungsfach, E-LF).
 
 Today is the full-format Kommunikationsprüfung mock. Mr. Yilmaz has invited a colleague to play the examiner-pair so the format matches the actual Abitur. 15 minutes per candidate. Stimulus drawn at random. Bewertungsraster (grading grid) used. The mock is itself the lesson.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Stimulus draw.** Each candidate draws a stimulus card. 5-minute prep period: outline a 5-min monologue with 3 movements + anticipated counter-questions.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Full Komm-Prüfung format (~15 minutes)
 
 1. **Monologue (5 min).** Frame stimulus → 2-3 arguments → counter + concession → close.
@@ -94,8 +127,7 @@ Today is the full-format Kommunikationsprüfung mock. Mr. Yilmaz has invited a c
 
 **Sprachliche Korrektheit + Variabilität** (50 % BF, 60 % LF): vocabulary range, grammatical accuracy, idiomaticity, pronunciation, register-sensitivity.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Build a 4-line monologue opening from a stimulus (provided in class).
@@ -111,69 +143,25 @@ Today is the full-format Kommunikationsprüfung mock. Mr. Yilmaz has invited a c
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Full mock Komm-Prüfung.** 15 minutes per candidate. Examiner-pair scores using official Bewertungsraster. 5-minute debrief per candidate.
 
 ### Sample
 
 (See *Reflection on the mock* — the production task is the 15-minute oral exam itself.)
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can deliver a 15-minute Komm-Prüfung at full Abitur format.
 - [ ] I can sustain academic-spoken register under pressure.
 - [ ] I can self-assess against the Bewertungsraster.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (Abitur-grade)" icon="false" >}}
-**This Unit's exam example follows the Abitur task pattern named
-in the Unit. Some Units focus on a single Abitur-task type
-(Comprehension / Analysis / Composition / Mediation /
-Kommunikationsprüfung); the full 90-BE Klausur is rehearsed in
-Klasse 12 Units 11-12 and continues in Klasse 13 Units 7-9.**\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl13/units/unit10-kommunikationspruefung-full-mock-exam" >}}).
 
-### Comprehension
-
-**Stimulus card** (sample): *A 2025 photograph of three school students in Mumbai working at an open-air computer cluster powered by a single solar panel. Caption: 'After school, before tutorial.' Speak for five minutes on what the image suggests about contemporary education and infrastructure. Then expect 8 minutes of examiner dialogue.*
-
-### Analysis
-
-**Self-assessment prompt:** *In 250 words, self-assess your Komm-Prüfung performance against the official Bewertungsraster. Identify one Textgestaltung strength and one Sprache weakness.*
-
-### Composition / Mediation / Reflection
-
-**Performance recording (in class).** Each candidate's 15-minute mock is recorded for self-review. Recording is destroyed after the debrief.
-
-### Additional task
-
-**(No written Mediation in this Unit.)**
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** Open. Reward structure + register + addressee-awareness + conversation-management.
-**Analysis.** Open. Reward Sprache range + idiomaticity + register-sensitivity.
-**Composition.** Open.
-**Mediation.** Open (in this case: self-assessment).
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) — Abitur-grade Klausuren" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-
-(Single-section Klausuren in this year scale to the proportional
-BE-weight of the section in the full Klausur.)
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

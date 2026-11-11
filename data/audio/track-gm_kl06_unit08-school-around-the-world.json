@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit08-school-around-the-world/index.md",
-    "source_body_sha256": "6040ffe9df11d735acb618945e31e1691f403feb5ecdc4aae4c378789e5412e5",
+    "source_body_sha256": "31e353c5a1850d69a05fe8aaabca2009bb3761c5bd2fc3d9a83676747aeee678",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit08-school-around-the-world/index.md",
-    "source_body_sha256": "6040ffe9df11d735acb618945e31e1691f403feb5ecdc4aae4c378789e5412e5",
+    "source_body_sha256": "31e353c5a1850d69a05fe8aaabca2009bb3761c5bd2fc3d9a83676747aeee678",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

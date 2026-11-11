@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit07-the-abitur-essay/index.md",
-    "source_body_sha256": "30a5e2e746c3cad0cd6f7abbf9e565b65e4963ec10fe974e24f47c404e857611",
+    "source_body_sha256": "f4a7df85c463e3a14bf098882bdf35c40ed9a4564d3b228826a4f62c2f8699bb",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

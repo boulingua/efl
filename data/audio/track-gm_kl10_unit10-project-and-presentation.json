@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit10-project-and-presentation/index.md",
-    "source_body_sha256": "12863189076efda6923464dbba31b3bd08ca85c295d17ee6bd74f48f89a608e2",
+    "source_body_sha256": "11fb4115d92a4ef178844c2b61270f31134d9638360b481d03b76b1d07b59103",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

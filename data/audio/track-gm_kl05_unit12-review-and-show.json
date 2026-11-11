@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit12-review-and-show/index.md",
-    "source_body_sha256": "8c5f69646743a4ea300be35aedada3826a6f12ca7a808627f46677ae09872664",
+    "source_body_sha256": "f082854bf84a47e346393233c90b90eb9bd19ebea192695f533fcd0f6d88b267",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

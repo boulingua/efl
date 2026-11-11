@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit08-hobbies-and-sports/index.md",
-    "source_body_sha256": "e989be049f6fb7ad88a0b5927feebcf43cee1c05df2ce679ff61a811c03cc511",
+    "source_body_sha256": "d8ab600d1d34830fbff4186633e567fd236987e0db6bdd96876d6bb69f92a408",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

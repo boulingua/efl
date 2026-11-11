@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl07/units/unit03-media-in-our-lives/index.md",
-    "source_body_sha256": "c34bfa56031cb92d93aa6974deedcda17105dec7a69993ac76df3ad83e4d1b77",
+    "source_body_sha256": "34dece66c351cb275ac0f934bb33c744873bb14a9427372f5b0088439818a53b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl07/units/unit03-media-in-our-lives/index.md",
-    "source_body_sha256": "c34bfa56031cb92d93aa6974deedcda17105dec7a69993ac76df3ad83e4d1b77",
+    "source_body_sha256": "34dece66c351cb275ac0f934bb33c744873bb14a9427372f5b0088439818a53b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Aisha. I tried something this week. No phone after dinner. Just for one week.\\ Ben. Just for one week? That sounds impossible.\\ Aisha. It was hard for two days. After that, it was kind of nice.\\ Ms. Reyes. What did you do with the time you would have spent on the phone?\\ Aisha. I made dinner once. I drew badly. I went to bed earlier. The earlier bed was the biggest change."
@@ -41,7 +41,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl07/units/unit03-media-in-our-lives/index.md",
-    "source_body_sha256": "c34bfa56031cb92d93aa6974deedcda17105dec7a69993ac76df3ad83e4d1b77",
+    "source_body_sha256": "34dece66c351cb275ac0f934bb33c744873bb14a9427372f5b0088439818a53b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "screen time.\nto scroll.\nnotification.\nto swipe.\nfeed.\nto post.\nmessage.\nto message.\nstream.\nto stream.\nstory.\nto share.\nnews.\nto follow / unfollow."

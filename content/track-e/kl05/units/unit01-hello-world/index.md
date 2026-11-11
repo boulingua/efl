@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 1
 material_slug: "track-e_kl05_unit01-hello-world"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - speaking
-  - listening
-  - language_awareness
+- speaking
+- listening
+- language_awareness
 aliases:
-  - /track_e_kl05/units/unit01_hello-world.html
+- /track_e_kl05/units/unit01_hello-world.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl05_unit01-hello-world.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl05_unit01-hello-world.png"
@@ -34,14 +34,48 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.LING.orthographic-control.01
-    - A1.PROD.creative-writing.01
-    - A1.REC.understanding-conversation-between-other-people.02
-    - A1.SOC.sociolinguistic-appropriateness.01
+  - A1.INT.correspondence.03
+  - A1.LING.orthographic-control.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.understanding-conversation-between-other-people.02
+  - A1.SOC.sociolinguistic-appropriateness.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl05_unit01-hello-world
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl05/units/unit01-hello-world-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking
+  - listening
+  - language_awareness
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-e_kl05_unit01-hello-world-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl05_unit01-hello-world-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +104,10 @@ audio_manifest: track-e_kl05_unit01-hello-world
 
 Mia stands at the door of Klasse 5e. The room is freshly painted. Theo sits in the back row, swinging his feet. A small red fox is sitting on the windowsill — which is unusual. The fox waves. Mia hesitates, then waves back. "Hello," the fox says. "My name is Frida. I'm here to learn English with you. Foxes need second languages too."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Mingle and report.** Walk around for two minutes. Find three new classmates. Ask name, age, and one thing they like. Be ready to report one classmate to the class.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — meeting people
 
 *Hello, hi, good morning, good afternoon, good evening, goodbye, see you later, please, thank you, you're welcome, nice to meet you, how do you do, what's your name, where are you from.*
@@ -98,8 +130,7 @@ Questions and short answers:
 - *His name is …, He is …, He has …*
 - Use the third-person -s on regular verbs.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Fill in: I __________ ten years old. We __________ in Klasse 5e. Theo __________ a brother.
@@ -118,16 +149,14 @@ Questions and short answers:
 4. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Class wall.** On a strip of paper, write 4 sentences about yourself: name, age, town, one true thing. Stick the strips on the class wall in a long line.
 
 ### Sample
 
 *Hello, I'm Mia. I am ten years old. I live in Stuttgart. I have a cat called Pepper.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can introduce myself with four facts.
 - [ ] I can use *to be* and *to have*.
 - [ ] I can report what a partner said using the third person.
@@ -135,51 +164,11 @@ Questions and short answers:
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl05/units/unit01-hello-world-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "Hi, my name is Lina. I am ten years old. I live in Stuttgart. I have one brother and a small dog. I love books and bike rides."
-
-1. Name: ___ . 2. Age: ___ . 3. Town: ___ . 4. One thing she has: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "Hi, I'm Theo. I am eleven. My favourite colour is blue. My best friend is Mia. We have a cat called Pepper. I play football on Saturdays."
-
-T or F: 1. Theo is twelve. 2. His best friend is Mia. 3. He has a dog. 4. He plays football.
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in *am, is, are, have, has*.**
-
-1. I __________ ten. 2. Mia __________ a cat. 3. We __________ in Klasse 5. 4. Theo __________ a football.
-
-### Task 4 — Writing (6 BE)
-
-Write 5 sentences about yourself: name, age, town, one thing you have, one thing you like.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** Lina, 10, Stuttgart, brother / small dog.
-**T2.** F, T, F, T.
-**T3.** 1. am, 2. has, 3. are, 4. has.
-**T4.** Open. 1 BE per correct sentence + 1 BE language.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

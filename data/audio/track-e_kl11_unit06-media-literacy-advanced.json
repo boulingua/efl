@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit06-media-literacy-advanced/index.md",
-    "source_body_sha256": "8247e29adadf4f61cbca7387159515422b899313334eae711f417a7169e1feb3",
+    "source_body_sha256": "b4121d3855b36f4a0abf8a2711f17ca4105c0c7b952cf02adc5a05c64ff36ec4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit06-media-literacy-advanced/index.md",
-    "source_body_sha256": "8247e29adadf4f61cbca7387159515422b899313334eae711f417a7169e1feb3",
+    "source_body_sha256": "b4121d3855b36f4a0abf8a2711f17ca4105c0c7b952cf02adc5a05c64ff36ec4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit06-media-literacy-advanced/index.md",
-    "source_body_sha256": "8247e29adadf4f61cbca7387159515422b899313334eae711f417a7169e1feb3",
+    "source_body_sha256": "b4121d3855b36f4a0abf8a2711f17ca4105c0c7b952cf02adc5a05c64ff36ec4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "frame.\nframing effect.\nagenda-setting.\nsourcing.\nanonymous source.\non-the-record.\noff-the-record.\nattribution verb.\nlede.\nnut graf.\ndisclosure.\nconflict of interest.\nfalse balance.\nboth-sidesing.\nstructural balance."

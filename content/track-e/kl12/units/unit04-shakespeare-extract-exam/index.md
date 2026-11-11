@@ -56,7 +56,7 @@ Read the four lines above.
 
 **Mediation prompt:** A 200-word German Shakespeare translation note (Schlegel-Tieck). Mediate the translator's argument for an English-speaking literary reader. (Source provided in class.)
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. *You may behold that time of year in me.*; 2. *yellow leaves, or none, or few* — three options shrinking; 3. *bare ruined choirs* (= boughs as choir-stalls); 4. linking personal mortality to historical ruination.
 **Analysis.** Shakespearean sonnet, opening quatrain, iambic pentameter; aging speaker to younger beloved; speaker-as-late-autumn-tree (metonymy with synecdoche); line 13 (couplet).
 **Composition.** Open.

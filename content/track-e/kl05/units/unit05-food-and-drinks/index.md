@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 5
 material_slug: "track-e_kl05_unit05-food-and-drinks"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.2 Leseverstehen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.2 Leseverstehen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - reading
-  - speaking
-  - language_awareness
+- reading
+- speaking
+- language_awareness
 aliases:
-  - /track_e_kl05/units/unit05_food-and-drinks.html
+- /track_e_kl05/units/unit05_food-and-drinks.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl05_unit05-food-and-drinks.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl05_unit05-food-and-drinks.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.correspondence.03
-    - A1.LING.phonological-control.01
-    - A1.PROD.creative-writing.01
-    - A1.REC.overall-reading-comprehension.01
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.INT.correspondence.03
+  - A1.LING.phonological-control.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.overall-reading-comprehension.01
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl05_unit05-food-and-drinks
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl05/units/unit05-food-and-drinks-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - reading
+  - speaking
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl05_unit05-food-and-drinks-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl05_unit05-food-and-drinks-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +105,10 @@ audio_manifest: track-e_kl05_unit05-food-and-drinks
 
 Frida the fox sits at a cafe table that is too tall for her. The waiter is professional. He does not comment on the fox. "Good afternoon. What can I get you?" Frida considers. "A cup of tea, please. And a small piece of cake — preferably the kind with apple in it." Mia, at the next table, mouths *thank you* to the waiter for not laughing.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Food memory.** Close eyes; teacher names 8 foods (apple, bread, cheese, egg, fish, rice, tomato, chocolate). Open eyes. Write down as many as you remember in 30 seconds.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — food and drink
 
 *Foods:* apple, banana, bread, butter, cheese, chicken, egg, fish, fruit, meat, pasta, potato, rice, salad, sausage, soup, tomato, chocolate, cake.
@@ -97,8 +130,7 @@ With **uncountable** use *some* (positive), *any* (negative/question), or units 
 - *Anything else?* / *No, that's all, thanks.*
 - *That's £4.50.* / *Here you are.* / *Thank you, have a nice day.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. *a / an / some / any?* ___ apple, ___ milk, ___ tomatoes, ___ rice, ___ bread.
@@ -116,8 +148,7 @@ With **uncountable** use *some* (positive), *any* (negative/question), or units 
 **Productive.** 3-4. Open; check polite forms.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Cafe role-play (Niveau E).** In pairs, run a 1-minute cafe scene. Customer orders two items, one with a unit (*a glass of, a piece of, a cup of*). Waiter asks follow-up question. Use *please / thank you* in every turn.
 
 ### Sample
@@ -127,8 +158,7 @@ With **uncountable** use *some* (positive), *any* (negative/question), or units 
 *— Anything else? A glass of water?*
 *— No, that's all. Thank you.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 15 foods and 8 drinks.
 - [ ] I can use *a/an, some, any* correctly.
 - [ ] I can run a 1-minute cafe role-play.
@@ -136,51 +166,11 @@ With **uncountable** use *some* (positive), *any* (negative/question), or units 
 **One thing in your notebook:** *Write one sentence that uses
 something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl05/units/unit05-food-and-drinks-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "At the cafe Mia orders a hot chocolate and a slice of carrot cake. Theo orders a glass of water and a sandwich. The total is £6."
-
-1. Mia drink: ___ . 2. Mia food: ___ . 3. Theo drink: ___ . 4. Total: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read the menu and the order.
-
-> Menu: *Tea £1.50, Hot chocolate £2.50, Sandwich £3, Cake £2.50.* Order: *one tea, one hot chocolate, two sandwiches.*
-
-1. Number of items: ___ . 2. Total cost: ___ . 3. Cheapest item: ___ . 4. Drinks total: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in *a, an, some, any*.**
-
-1. ___ apple, 2. ___ rice, 3. Is there ___ milk? 4. There aren't ___ tomatoes.
-
-### Task 4 — Writing (6 BE)
-
-Write a 6-line cafe dialogue with two items ordered and polite phrases.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** hot chocolate, slice of carrot cake, glass of water, £6.
-**T2.** 4, £10, tea, £4.
-**T3.** an, some, any, any.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

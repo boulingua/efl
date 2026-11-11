@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl05/units/unit02-my-family/index.md",
-    "source_body_sha256": "55283fd9cebde2c492f1935064bda6868263a9497d0f8cbc2c587d5e88785a7f",
+    "source_body_sha256": "0066666a3d445f6b8f9ff736e0858523905fa59d8c3b581ac5a5dd3bc3899eaa",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl05/units/unit02-my-family/index.md",
-    "source_body_sha256": "55283fd9cebde2c492f1935064bda6868263a9497d0f8cbc2c587d5e88785a7f",
+    "source_body_sha256": "0066666a3d445f6b8f9ff736e0858523905fa59d8c3b581ac5a5dd3bc3899eaa",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "mother.\nfather.\nparents.\nsister.\nbrother.\nsiblings.\ngrandmother.\ngrandfather.\ngrandparents.\naunt.\nuncle.\ncousin.\nniece.\nnephew.\nstepmother.\nstepfather.\nhalf-brother.\nhalf-sister."

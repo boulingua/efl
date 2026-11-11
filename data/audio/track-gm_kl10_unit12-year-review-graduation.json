@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit12-year-review-graduation/index.md",
-    "source_body_sha256": "b4502260545000b02eecf78e5b76e509314676f61d9dbc40ca92268395fe9288",
+    "source_body_sha256": "53b90e45d40a16f5da38925503c291fa51f1a69171251842180bbe7cd709d4f9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

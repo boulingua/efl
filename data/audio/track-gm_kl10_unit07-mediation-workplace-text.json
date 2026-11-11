@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit07-mediation-workplace-text/index.md",
-    "source_body_sha256": "ffb7a90abcb39806839344c94f7e01d450768b4fa9b0f18630351862485a1b8c",
+    "source_body_sha256": "fb8aa34a25ad4ba3af2b3d17c6d5ce9542e2cb34d7cb9111a6ea24a5d5e6e6a5",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "Source — *German workplace policy (excerpt)*"

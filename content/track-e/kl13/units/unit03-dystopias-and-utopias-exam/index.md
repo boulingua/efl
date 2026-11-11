@@ -64,7 +64,7 @@ Read the three extracts above.
 
 **Mediation prompt:** A 250-word German literary-criticism essay on utopian fiction. Mediate for an English-speaking literary-magazine reader. (Source provided in class.)
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. no government / no property / no money; 2. informal social pressure; 3. *An Ambiguous Utopia*; 4. load-bearing — utopia is structured to disclose its costs.
 **Analysis.** 1. no private property + elected magistrates + humane but homogeneous; 2. dissent is exhausting; 3. speaks utopia's vocabulary while functioning as dystopia; 4. dystopian inversion is utopia's disclosed underside.
 **Composition.** Open.

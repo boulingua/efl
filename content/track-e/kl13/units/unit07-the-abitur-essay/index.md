@@ -9,14 +9,14 @@ track: "e"
 unit_nr: 7
 material_slug: "track-e_kl13_unit07-the-abitur-essay"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.5 / 3.5.3.5 Schreiben"
-  - "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
 skills_focus:
-  - writing
-  - language_awareness
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl13/units/unit07_the-abitur-essay.html
+- /track_e_kl13/units/unit07_the-abitur-essay.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl13_unit07-the-abitur-essay.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl13_unit07-the-abitur-essay.png"
@@ -31,14 +31,48 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.LING.general-linguistic-range.01
-    - B2.PROD.overall-written-production.01
-    - B2.LING.orthographic-control.01
-    - B2.PROD.creative-writing.01
-    - B2.PRAG.coherence-and-cohesion.04
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.overall-written-production.01
+  - B2.LING.orthographic-control.01
+  - B2.PROD.creative-writing.01
+  - B2.PRAG.coherence-and-cohesion.04
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl13_unit07-the-abitur-essay
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl13/units/unit07-the-abitur-essay-exam
+  format: existing-assessment
+  duration_minutes: 90
+  points:
+  skills:
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl13_unit07-the-abitur-essay-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl13_unit07-the-abitur-essay-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +104,10 @@ course (Leistungsfach, E-LF).
 
 First of three Abitur-prep Units. Today's focus: the Composition / Comment task. Mr. Yilmaz set a real-format prompt linked to a 1,000-word source extract. 90 minutes. Submit. Class debriefs against the official Bewertungsraster (grading grid) — Inhalt and Sprache scored separately.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Time-budget scan.** 90 minutes for the Composition section. Allocate: ___ min plan; ___ min draft; ___ min review.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Composition / Comment — task patterns
 
 **Argumentative comment:** *Comment on the writer's central claim* / *Discuss the position presented in the source*. 350-450 words. Thesis + evidence + counter + conclusion.
@@ -92,8 +124,7 @@ First of three Abitur-prep Units. Today's focus: the Composition / Comment task.
 
 **Weighting:** Basisfach (basic course) 50/50; Leistungsfach (advanced course) 40/60 (Sprache weighted higher in LF).
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: argumentative comment → discuss claim; creative response → genre shift; both → integrate quote.
@@ -110,69 +141,25 @@ First of three Abitur-prep Units. Today's focus: the Composition / Comment task.
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Abitur Composition rehearsal, 90 minutes.** Real-format prompt + 1,000-word source. Submit. Class debriefs collectively with focus on time-management and Inhalt / Sprache balance.
 
 ### Sample
 
 (See *Reflection on the rehearsal* — the production task is the timed Composition itself.)
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can plan and produce a 350-450 word Abitur Composition under timed conditions.
 - [ ] I can sustain Abitur-grade Inhalt and Sprache.
 - [ ] I can self-assess against the Bewertungsraster.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (Abitur-grade)" icon="false" >}}
-**This Unit's exam example follows the Abitur task pattern named
-in the Unit. Some Units focus on a single Abitur-task type
-(Comprehension / Analysis / Composition / Mediation /
-Kommunikationsprüfung); the full 90-BE Klausur is rehearsed in
-Klasse 12 Units 11-12 and continues in Klasse 13 Units 7-9.**\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl13/units/unit07-the-abitur-essay-exam" >}}).
 
-### Comprehension
-
-**Composition / Comment prompt** (sample): *On the basis of the 1,000-word source provided in class, comment on the writer's central claim that *'public opinion'* and *'aggregated platform behaviour'* are increasingly conflated in contemporary democratic discourse. Write an argumentative response of 350-450 words. Use at least one integrated quote, four academic discourse markers, and a clear thesis-evidence-counter-conclusion structure.*
-
-### Analysis
-
-**Time budget.** Allocate the 90 minutes: ___ min plan; ___ min draft; ___ min review. Justify in 2 sentences.
-
-### Composition / Mediation / Reflection
-
-**Reflection prompt:** *In 200 words, reflect on your Composition rehearsal. What worked? What needs the most rehearsal before the actual Abitur?*
-
-### Additional task
-
-**(No Mediation in this Unit — dedicated Mediation Unit was Unit 6.)**
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** Reward thesis + integrated quote + 4 markers + clear structure + register match.
-**Analysis.** Reward 15 plan / 65 draft / 10 review (or similar) + Sprache check.
-**Composition.** Open.
-**Reflection.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) — Abitur-grade Klausuren" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-
-(Single-section Klausuren in this year scale to the proportional
-BE-weight of the section in the full Klausur.)
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

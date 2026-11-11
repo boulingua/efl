@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl07/units/unit07-being-a-friend/index.md",
-    "source_body_sha256": "0d51f3a8d2205b829cfb078e42eba3695e3e4ff2abd0cc85bb794432c34e716c",
+    "source_body_sha256": "c84dae7d010e875d623e4195407fd772597a587c5f76847dd7b79e2c54bf3497",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl07/units/unit07-being-a-friend/index.md",
-    "source_body_sha256": "0d51f3a8d2205b829cfb078e42eba3695e3e4ff2abd0cc85bb794432c34e716c",
+    "source_body_sha256": "c84dae7d010e875d623e4195407fd772597a587c5f76847dd7b79e2c54bf3497",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ben. Aisha, can I tell you something without you laughing?\\ Aisha. Probably not. But I'll try.\\ Ben. I think Marius is mad at me. He didn't talk to me at lunch.\\ Aisha. Did you ask him why?\\ Ben. No. I just decided he hates me now.\\ Aisha. Ben. Sometimes people just have a bad lunch. Go ask him tomorrow before you spend the whole evening building a theory.\\ Ben. That sounds annoyingly sensible.\\ Aisha. I am annoyingly sensible. That's why you tell me things."

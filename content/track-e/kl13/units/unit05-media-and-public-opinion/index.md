@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 5
 material_slug: "track-e_kl13_unit05-media-and-public-opinion"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.2 / 3.5.3.2 Leseverstehen"
-  - "3.4.3.5 / 3.5.3.5 Schreiben"
-  - "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.2 / 3.5.3.2 Leseverstehen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl13/units/unit05_media-and-public-opinion.html
+- /track_e_kl13/units/unit05_media-and-public-opinion.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl13_unit05-media-and-public-opinion.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl13_unit05-media-and-public-opinion.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.LING.general-linguistic-range.01
-    - B2.PROD.overall-written-production.01
-    - B2.REC.overall-reading-comprehension.01
-    - B2.LING.phonological-control.03
-    - B2.INT.formal-discussion.01
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.overall-written-production.01
+  - B2.REC.overall-reading-comprehension.01
+  - B2.LING.phonological-control.03
+  - B2.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl13_unit05-media-and-public-opinion
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl13/units/unit05-media-and-public-opinion-exam
+  format: existing-assessment
+  duration_minutes:
+  points:
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl13_unit05-media-and-public-opinion-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl13_unit05-media-and-public-opinion-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -74,12 +109,10 @@ course (Leistungsfach, E-LF).
 
 The class read short extracts from Zeynep Tufekci's *Twitter and Tear Gas* (2017) and Tim Wu's *The Attention Merchants* (2016). Mr. Yilmaz framed the question: *what is the difference between public opinion and aggregated platform behaviour?* The class noticed quickly that the answer is not *nothing* and not *everything*.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Causal-claim scan.** With your partner, list 3 causal claims you have heard about social media + politics. Mark each as *plausible / contested / tabloid*.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — two extracts (paraphrased)
 
 *Tufekci (2017):* Algorithmic amplification produces attention asymmetries that are not the same as public opinion. The *visible majority* on a platform is a function of the platform's ranking signals, not of the underlying population.
@@ -90,8 +123,7 @@ The class read short extracts from Zeynep Tufekci's *Twitter and Tear Gas* (2017
 
 *algorithmic amplification, attention rent, recommendation system, network effect, platform governance, content moderation, attention economy, asymmetric visibility, the visible majority, micro-targeting.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: algorithmic amplification → ranking-driven visibility; attention rent → the price of your attention; the visible majority → not the same as the actual majority.
@@ -108,75 +140,25 @@ The class read short extracts from Zeynep Tufekci's *Twitter and Tear Gas* (2017
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Media-analysis essay, 450 words.** Argue a complex causal claim about platforms and public opinion. Use 6 platform-media terms + 7 academic discourse markers + 2 cleft structures + 2 integrated quotes + 1 hedge.
 
 ### Sample
 
 *The single most useful conceptual distinction in this year's reading on platform media is Zeynep Tufekci's between *public opinion* and the *visible majority*. The available evidence suggests that algorithmic amplification produces attention asymmetries that systematically diverge from the underlying distribution of views in a given population. Accordingly, what looks like a consensus on a platform — a trending hashtag, a saturated reply space, a viral take — is not, in the strict sense, public opinion. It is a function of the platform's ranking signals interacting with user behaviour. By contrast with the older mass-media model, where editorial gatekeepers were visible and contestable, platform amplification is structurally opaque. It is precisely this opacity that makes Tim Wu's *attention merchant* genealogy useful: the business model is continuous with earlier media, but the visibility of the gatekeepers has decreased while the precision of micro-targeting has increased. More specifically, the common claim that *the algorithm is showing what people want* is, on inspection, a circular one. The algorithm is showing what its ranking signals treat as engaging; engagement-as-measured is shaped by what the algorithm previously elevated. The system is, in this regard, a feedback loop with no neutral baseline. Critics will counter, fairly, that *some* signal of underlying interest is preserved — otherwise the platform would lose users. I accept that, but the signal is filtered through ranking choices that are themselves political-economic. The honest analytical move is to decompose the visible majority into three components: underlying preferences (real but partial), ranking-induced amplification (large and shaping), and feedback-loop reinforcement (non-trivial). It is precisely this decomposition that the public discourse has been bad at. Caution is warranted; the next decade of platform governance will, in my reading, hinge on whether regulators can compel transparency on the second and third components. Without that, *public opinion* and *aggregated platform behaviour* will continue to be confused — to the political advantage of whoever sets the ranking signals.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify the writer's central causal claim in a platform-media text.
 - [ ] I can use 6+ platform-media terms.
 - [ ] I can write a 450-word media-analysis essay with a complex causal argument.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (Abitur-grade)" icon="false" >}}
-**This Unit's exam example follows the Abitur task pattern named
-in the Unit. Some Units focus on a single Abitur-task type
-(Comprehension / Analysis / Composition / Mediation /
-Kommunikationsprüfung); the full 90-BE Klausur is rehearsed in
-Klasse 12 Units 11-12 and continues in Klasse 13 Units 7-9.**\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl13/units/unit05-media-and-public-opinion-exam" >}}).
 
-### Comprehension
-
-Read twice.
-
-> "Algorithmic amplification produces attention asymmetries that are not the same as public opinion. The *visible majority* on a platform is a function of the platform's ranking signals, not of the underlying population."
-
-1. Amplification produces: ___ . 2. Visible majority is: ___ . 3. Function of: ___ . 4. NOT the same as: ___ .
-
-### Analysis
-
-Read the two paraphrased extracts above.
-
-1. Tufekci's distinction: ___ . 2. Wu's genealogical claim: ___ . 3. The shared underlying argument: ___ . 4. The political consequence: ___ .
-
-### Composition / Mediation / Reflection
-
-**Composition prompt:** *Decompose the *visible majority* concept in 350 words. Use 4 platform-media terms + 4 markers + 1 cleft.*
-
-### Additional task
-
-**Mediation prompt:** A 250-word German Plattform-regulierungs-Bericht (e.g. Bundeskartellamt) for an English-speaking platform-policy reader. (Source provided in class.)
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** 1. attention asymmetries; 2. function of platform's ranking signals; 3. ranking signals; 4. public opinion / underlying population.
-**Analysis.** 1. public opinion vs. visible majority; 2. attention merchants — business model continuous, gatekeepers less visible, micro-targeting more precise; 3. platforms shape what they appear to measure; 4. regulatory transparency as the political question.
-**Composition.** Open.
-**Mediation.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) — Abitur-grade Klausuren" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-
-(Single-section Klausuren in this year scale to the proportional
-BE-weight of the section in the full Klausur.)
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

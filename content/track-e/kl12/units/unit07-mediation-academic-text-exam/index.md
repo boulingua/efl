@@ -58,7 +58,7 @@ Read the German abstract above.
 
 **Mediation prompt:** Write 15 English sentences for the named addressee profile. Preserve hedges + use 8 reporting verbs + 1 cultural-disciplinary note bracket.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. 18 OECD countries; 2. linked tax-register data; 3. mobility in continental Europe higher than US; 4. gap widened in Germany and France between 1970s and 1990s cohorts.
 **Analysis.** 1. 1970-1990 birth cohorts; 2. Two-Sample IV estimator; 3. unobserved heterogeneity in migration cohort; 4. *vorsichtig diskutieren* — discusses policy implications with caution.
 **Composition.** suggest / are likely to / discuss with caution / limitations include.

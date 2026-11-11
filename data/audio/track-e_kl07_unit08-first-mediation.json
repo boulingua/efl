@@ -10,11 +10,9 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl07/units/unit08-first-mediation/index.md",
-    "source_body_sha256": "e846a7ec9d682f6f68af2d0cc6c6bbc2d4f0609eeca3ea36bcb6e086d8d5883d",
+    "source_body_sha256": "28af85d0295c85b537f2681d4873f3d2f8a4b89b1ba320c27b002770f9d26a17",
     "extraction_policy": "learner-input-v3",
-    "withheld_foreign_sections": [
-      "Task 2 — Mediation B: short German blog post (15 BE)"
-    ]
+    "withheld_foreign_sections": []
   },
   {
     "file": "/efl/materials/audio/track-e_kl07_unit08-first-mediation/texte2.ogg",
@@ -27,11 +25,9 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl07/units/unit08-first-mediation/index.md",
-    "source_body_sha256": "e846a7ec9d682f6f68af2d0cc6c6bbc2d4f0609eeca3ea36bcb6e086d8d5883d",
+    "source_body_sha256": "28af85d0295c85b537f2681d4873f3d2f8a4b89b1ba320c27b002770f9d26a17",
     "extraction_policy": "learner-input-v3",
-    "withheld_foreign_sections": [
-      "Task 2 — Mediation B: short German blog post (15 BE)"
-    ],
+    "withheld_foreign_sections": [],
     "tts": "Liebe Eltern, der ursprünglich für den 14. Juni geplante Wandertag wird auf den 21. Juni verschoben. Treffpunkt bleibt der Hauptbahnhof, jedoch 15 Minuten früher als ursprünglich angegeben. Wer den Zug um 7:45 Uhr verpasst, kann an der Wanderung leider nicht mehr teilnehmen. Bitte denken Sie daran, dass festes Schuhwerk und eine Regenjacke verpflichtend sind. Mit freundlichen Grüßen, die school administration (Schulleitung)."
   },
   {
@@ -45,11 +41,9 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl07/units/unit08-first-mediation/index.md",
-    "source_body_sha256": "e846a7ec9d682f6f68af2d0cc6c6bbc2d4f0609eeca3ea36bcb6e086d8d5883d",
+    "source_body_sha256": "28af85d0295c85b537f2681d4873f3d2f8a4b89b1ba320c27b002770f9d26a17",
     "extraction_policy": "learner-input-v3",
-    "withheld_foreign_sections": [
-      "Task 2 — Mediation B: short German blog post (15 BE)"
-    ],
+    "withheld_foreign_sections": [],
     "tts": "\"Hi Tom, the school hike has been moved from June 14 to June 21. We meet at the main station fifteen minutes earlier — at 7:30. If you miss the train, you can't come, so don't forget good shoes and a rain jacket.\""
   }
 ]

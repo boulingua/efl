@@ -1,0 +1,189 @@
+---
+page_type: unit
+title: "Unit 12 — Year Review and Handover"
+author: "S. Le Boulanger"
+subtitle: "Track E · Klasse 13 · Niveau E (Basisfach / Leistungsfach) · Abitur year"
+niveau: "E"
+klassenstufe: 13
+track: "e"
+unit_nr: 12
+material_slug: "track-e_kl13_unit12-year-review-and-handover"
+bildungsplan:
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.4 / 3.5.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+skills_focus:
+- writing
+- speaking
+- language_awareness
+aliases:
+- /track_e_kl13/units/unit12_year-review-and-handover.html
+presentation:
+  file: "/efl/materials/presentations/track-e_kl13_unit12-year-review-and-handover.pdf"
+  thumbnail: "/efl/materials/presentations/track-e_kl13_unit12-year-review-and-handover.png"
+worksheet:
+  file: "/efl/materials/worksheets/track-e_kl13_unit12-year-review-and-handover.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl13_unit12-year-review-and-handover.png"
+tags:
+- writing
+- speaking
+- language_awareness
+topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+  - B2.INT.formal-discussion.01
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.monitoring-and-repair.01
+  - B2.INT.correspondence.03
+  - B2.MED.managing-interaction.03
+  implements_basis: proposed
+  level_basis: derived
+audio_manifest: track-e_kl13_unit12-year-review-and-handover
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl13/units/unit12-year-review-and-handover-exam
+  format: existing-assessment
+  duration_minutes:
+  points:
+  skills:
+  - writing
+  - speaking
+  - language_awareness
+---
+
+{{< callout type="note" >}}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** E. Abitur (school-leaving examination) Klausur prep
+across the year.\
+**Course tagging:** basic course (Basisfach, E-BF) and advanced
+course (Leistungsfach, E-LF).
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can compile a graduation portfolio with 6 representative pieces from Klasse 11-13.*
+- *I can write a 400-word year-review reflection demonstrating Abitur-grade Sprache range.*
+- *I can deliver a 5-minute graduation talk + write a 300-word forward letter to my post-Abitur self.*
+
+## curriculum framework ("Bildungsplan") alignment
+
+- **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.4.3.4 / 3.5.3.4 Sprechen – zusammenhängendes monologisches Sprechen**
+- **3.4.3.5 / 3.5.3.5 Schreiben**
+- **3.4.4 / 3.5.4 Text- und Medienkompetenz**
+
+(Sources: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/GYM/E1/IK/11-12-LF> /
+<https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/GYM/E1/IK/11-12-BF>)
+
+## Lead-in story
+
+The final Unit. The Abitur is in two months. Today's task: compile a portfolio of six pieces from Klasse 11-13, write a 400-word reflection, deliver a 5-minute graduation talk, and write a 300-word forward letter to the post-Abitur self. Mr. Yilmaz said, characteristically: *the talk is the celebration; the letter is the receipt.*
+
+## 1. Activate {#activate}
+**Pick-six scan.** Open the three folders (Kl. 11, 12, 13). Pick six pieces — two per year. Label each: *proudest / surprised me / didn't work / would rewrite / connects to next step / single best paragraph*.
+
+## 2. Input {#input}
+### Final portfolio structure
+
+1. **Cover sheet** — name, year, three-line intellectual self-portrait, intended path.
+2. **Six pieces** (one-line label each, two per year).
+3. **Reflection** (400 words: arc across three years, three specific moments of progress, one disappointment, one connection to post-Abitur life).
+4. **Talk** (5 minutes; two quotes from your own writing; one cross-Unit synthesis).
+5. **Forward letter** (300 words to the post-Abitur self).
+
+### Reflection — useful frames
+
+*At the start of Klasse 11 I … / By the end of Klasse 12 I had begun to … / The piece that surprised me most was … because … / The piece that didn't work taught me that … / The thread I want to keep going is … / Whichever path I take after May, the most useful skill from these three years is …*
+
+## 3. Practise {#practise}
+### Niveau E — controlled
+
+1. Build the six labels for your portfolio.
+
+### Niveau E — productive
+
+2. Build a 8-line reflection draft using mixed tenses (past simple, past perfect, present perfect, present perfect continuous, future perfect, third conditional, mixed conditional).
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**Controlled.** Open.
+
+**Productive.** Open.
+{{< /callout >}}
+
+## 4. Produce {#apply}
+**Final portfolio + 400-word reflection + 5-min graduation talk + 300-word forward letter.** Submit the portfolio. Deliver the talk to the class. Audience gives one feedback sentence per talk. The reflection and forward letter are private to the student and Mr. Yilmaz.
+
+### Sample
+
+*At the start of Klasse 11 I wrote in three modes: translated, formal, and quietly imitating other people. By the end of Klasse 12 I had begun to write in a fourth mode that I would call *paying attention*. The piece that surprised me most is the *Late Bus, Cold Bench* essay from Klasse 10; it taught me that the smallest stylistic moves often do the most analytical work. By contrast, the piece that didn't work was my first *Macbeth* close reading; I summarised the rhetorical moves rather than analysing them. If I had written that essay six months later, I would have noticed the verse-rhythm collapse in 5.5 — what I now think is the heart of the soliloquy. By the end of the Oberstufe, I will have written somewhere between 35 and 45 essays longer than this one. The thread I want to keep going is *naming the limitation* — both in writing and in speaking. I have decided to study English literature alongside political science. Whichever way the next three years go, the most useful skill from Klasse 11-13, in my reading, is the small repeated discipline of writing one careful paragraph rather than three confident ones. I owe that, mostly, to the slow lanes of Klasse 10. The Abitur is in two months. I am, on reflection, more nervous than I was a year ago — because I now have a better sense of what I would like to be able to do, and a clearer view of what I cannot yet do. That asymmetry is, I think, the right amount of nervousness.*
+
+## 5. Reflect {#reflect}
+- [ ] I can compile a 6-piece graduation portfolio across three years.
+- [ ] I can write a 400-word year-review reflection at Abitur-grade Sprache.
+- [ ] I can deliver a 5-minute graduation talk + 300-word forward letter.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example {#exam}
+
+[Open the separate assessment]({{< relref "track-e/kl13/units/unit12-year-review-and-handover-exam" >}}).
+
+## Teacher notes {#teacher-notes}
+
+{{< downloads >}}
+
+<div class="notes">
+**Slide deck timing.** 90 minutes total (Doppelstunde — typical
+in the Oberstufe). Lead-in 6 min · Activate 8 min · Input 25 min
+· Practise 15 min · Produce 30 min · Reflect 6 min.
+
+**Differentiation — support (below Niveau E).**
+
+Complete these starters for your reflection — one specific piece or moment per line, no general claims like *I learned a lot*:
+
+- At the start of Klasse 11, my writing was ________, but the ________ piece showed me ________.
+- The piece I am proudest of is ________, because ________.
+- One thing that did not work was ________; it taught me that ________.
+- The habit I want to carry into life after the Abitur is ________.
+
+**Extension (above Niveau E / Oberstufe).**
+
+Instead of writing to your future self, write a 350-word critical self-review of your own portfolio in the analytical register you would use for a set literary text: treat your Klasse 11 writing as a "primary source", trace one measurable line of stylistic development across the three years, and name the single blind spot your current voice has not yet overcome. Then close by comparing your trajectory to that of a reflective essayist you have read (e.g. Orwell, Didion, Baldwin), arguing in two sentences where your development converges with or diverges from theirs.
+
+</div>
+
+## Common pitfalls
+
+- Reading the talk verbatim.
+- Generic claims (*I learned a lot*) without specific examples.
+- Forward letter that flatters rather than instructs the post-Abitur self.
+
+## Further reading / listening
+
+- BBC Bitesize — *Reflective writing* (later secondary).
+- British Council — *Self-evaluation* materials.

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl06/units/unit01-a-new-year-at-school/index.md",
-    "source_body_sha256": "a2f5971c5af7277680764c05e2054e44b38aa053ff6f35738e127bc7874aebdc",
+    "source_body_sha256": "fb85904561d024b85b539d9c63edb8ea5c0ec2d387237fa183723d72151a81e4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl06/units/unit01-a-new-year-at-school/index.md",
-    "source_body_sha256": "a2f5971c5af7277680764c05e2054e44b38aa053ff6f35738e127bc7874aebdc",
+    "source_body_sha256": "fb85904561d024b85b539d9c63edb8ea5c0ec2d387237fa183723d72151a81e4",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "lockers.\nthe chemistry lab.\nthe staff room.\nthe headteacher's office.\nperiod (= Stunde).\nbreak time.\nfree period (= Hohlstunde).\nhomework diary.\nblazer (BrE).\nuniform.\nprefect.\nhead pupil.\nthe bell.\nfirst period.\nlast period."

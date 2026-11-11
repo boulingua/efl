@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl09/units/unit11-debate-and-discussion/index.md",
-    "source_body_sha256": "d874abd72b86c41631249a48f3d20392e94e3b48044eddad01493414c6cfbf43",
+    "source_body_sha256": "477ef927dd0f1e1df5d121c668158b1a2612fd80a7e8597464f0b257d7916b92",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl09/units/unit11-debate-and-discussion/index.md",
-    "source_body_sha256": "d874abd72b86c41631249a48f3d20392e94e3b48044eddad01493414c6cfbf43",
+    "source_body_sha256": "477ef927dd0f1e1df5d121c668158b1a2612fd80a7e8597464f0b257d7916b92",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "motion.\nproposition.\nopposition.\nmoderator.\npoint of order.\nrebut.\nconcede.\nargument.\nevidence.\nanecdote.\nsummary."

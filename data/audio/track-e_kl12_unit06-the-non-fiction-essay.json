@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit06-the-non-fiction-essay/index.md",
-    "source_body_sha256": "f1a5e464f0d6cf9d878d38e8176f513a7f6e13cb4d73ae9e4c1e3436dea57b00",
+    "source_body_sha256": "e8df2d5960f08e8542539eaf06a740390b2135810e33558370d77c0ed81326c9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit06-the-non-fiction-essay/index.md",
-    "source_body_sha256": "f1a5e464f0d6cf9d878d38e8176f513a7f6e13cb4d73ae9e4c1e3436dea57b00",
+    "source_body_sha256": "e8df2d5960f08e8542539eaf06a740390b2135810e33558370d77c0ed81326c9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit06-the-non-fiction-essay/index.md",
-    "source_body_sha256": "f1a5e464f0d6cf9d878d38e8176f513a7f6e13cb4d73ae9e4c1e3436dea57b00",
+    "source_body_sha256": "e8df2d5960f08e8542539eaf06a740390b2135810e33558370d77c0ed81326c9",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "premise.\nclaim.\nqualification.\nanecdote-as-argument.\nregister shift.\nmoral turn.\nessayist's I.\naddress.\nperiodic sentence.\nelliptical close."

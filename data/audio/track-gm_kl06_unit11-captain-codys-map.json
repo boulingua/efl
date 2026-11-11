@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit11-captain-codys-map/index.md",
-    "source_body_sha256": "089e135f4c295d4a84a76a5bae503ae8e98cc53f0cdf2ba4a95e38a38ecbaec1",
+    "source_body_sha256": "9b69d74b2d3b6c26d22da86519929b5130df42b0b6d17b8524f3a0a4008c3903",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit11-captain-codys-map/index.md",
-    "source_body_sha256": "089e135f4c295d4a84a76a5bae503ae8e98cc53f0cdf2ba4a95e38a38ecbaec1",
+    "source_body_sha256": "9b69d74b2d3b6c26d22da86519929b5130df42b0b6d17b8524f3a0a4008c3903",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

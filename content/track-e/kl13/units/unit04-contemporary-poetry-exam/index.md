@@ -64,7 +64,7 @@ Read the three forms paraphrased above.
 
 **Mediation prompt:** A 200-word German literary-essay paragraph on contemporary Lyrik. Mediate for an English-speaking poetry magazine. (Source provided in class.)
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. broken syntax + white space as meaning; 2. uses found material (court, government, treaty); 3. multiple speakers without quote marks; 4. refusal of the unified Romantic *I*.
 **Analysis.** 1. white space as part of speaker's silence; 2. archival material confronts the lyric *I*; 3. boundary between speakers is the formal site of meaning; 4. structurally compromised *I*.
 **Composition.** Open.

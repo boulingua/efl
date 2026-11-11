@@ -9,17 +9,17 @@ track: "gm"
 unit_nr: 5
 material_slug: "track-gm_kl09_unit05-media-literacy"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.1 Hör-/Hörsehverstehen"
-  - "3.2.3.2 Leseverstehen"
-  - "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
-  - "3.2.4 Text- und Medienkompetenz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.1 Hör-/Hörsehverstehen"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.2.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - listening
-  - language_awareness
+- reading
+- listening
+- language_awareness
 aliases:
-  - /track_gm_kl09/units/unit05_media-literacy.html
+- /track_gm_kl09/units/unit05_media-literacy.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl09_unit05-media-literacy.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl09_unit05-media-literacy.png"
@@ -35,14 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.LING.orthographic-control.01
-    - A2.REC.identifying-cues-and-inferring.03
-    - A2.MED.overall-mediation.02
-    - A2.REC.overall-reading-comprehension.02
-    - A2.LING.general-linguistic-range.02
+  - A2.LING.orthographic-control.01
+  - A2.REC.identifying-cues-and-inferring.03
+  - A2.MED.overall-mediation.02
+  - A2.REC.overall-reading-comprehension.02
+  - A2.LING.general-linguistic-range.02
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl09_unit05-media-literacy
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl09/units/unit05-media-literacy-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - listening
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl09_unit05-media-literacy-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl09_unit05-media-literacy-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,12 +107,10 @@ audio_manifest: track-gm_kl09_unit05-media-literacy
 
 Eli's uncle forwarded a viral post. The post claimed a new wonder-fruit could solve everything from sleep problems to maths grades. Eli read it twice. "Mr. Yilmaz," he said, "is *every fruit* like this?" Mr. Yilmaz smiled. "No," he said. "But every viral post is. Welcome to media literacy."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Headline scan.** Three real-looking headlines on the slide. With your partner, mark each one *likely true / likely false / would need to check*.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — media literacy
 
 *source, claim, evidence, fact-check, misinformation, disinformation, bias, headline, clickbait, study, statistic, anecdote, primary source, peer-reviewed, fake news, viral.*
@@ -90,8 +123,7 @@ Eli's uncle forwarded a viral post. The post claimed a new wonder-fruit could so
 - *Critics **appear to** disagree.*
 Hedged language is what careful writing sounds like — neither lying nor over-claiming.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Choose: *seems / claims / appears*: This study __________ to be peer-reviewed. The article __________ to support the claim, but the link is broken.
@@ -108,70 +140,25 @@ Hedged language is what careful writing sounds like — neither lying nor over-c
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Mini-review, 120 words.** Pick a viral post or article. Write a short review: *Source? Evidence? Bias?* + *what would change my mind*. Use 3 hedged claims.
 
 ### Sample
 
 *The article I read seems to claim that a new fruit improves sleep, mood, and maths grades. The source is a small website I have never seen before. The article appears to cite a study, but the link is broken. The language is highly enthusiastic, which is a typical clickbait sign. I am not saying the fruit is bad — I am saying I cannot tell from this article. What would change my mind: a peer-reviewed study, a named researcher, and one critical voice in the article itself.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can spot 3 signs of misinformation.
 - [ ] I can use *seem to / appear to / claim to*.
 - [ ] I can write a 120-word media-literacy review.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl09/units/unit05-media-literacy-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "The post seems to claim that a new fruit improves sleep, mood, and maths grades. The article appears to cite a study, but the link is broken. Several experts claim to have tested the fruit and found no such effect."
-
-1. The post claims: ___ . 2. The link: ___ . 3. Experts: ___ . 4. Effect found: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read.
-
-> "Headline: 'WONDER FRUIT FIXES YOUR SLEEP.' The article cites no study. The named expert is not on any university website. The website itself was registered three weeks ago. None of these signs is a direct lie. Together, they are a warning."
-
-1. Headline style: ___ . 2. Study cited: ___ . 3. Expert verifiable: ___ . 4. Site age: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Hedged claim.**
-
-1. The article __________ (seem) to support the claim.
-2. Several experts __________ (claim) the post.
-3. The author __________ (appear) to be a real person.
-4. The fruit __________ (be reported) to improve sleep.
-
-### Task 4 — Writing (13 BE)
-
-Write 120 words: a media-literacy review of a viral post. Use 3 hedged claims.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** improvements in sleep / mood / maths grades; broken; have tested it; no such effect.
-**T2.** clickbait / exaggerated; no; not on any university website; three weeks old.
-**T3.** seems / dispute (or claim against) / appears / is reported.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

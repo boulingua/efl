@@ -54,7 +54,7 @@ Read the *Brave New World* paraphrase and answer:
 
 **Mediation prompt:** A German review of *The Handmaid's Tale* describes the novel as *'eine Warnung mit langer Halbwertszeit'*. Mediate a 250-word German source for an English-speaking literary magazine. (Source provided in class.)
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. watches AND broadcasts; 2. narrow the range of thought; 3. shrinking vocabulary (Newspeak); 4. Orwell suppresses dissent through linguistic narrowing; Huxley dilutes dissent through pleasure.
 **Analysis.** 1. in the bottle (pre-natal conditioning); 2. dissolves discontent without argument; 3. weaponised — pleasure is the control lever; 4. advertising-bright / consumer-coded register.
 **Composition.** Open. Reward thesis + integrated quotes.

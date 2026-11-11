@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl06/units/unit12-year-end-festival/index.md",
-    "source_body_sha256": "07cf0eb791848a1c5feb1c89f1435e5b4dbcd235612c9748d62135a164f36139",
+    "source_body_sha256": "96cd671e3e6cfbe5375e2883051491614fc979080a43d798f5b7939edc733ec2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl06/units/unit12-year-end-festival/index.md",
-    "source_body_sha256": "07cf0eb791848a1c5feb1c89f1435e5b4dbcd235612c9748d62135a164f36139",
+    "source_body_sha256": "96cd671e3e6cfbe5375e2883051491614fc979080a43d798f5b7939edc733ec2",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "stall.\nstand.\nperformance.\nsnack table.\nraffle.\ndecoration.\nbanner.\nhosting.\nMC (master of ceremonies).\nvolunteers.\nheadphones.\nmicrophone.\napplause.\ncrowd.\nqueue.\ndemonstration."

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit09-youth-protest-movements/index.md",
-    "source_body_sha256": "c50c029d30443ffdbce85849c5be45b30215e548f7f6e05f3e959369d850c67a",
+    "source_body_sha256": "91702349f9821beaab777907ef213897e90b5829bf486f0f26696e78c3811780",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit09-youth-protest-movements/index.md",
-    "source_body_sha256": "c50c029d30443ffdbce85849c5be45b30215e548f7f6e05f3e959369d850c67a",
+    "source_body_sha256": "91702349f9821beaab777907ef213897e90b5829bf486f0f26696e78c3811780",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

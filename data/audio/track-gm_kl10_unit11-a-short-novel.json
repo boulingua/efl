@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit11-a-short-novel/index.md",
-    "source_body_sha256": "0cd5ea02ab40824f88c6a641f2493f20898682e1c0d14dd0389c9ac6753c9334",
+    "source_body_sha256": "84ccdfc6a48c5bf9f56dd1fddb43f0eac8ffc80eea48a874dc5e75b5e0bd8519",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit11-a-short-novel/index.md",
-    "source_body_sha256": "0cd5ea02ab40824f88c6a641f2493f20898682e1c0d14dd0389c9ac6753c9334",
+    "source_body_sha256": "84ccdfc6a48c5bf9f56dd1fddb43f0eac8ffc80eea48a874dc5e75b5e0bd8519",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

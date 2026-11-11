@@ -9,17 +9,17 @@ track: "e"
 unit_nr: 6
 material_slug: "track-e_kl08_unit06-opinion-writing"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.2 Leseverstehen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
-  - "3.2.4 Text- und Medienkompetenz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.2.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl08/units/unit06_opinion-writing.html
+- /track_e_kl08/units/unit06_opinion-writing.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl08_unit06-opinion-writing.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl08_unit06-opinion-writing.png"
@@ -35,14 +35,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.LING.general-linguistic-range.03
-    - A2.PROD.overall-oral-production.01
-    - A2.REC.reading-for-information-and-argument.09
-    - A2.MED.overall-mediation.02
-    - A2.PROD.reports-and-essays.01
+  - A2.LING.general-linguistic-range.03
+  - A2.PROD.overall-oral-production.01
+  - A2.REC.reading-for-information-and-argument.09
+  - A2.MED.overall-mediation.02
+  - A2.PROD.reports-and-essays.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl08_unit06-opinion-writing
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl08/units/unit06-opinion-writing-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl08_unit06-opinion-writing-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl08_unit06-opinion-writing-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -72,12 +107,10 @@ audio_manifest: track-e_kl08_unit06-opinion-writing
 
 Hawa's class is writing opinion pieces for a school blog. The topic: *Should pupils have a say in choosing school books?* Mr. Ade pinned a single-page guide on the wall: *Claim. One reason. One counter. Conclusion.* Hawa stared at it. "Four moves," she said. "That's almost a dance."
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Claim spotting.** Slide shows three short paragraphs. With your partner, underline the one sentence in each that is the writer's main *claim*.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — model opinion text
 
 *In my view, pupils should help choose at least one of the books we read each year. Firstly, when students are part of the choice, they are more likely to actually read the book. Secondly, the school benefits because more voices are involved. On the other hand, teachers know the curriculum better than students do, and that knowledge matters. In conclusion, a small say — perhaps one book in three — would be a fair compromise.*
@@ -91,8 +124,7 @@ Hawa's class is writing opinion pieces for a school blog. The topic: *Should pup
 
 Signposts: *In my view / I think / firstly / secondly / on the other hand / however / on the contrary / in contrast / in conclusion / overall.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: claim — c, reason — r, counter — co, conclusion — cn. Label each sentence in the model text.
@@ -109,68 +141,25 @@ Signposts: *In my view / I think / firstly / secondly / on the other hand / howe
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Opinion paragraph, 120 words.** Choose: *Should school start later? Should pupils choose one book a year? Should school clubs be free?* Use the four-move structure and three signposts.
 
 ### Sample
 
 *In my view, school clubs should be free for everyone. Firstly, paying makes some clubs feel like extra school, when they should feel like a release valve. Secondly, free clubs reach pupils whose families cannot pay, which is the whole point. On the other hand, equipment costs money, and someone has to pay for it. In conclusion, the school could ask for a small *contribution if you can*, but never block a pupil from joining because of cost.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify claim, reason, counter, conclusion in a text.
 - [ ] I can structure an opinion text with three signposts.
 - [ ] I can write a 120-word opinion paragraph.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl08/units/unit06-opinion-writing-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "In my view, school should start later. Firstly, teenagers' biological clocks are different from adults'. Secondly, students who sleep more do better in school. On the other hand, many parents leave for work early. In conclusion, a thirty-minute later start would help most."
-
-1. Claim: ___ . 2. First reason: ___ . 3. Counter: ___ . 4. Conclusion: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the model text above. Answer.
-
-1. Main claim: ___ . 2. Two reasons: ___ . 3. Counter: ___ . 4. Final position: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Insert the right signpost.**
-
-1. ___ , I think the rule is unfair. (opening)
-2. ___ , the teachers know the curriculum. (counter)
-3. ___ , a small say would be fair. (conclusion)
-4. ___ , students would read the book. (additional reason)
-
-### Task 4 — Writing (13 BE)
-
-Write 120 words: an opinion paragraph on a school topic. Use the four-move structure.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** school should start later, biological clocks, parents leave for work, 30 min later start.
-**T2.** pupils should help choose at least one book, more likely to read + more voices involved, teachers know curriculum better, small say (1 in 3) would be fair.
-**T3.** In my view / However / In conclusion / Secondly.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

@@ -44,9 +44,9 @@ Leistungsfach (advanced course): 40/60.
 
 ### Comprehension
 
-Read twice.
+Read this fictional policy-style passage twice. Its study, sample and findings are invented for the exercise; it is not a published report.
 
-> "Der Bericht untersucht Bildungsgerechtigkeit zwischen 2010 und 2025 mit einer Stichprobe von 1,2 Millionen Schülerinnen und Schülern. Die Korrelation zwischen sozio-ökonomischem Hintergrund und PISA-Ergebnis hat in den Stadtstaaten leicht abgenommen, in den Flächenländern ist sie stabil geblieben. Eine kausale Interpretation ist nicht möglich."
+> Der folgende fiktive Bericht untersucht die Entwicklung der Bildungsgerechtigkeit in Deutschland zwischen 2010 und 2025 und bezieht sich auf eine bundesweite Stichprobe von 1,2 Millionen Schülerinnen und Schülern. Methodisch nutzen wir mehrebenenanalytische Modelle. Die Ergebnisse legen nahe, dass die Korrelation zwischen sozio-ökonomischem Hintergrund und PISA-Ergebnis in den Stadtstaaten Berlin, Hamburg und Bremen leicht abgenommen hat, in den Flächenländern hingegen stabil geblieben ist. Bildungspolitische Implikationen diskutieren wir vorsichtig. Eine kausale Interpretation der Korrelationen ist auf Basis der vorliegenden Daten nicht möglich.
 
 1. Period: ___ . 2. Sample size: ___ . 3. Stadtstaaten finding: ___ . 4. Flächenländer finding: ___ .
 
@@ -64,13 +64,13 @@ Read the German source above.
 
 ### Additional task
 
-**Mediation prompt:** Write 18 English sentences for the OECD addressee. Preserve hedges + use 10 reporting verbs + 3 cultural-note brackets.
+**Mediation prompt:** Write six to eight English sentences for an English-speaking comparative-education researcher. Identify the source as fictional; preserve the study period, sample, method, regional comparison, hedge and causal limitation. Explain institutional terms where necessary. Do not add facts absent from the source.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. 2010-2025; 2. 1.2 million school students; 3. correlation slightly decreased; 4. correlation stable.
 **Analysis.** 1. nationwide; 2. multilevel modelling; 3. *legen nahe* → *suggest*; 4. *eine kausale Interpretation … nicht möglich*.
-**Composition.** *Stadtstaaten (German city-states: Berlin, Hamburg, Bremen) / Flächenländer (federal states with rural areas) / educational equity (Bildungsgerechtigkeit) / multilevel modelling (Mehrebenenanalyse).*
-**Mediation.** Open.
+**Composition.** *Stadtstaaten (German city-states: Berlin, Hamburg, Bremen) / Flächenländer (German federal states other than the three city-states) / educational equity (Bildungsgerechtigkeit) / multilevel modelling (Mehrebenenanalyse).*
+**Mediation.** Accept a concise, faithful response that includes the listed source information, preserves *suggest* and the causal limitation, and identifies the source as fictional. Do not reward invented details or a reporting-verb quota.
 {{< /callout >}}
 
 {{< callout type="tip" title="grading scale (Notenschlüssel) — Abitur-grade Klausuren" collapse="true" >}}

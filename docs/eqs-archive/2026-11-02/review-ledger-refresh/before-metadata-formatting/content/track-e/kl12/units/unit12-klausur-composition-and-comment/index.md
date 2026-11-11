@@ -1,0 +1,196 @@
+---
+page_type: unit
+title: "Unit 12 — Klausur: Composition and Comment"
+author: "S. Le Boulanger"
+subtitle: "Track E · Klasse 12 · Niveau E (Basisfach / Leistungsfach)"
+niveau: "E"
+klassenstufe: 12
+track: "e"
+unit_nr: 12
+material_slug: "track-e_kl12_unit12-klausur-composition-and-comment"
+bildungsplan:
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.3.6 / 3.5.3.6 Sprachmittlung"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+skills_focus:
+- writing
+- language_awareness
+aliases:
+- /track_e_kl12/units/unit12_klausur-composition-and-comment.html
+presentation:
+  file: "/efl/materials/presentations/track-e_kl12_unit12-klausur-composition-and-comment.pdf"
+  thumbnail: "/efl/materials/presentations/track-e_kl12_unit12-klausur-composition-and-comment.png"
+worksheet:
+  file: "/efl/materials/worksheets/track-e_kl12_unit12-klausur-composition-and-comment.pdf"
+  thumbnail: "/efl/materials/worksheets/track-e_kl12_unit12-klausur-composition-and-comment.png"
+tags:
+- writing
+- language_awareness
+topic: text-medien
+curriculum:
+  framework: boulingua-curriculum
+  level: B2
+  implements:
+  - B2.LING.phonological-control.03
+  - B2.PROD.compensating.01
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.creative-writing.01
+  - B2.PRAG.coherence-and-cohesion.04
+  implements_basis: proposed
+  level_basis: derived
+audio_manifest: track-e_kl12_unit12-klausur-composition-and-comment
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl12/units/unit12-klausur-composition-and-comment-exam
+  format: existing-assessment
+  duration_minutes: 20
+  points: 90
+  skills:
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file: 
+    /efl/materials/worksheets/track-e_kl12_unit12-klausur-composition-and-comment-teacher.pdf
+  thumbnail: 
+    /efl/materials/worksheets/track-e_kl12_unit12-klausur-composition-and-comment-teacher.png
+---
+
+{{< callout type="note" >}}
+**Template:** Activate → Input → Practise → Produce → Reflect.\
+**Niveau:** E. Klausur (assessment) at Niveau E (90 BE).\
+**Course tagging:** basic course (Basisfach, E-BF) and advanced
+course (Leistungsfach, E-LF).
+{{< /callout >}}
+
+{{< downloads >}}
+
+## Learning objectives
+
+- *I can complete a Klausur Composition section (~18 BE) — argument or creative response — under timed conditions.*
+- *I can complete a Klausur Mediation section (~30 BE) for a named English-speaking addressee.*
+- *I can manage time across the second half of the Klausur.*
+
+## curriculum framework ("Bildungsplan") alignment
+
+- **3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen**
+- **3.4.3.5 / 3.5.3.5 Schreiben**
+- **3.4.3.6 / 3.5.3.6 Sprachmittlung**
+- **3.4.4 / 3.5.4 Text- und Medienkompetenz**
+
+(Sources: <https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/GYM/E1/IK/11-12-LF> /
+<https://www.bildungsplaene-bw.de/,Lde/LS/BP2016BW/ALLG/GYM/E1/IK/11-12-BF>)
+
+## Lead-in story
+
+Second of two Klausur-prep Units. Today's focus: Composition + Mediation — the two sections most reliant on producing original text under time pressure. The class is using the same source as Unit 11 to build a complete 90-BE Klausur experience across the two Units.
+
+## 1. Activate {#activate}
+**Composition-vs.-Mediation budget scan.** Of the remaining ~110 min, how do you split 18 BE (Composition) vs. 30 BE ("Mediation")?
+
+## 2. Input {#input}
+### Composition section — pattern
+
+Typical Composition tasks:
+1. *Discuss / comment* — 250-300 words, your own argument grounded in the source.
+2. *Creative response* — letter, diary entry, speech: shifts genre but keeps the source's argumentative weight.
+
+**Sprache check:** clear thesis in first 2 sentences, evidence + counter, conclusion. Academic discourse markers + cleft + 1 integrated quote.
+
+### Mediation section — pattern
+
+Typical Mediation tasks:
+1. *For a named English-speaking addressee, mediate the German source* in ~250 words / 12-15 sentences.
+2. **Sprache check:** preserve hedges + modal nuance; drop ceremony; use 7+ reporting verbs; add cultural notes where needed.
+
+Mediation is Inhalt-weighted but Sprache-checked. Both axes count.
+
+## 3. Practise {#practise}
+### Niveau E — controlled
+
+1. Match Composition task → likely word count: *discuss / comment* → 250-300 words; *creative response* → 250-300 words.
+2. T or F: Mediation rewards literal translation; Composition rewards original argument.
+
+### Niveau E — productive
+
+3. Outline a 250-word Composition response to a *comment on the writer's central claim* prompt.
+
+{{< callout type="tip" title="Answer key" collapse="true" >}}
+**Controlled.** 1. all true.
+2. F (Mediation rewards addressee-fit + register, not literal translation), T.
+
+**Productive.** 3. Open.
+{{< /callout >}}
+
+## 4. Produce {#apply}
+**Klausur sections, timed.** 110 minutes total. 50 min Composition (18 BE) + 50 min Mediation (30 BE) + 10 min review. Submit. Class debriefs collectively with focus on production speed under time.
+
+### Sample
+
+(See *Reflection on the rehearsal* — the production task is the timed sections themselves.)
+
+## 5. Reflect {#reflect}
+- [ ] I can complete a Composition section under timed conditions.
+- [ ] I can complete a Mediation section for a named addressee.
+- [ ] I can manage time across the second half of the Klausur.
+
+**One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
+
+## Exam example {#exam}
+
+[Open the separate assessment]({{< relref "track-e/kl12/units/unit12-klausur-composition-and-comment-exam" >}}).
+
+## Teacher notes {#teacher-notes}
+
+{{< downloads >}}
+
+<div class="notes">
+**Slide deck timing.** 90 minutes total (Doppelstunde). Lead-in
+6 min · Activate 8 min · Input 25 min · Practise 15 min · Produce
+30 min · Reflect 6 min.
+
+**Differentiation — support (below Niveau E).**
+
+Sentence frames to draft the Composition argument (fill the gaps, then keep writing):
+
+- Thesis: *In this text, the writer argues that our attention has become a resource that companies compete to capture, and on the whole I find this claim ___.*
+- Add evidence: *One reason this matters is that ___; the writer shows this when they point to ___.*
+- Concede, then push back (hedge): *It could be argued that ___; however, this seems to overlook the fact that ___.*
+- Conclusion: *Taken together, these points suggest that ___, which is why readers should ___.*
+
+**Extension (above Niveau E / Oberstufe).**
+
+Write a 300-word critical comparison that sets the writer's account of the attention economy against one earlier warning about mass media (for example, Postman's argument that entertainment reshapes public thought, or Huxley's fear of a population distracted into passivity). Argue whether today's attention markets represent a genuinely new mechanism or merely an old anxiety in digital dress, and defend your position using at least two cleft sentences, precise concessive markers, and evaluative rather than descriptive language throughout.
+
+</div>
+
+## Common pitfalls
+
+- Spending 70 min on Composition because it feels more creative — Mediation is 30 BE, not 18.
+- Carrying source language directly into Composition (plagiarism risk).
+- Dropping reporting-verb variety in Mediation under time pressure.
+
+## Further reading / listening
+
+- Bildungsplan-aligned Klausur collections.
+- Goethe-Institut Sprachmittlungs-Beispielaufgaben Oberstufe.

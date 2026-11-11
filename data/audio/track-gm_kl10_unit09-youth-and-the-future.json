@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit09-youth-and-the-future/index.md",
-    "source_body_sha256": "7ab42df9967aa3b26b2da85c312878c4b3bd30df84f0cd9e0667f402509f0c38",
+    "source_body_sha256": "15ce647b68edc23a84f5da509406a0ca53a5f3f3c2df4abe449ad74bdb87f355",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit09-youth-and-the-future/index.md",
-    "source_body_sha256": "7ab42df9967aa3b26b2da85c312878c4b3bd30df84f0cd9e0667f402509f0c38",
+    "source_body_sha256": "15ce647b68edc23a84f5da509406a0ca53a5f3f3c2df4abe449ad74bdb87f355",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

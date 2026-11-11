@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl07/units/unit01-first-day-back/index.md",
-    "source_body_sha256": "b85bb7a2faa5a2cb3f4b37485cd1ed498a415e32b85c5e3e0884c5ccc7e54d92",
+    "source_body_sha256": "6b3da890e148a14a11e5fbab57732f355b14bd66fcebc93cec02147b28840274",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl07/units/unit01-first-day-back/index.md",
-    "source_body_sha256": "b85bb7a2faa5a2cb3f4b37485cd1ed498a415e32b85c5e3e0884c5ccc7e54d92",
+    "source_body_sha256": "6b3da890e148a14a11e5fbab57732f355b14bd66fcebc93cec02147b28840274",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "Ms. Reyes. Welcome back, Year 7. Aisha, you go first. One good thing about your summer — go.\\ Aisha. I went to my grandmother's village for two weeks. We made bread every morning.\\ Ms. Reyes. Bread every morning? That sounds like work. Did you enjoy it?\\ Aisha. Yes, but my arms got tired.\\ Ms. Reyes. Ben?\\ Ben. I, um — I built a bike ramp in the garden. With my cousin.\\ Ms. Reyes. And did it work?\\ Ben. It worked twice. Then it broke.\\ Ms. Reyes. Twice is enough for a story."

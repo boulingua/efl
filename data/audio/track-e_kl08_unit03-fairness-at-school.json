@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl08/units/unit03-fairness-at-school/index.md",
-    "source_body_sha256": "7a68cc01b92ceb2b17a06fb2f5368e5addb9b6f3c7e3665c4088594344b9a3f4",
+    "source_body_sha256": "856b7944d1d855ba40eaafb8e94c4b83cf822f6fed1d83bdba14dde7e1e0ca2f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl08/units/unit03-fairness-at-school/index.md",
-    "source_body_sha256": "7a68cc01b92ceb2b17a06fb2f5368e5addb9b6f3c7e3665c4088594344b9a3f4",
+    "source_body_sha256": "856b7944d1d855ba40eaafb8e94c4b83cf822f6fed1d83bdba14dde7e1e0ca2f",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "rule.\nrights.\nequal.\nequality.\nprivilege.\ndiscrimination.\nexception.\nvote.\ndebate.\nagree.\ndisagree.\nvalid.\nbiased.\nneutral.\ninclusive."

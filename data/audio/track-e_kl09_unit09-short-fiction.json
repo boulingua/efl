@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl09/units/unit09-short-fiction/index.md",
-    "source_body_sha256": "303492a8cff045400c2eff105e09e9051d589cea4f805bf8a31402fc976da014",
+    "source_body_sha256": "a71945273f6d9eb17f03dcb58547e25653cc5d3907068660f0a264fa79494fee",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl09/units/unit09-short-fiction/index.md",
-    "source_body_sha256": "303492a8cff045400c2eff105e09e9051d589cea4f805bf8a31402fc976da014",
+    "source_body_sha256": "a71945273f6d9eb17f03dcb58547e25653cc5d3907068660f0a264fa79494fee",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

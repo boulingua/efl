@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl09/units/unit08-inequality-and-voice/index.md",
-    "source_body_sha256": "f4ae0ff54cfdf0264dd4dcb62813ad9d3f8de19114f50ae1671bcc1c40b1d30f",
+    "source_body_sha256": "1c3db02da65398caa8c60b5f258e949c6a43e34e6db580eeb1d6c6ae0af69c52",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl09/units/unit08-inequality-and-voice/index.md",
-    "source_body_sha256": "f4ae0ff54cfdf0264dd4dcb62813ad9d3f8de19114f50ae1671bcc1c40b1d30f",
+    "source_body_sha256": "1c3db02da65398caa8c60b5f258e949c6a43e34e6db580eeb1d6c6ae0af69c52",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "inequality.\nfairness.\naccess.\nopportunity.\nprivilege.\ndisadvantage.\nsupport.\nscholarship.\nsubsidy.\nfree school meals.\nsocial mobility.\ndiscrimination.\nexclusion.\ninclusion.\nvoice.\nrepresentation."

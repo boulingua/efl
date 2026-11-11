@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 2
 material_slug: "track-gm_kl05_unit02-my-family"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.5 Schreiben"
-  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
-  - "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.5 Schreiben"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.1.3.8 Verfügen über sprachliche Mittel – Grammatik"
 skills_focus:
-  - speaking
-  - writing
-  - language_awareness
+- speaking
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl05/units/unit02_my-family.html
+- /track_gm_kl05/units/unit02_my-family.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl05_unit02-my-family.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl05_unit02-my-family.png"
@@ -34,14 +34,48 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.conversation.02
-    - A1.LING.orthographic-control.01
-    - A1.PROD.sustained-monologue-describing-experience.02
-    - A1.INT.correspondence.01
-    - A1.MED.encouraging-conceptual-talk.01
+  - A1.INT.conversation.02
+  - A1.LING.orthographic-control.01
+  - A1.PROD.sustained-monologue-describing-experience.02
+  - A1.INT.correspondence.01
+  - A1.MED.encouraging-conceptual-talk.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl05_unit02-my-family
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl05/units/unit02-my-family-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - speaking
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-gm_kl05_unit02-my-family-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl05_unit02-my-family-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -73,14 +107,12 @@ paper. Frida the fox looks at the drawing through the window. "Am
 I in the family?" Frida asks. Mia thinks for a moment. Then she
 draws a small fox in the corner of the page.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Family tree quick-draw.** In your notebook, draw three boxes.
 Write a name in each box. One person from your family. Tell your
 partner who they are.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — family
 
 | English | Deutsch |
@@ -108,8 +140,7 @@ For plural nouns ending in *-s*, just add an apostrophe:
 
 - *my parents' car* = the car of my parents.
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 **A. Match.** 1. mother — a. Schwester. 2. brother — b. Onkel.
@@ -128,8 +159,7 @@ For plural nouns ending in *-s*, just add an apostrophe:
 4. My friends' school.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Family-tree poster.** On A4 paper, draw and label four family
 members. Underneath, write four sentences using *to be* and the
 possessive 's.
@@ -140,8 +170,7 @@ possessive 's.
 > teacher. My brother's name is Theo. He is eleven. We have a
 > cat. The cat's name is Pepper.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name eight family words.
 - [ ] I can use the possessive 's correctly.
 - [ ] I can write four sentences about my family.
@@ -149,64 +178,11 @@ possessive 's.
 **One thing in your notebook:** *Who is the youngest person in
 your family?*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl05/units/unit02-my-family-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-The teacher reads a short family description twice.
-
-> "This is the Schmidt family. The mother's name is Petra. She is
-> a teacher. The father is Jan. He is a baker. They have two
-> children: Lea and Tom. The dog's name is Rex."
-
-1. The mother is a __________ . (teacher / nurse)
-2. The father is a __________ . (baker / butcher)
-3. The children are __________ and __________ .
-4. The dog's name is __________ .
-
-### Task 2 — Reading (8 BE)
-
-Read about Mia's family and write **true** or **false**.
-
-> "I have one brother, Theo. He is eleven. My mother is a doctor.
-> My father works at home. We have a cat named Pepper."
-
-1. Mia has two brothers. (T / F)
-2. Theo is older than Mia. (T / F)
-3. Her mother is a teacher. (T / F)
-4. They have a cat. (T / F)
-
-### Task 3 — Use of English (8 BE)
-
-**Possessive 's** — fill in.
-
-1. ___ (Mia) brother is Theo.
-2. ___ (Theo) mother is a doctor.
-3. ___ (the cat) name is Pepper.
-4. ___ (my parents) car is small.
-
-### Task 4 — Writing (6 BE)
-
-Write 4 sentences about your family: how many people, names,
-ages, one job.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** teacher, baker, Lea / Tom, Rex.\
-**T2.** F, T, F, T.\
-**T3.** Mia's, Theo's, the cat's, my parents'.\
-**T4.** Open. 1 BE per correct sentence + 2 BE language.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

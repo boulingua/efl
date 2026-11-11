@@ -58,7 +58,7 @@ Leistungsfach (advanced course): 40/60.
 
 **(No written Mediation in this Unit.)**
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** Open. Reward structure + register + addressee-awareness + conversation-management.
 **Analysis.** Open. Reward Sprache range + idiomaticity + register-sensitivity.
 **Composition.** Open.

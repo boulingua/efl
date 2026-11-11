@@ -54,7 +54,7 @@ Read the paraphrase above.
 
 **Mediation prompt:** A 200-word German Feuilleton-essay opener (e.g. from Zeit-Magazin) for an English-speaking literary-essay reader. (Source provided in class.)
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. small autobiographical scene of code-switching; 2. anecdote becomes argument about voice and authenticity; 3. moral turn — *single voice* is a political demand, not a personal achievement; 4. return to opening scene with new resonance.
 **Analysis.** 1. anecdote → argument → moral turn; 2. *single voice* is a political demand, not a personal achievement; 3. demand for one voice is a political problem; 4. return to autobiographical scene with new weight.
 **Composition.** Open.

@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 10
 material_slug: "track-gm_kl09_unit10-application-letter"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.2 Leseverstehen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.2 Leseverstehen"
+- "3.2.3.5 Schreiben"
+- "3.2.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_gm_kl09/units/unit10_application-letter.html
+- /track_gm_kl09/units/unit10_application-letter.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl09_unit10-application-letter.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl09_unit10-application-letter.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.LING.general-linguistic-range.02
-    - A2.PROD.overall-oral-production.01
-    - A2.REC.reading-for-information-and-argument.03
-    - A2.REC.reading-for-orientation.04
-    - A2.PRAG.coherence-and-cohesion.01
+  - A2.LING.general-linguistic-range.02
+  - A2.PROD.overall-oral-production.01
+  - A2.REC.reading-for-information-and-argument.03
+  - A2.REC.reading-for-orientation.04
+  - A2.PRAG.coherence-and-cohesion.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl09_unit10-application-letter
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl09/units/unit10-application-letter-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl09_unit10-application-letter-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl09_unit10-application-letter-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +105,10 @@ audio_manifest: track-gm_kl09_unit10-application-letter
 
 Eli is applying for a one-week summer job at a small hotel in Cornwall. The hotel wants *enthusiastic, responsible, English-speaking helper*. Eli ticks *enthusiastic* and *English-speaking* with confidence. *Responsible*, he hopes, will be obvious from the letter. He has been writing the letter for two days. It now has six sentences.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Job-ad scan.** On the slide is a short job ad. With your partner, list 5 requirements and 1 piece of information that tells you what to put in your letter.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — sample job ad
 
 *Summer Helper Wanted, The Old Cottage Hotel, Cornwall. Three weeks, July. Duties: helping at breakfast, cleaning rooms, simple admin. We are looking for an enthusiastic, responsible, English-speaking person aged 16+. Please send a short letter of application by 15 May to manager@oldcottagehotel.example.*
@@ -95,8 +128,7 @@ Eli is applying for a one-week summer job at a small hotel in Cornwall. The hote
 - No slang.
 - Polite hedging: *I would be grateful if … / Should you require further information, …*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Match: *Yours faithfully* — Sir/Madam; *Yours sincerely* — Ms Smith.
@@ -113,8 +145,7 @@ Eli is applying for a one-week summer job at a small hotel in Cornwall. The hote
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Application letter, 150 words.** Write a full letter for the *Summer Helper* ad above. Use formal register and the six structural elements.
 
 ### Sample
@@ -126,60 +157,18 @@ Eli is applying for a one-week summer job at a small hotel in Cornwall. The hote
 *Yours faithfully,*
 *Eli Becker*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can read a job ad and pick out 5 requirements.
 - [ ] I can write a 150-word formal application letter.
 - [ ] I can keep formal register throughout.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl09/units/unit10-application-letter-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice.
-
-> "The Old Cottage Hotel is looking for a summer helper for three weeks in July. Duties include helping at breakfast, cleaning rooms, and simple admin. The person should be 16 or older, enthusiastic, and an English speaker. Applications by 15 May."
-
-1. Length: ___ . 2. Three duties: ___ . 3. Age: ___ . 4. Deadline: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the sample application letter above. Answer.
-
-1. Position: ___ . 2. Age: ___ . 3. One previous experience: ___ . 4. Sign-off: ___ .
-
-### Task 3 — Use of English (10 BE)
-
-**Make formal.**
-
-1. *Hi, I'd love the job.* → ___
-2. *I'm 16.* → ___
-3. *Cheers,* → ___
-4. *Get back to me when you can.* → ___
-
-### Task 4 — Writing (13 BE)
-
-Write a 150-word application letter for a summer job (any). Use formal register and the six structural elements.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** 3 weeks in July; breakfast / cleaning rooms / simple admin; 16+; 15 May.
-**T2.** Summer Helper, The Old Cottage Hotel; 16; helping at aunt's café (breakfast service + admin); Yours faithfully, Eli Becker.
-**T3.** *Dear Sir or Madam, I am writing to apply for the position. / I am 16. / Yours faithfully, / I look forward to hearing from you.*
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

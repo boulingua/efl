@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit05-poetry-from-the-anthology/index.md",
-    "source_body_sha256": "af9369906d90805a7230600c1d3e1a574e917afd6cded0092cea58000b3d4493",
+    "source_body_sha256": "a96cefda362252f725af4801d5f3197bf33da2c23e56415793622453bfa806fa",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit05-poetry-from-the-anthology/index.md",
-    "source_body_sha256": "af9369906d90805a7230600c1d3e1a574e917afd6cded0092cea58000b3d4493",
+    "source_body_sha256": "a96cefda362252f725af4801d5f3197bf33da2c23e56415793622453bfa806fa",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit05-poetry-from-the-anthology/index.md",
-    "source_body_sha256": "af9369906d90805a7230600c1d3e1a574e917afd6cded0092cea58000b3d4493",
+    "source_body_sha256": "a96cefda362252f725af4801d5f3197bf33da2c23e56415793622453bfa806fa",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "line.\nline-break.\nenjambment.\nstanza.\ncouplet.\nimage.\nimage cluster.\nsimile.\nmetaphor.\npersonification.\npersona.\nvoice.\ntone.\nmeter.\niambic.\nhalf-rhyme / slant rhyme.\nfull rhyme.\nalliteration.\nassonance.\ncaesura."

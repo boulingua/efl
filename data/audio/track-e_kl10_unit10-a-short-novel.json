@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit10-a-short-novel/index.md",
-    "source_body_sha256": "095ee46a61d341ed2173999dc9d48216360977b3844dda12cc04ba0719b8d7cf",
+    "source_body_sha256": "4ba57464ec9b508698c2c5ac6d9f19265ce7ed1cc9aad71caa90c9f31160f01a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit10-a-short-novel/index.md",
-    "source_body_sha256": "095ee46a61d341ed2173999dc9d48216360977b3844dda12cc04ba0719b8d7cf",
+    "source_body_sha256": "4ba57464ec9b508698c2c5ac6d9f19265ce7ed1cc9aad71caa90c9f31160f01a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

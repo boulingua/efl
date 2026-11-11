@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl08/units/unit01-identities/index.md",
-    "source_body_sha256": "006904fb3d2b8ec0fe716f83360ac690840dcef3925f00f95ad650703396dd46",
+    "source_body_sha256": "f181bcb1d796ac9976b2fcb64dbc6807a56abc61a25870eaf2afc88b5c1b7333",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl08/units/unit01-identities/index.md",
-    "source_body_sha256": "006904fb3d2b8ec0fe716f83360ac690840dcef3925f00f95ad650703396dd46",
+    "source_body_sha256": "f181bcb1d796ac9976b2fcb64dbc6807a56abc61a25870eaf2afc88b5c1b7333",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl08/units/unit01-identities/index.md",
-    "source_body_sha256": "006904fb3d2b8ec0fe716f83360ac690840dcef3925f00f95ad650703396dd46",
+    "source_body_sha256": "f181bcb1d796ac9976b2fcb64dbc6807a56abc61a25870eaf2afc88b5c1b7333",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "roots.\nheritage.\nlanguage.\nbelonging.\nhometown.\nbackground.\nidentity.\nmultilingual.\nbilingual.\nfirst language.\nmother tongue.\nsecond language.\ntradition.\ncustom.\ncommunity."

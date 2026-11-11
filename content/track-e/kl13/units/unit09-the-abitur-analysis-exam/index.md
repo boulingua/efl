@@ -58,7 +58,7 @@ Leistungsfach (advanced course): 40/60.
 
 **(No Composition / Mediation in this Unit.)**
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** Reward 3+ moves + integrated quotes + technical vocabulary + sustained close reading.
 **Analysis.** Suggested BF: 15 plan / 35 draft / 10 review. LF: 20 plan / 60 draft / 10 review.
 **Composition.** Open.

@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 1
 material_slug: "track-e_kl12_unit01-dystopias"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.2 / 3.5.3.2 Leseverstehen"
-  - "3.4.3.5 / 3.5.3.5 Schreiben"
-  - "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.2 / 3.5.3.2 Leseverstehen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - intercultural
+- reading
+- writing
+- intercultural
 aliases:
-  - /track_e_kl12/units/unit01_dystopias.html
+- /track_e_kl12/units/unit01_dystopias.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl12_unit01-dystopias.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl12_unit01-dystopias.png"
@@ -34,14 +34,47 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.PROD.overall-written-production.01
-    - B2.REC.reading-as-a-leisure-activity.01
-    - B2.SOC.sociolinguistic-appropriateness.02
-    - B2.REC.overall-reading-comprehension.01
-    - B2.INT.formal-discussion.01
+  - B2.PROD.overall-written-production.01
+  - B2.REC.reading-as-a-leisure-activity.01
+  - B2.SOC.sociolinguistic-appropriateness.02
+  - B2.REC.overall-reading-comprehension.01
+  - B2.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl12_unit01-dystopias
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl12/units/unit01-dystopias-exam
+  format: existing-assessment
+  duration_minutes: 20
+  points: 90
+  skills:
+  - reading
+  - writing
+  - intercultural
+worksheet_teacher:
+  file: /efl/materials/worksheets/track-e_kl12_unit01-dystopias-teacher.pdf
+  thumbnail: /efl/materials/worksheets/track-e_kl12_unit01-dystopias-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -73,12 +106,10 @@ course (Leistungsfach, E-LF).
 
 The class opened the dystopia unit with three short extracts, one from each of *1984* (Orwell, 1949), *Brave New World* (Huxley, 1932), and *The Handmaid's Tale* (Atwood, 1985). The shared question: *by what means does each regime control its citizens?* The class noticed quickly that the answer was different in each — surveillance, conditioning, and ritual were not interchangeable.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Mechanism scan.** With your partner, list 5 control mechanisms a dystopian regime might use. Mark each as *physical / psychological / linguistic*.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — three extracts (paraphrased)
 
 *Orwell — 1984:* The telescreen watched and broadcast simultaneously; Newspeak was designed to narrow the range of thought.
@@ -91,8 +122,7 @@ The class opened the dystopia unit with three short extracts, one from each of *
 
 *surveillance, complicity, conditioning, dehumanisation, ritualisation, language control, doublespeak, totalitarianism, theocracy, biopolitics, complicity-of-the-comfortable, disciplinary apparatus, internal exile.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: 1984 → ?, Brave New World → ?, The Handmaid's Tale → ?
@@ -109,67 +139,25 @@ The class opened the dystopia unit with three short extracts, one from each of *
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Comparative literary essay, 350 words.** Trace one motif (language, ritual, surveillance) across the three texts. Use 3 integrated quotes + 5 academic discourse markers + 1 cleft.
 
 ### Sample
 
 *The motif of *language as instrument of control* appears in all three canonical dystopias under discussion, but its function differs sharply. In Orwell's *1984*, Newspeak is engineered to *narrow the range of thought* — a deliberate, top-down linguistic project whose end-point is the impossibility of dissent. In Huxley's *Brave New World*, by contrast, the controlling language is advertising-bright: *a gramme is better than a damn*. The regime does not narrow vocabulary; it drowns dissent in cheerful, repetitive, consumer-coded phrases. Accordingly, Huxley's linguistic critique anticipates a register Orwell could not have predicted: the marketing register. In Atwood's *The Handmaid's Tale*, language control takes a third form: scripture. Greetings — *Blessed be the fruit*; *May the Lord open* — replace ordinary speech, and the substitution is itself the regime's primary instrument. It is precisely this that makes Atwood's dystopia harder for the contemporary reader to pre-emptively reject: many readers grew up inside scripture-coded speech and recognise the rhythm without recognising the politics. More specifically, what each text is doing with language is different in kind, not merely in degree. Orwell shrinks; Huxley dilutes; Atwood ritualises. In this regard, the three texts function as a triangle: each names a control mechanism the others under-name. The reader's task is not to choose the most accurate dystopia but to notice that contemporary regimes typically deploy all three at once, calibrated to local conditions. The dystopian canon is, finally, less a prediction and more a vocabulary.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify each text's central control mechanism.
 - [ ] I can use 6+ literary-dystopia vocabulary terms.
 - [ ] I can write a 350-word comparative literary essay.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (full paper, 90 BE)" icon="false" >}}
-**Time.** 4 hours including 20 minutes of breaks (220 active
-minutes). **Total.** 90 BE.\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl12/units/unit01-dystopias-exam" >}}).
 
-### Part A — Comprehension (~24 BE)
-
-Read the *1984* opening (paraphrased above) and answer:
-
-1. The telescreen does what two things simultaneously? 2. Newspeak is designed to do what? 3. The regime's primary linguistic move: ___ . 4. How does Orwell's regime differ from Huxley's? ___ .
-
-### Part B — Analysis (~18 BE)
-
-Read the *Brave New World* paraphrase and answer:
-
-1. Where does conditioning begin? 2. What is the function of soma? 3. Pleasure plays what role? 4. Compared with Orwell, what is the linguistic register?
-
-### Part C — Composition (~18 BE)
-
-**Composition prompt:** *Choose one motif. Trace it across the three dystopias in 250 words. Use 2 integrated quotes + 3 academic discourse markers + 1 cleft.*
-
-### Mediation (~30 BE)
-
-**Mediation prompt:** A German review of *The Handmaid's Tale* describes the novel as *'eine Warnung mit langer Halbwertszeit'*. Mediate a 250-word German source for an English-speaking literary magazine. (Source provided in class.)
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** 1. watches AND broadcasts; 2. narrow the range of thought; 3. shrinking vocabulary (Newspeak); 4. Orwell suppresses dissent through linguistic narrowing; Huxley dilutes dissent through pleasure.
-**Analysis.** 1. in the bottle (pre-natal conditioning); 2. dissolves discontent without argument; 3. weaponised — pleasure is the control lever; 4. advertising-bright / consumer-coded register.
-**Composition.** Open. Reward thesis + integrated quotes.
-**Mediation.** Open. Reward register, hedge preservation, cultural notes.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 90 BE)" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

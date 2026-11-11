@@ -67,7 +67,7 @@ Read the sample reflection above.
 
 Write 400 words: a year-review reflection across Klasse 11-13. Use 6 grammar points + 2 quotes from your own writing.
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. translated / formal / imitating; 2. *paying attention*; 3. *Late Bus, Cold Bench* essay; 4. study English literature alongside political science.
 **Analysis.** 1. translated, formal, imitating, paying attention; 2. *Late Bus, Cold Bench* — smallest stylistic moves do the most analytical work; 3. naming the limitation; 4. study English literature + political science.
 **Composition.** had begun / had written-would have noticed / will have written / the right amount of nervousness.

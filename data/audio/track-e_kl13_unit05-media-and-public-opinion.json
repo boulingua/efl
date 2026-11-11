@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit05-media-and-public-opinion/index.md",
-    "source_body_sha256": "45899be927188bb9e9a1147137ec2bef2342db52d347e65ebca3024565abb5f8",
+    "source_body_sha256": "65063c564debea6e99d29204498cfa73cc8f164064419b6e6b24a70b41b889ce",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit05-media-and-public-opinion/index.md",
-    "source_body_sha256": "45899be927188bb9e9a1147137ec2bef2342db52d347e65ebca3024565abb5f8",
+    "source_body_sha256": "65063c564debea6e99d29204498cfa73cc8f164064419b6e6b24a70b41b889ce",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "algorithmic amplification.\nattention rent.\nrecommendation system.\nnetwork effect.\nplatform governance.\ncontent moderation.\nattention economy.\nasymmetric visibility.\nthe visible majority.\nmicro-targeting."

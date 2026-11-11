@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit08-the-abitur-comprehension/index.md",
-    "source_body_sha256": "f1d67b938fb5762c28ba0d240ebf1a49b25f91f363de56e55f925fae0cd609a3",
+    "source_body_sha256": "5f227955e7ad1d7b2f99a51be2758b75ec3e7e1915dd026bff7e49b70389beb0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

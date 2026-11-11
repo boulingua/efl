@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 12
 material_slug: "track-e_kl08_unit12-school-magazine-issue"
 bildungsplan:
-  - "3.2.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.2.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
-  - "3.2.3.5 Schreiben"
-  - "3.2.4 Text- und Medienkompetenz"
+- "3.2.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.2.3.4 Sprechen – zusammenhängendes monologisches Sprechen"
+- "3.2.3.5 Schreiben"
+- "3.2.4 Text- und Medienkompetenz"
 skills_focus:
-  - writing
-  - speaking
-  - language_awareness
+- writing
+- speaking
+- language_awareness
 aliases:
-  - /track_e_kl08/units/unit12_school-magazine-issue.html
+- /track_e_kl08/units/unit12_school-magazine-issue.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl08_unit12-school-magazine-issue.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl08_unit12-school-magazine-issue.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A2
   implements:
-    - A2.INT.formal-discussion.01
-    - A2.LING.general-linguistic-range.02
-    - A2.PROD.creative-writing.05
-    - A2.INT.correspondence.04
-    - A2.MED.processing-text.06
+  - A2.INT.formal-discussion.01
+  - A2.LING.general-linguistic-range.02
+  - A2.PROD.creative-writing.05
+  - A2.INT.correspondence.04
+  - A2.MED.processing-text.06
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl08_unit12-school-magazine-issue
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl08/units/unit12-school-magazine-issue-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 45
+  skills:
+  - writing
+  - speaking
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl08_unit12-school-magazine-issue-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl08_unit12-school-magazine-issue-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +105,10 @@ audio_manifest: track-e_kl08_unit12-school-magazine-issue
 
 The class is producing a one-issue magazine. Six pages. Six articles. Each student is responsible for one piece (~150 words) plus one piece of feedback on a peer's article. Hawa is writing about the canteen. Jonas is writing about the lost-property cupboard, which he claims has its own ecosystem.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Pitch in 30 seconds.** With your partner, pitch your article: title + one sentence. The partner says *yes / no / not yet*.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Article structure
 
 1. **Headline** — short, sharp.
@@ -91,8 +124,7 @@ The class is producing a one-issue magazine. Six pages. Six articles. Each stude
 - Tense consistent within paragraphs?
 - One mistake-prone area checked (passive forms / past simple irregulars / relative pronouns)?
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match headline → article: *Lost-Property Cupboard Has Its Own Ecosystem* — A. lost things B. canteen C. school trip.
@@ -109,8 +141,7 @@ The class is producing a one-issue magazine. Six pages. Six articles. Each stude
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Article, 150 words.** Pick one topic from class life. Use 4 grammar points from the year (e.g. passive, relative clause, present perfect, contrast connective). Swap with a partner; edit using the checklist; rewrite.
 
 ### Sample
@@ -119,60 +150,18 @@ The class is producing a one-issue magazine. Six pages. Six articles. Each stude
 
 *The new canteen rules, which were introduced on Monday, have already changed how lunch feels. Plates are now distributed in a single line. Drinks are served from a separate counter. Although the queue is shorter, several students have complained that the system removes the pause that used to be the lunch's best part. "It's faster, but I miss the chat," said one Klasse-8 student. The headteacher has agreed to review the rules in two weeks. In the meantime, lunch is a slightly different experience. If anyone has missed the old slow line, the next two weeks are the time to say so.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can write a 150-word article with a clear structure.
 - [ ] I can use 4 grammar points in one piece.
 - [ ] I can edit a peer's article using a checklist.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau E (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 45 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl08/units/unit12-school-magazine-issue-exam" >}}).
 
-### Task 1 — Listening (10 BE)
-
-Listen twice to a short editorial meeting.
-
-> "Hawa's article on the canteen is clear, but the lead is too long. If she shortened it, the piece would feel tighter. Jonas's piece on the lost-property cupboard, which is genuinely funny, needs one more quote. Both pieces should run on the same page."
-
-1. Hawa's issue: ___ . 2. Editor's advice: ___ . 3. Jonas's strength: ___ . 4. Layout: ___ .
-
-### Task 2 — Reading (12 BE)
-
-Read the *Canteen That Almost Worked* article above. Answer.
-
-1. When did the rules start? 2. Two changes. 3. The complaint. 4. The headteacher's response.
-
-### Task 3 — Use of English (10 BE)
-
-**Mixed-grammar review.**
-
-1. The new rules __________ (introduce / passive) on Monday.
-2. The student __________ (complain) said it removed the pause.
-3. If the system __________ (be) different, lunch __________ (feel) better.
-4. The headteacher __________ (already / agree) to review the rules.
-
-### Task 4 — Writing (13 BE)
-
-Write a 150-word class-magazine article on a topic of your choice. Use 4 grammar points from the year.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** lead is too long, shorten it (would feel tighter), genuinely funny, on the same page.
-**T2.** Monday; plates in single line, drinks from separate counter; the system removes the pause that was lunch's best part; agreed to review in two weeks.
-**T3.** were introduced / who complained / were / would feel / has already agreed.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 45)" collapse="true" >}}
-| 42–45 | 1 | 36–41 | 2 | 30–35 | 3 |
-| 22–29 | 4 | 13–21 | 5 |  0–12 | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

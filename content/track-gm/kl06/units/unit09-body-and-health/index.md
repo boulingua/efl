@@ -9,16 +9,16 @@ track: "gm"
 unit_nr: 9
 material_slug: "track-gm_kl06_unit09-body-and-health"
 bildungsplan:
-  - "3.1.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.1.3.1 Hör-/Hörsehverstehen"
-  - "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
-  - "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
+- "3.1.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.1.3.1 Hör-/Hörsehverstehen"
+- "3.1.3.3 Sprechen – an Gesprächen teilnehmen"
+- "3.1.3.7 Verfügen über sprachliche Mittel – Wortschatz"
 skills_focus:
-  - listening
-  - speaking
-  - language_awareness
+- listening
+- speaking
+- language_awareness
 aliases:
-  - /track_gm_kl06/units/unit09_body-and-health.html
+- /track_gm_kl06/units/unit09_body-and-health.html
 presentation:
   file: "/efl/materials/presentations/track-gm_kl06_unit09-body-and-health.pdf"
   thumbnail: "/efl/materials/presentations/track-gm_kl06_unit09-body-and-health.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: A1
   implements:
-    - A1.INT.interviewing-and-being-interviewed.02
-    - A1.LING.phonological-control.01
-    - A1.PROD.creative-writing.01
-    - A1.REC.understanding-announcements-and-instructions.02
-    - A1.MED.facilitating-collaborative-interaction-with-peers.01
+  - A1.INT.interviewing-and-being-interviewed.02
+  - A1.LING.phonological-control.01
+  - A1.PROD.creative-writing.01
+  - A1.REC.understanding-announcements-and-instructions.02
+  - A1.MED.facilitating-collaborative-interaction-with-peers.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-gm_kl06_unit09-body-and-health
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-gm/kl06/units/unit09-body-and-health-exam
+  format: existing-assessment
+  duration_minutes: 45
+  points: 30
+  skills:
+  - listening
+  - speaking
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-gm_kl06_unit09-body-and-health-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-gm_kl06_unit09-body-and-health-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -70,12 +105,10 @@ audio_manifest: track-gm_kl06_unit09-body-and-health
 
 Sam wakes up with a sore throat. He drinks tea, eats honey, refuses to admit defeat, and goes to school. By the second period, he has a strong opinion about the value of staying home. By the fourth period, his classmates have made it clear that they share his opinion. Strongly.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Body parts mime.** Teacher says a body part; class touches it as fast as possible. *head, ear, shoulder, knee, ankle, elbow, eye, throat, stomach.*
 
-## 2. Input
-
+## 2. Input {#input}
 ### Vocabulary — body and illness
 
 *Body:* head, hair, eye, ear, nose, mouth, tongue, neck, shoulder, arm, elbow, hand, finger, chest, stomach, back, leg, knee, ankle, foot, toe.
@@ -95,8 +128,7 @@ Sam wakes up with a sore throat. He drinks tea, eats honey, refuses to admit def
 - *Take this medicine three times a day.*
 - *Stay in bed.* / *Drink lots of water.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau G
 
 1. Match body part to image (slide).
@@ -113,8 +145,7 @@ Sam wakes up with a sore throat. He drinks tea, eats honey, refuses to admit def
 **M.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Doctor-patient role-play.** In pairs, two minutes. Patient describes symptoms (3+ details). Doctor asks two questions and gives one piece of advice. Swap.
 
 ### Sample
@@ -125,62 +156,18 @@ Sam wakes up with a sore throat. He drinks tea, eats honey, refuses to admit def
 *— Since yesterday morning.*
 *— Take this medicine three times a day. Drink lots of water and stay home tomorrow.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can name 12 body parts and 6 illnesses.
 - [ ] I can describe symptoms in 3 sentences.
 - [ ] I can run a 6-line doctor-patient dialogue.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="class test (\"Klassenarbeit\") — Niveau M (45 minutes)" icon="false" >}}
-**Time.** 45 minutes. **Total.** 30 points.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-gm/kl06/units/unit09-body-and-health-exam" >}}).
 
-### Task 1 — Listening (8 BE)
-
-Listen twice.
-
-> "Sam doesn't feel well. He has got a sore throat and a slight fever. The doctor tells him to drink warm tea, take some medicine, and stay in bed for two days."
-
-1. Symptom 1: ___ . 2. Symptom 2: ___ . 3. Drink: ___ . 4. Days in bed: ___ .
-
-### Task 2 — Reading (8 BE)
-
-Read.
-
-> "Lina has a headache and feels dizzy. She thinks it is because she didn't sleep enough last night. Her mother tells her to lie down for an hour and drink some water."
-
-1. Two symptoms: ___ . 2. Reason: ___ . 3. Mother's advice: ___ . 4. How long to lie down: ___ .
-
-### Task 3 — Use of English (8 BE)
-
-**Fill in *have got a / I'm*.**
-
-1. I __________ a sore throat.
-2. I __________ tired.
-3. He __________ a headache.
-4. We __________ hungry.
-
-### Task 4 — Writing (6 BE)
-
-Write a 6-line doctor-patient dialogue.
-
-{{< callout type="tip" title="Answer key" collapse="true" >}}
-**T1.** sore throat, slight fever, warm tea, 2.
-**T2.** headache / dizzy, didn't sleep enough, lie down + drink water, one hour.
-**T3.** 1. have got, 2. am, 3. has got, 4. are.
-**T4.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="Notenschlüssel (von 30)" collapse="true" >}}
-| 28–30 | 1 | 24–27 | 2 | 20–23 | 3 |
-| 15–19 | 4 |  9–14 | 5 |  0–8  | 6 |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

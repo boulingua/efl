@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit11-klausur-comprehension-analysis/index.md",
-    "source_body_sha256": "1f5ad0afe03811385236b5fbfd12c0d43da76d3dfbaeb97170b315f11d5459e4",
+    "source_body_sha256": "9d2def2ab6e324bba4528d7a5932be0d2bb1e411571d6d4878c6cd0c2841dea1",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit04-school-day/index.md",
-    "source_body_sha256": "19c760fff0dd84fc9fc09dab8b5a8805fe9969853ae7487a6ea3240e40e1bc81",
+    "source_body_sha256": "21dd02def3125b3e1fc1eae5baf9d6400b0ba1fff1401a27255fd9b11e51afac",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit04-school-day/index.md",
-    "source_body_sha256": "19c760fff0dd84fc9fc09dab8b5a8805fe9969853ae7487a6ea3240e40e1bc81",
+    "source_body_sha256": "21dd02def3125b3e1fc1eae5baf9d6400b0ba1fff1401a27255fd9b11e51afac",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "English.\nGerman.\nFrench.\nMaths.\nBiology.\nPhysics.\nChemistry.\nHistory.\nGeography.\nMusic.\nArt.\nPE / Sport.\nReligion.\nEthics."

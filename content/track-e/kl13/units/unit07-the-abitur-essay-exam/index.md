@@ -58,7 +58,7 @@ Leistungsfach (advanced course): 40/60.
 
 **(No Mediation in this Unit — dedicated Mediation Unit was Unit 6.)**
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** Reward thesis + integrated quote + 4 markers + clear structure + register match.
 **Analysis.** Reward 15 plan / 65 draft / 10 review (or similar) + Sprache check.
 **Composition.** Open.

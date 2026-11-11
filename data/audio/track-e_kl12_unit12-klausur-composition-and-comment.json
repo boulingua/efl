@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit12-klausur-composition-and-comment/index.md",
-    "source_body_sha256": "67f892935987578d3280beb979390760d7dd8ff4534402df723e5f609d782a5e",
+    "source_body_sha256": "dfae587213cb773fb140932dcd2e31c4fc9e491241d15f6893c87b6a40c65131",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

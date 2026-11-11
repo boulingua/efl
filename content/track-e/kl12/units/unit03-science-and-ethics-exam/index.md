@@ -56,7 +56,7 @@ Read the *Three Ethics Frames* paraphrase above.
 
 **Mediation prompt:** A 300-word German position paper from a Bioethik-Kommission. Mediate for an English-speaking science-policy reader. (Source provided in class.)
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. best outcomes incl. risks / time horizon; 2. required actions regardless of consequence (consent / dignity); 3. what kind of researcher / institution; 4. almost always combine all three.
 **Analysis.** 1. *what produces the best outcomes?*; 2. informed consent / dignity / irreversible-harm thresholds; 3. *what kind of researcher / institution do we want to be?*; 4. pretending it is purely consequentialist is itself a philosophical position.
 **Composition.** Open. Reward integration of all three frames + at least one specific case detail.

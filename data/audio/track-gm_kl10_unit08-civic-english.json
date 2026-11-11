@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit08-civic-english/index.md",
-    "source_body_sha256": "66191012fe33d20071c73086e45dab02b8c6a2bd41e11aa01eade667d0eda7a1",
+    "source_body_sha256": "79de9251030039446c0a943fb78a947adf4e261a5b73e9d6ad7beda800da9cba",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit08-civic-english/index.md",
-    "source_body_sha256": "66191012fe33d20071c73086e45dab02b8c6a2bd41e11aa01eade667d0eda7a1",
+    "source_body_sha256": "79de9251030039446c0a943fb78a947adf4e261a5b73e9d6ad7beda800da9cba",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl10/units/unit08-civic-english/index.md",
-    "source_body_sha256": "66191012fe33d20071c73086e45dab02b8c6a2bd41e11aa01eade667d0eda7a1",
+    "source_body_sha256": "79de9251030039446c0a943fb78a947adf4e261a5b73e9d6ad7beda800da9cba",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "right.\nduty.\nobligation.\ncitizen.\nresident.\nconstitution.\nconvention.\ntreaty.\nratify.\nenforce.\nentitled to.\nrequired to.\nexpected to.\nconsult.\nrepresent.\nadvocate.\npetition.\ndue process."

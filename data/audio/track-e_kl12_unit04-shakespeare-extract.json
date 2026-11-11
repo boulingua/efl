@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit04-shakespeare-extract/index.md",
-    "source_body_sha256": "e5075accd8db91f0dc707da26547c3632bff688db563ce941850de773f591e79",
+    "source_body_sha256": "2d9f0b9e3ebb5447406c15b8922ee4031238d340cad1837baf779854354b5493",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit04-shakespeare-extract/index.md",
-    "source_body_sha256": "e5075accd8db91f0dc707da26547c3632bff688db563ce941850de773f591e79",
+    "source_body_sha256": "2d9f0b9e3ebb5447406c15b8922ee4031238d340cad1837baf779854354b5493",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit04-shakespeare-extract/index.md",
-    "source_body_sha256": "e5075accd8db91f0dc707da26547c3632bff688db563ce941850de773f591e79",
+    "source_body_sha256": "2d9f0b9e3ebb5447406c15b8922ee4031238d340cad1837baf779854354b5493",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "syntactic inversion.\nperiphrasis.\nmetonymy.\nsynecdoche.\nconceit.\nvolta (the turn).\niambic pentameter.\nShakespearean (English) sonnet form: 3 quatrains + couplet (abab cdcd efef gg)."

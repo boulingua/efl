@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit09-body-and-health/index.md",
-    "source_body_sha256": "84d020d072ee826537ae1876326a44537253dd6725fbd54ffb1e2e242f4b9cc5",
+    "source_body_sha256": "605cac88803779d55a5da7980e09d3792975fcbf12583c0915500a36a1759073",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

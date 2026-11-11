@@ -23,9 +23,7 @@ slug:
 
 script_tier: core
 target_language: en             # what {{< tl >}} tags its runs with
-chrome_language: de             # German instructions around English content —
-                                # two different languages on every page, which
-                                # is why these are two fields.
+chrome_language: en             # interface language declared in hugo.toml
 
 band_default: II
 milestone: M0                   # no page carries implements yet; A2 warns

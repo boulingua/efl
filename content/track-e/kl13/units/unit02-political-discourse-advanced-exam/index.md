@@ -64,7 +64,7 @@ Read the three PMQs paraphrases above.
 
 **Mediation prompt:** A 250-word German Bundestag-Rede excerpt with documented dog-whistle vocabulary. Mediate the rhetorical stance for an English-speaking political-rhetoric researcher. (Source provided in class.)
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. *not whether but how*; 2. social housing → cost-of-living; 3. *those who play the system*; 4. 2018.
 **Analysis.** 1. shifts to broader cost-of-living frame; 2. loaded antithesis (*not whether but how*); 3. ad-hominem on questioner's constituency record; 4. all three answer technically without doing what the question asked.
 **Composition.** Open.

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit02-the-american-dream/index.md",
-    "source_body_sha256": "85ec242c1b8597acdbaa96895f40ec914dfbdb2d32345b1f1e797391e66756e8",
+    "source_body_sha256": "c35f6d8a00e6197aa00d8ce5ecd55482611157ced61471c8df52d4f00cd35526",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit02-the-american-dream/index.md",
-    "source_body_sha256": "85ec242c1b8597acdbaa96895f40ec914dfbdb2d32345b1f1e797391e66756e8",
+    "source_body_sha256": "c35f6d8a00e6197aa00d8ce5ecd55482611157ced61471c8df52d4f00cd35526",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit02-the-american-dream/index.md",
-    "source_body_sha256": "85ec242c1b8597acdbaa96895f40ec914dfbdb2d32345b1f1e797391e66756e8",
+    "source_body_sha256": "c35f6d8a00e6197aa00d8ce5ecd55482611157ced61471c8df52d4f00cd35526",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -55,7 +55,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl11/units/unit02-the-american-dream/index.md",
-    "source_body_sha256": "85ec242c1b8597acdbaa96895f40ec914dfbdb2d32345b1f1e797391e66756e8",
+    "source_body_sha256": "c35f6d8a00e6197aa00d8ce5ecd55482611157ced61471c8df52d4f00cd35526",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

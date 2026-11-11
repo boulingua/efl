@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit05-daily-routines/index.md",
-    "source_body_sha256": "3f9cd3dec39ab7b24f89a5737d309dd28ec9c52df44e2408e89b2636729c69f6",
+    "source_body_sha256": "04a8c8489df9c1e26a382e115d2898a356c8daa60e5ade485d9b50919ed0f1e0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl06/units/unit05-daily-routines/index.md",
-    "source_body_sha256": "3f9cd3dec39ab7b24f89a5737d309dd28ec9c52df44e2408e89b2636729c69f6",
+    "source_body_sha256": "04a8c8489df9c1e26a382e115d2898a356c8daa60e5ade485d9b50919ed0f1e0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "get up.\nwake up.\nbrush my teeth.\nget dressed.\nhave breakfast.\nleave home.\ntake the bus.\nstart school.\nhave lunch.\nfinish school.\ndo homework.\nhave dinner.\nwatch TV.\ngo to bed."

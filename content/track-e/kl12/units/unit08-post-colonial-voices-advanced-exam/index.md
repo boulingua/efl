@@ -56,7 +56,7 @@ Read the three extracts above.
 
 **Mediation prompt:** A 250-word German post-colonial-studies introduction (Einführungsband). Mediate for an English-speaking literature student. (Source provided in class.)
 
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
+{{< callout role="key" type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
 **Comprehension.** 1. on a London library card; 2. postcolonial artefact (two languages, two empires, one borrower); 3. multicultural cheer / synthesis; 4. two empires, one borrower, no resolution.
 **Analysis.** 1. two surnames on London library card; 2. educated *I* + home-language *I* (double consciousness); 3. ironised *we* refusing celebratory national *we*; 4. principled refusal of synthesis / keeping the seams visible.
 **Composition.** Open.

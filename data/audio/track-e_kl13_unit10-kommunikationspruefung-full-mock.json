@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl13/units/unit10-kommunikationspruefung-full-mock/index.md",
-    "source_body_sha256": "d1b553b71ca8b63dea5d01f9143bd26f70b78124b74933891516851d904f046c",
+    "source_body_sha256": "624051f30182e82838c6f3bfc00a3c66edfd4a1eec534ee7d85ea7b7e8924fba",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

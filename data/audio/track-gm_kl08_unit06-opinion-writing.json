@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl08/units/unit06-opinion-writing/index.md",
-    "source_body_sha256": "e24eec15a29316b5420eaf07e62aa8c5720209c2bcbcf43be5a14f25a1a247e0",
+    "source_body_sha256": "b221c1c2a1057989845cea7154bbaa5865cda6cad10548e92ab7dfedb28745c0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl08/units/unit06-opinion-writing/index.md",
-    "source_body_sha256": "e24eec15a29316b5420eaf07e62aa8c5720209c2bcbcf43be5a14f25a1a247e0",
+    "source_body_sha256": "b221c1c2a1057989845cea7154bbaa5865cda6cad10548e92ab7dfedb28745c0",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

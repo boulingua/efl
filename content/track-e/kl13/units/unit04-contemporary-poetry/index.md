@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 4
 material_slug: "track-e_kl13_unit04-contemporary-poetry"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.2 / 3.5.3.2 Leseverstehen"
-  - "3.4.3.5 / 3.5.3.5 Schreiben"
-  - "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.2 / 3.5.3.2 Leseverstehen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl13/units/unit04_contemporary-poetry.html
+- /track_e_kl13/units/unit04_contemporary-poetry.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl13_unit04-contemporary-poetry.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl13_unit04-contemporary-poetry.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.LING.general-linguistic-range.01
-    - B2.PROD.monitoring-and-repair.01
-    - B2.REC.reading-as-a-leisure-activity.01
-    - B2.REC.overall-reading-comprehension.01
-    - B2.MED.overall-mediation.01
+  - B2.LING.general-linguistic-range.01
+  - B2.PROD.monitoring-and-repair.01
+  - B2.REC.reading-as-a-leisure-activity.01
+  - B2.REC.overall-reading-comprehension.01
+  - B2.MED.overall-mediation.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl13_unit04-contemporary-poetry
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl13/units/unit04-contemporary-poetry-exam
+  format: existing-assessment
+  duration_minutes:
+  points:
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl13_unit04-contemporary-poetry-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl13_unit04-contemporary-poetry-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -74,12 +109,10 @@ course (Leistungsfach, E-LF).
 
 Klasse 13 returns to poetry with three contemporary lyric forms. Mr. Yilmaz set the question: *what is contemporary poetry doing that 19th-century lyric could not do?* The class spent the lesson noticing the document poem, the fragmentary lyric, and the polyvocal lyric — three forms that share a refusal of the unified Romantic *I*.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Form scan.** With your partner, list 3 features of contemporary lyric (post-2000) that you have noticed. Mark each as *formal / vocal / political*.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — three poetic moves (paraphrased)
 
 *The fragmentary lyric* refuses syntactic completeness; lines break off mid-thought; the white space is part of the meaning.
@@ -92,8 +125,7 @@ Klasse 13 returns to poetry with three contemporary lyric forms. Mr. Yilmaz set 
 
 *document poem (or documentary poetics), fragmentary lyric, prose poem, polyvocal lyric, found poem, ekphrastic poem, the broken line, the white space, polyphony, ironised *I*, elliptical lyric.*
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Match: document poem → uses found material; polyvocal → multiple speakers; fragmentary lyric → broken syntax + white space.
@@ -110,75 +142,25 @@ Klasse 13 returns to poetry with three contemporary lyric forms. Mr. Yilmaz set 
 **Productive.** 3. Open.
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Poetic-analysis essay, 400 words.** Trace the *ironised I* across the three forms. Use 4 contemporary-poetic terms + 6 academic discourse markers + 1 cleft + 1 quote per poem.
 
 ### Sample
 
 *The most useful single move for reading contemporary lyric is the *ironised I* — the speaker who refuses to claim the unified Romantic position and whose *I* is structurally compromised. In the fragmentary lyric, the *I* is interrupted by white space: a line breaks mid-thought, and the silence that follows is part of the speaker. *"What I wanted to say / was — "* leaves the verb open. Accordingly, the speaker becomes a person interrupted, not a person speaking. By contrast, the document poem ironises the *I* by refusing it almost entirely: court transcripts, treaty texts, and government documents replace the lyric voice. *"The party of the first part hereby agrees — "* is, in Layli Long Soldier-style work, both a quote and a confrontation. The reader is forced to read the *I*'s absence as itself a poetic move. More specifically, the polyvocal lyric ironises the *I* by multiplying it: two or more voices share the poem without quote marks, and the boundary between speakers is the formal site of meaning. *"I said. She said. We said."* — the rhythm of pronoun shift performs the polyphony. It is precisely this shared refusal — fragmentary, document-based, or polyvocal — that distinguishes post-2000 lyric from its 19th-century inheritance. In this regard, what looks like formal experimentation is structural critique: the unified Romantic *I* is treated as one historical option among others, not as the natural form of lyric voice. Caution is warranted; not every fragmented line is a fragmentary lyric. The form is a stance, not a decoration. The reader's task is to register the stance and to ask, in each case, *what would the Romantic version of this poem have lost?*. The answer, more often than not, is precisely the thing the contemporary form is preserving.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can identify form, voice, and one figurative move in three contemporary lyric forms.
 - [ ] I can use 6+ contemporary-poetic terms.
 - [ ] I can write a 400-word poetic-analysis essay tracing one move across three poems.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (Abitur-grade)" icon="false" >}}
-**This Unit's exam example follows the Abitur task pattern named
-in the Unit. Some Units focus on a single Abitur-task type
-(Comprehension / Analysis / Composition / Mediation /
-Kommunikationsprüfung); the full 90-BE Klausur is rehearsed in
-Klasse 12 Units 11-12 and continues in Klasse 13 Units 7-9.**\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl13/units/unit04-contemporary-poetry-exam" >}}).
 
-### Comprehension
-
-Read twice.
-
-> "The fragmentary lyric refuses syntactic completeness; lines break off mid-thought; the white space is part of the meaning. The document poem uses found material — court transcripts, treaties — and the *I* is ironised. The polyvocal lyric allows multiple speakers without quote marks."
-
-1. Fragmentary lyric: ___ . 2. Document poem: ___ . 3. Polyvocal lyric: ___ . 4. Shared refusal: ___ .
-
-### Analysis
-
-Read the three forms paraphrased above.
-
-1. The role of white space: ___ . 2. The documentary source: ___ . 3. The polyvocal boundary: ___ . 4. The ironised *I*: ___ .
-
-### Composition / Mediation / Reflection
-
-**Composition prompt:** *Apply the *ironised I* to one short poem (provided in class) in 350 words. Use 3 contemporary-poetic terms + 4 markers.*
-
-### Additional task
-
-**Mediation prompt:** A 200-word German literary-essay paragraph on contemporary Lyrik. Mediate for an English-speaking poetry magazine. (Source provided in class.)
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** 1. broken syntax + white space as meaning; 2. uses found material (court, government, treaty); 3. multiple speakers without quote marks; 4. refusal of the unified Romantic *I*.
-**Analysis.** 1. white space as part of speaker's silence; 2. archival material confronts the lyric *I*; 3. boundary between speakers is the formal site of meaning; 4. structurally compromised *I*.
-**Composition.** Open.
-**Mediation.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) — Abitur-grade Klausuren" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-
-(Single-section Klausuren in this year scale to the proportional
-BE-weight of the section in the full Klausur.)
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

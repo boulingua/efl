@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl08/units/unit05-digital-friendships/index.md",
-    "source_body_sha256": "3fd3f3da1c557bf08ae61f1512d96142cc6918974226d717bd98fb1a331c2548",
+    "source_body_sha256": "213c01b343e875c9f920863432db748166028c37074a81a027bcc26f3a86fd2a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl08/units/unit05-digital-friendships/index.md",
-    "source_body_sha256": "3fd3f3da1c557bf08ae61f1512d96142cc6918974226d717bd98fb1a331c2548",
+    "source_body_sha256": "213c01b343e875c9f920863432db748166028c37074a81a027bcc26f3a86fd2a",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl09/units/unit07-mediation-news-article/index.md",
-    "source_body_sha256": "a3b983b9e1aea32dd1a818a8b7233cf47c53a746a09d0316a09549484e3317d8",
+    "source_body_sha256": "e61bb31f857fc164d268b054b25683f9242fb59df2d3603489fb7b7affd9cb63",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [
       "Source — *German news article (excerpt)*"

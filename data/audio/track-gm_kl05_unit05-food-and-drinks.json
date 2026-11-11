@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-gm/kl05/units/unit05-food-and-drinks/index.md",
-    "source_body_sha256": "425ccb264973c7678b6f583bfb75d84db5ee32dcad2307f7bebdeda5e17c88ab",
+    "source_body_sha256": "32fea4d63b8201c851af8b99a2f6228b6da9e195e92122f54e30eb86f57f0cc7",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

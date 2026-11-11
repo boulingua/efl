@@ -9,16 +9,16 @@ track: "e"
 unit_nr: 4
 material_slug: "track-e_kl12_unit04-shakespeare-extract"
 bildungsplan:
-  - "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
-  - "3.4.3.2 / 3.5.3.2 Leseverstehen"
-  - "3.4.3.5 / 3.5.3.5 Schreiben"
-  - "3.4.4 / 3.5.4 Text- und Medienkompetenz"
+- "3.4.1 / 3.5.1 Soziokulturelles Orientierungswissen / Themen"
+- "3.4.3.2 / 3.5.3.2 Leseverstehen"
+- "3.4.3.5 / 3.5.3.5 Schreiben"
+- "3.4.4 / 3.5.4 Text- und Medienkompetenz"
 skills_focus:
-  - reading
-  - writing
-  - language_awareness
+- reading
+- writing
+- language_awareness
 aliases:
-  - /track_e_kl12/units/unit04_shakespeare-extract.html
+- /track_e_kl12/units/unit04_shakespeare-extract.html
 presentation:
   file: "/efl/materials/presentations/track-e_kl12_unit04-shakespeare-extract.pdf"
   thumbnail: "/efl/materials/presentations/track-e_kl12_unit04-shakespeare-extract.png"
@@ -34,14 +34,49 @@ curriculum:
   framework: boulingua-curriculum
   level: B2
   implements:
-    - B2.LING.phonological-control.03
-    - B2.PROD.reports-and-essays.01
-    - B2.REC.overall-oral-comprehension.03
-    - B2.REC.overall-reading-comprehension.01
-    - B2.INT.formal-discussion.01
+  - B2.LING.phonological-control.03
+  - B2.PROD.reports-and-essays.01
+  - B2.REC.overall-oral-comprehension.03
+  - B2.REC.overall-reading-comprehension.01
+  - B2.INT.formal-discussion.01
   implements_basis: proposed
   level_basis: derived
 audio_manifest: track-e_kl12_unit04-shakespeare-extract
+steps:
+- activate
+- input
+- practise
+- apply
+- reflect
+anchor_aliases:
+  activate:
+  - 1-activate
+  input:
+  - 2-input
+  practise:
+  - 3-practise
+  apply:
+  - 4-produce
+  reflect:
+  - 5-reflect
+  teacher-notes:
+  - downloads
+  exam:
+  - exam-example
+exam:
+  page: track-e/kl12/units/unit04-shakespeare-extract-exam
+  format: existing-assessment
+  duration_minutes: 20
+  points: 90
+  skills:
+  - reading
+  - writing
+  - language_awareness
+worksheet_teacher:
+  file:
+    /efl/materials/worksheets/track-e_kl12_unit04-shakespeare-extract-teacher.pdf
+  thumbnail:
+    /efl/materials/worksheets/track-e_kl12_unit04-shakespeare-extract-teacher.png
 ---
 
 {{< callout type="note" >}}
@@ -73,12 +108,10 @@ course (Leistungsfach, E-LF).
 
 The class read Sonnet 73 (*That time of year thou mayst in me behold*). Mr. Yilmaz asked: *what does the speaker want from the addressee?* The class argued for forty minutes. Maja said: *for the love to be more, not less, because the time is shorter*. The class agreed.
 
-## 1. Activate
-
+## 1. Activate {#activate}
 **Inversion scan.** Slide shows a single line: *"That time of year thou mayst in me behold"*. With your partner, rewrite in modern English word order. Note what is lost.
 
-## 2. Input
-
+## 2. Input {#input}
 ### Reading — Sonnet 73, ll. 1-4
 
 *That time of year thou mayst in me behold,
@@ -97,8 +130,7 @@ Bare ruined choirs, where late the sweet birds sang.*
 3. **One figurative move** — pick the most loaded metaphor / image / inversion.
 4. **Volta** — where does the poem turn?
 
-## 3. Practise
-
+## 3. Practise {#practise}
 ### Niveau E — controlled
 
 1. Modern word-order: *That time of year thou mayst in me behold* → ___ .
@@ -115,69 +147,25 @@ Bare ruined choirs, where late the sweet birds sang.*
 **Productive.** 3. Form: Shakespearean sonnet, opening quatrain, iambic pentameter. Voice: aging speaker addressing a younger beloved. Figurative move: the speaker as *late autumn tree* — *bare ruined choirs* (synecdoche / metonymy: choir-stalls of a ruined abbey for the boughs themselves). Volta: at line 13 (*This thou perceivest, which makes thy love more strong*).
 {{< /callout >}}
 
-## 4. Produce
-
+## 4. Produce {#apply}
 **Literary essay, 400 words.** Sustained close reading of Sonnet 73. Use 4 integrated quotes + 6 academic discourse markers + 1 cleft + literary-analysis vocabulary throughout.
 
 ### Sample
 
 *Sonnet 73 is, on the surface, a poem about an ageing speaker watching late autumn from inside his own body. Beneath the surface, it is a sustained argument that the addressee should love the speaker *more*, not less, *because* the time is shorter. The argument is built across three quatrains, each offering a more compressed image of diminution. The first quatrain — *"that time of year thou mayst in me behold"* — opens with syntactic inversion that places the season-as-mirror image first. The yellowed leaves are not merely few; they are *"yellow leaves, or none, or few"*, a tightening rhythm that enacts the loss it names. Accordingly, the line *"bare ruined choirs, where late the sweet birds sang"* is the quatrain's most loaded image: the choir-stalls of a ruined abbey stand, by metonymy, for the boughs themselves, but the ruination also recalls the dissolution of the monasteries — historical violence sitting inside an image of personal mortality. By contrast, the second quatrain narrows to twilight (a single day's loss); the third narrows further to the dying fire (an hour's). It is precisely this acceleration that earns the volta in the final couplet: *"This thou perceivest, which makes thy love more strong, / To love that well which thou must leave ere long."* In this regard, the poem's thesis is structural rather than ornamental: love is *intensified* by an honest reading of time. More specifically, the couplet refuses sentimentality. The speaker does not ask the addressee for grief; he asks for *recognition* of what the foreshortened time makes of the love itself. Sonnet 73 is, finally, the argumentative form (Shakespearean sonnet: 3 quatrains + couplet) doing what only this form can — building a case across three increasingly tight images and resolving it in two perfectly weighted lines.*
 
-## 5. Reflect
-
+## 5. Reflect {#reflect}
 - [ ] I can close-read Sonnet 73 with form, voice, and figurative move.
 - [ ] I can engage Early Modern English syntactic inversion.
 - [ ] I can write a 400-word sustained close reading.
 
 **One thing in your notebook:** *Write one sentence using something you learned in this Unit.*
 
-## Exam example
+## Exam example {#exam}
 
-{{< callout type="warning" title="Klausur (assessment) — Niveau E (full paper, 90 BE)" icon="false" >}}
-**Time.** 4 hours including 20 minutes of breaks (220 active
-minutes). **Total.** 90 BE.\
-**Inhalt / Sprache split.** Basisfach (basic course): 50/50.
-Leistungsfach (advanced course): 40/60.
-{{< /callout >}}
+[Open the separate assessment]({{< relref "track-e/kl12/units/unit04-shakespeare-extract-exam" >}}).
 
-### Part A — Comprehension (~24 BE)
-
-Read twice.
-
-> "That time of year thou mayst in me behold, / When yellow leaves, or none, or few, do hang / Upon those boughs which shake against the cold, / Bare ruined choirs, where late the sweet birds sang."
-
-1. Modern word order of l. 1: ___ . 2. The tightening rhythm of l. 2: ___ . 3. Image l. 4: ___ . 4. What the synecdoche is doing: ___ .
-
-### Part B — Analysis (~18 BE)
-
-Read the four lines above.
-
-1. Form: ___ . 2. Speaker: ___ . 3. Figurative move: ___ . 4. Implied volta location: ___ .
-
-### Part C — Composition (~18 BE)
-
-**Composition prompt:** *Close-read Sonnet 73 in 300 words. Use 3 integrated quotes + 4 markers.*
-
-### Mediation (~30 BE)
-
-**Mediation prompt:** A 200-word German Shakespeare translation note (Schlegel-Tieck). Mediate the translator's argument for an English-speaking literary reader. (Source provided in class.)
-
-{{< callout type="tip" title="Expected-answer profile (Erwartungshorizont) — sample" collapse="true" >}}
-**Comprehension.** 1. *You may behold that time of year in me.*; 2. *yellow leaves, or none, or few* — three options shrinking; 3. *bare ruined choirs* (= boughs as choir-stalls); 4. linking personal mortality to historical ruination.
-**Analysis.** Shakespearean sonnet, opening quatrain, iambic pentameter; aging speaker to younger beloved; speaker-as-late-autumn-tree (metonymy with synecdoche); line 13 (couplet).
-**Composition.** Open.
-**Mediation.** Open.
-{{< /callout >}}
-
-{{< callout type="tip" title="grading scale (Notenschlüssel) (von 90 BE)" collapse="true" >}}
-| 86–90 | 1+ | 81–85 | 1   | 76–80 | 1- |
-| 71–75 | 2+ | 66–70 | 2   | 61–65 | 2- |
-| 56–60 | 3+ | 51–55 | 3   | 46–50 | 3- |
-| 41–45 | 4+ | 36–40 | 4   | 30–35 | 4- |
-| 22–29 | 5  |  0–21 | 6   |       |    |
-{{< /callout >}}
-
-## Downloads
+## Teacher notes {#teacher-notes}
 
 {{< downloads >}}
 

@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit08-post-colonial-voices-advanced/index.md",
-    "source_body_sha256": "6d0bbf9156dac028f434ea5a1a4d743cc4bfaa21640a7f017a677b6f9e22ccea",
+    "source_body_sha256": "7ffca4b583f5c7b15b459a7e3ebe138324e4fe157517f54212660e1e3c0cf9f6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl12/units/unit08-post-colonial-voices-advanced/index.md",
-    "source_body_sha256": "6d0bbf9156dac028f434ea5a1a4d743cc4bfaa21640a7f017a677b6f9e22ccea",
+    "source_body_sha256": "7ffca4b583f5c7b15b459a7e3ebe138324e4fe157517f54212660e1e3c0cf9f6",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "hybridity (Bhabha).\nmimicry (Bhabha).\nthe subaltern (Spivak).\ndouble consciousness (Du Bois).\nworld-Anglophone.\ndecolonisation.\nthe imperial archive.\ncode-switching.\nsituated knowledge.\nepistemic violence.\ncontrapuntal reading (Said)."

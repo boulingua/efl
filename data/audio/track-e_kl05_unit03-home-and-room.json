@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl05/units/unit03-home-and-room/index.md",
-    "source_body_sha256": "974fdd9378975cd34c135966dc9b72b3598921c34bb678d2dd2adf94636859e7",
+    "source_body_sha256": "7eb135e1798c0293dde62616a466de621497bc11da9791330dc0e51a3bfee77b",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   }

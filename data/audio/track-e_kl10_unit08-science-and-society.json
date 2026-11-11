@@ -10,7 +10,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit08-science-and-society/index.md",
-    "source_body_sha256": "e9e4dd6c9a5265dedb012579c493c937df33d9f2ca66a830425a9e3dd973d80a",
+    "source_body_sha256": "c0ec472e71202be0fd2390df00e829fe60589e6c3b3801d60aa7f43932f84d40",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -25,7 +25,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit08-science-and-society/index.md",
-    "source_body_sha256": "e9e4dd6c9a5265dedb012579c493c937df33d9f2ca66a830425a9e3dd973d80a",
+    "source_body_sha256": "c0ec472e71202be0fd2390df00e829fe60589e6c3b3801d60aa7f43932f84d40",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": []
   },
@@ -40,7 +40,7 @@
     "speaker_id": 0,
     "synthesis_backend": "piper-python/1thread",
     "source_path": "content/track-e/kl10/units/unit08-science-and-society/index.md",
-    "source_body_sha256": "e9e4dd6c9a5265dedb012579c493c937df33d9f2ca66a830425a9e3dd973d80a",
+    "source_body_sha256": "c0ec472e71202be0fd2390df00e829fe60589e6c3b3801d60aa7f43932f84d40",
     "extraction_policy": "learner-input-v3",
     "withheld_foreign_sections": [],
     "tts": "hypothesis.\nvariable.\ncontrol group.\nsample size.\npeer review.\nreplication.\nstatistical significance.\nconfidence interval.\nlimitation.\nscaling.\ngeneralisability."
